@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import InteractiveMCQ from '../components/InteractiveMCQ.astro';
 
 interface Question {
   id: number;
@@ -10,6 +11,13 @@ interface Question {
   keyConcept?: string;
   examTip?: string;
   testedIn?: string[];
+}
+
+interface RelatedSet {
+  subject: string;
+  topic: string;
+  topicName: string;
+  count: number;
 }
 
 interface Props {
@@ -23,6 +31,7 @@ interface Props {
   targetExams: string[];
   questions: Question[];
   updatedDate: string;
+  relatedSets?: RelatedSet[];
   ogImage?: string;
 }
 
@@ -37,6 +46,7 @@ const {
   targetExams,
   questions,
   updatedDate,
+  relatedSets = [],
   ogImage,
 } = Astro.props;
 
@@ -113,8 +123,13 @@ const difficultyColors = {
       </div>
     </div>
 
-    <!-- Interactive MCQs Component -->
-    <interactive-mcq-widget questions={JSON.stringify(questions)} />
+    <!-- Interactive MCQs -->
+    <InteractiveMCQ
+      questions={questions}
+      subjectTitle={subjectName}
+      topicTitle={topicName}
+      setId={`${subject}/${topic}`}
+    />
 
     <!-- Additional Content -->
     <div class="mt-12 p-6 bg-blue-50 border border-blue-200 rounded-lg">
@@ -127,17 +142,37 @@ const difficultyColors = {
       </ul>
     </div>
 
+    <!-- Continue in this subject -->
+    {relatedSets.length > 0 && (
+      <div class="mt-12">
+        <h2 class="text-xl font-bold text-slate-900 mb-4">More {subjectName} practice</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {relatedSets.map((set) => (
+            <a
+              href={`/mcqs/${set.subject}/${set.topic}`}
+              class="flex items-center justify-between p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition group"
+            >
+              <span class="font-semibold text-slate-800 group-hover:text-teal-700">{set.topicName}</span>
+              <span class="text-xs font-bold text-slate-500 bg-slate-100 group-hover:bg-teal-100 px-2 py-1 rounded">
+                {set.count} Q
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
     <!-- Related Content -->
     <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
       <div class="p-4 border border-slate-200 rounded-lg hover:shadow-md transition">
         <h4 class="font-semibold text-slate-900 mb-2">📚 Study Guides</h4>
-        <p class="text-sm text-slate-600 mb-3">Deep dive into {topicName} concepts</p>
-        <a href={`/guides/${subject}`} class="text-teal-600 font-medium text-sm hover:text-teal-700">Explore →</a>
+        <p class="text-sm text-slate-600 mb-3">Strategy and concept guides across every subject</p>
+        <a href="/guides" class="text-teal-600 font-medium text-sm hover:text-teal-700">Explore →</a>
       </div>
       <div class="p-4 border border-slate-200 rounded-lg hover:shadow-md transition">
         <h4 class="font-semibold text-slate-900 mb-2">🎯 More Practice</h4>
-        <p class="text-sm text-slate-600 mb-3">Find more MCQs in {subjectName}</p>
-        <a href={`/mcqs/${subject}`} class="text-teal-600 font-medium text-sm hover:text-teal-700">Browse →</a>
+        <p class="text-sm text-slate-600 mb-3">Browse the full MCQ library by subject</p>
+        <a href="/mcqs" class="text-teal-600 font-medium text-sm hover:text-teal-700">Browse →</a>
       </div>
       <div class="p-4 border border-slate-200 rounded-lg hover:shadow-md transition">
         <h4 class="font-semibold text-slate-900 mb-2">📖 Subject Hub</h4>

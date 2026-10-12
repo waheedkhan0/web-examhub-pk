@@ -1,11 +1,28 @@
 ---
-title: "Islamiat & Islamic Studies"
-description: "Authentic study modules covering Holy Quran revelations, Seerat-un-Nabi, Khulafa-e-Rashideen, Sahaba, Islamic Jurisprudence, and contemporary Islamic governance."
-icon: "crescent"
+title: Islamiat & Islamic Studies
+description: Authentic study modules covering Holy Quran revelations, Seerat-un-Nabi, Khulafa-e-Rashideen, Sahaba, Islamic Jurisprudence, and contemporary Islamic governance.
+icon: crescent
 updatedDate: "2026-10-10"
-syllabusWeightage: "100 Marks Compulsory in CSS/PMS, 10-15% in PPSC/FPSC"
-relatedExams: ["CSS","PMS","PPSC","FPSC","NTS"]
-subtopics: [{"name":"Holy Quran Revelation & Compilation","slug":"quran-revelation","questionCount":25},{"name":"Seerat-un-Nabi & Prophetic Milestones","slug":"prophetic-era","questionCount":25},{"name":"Khulafa-e-Rashideen (Rightly Guided Caliphs)","slug":"rightly-guided-caliphs","questionCount":25},{"name":"Pillars of Islam & Jurisprudence (Fiqh)","slug":"pillars-and-jurisprudence","questionCount":25}]
+syllabusWeightage: 100 Marks Compulsory in CSS/PMS, 10-15% in PPSC/FPSC
+relatedExams:
+  - CSS
+  - PMS
+  - PPSC
+  - FPSC
+  - NTS
+subtopics:
+  - name: Holy Quran Revelation & Compilation
+    slug: quran-revelation
+    questionCount: 10
+  - name: Seerat-un-Nabi & Prophetic Milestones
+    slug: prophetic-era
+    questionCount: 10
+  - name: Khulafa-e-Rashideen (Rightly Guided Caliphs)
+    slug: rightly-guided-caliphs
+    questionCount: 10
+  - name: Pillars of Islam & Jurisprudence (Fiqh)
+    slug: pillars-and-jurisprudence
+    questionCount: 10
 ---
 
 ## Islamic Studies: Spiritual Depth and Academic Accuracy

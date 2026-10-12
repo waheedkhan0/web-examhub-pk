@@ -6,15 +6,27 @@ export async function getStaticPaths() {
   const mcqs = await getCollection('mcqs');
   return mcqs.map(mcq => ({
     params: { subject: mcq.data.subject, topic: mcq.data.topic },
-    props: { mcq },
+    props: {
+      mcq,
+      relatedSets: mcqs
+        .filter(other => other.data.subject === mcq.data.subject && other.data.topic !== mcq.data.topic)
+        .map(other => ({
+          subject: other.data.subject,
+          topic: other.data.topic,
+          topicName: other.data.topicName,
+          count: other.data.questions.length,
+        }))
+        .slice(0, 6),
+    },
   }));
 }
 
 interface Props {
   mcq: any;
+  relatedSets: { subject: string; topic: string; topicName: string; count: number }[];
 }
 
-const { mcq } = Astro.props;
+const { mcq, relatedSets } = Astro.props;
 const { Content } = await mcq.render();
 ---
 
@@ -29,6 +41,7 @@ const { Content } = await mcq.render();
   targetExams={mcq.data.targetExams}
   questions={mcq.data.questions}
   updatedDate={mcq.data.updatedDate}
+  relatedSets={relatedSets}
 >
   <Content />
 </MCQLayout>

@@ -1,11 +1,18 @@
 ---
-title: "Current Affairs & Pakistan Foreign Policy"
-description: "Contemporary bilateral relations, regional alliances (SCO, CPEC, OIC), domestic economic programs, and global geopolitical developments."
-icon: "newspaper"
+title: Current Affairs & Pakistan Foreign Policy
+description: Contemporary bilateral relations, regional alliances (SCO, CPEC, OIC), domestic economic programs, and global geopolitical developments.
+icon: newspaper
 updatedDate: "2026-10-10"
-syllabusWeightage: "100 Marks in CSS/PMS, 10-15% in General Tests"
-relatedExams: ["CSS","PMS","FPSC","PPSC"]
-subtopics: [{"name":"Pakistan Foreign Relations & CPEC","slug":"pakistan-foreign-relations","questionCount":25}]
+syllabusWeightage: 100 Marks in CSS/PMS, 10-15% in General Tests
+relatedExams:
+  - CSS
+  - PMS
+  - FPSC
+  - PPSC
+subtopics:
+  - name: Pakistan Foreign Relations and Diplomatic History
+    slug: pakistan-foreign-relations
+    questionCount: 14
 ---
 
 ## Current Affairs: Dynamic Real-Time Analysis

@@ -11,17 +11,27 @@
     "preview": "astro preview",
     "astro": "astro",
     "cms": "node scripts/content-cli.js",
-    "cms:count": "node scripts/content-cli.js count",
-    "cms:validate": "node scripts/content-cli.js validate",
-    "cms:samples": "node scripts/content-cli.js generate-samples",
-    "cms:import-mcqs": "node scripts/import-mcqs.js",
-    "cms:import-guides": "node scripts/import-guides.js",
-    "cms:import-subjects": "node scripts/import-subjects.js"
+    "cms:help": "node scripts/content-cli.js help",
+    "cms:stats": "node scripts/content-cli.js stats",
+    "cms:count": "node scripts/content-cli.js stats",
+    "cms:validate": "node scripts/content-cli.js validate all",
+    "cms:doctor": "node scripts/content-cli.js doctor",
+    "cms:fix": "node scripts/content-cli.js doctor --fix",
+    "cms:template": "node scripts/content-cli.js template",
+    "cms:export": "node scripts/content-cli.js export mcqs",
+    "cms:import-mcqs": "node scripts/content-cli.js import mcqs",
+    "cms:import-guides": "node scripts/content-cli.js import guides",
+    "cms:import-subjects": "node scripts/content-cli.js import subjects",
+    "cms:import-exams": "node scripts/content-cli.js import exams",
+    "cms:import-blog": "node scripts/content-cli.js import blog"
   },
   "dependencies": {
     "@astrojs/mdx": "^3.0.0",
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^4.0.0",
     "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.3.2"
   }
 }

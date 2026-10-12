@@ -1,11 +1,33 @@
 ---
-title: "Pakistan Studies & Constitutional Affairs"
-description: "Master Pakistan history from the 1857 War of Independence through the Pakistan Movement, 1947 independence, 1973 Constitution, geography, rivers, and national resources."
-icon: "flag"
+title: Pakistan Studies & Constitutional Affairs
+description: Master Pakistan history from the 1857 War of Independence through the Pakistan Movement, 1947 independence, 1973 Constitution, geography, rivers, and national resources.
+icon: flag
 updatedDate: "2026-10-10"
-syllabusWeightage: "15-20% in CSS/PMS, 20% in PPSC/FPSC General Papers"
-relatedExams: ["CSS","PMS","PPSC","FPSC","NTS","SPSC","KPPSC"]
-subtopics: [{"name":"Geography, Borders & Mountain Passes","slug":"geography","questionCount":25},{"name":"Constitutional History & 1973 Constitution","slug":"constitution","questionCount":25},{"name":"Freedom Movement (1857-1947)","slug":"freedom-movement","questionCount":25},{"name":"Rivers, Dams & Water Barrages","slug":"rivers-and-dams","questionCount":25},{"name":"National Economy, Energy & Resources","slug":"economy-and-resources","questionCount":25}]
+syllabusWeightage: 15-20% in CSS/PMS, 20% in PPSC/FPSC General Papers
+relatedExams:
+  - CSS
+  - PMS
+  - PPSC
+  - FPSC
+  - NTS
+  - SPSC
+  - KPPSC
+subtopics:
+  - name: Geography, Borders & Mountain Passes
+    slug: geography
+    questionCount: 11
+  - name: Constitutional History & 1973 Constitution
+    slug: constitution
+    questionCount: 10
+  - name: Freedom Movement (1857–1947)
+    slug: freedom-movement
+    questionCount: 10
+  - name: Rivers, Dams & Water Barrages
+    slug: rivers-and-dams
+    questionCount: 10
+  - name: National Economy, Energy & Resources
+    slug: economy-and-resources
+    questionCount: 10
 ---
 
 ## Pakistan Studies: The Bedrock of Pakistani Competitive Exams

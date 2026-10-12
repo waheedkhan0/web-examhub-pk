@@ -1,0 +1,9 @@
+slug,title,description,author,category,targetExams,tags,featured,readingTime,content
+,How to Prepare for the PPSC MCQ Test,"A practical plan covering syllabus scoping, negative marking, and revision cycles.",ExamHub Academic Editorial Board,PPSC Preparation,PPSC,PPSC;Strategy;MCQ,true,10 min read,"# Heading
+
+Body markdown goes here. Quote this cell because it contains commas.
+
+## Section
+
+- point one
+- point two"

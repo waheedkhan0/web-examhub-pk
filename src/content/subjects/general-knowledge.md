@@ -1,11 +1,25 @@
 ---
-title: "General Knowledge & World Affairs"
-description: "Comprehensive global knowledge bank covering world geography, international organizations, capitals, currencies, treaties, and historical milestones."
-icon: "globe"
+title: General Knowledge & World Affairs
+description: Comprehensive global knowledge bank covering world geography, international organizations, capitals, currencies, treaties, and historical milestones.
+icon: globe
 updatedDate: "2026-10-10"
-syllabusWeightage: "15-20% in PPSC, FPSC, NTS, and PMS Screening"
-relatedExams: ["PPSC","FPSC","PMS","NTS","SPSC"]
-subtopics: [{"name":"World Geography, Oceans & Mountain Ranges","slug":"world-geography","questionCount":25},{"name":"International Organizations & Alliances","slug":"international-organizations","questionCount":25},{"name":"Inventions, Nobel Laureates & Discoveries","slug":"inventions-and-discoveries","questionCount":25}]
+syllabusWeightage: 15-20% in PPSC, FPSC, NTS, and PMS Screening
+relatedExams:
+  - PPSC
+  - FPSC
+  - PMS
+  - NTS
+  - SPSC
+subtopics:
+  - name: World Geography, Oceans and Mountain Ranges
+    slug: world-geography
+    questionCount: 14
+  - name: International Organizations and Alliances
+    slug: international-organizations
+    questionCount: 14
+  - name: Inventions, Discoveries and Nobel Laureates
+    slug: inventions-and-discoveries
+    questionCount: 14
 ---
 
 ## General Knowledge: Breadth, Fact Verification, and Retention

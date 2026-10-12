@@ -1,11 +1,26 @@
 ---
-title: "English Language, Grammar & Comprehension"
-description: "Master English prepositions, advanced vocabulary, synonyms, antonyms, sentence correction rules, idiomatic phrases, and active/passive syntax."
-icon: "text"
+title: English Language, Grammar & Comprehension
+description: Master English prepositions, advanced vocabulary, synonyms, antonyms, sentence correction rules, idiomatic phrases, and active/passive syntax.
+icon: text
 updatedDate: "2026-10-10"
-syllabusWeightage: "200 Marks in CSS (Essay + Precis), 20% in FPSC/PPSC"
-relatedExams: ["CSS","PMS","FPSC","PPSC","NTS","SPSC"]
-subtopics: [{"name":"Prepositions & Phrasal Verbs","slug":"prepositions","questionCount":25},{"name":"High-Yield Screening Vocabulary","slug":"vocabulary","questionCount":25},{"name":"Sentence Correction & Grammar Rules","slug":"sentence-correction","questionCount":25}]
+syllabusWeightage: 200 Marks in CSS (Essay + Precis), 20% in FPSC/PPSC
+relatedExams:
+  - CSS
+  - PMS
+  - FPSC
+  - PPSC
+  - NTS
+  - SPSC
+subtopics:
+  - name: Prepositions and Usage
+    slug: prepositions
+    questionCount: 14
+  - name: Vocabulary, Synonyms and Antonyms
+    slug: vocabulary
+    questionCount: 14
+  - name: Sentence Correction and Grammar
+    slug: sentence-correction
+    questionCount: 14
 ---
 
 ## English: The Decisive Elimination Filter in Competitive Exams

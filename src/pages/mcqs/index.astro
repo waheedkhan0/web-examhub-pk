@@ -1,39 +1,65 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ClientSearch from '../../components/ClientSearch.astro';
 
 const mcqs = await getCollection('mcqs');
 const subjects = await getCollection('subjects');
+
+const totalQuestions = mcqs.reduce((sum, m) => sum + m.data.questions.length, 0);
+const totalSets = mcqs.length;
+const subjectCount = subjects.length;
+const withPractice = subjects.filter((s) => mcqs.some((m) => m.data.subject === s.slug)).length;
+const examTags = [...new Set(mcqs.flatMap((m) => m.data.targetExams || []))].sort();
+const siteDescription = `${totalQuestions} practice MCQs with detailed explanations across ${subjectCount} subjects, for CSS, PMS, PPSC, FPSC and NTS.`;
 ---
 
 <BaseLayout
   title="Practice MCQs | ExamHub.pk"
-  description="Thousands of quality MCQs with detailed explanations for all Pakistani competitive exams."
+  description={siteDescription}
 >
   <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <h1 class="text-4xl md:text-5xl font-bold mb-4">Practice MCQs</h1>
       <p class="text-xl text-slate-300 max-w-3xl">
-        Thousands of quality MCQs with detailed explanations and exam patterns.
+        {totalQuestions} multiple-choice questions in {totalSets} topic sets, each with a worked
+        explanation, the concept it tests, and the trap examiners set around it.
       </p>
+      <div class="flex flex-wrap gap-2 mt-6">
+        {examTags.map((exam: string) => (
+          <span class="px-3 py-1 rounded-full bg-white/10 border border-white/20 text-sm text-slate-200">{exam}</span>
+        ))}
+      </div>
     </div>
   </div>
 
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <ClientSearch />
     <div class="mb-8">
       <p class="text-lg text-slate-700 font-semibold mb-4">Browse by Subject:</p>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         {subjects.map(subject => {
           const subjectMcqs = mcqs.filter(m => m.data.subject === subject.slug);
+          const subjectQuestions = subjectMcqs.reduce((acc, m) => acc + m.data.questions.length, 0);
           return (
             <a href={`/subjects/${subject.slug}`} class="card-hover">
               <h3 class="font-bold text-slate-900 mb-2">{subject.data.title}</h3>
-              <p class="text-sm text-slate-600 mb-3">{subjectMcqs.length} MCQ Sets • {subjectMcqs.reduce((acc, m) => acc + m.data.questions.length, 0)} Questions</p>
+              <p class="text-sm text-slate-600 mb-3">
+                {subjectQuestions > 0
+                  ? `${subjectQuestions} questions in ${subjectMcqs.length} topic set${subjectMcqs.length === 1 ? '' : 's'}`
+                  : 'Syllabus overview available — question sets in preparation'}
+              </p>
               <span class="text-teal-600 font-medium text-sm">View →</span>
             </a>
           );
         })}
       </div>
+      {withPractice < subjectCount && (
+        <p class="text-sm text-slate-500 mt-4">
+          {subjectCount - withPractice} of {subjectCount} subjects currently publish practice sets; the others
+          list their syllabus scope while questions are written.
+        </p>
+      )}
     </div>
 
     {mcqs.length > 0 && (

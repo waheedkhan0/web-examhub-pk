@@ -1,0 +1,17 @@
+{
+  "name": "ExamHub.pk — Pakistani Competitive Exam Preparation",
+  "short_name": "ExamHub.pk",
+  "description": "Practice MCQs with worked explanations, subject roadmaps and study guides for CSS, PMS, PPSC, FPSC and NTS.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "lang": "en-PK",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "/og-image.png", "sizes": "1200x630", "type": "image/png", "purpose": "any" }
+  ]
+}

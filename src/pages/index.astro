@@ -1,15 +1,39 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { iconFor } from '../lib/icons';
 
 // Get featured content
 const guides = await getCollection('guides');
 const blog = await getCollection('blog');
 const subjects = await getCollection('subjects');
+const exams = await getCollection('exams');
+const mcqSets = await getCollection('mcqs');
 
 const featuredGuides = guides.filter(g => g.data.featured).slice(0, 3);
 const latestBlog = blog.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()).slice(0, 3);
-const allSubjects = subjects.slice(0, 6);
+
+// Show the subjects with the most practice questions first, so the six cards on
+// the homepage are the ones a candidate can actually study today.
+const questionsBySubject = new Map<string, number>();
+for (const set of mcqSets) {
+  questionsBySubject.set(set.data.subject, (questionsBySubject.get(set.data.subject) ?? 0) + set.data.questions.length);
+}
+const allSubjects = [...subjects]
+  .sort((a, b) => (questionsBySubject.get(b.slug) ?? 0) - (questionsBySubject.get(a.slug) ?? 0))
+  .slice(0, 6);
+
+// Counts come from the content itself, so these can never drift out of date.
+const totalQuestions = mcqSets.reduce((sum, m) => sum + m.data.questions.length, 0);
+const totalTopics = mcqSets.length;
+const totalPages = guides.length + blog.length + subjects.length + exams.length + mcqSets.length;
+
+const examOrder = ['css', 'pms', 'ppsc', 'fpsc', 'nts', 'kppsc', 'spsc'];
+const popularExams = examOrder
+  .map((slug) => exams.find((e) => e.slug === slug))
+  .filter(Boolean)
+  .concat(exams.filter((e) => !examOrder.includes(e.slug)))
+  .slice(0, 6);
 ---
 
 <BaseLayout title="ExamHub.pk - Pakistani Competitive Exam Preparation" description="Prepare for CSS, PMS, PPSC, FPSC, NTS and other Pakistani competitive exams with quality MCQs, guides, and resources.">
@@ -24,7 +48,7 @@ const allSubjects = subjects.slice(0, 6);
         Master Pakistani <span class="text-gradient">Competitive Exams</span>
       </h1>
       <p class="text-xl md:text-2xl text-slate-300 mb-8 max-w-3xl mx-auto">
-        High-quality MCQs, comprehensive guides, and expert resources for CSS, PMS, PPSC, FPSC, NTS, and more. 50+ pages of premium content crafted for your success.
+        High-quality MCQs, comprehensive guides, and expert resources for CSS, PMS, PPSC, FPSC, NTS, and more — every question with a worked explanation.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
         <a href="/exams" class="btn btn-primary text-lg">Explore Exams</a>
@@ -34,20 +58,20 @@ const allSubjects = subjects.slice(0, 6);
       <!-- Stats -->
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mt-12">
         <div class="bg-white/10 backdrop-blur rounded-lg p-6">
-          <div class="text-4xl font-bold text-teal-300">50+</div>
-          <div class="text-sm text-slate-300 mt-2">Quality Pages</div>
+          <div class="text-4xl font-bold text-teal-300">{totalPages}</div>
+          <div class="text-sm text-slate-300 mt-2">Published Pages</div>
         </div>
         <div class="bg-white/10 backdrop-blur rounded-lg p-6">
-          <div class="text-4xl font-bold text-teal-300">500+</div>
-          <div class="text-sm text-slate-300 mt-2">MCQs</div>
+          <div class="text-4xl font-bold text-teal-300">{totalQuestions}</div>
+          <div class="text-sm text-slate-300 mt-2">MCQs with Explanations</div>
         </div>
         <div class="bg-white/10 backdrop-blur rounded-lg p-6">
-          <div class="text-4xl font-bold text-teal-300">8+</div>
-          <div class="text-sm text-slate-300 mt-2">Major Exams</div>
+          <div class="text-4xl font-bold text-teal-300">{subjects.length}</div>
+          <div class="text-sm text-slate-300 mt-2">Subjects ({totalTopics} Topic Sets)</div>
         </div>
         <div class="bg-white/10 backdrop-blur rounded-lg p-6">
-          <div class="text-4xl font-bold text-teal-300">100%</div>
-          <div class="text-sm text-slate-300 mt-2">Original Content</div>
+          <div class="text-4xl font-bold text-teal-300">{exams.length}</div>
+          <div class="text-sm text-slate-300 mt-2">Exam Guides</div>
         </div>
       </div>
     </div>
@@ -60,22 +84,16 @@ const allSubjects = subjects.slice(0, 6);
       <p class="text-center text-slate-600 mb-12 max-w-2xl mx-auto">Comprehensive preparation materials for Pakistan's most competitive civil service and professional exams</p>
       
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {[
-          { slug: 'css', name: 'CSS', desc: 'Central Superior Services Examination' },
-          { slug: 'pms', name: 'PMS', desc: 'Provincial Management Services' },
-          { slug: 'ppsc', name: 'PPSC', desc: 'Punjab Public Service Commission' },
-          { slug: 'fpsc', name: 'FPSC', desc: 'Federal Public Service Commission' },
-          { slug: 'nts', name: 'NTS', desc: 'National Testing Service' },
-          { slug: 'issb', name: 'ISSB', desc: 'Inter-Services Selection Board' },
-        ].map(exam => (
+        {popularExams.map(exam => (
           <a href={`/exams/${exam.slug}`} class="card-hover group">
             <div class="flex items-start justify-between mb-3">
               <div>
-                <h3 class="text-xl font-bold text-slate-900 group-hover:text-teal-600">{exam.name}</h3>
-                <p class="text-sm text-slate-600 mt-1">{exam.desc}</p>
+                <h3 class="text-xl font-bold text-slate-900 group-hover:text-teal-600">{exam.data.title}</h3>
+                <p class="text-sm text-slate-600 mt-1">{exam.data.fullName}</p>
               </div>
               <div class="text-2xl">📚</div>
             </div>
+            <p class="text-sm text-slate-600 line-clamp-2 mb-2">{exam.data.description}</p>
             <p class="text-sm text-teal-600 font-medium group-hover:translate-x-1 transition-transform">View Details →</p>
           </a>
         ))}
@@ -97,7 +115,7 @@ const allSubjects = subjects.slice(0, 6);
                 <h3 class="text-lg font-bold text-slate-900 group-hover:text-teal-600">{subject.data.title}</h3>
                 <p class="text-xs text-slate-500 mt-1 font-medium">Syllabus: {subject.data.syllabusWeightage}</p>
               </div>
-              <div class="text-2xl">{subject.data.icon === 'book' ? '📖' : '📚'}</div>
+              <div class="text-2xl">{iconFor(subject.data.icon)}</div>
             </div>
             <p class="text-sm text-slate-600 line-clamp-2 mb-3">{subject.data.description}</p>
             <p class="text-xs text-teal-600 font-medium">Explore Topic →</p>

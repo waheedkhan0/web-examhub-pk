@@ -1,11 +1,22 @@
 ---
-title: "Everyday Science & General Ability"
-description: "Scientific principles covering human biology, nutrition, infectious diseases, physics, space sciences, atmospheric chemistry, and modern technology."
-icon: "beaker"
+title: Everyday Science & General Ability
+description: Scientific principles covering human biology, nutrition, infectious diseases, physics, space sciences, atmospheric chemistry, and modern technology.
+icon: beaker
 updatedDate: "2026-10-10"
-syllabusWeightage: "60 Marks in CSS GSA Paper, 15% in PPSC/FPSC"
-relatedExams: ["CSS","PMS","FPSC","PPSC","NTS"]
-subtopics: [{"name":"Human Biology, Anatomy & Diseases","slug":"human-anatomy","questionCount":25},{"name":"Physics, Energy & Solar System","slug":"physics-and-solar-system","questionCount":25}]
+syllabusWeightage: 60 Marks in CSS GSA Paper, 15% in PPSC/FPSC
+relatedExams:
+  - CSS
+  - PMS
+  - FPSC
+  - PPSC
+  - NTS
+subtopics:
+  - name: Human Anatomy and Physiology
+    slug: human-anatomy
+    questionCount: 14
+  - name: Physics, Units and the Solar System
+    slug: physics-and-solar-system
+    questionCount: 14
 ---
 
 ## Everyday Science: Demystifying the Natural World

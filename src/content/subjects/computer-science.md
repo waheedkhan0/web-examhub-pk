@@ -1,11 +1,21 @@
 ---
-title: "Computer Science & Information Technology"
-description: "Hardware architecture, computer memory hierarchies, Microsoft Office productivity shortcuts, networking topologies, internet protocols, and cybersecurity."
-icon: "cpu"
+title: Computer Science & Information Technology
+description: Hardware architecture, computer memory hierarchies, Microsoft Office productivity shortcuts, networking topologies, internet protocols, and cybersecurity.
+icon: cpu
 updatedDate: "2026-10-10"
-syllabusWeightage: "10-15% in PPSC/FPSC General Recruitment, NTS Tests"
-relatedExams: ["PPSC","FPSC","PMS","NTS"]
-subtopics: [{"name":"IT Fundamentals & MS Office Shortcuts","slug":"it-fundamentals","questionCount":25},{"name":"Networking, Security & Cloud Protocols","slug":"networking-and-security","questionCount":25}]
+syllabusWeightage: 10-15% in PPSC/FPSC General Recruitment, NTS Tests
+relatedExams:
+  - PPSC
+  - FPSC
+  - PMS
+  - NTS
+subtopics:
+  - name: IT Fundamentals and MS Office Shortcuts
+    slug: it-fundamentals
+    questionCount: 14
+  - name: Networking, Protocols and Cybersecurity
+    slug: networking-and-security
+    questionCount: 14
 ---
 
 ## Computer Science & IT: Modern Administrative Essentials

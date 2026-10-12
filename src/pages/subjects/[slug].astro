@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { iconFor } from '../../lib/icons';
 
 export async function getStaticPaths() {
   const subjects = await getCollection('subjects');
@@ -47,7 +48,7 @@ const subjectMcqs = allMcqs.filter(mcq => mcq.data.subject === subject.slug);
           <h1 class="text-4xl md:text-5xl font-bold mb-3">{subject.data.title}</h1>
           <p class="text-xl text-slate-300">{subject.data.description}</p>
         </div>
-        <div class="text-6xl">{subject.data.icon === 'book' ? '📖' : '📚'}</div>
+        <div class="text-6xl">{iconFor(subject.data.icon)}</div>
       </div>
 
       <!-- Stats -->
@@ -100,14 +101,26 @@ const subjectMcqs = allMcqs.filter(mcq => mcq.data.subject === subject.slug);
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {subject.data.subtopics.map((subtopic: any) => {
             const subtopicMcqs = subjectMcqs.filter(mcq => mcq.data.topic === subtopic.slug);
+            const available = subtopicMcqs.length > 0;
+            const realCount = subtopicMcqs.reduce((sum: number, m: any) => sum + m.data.questions.length, 0);
+            if (!available) {
+              return (
+                <div class="p-4 border border-dashed border-slate-200 rounded-lg bg-slate-50/60" aria-disabled="true">
+                  <h3 class="font-bold text-slate-500 mb-2">{subtopic.name}</h3>
+                  <p class="text-sm text-slate-400">
+                    {subtopic.questionCount > 0 ? `${subtopic.questionCount} questions in preparation` : 'Question set in preparation'}
+                  </p>
+                  <span class="inline-block mt-2 text-xs font-semibold text-slate-500 bg-slate-200/70 px-2 py-0.5 rounded">Coming soon</span>
+                </div>
+              );
+            }
             return (
               <a href={`/mcqs/${subject.slug}/${subtopic.slug}`} class="p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition">
                 <h3 class="font-bold text-slate-900 mb-2">{subtopic.name}</h3>
                 <p class="text-sm text-slate-600">
-                  {subtopicMcqs.length > 0 
-                    ? `${subtopicMcqs.length} MCQ ${subtopicMcqs.length === 1 ? 'set' : 'sets'}` 
-                    : `${subtopic.questionCount} questions`}
+                  {realCount} practice question{realCount === 1 ? '' : 's'}
                 </p>
+                <span class="inline-block mt-2 text-xs font-semibold text-teal-700 bg-teal-100 px-2 py-0.5 rounded">Practice →</span>
               </a>
             );
           })}

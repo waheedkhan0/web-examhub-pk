@@ -12,6 +12,9 @@ interface Props {
 const { title, description, ogImage = '/og-image.png', canonical, noindex = false } = Astro.props;
 const { pathname } = Astro.url;
 const fullUrl = new URL(pathname, Astro.site);
+
+/** Nav highlighting: a section stays active for every page beneath it. */
+const isActive = (section: string) => pathname === section || pathname.startsWith(`${section}/`);
 ---
 
 <!doctype html>
@@ -124,12 +127,20 @@ const fullUrl = new URL(pathname, Astro.site);
 
           <!-- Desktop Navigation -->
           <div class="hidden md:flex items-center space-x-8">
-            <a href="/exams" class="text-slate-700 hover:text-teal-600 font-medium transition">Exams</a>
-            <a href="/subjects" class="text-slate-700 hover:text-teal-600 font-medium transition">Subjects</a>
-            <a href="/mcqs" class="text-slate-700 hover:text-teal-600 font-medium transition">MCQs</a>
-            <a href="/practice" class="text-slate-700 hover:text-teal-600 font-medium transition">Practice</a>
-            <a href="/blog" class="text-slate-700 hover:text-teal-600 font-medium transition">Blog</a>
-            <a href="/resources" class="text-slate-700 hover:text-teal-600 font-medium transition">Resources</a>
+            <a href="/exams" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/exams') }]}>Exams</a>
+            <a href="/subjects" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/subjects') }]}>Subjects</a>
+            <a href="/mcqs" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/mcqs') }]}>MCQs</a>
+            <a href="/guides" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/guides') }]}>Guides</a>
+            <a href="/blog" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/blog') }]}>Blog</a>
+            <a
+              href="/search"
+              aria-label="Search the site"
+              class:list={['p-2 rounded-lg text-slate-600 hover:text-teal-600 hover:bg-teal-50 transition', { 'text-teal-600 bg-teal-50': isActive('/search') }]}
+            >
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </a>
           </div>
 
           <!-- Mobile menu button -->
@@ -146,12 +157,12 @@ const fullUrl = new URL(pathname, Astro.site);
 
         <!-- Mobile Navigation -->
         <div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-slate-200">
-          <a href="/exams" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Exams</a>
-          <a href="/subjects" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Subjects</a>
-          <a href="/mcqs" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">MCQs</a>
-          <a href="/practice" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Practice</a>
-          <a href="/blog" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Blog</a>
-          <a href="/resources" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Resources</a>
+          <a href="/exams" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/exams') }]}>Exams</a>
+          <a href="/subjects" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/subjects') }]}>Subjects</a>
+          <a href="/mcqs" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/mcqs') }]}>MCQs</a>
+          <a href="/guides" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/guides') }]}>Guides</a>
+          <a href="/blog" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/blog') }]}>Blog</a>
+          <a href="/search" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/search') }]}>Search</a>
         </div>
       </div>
     </nav>
@@ -191,7 +202,7 @@ const fullUrl = new URL(pathname, Astro.site);
             <ul class="space-y-2 text-sm">
               <li><a href="/blog" class="hover:text-teal-400 transition">Blog</a></li>
               <li><a href="/guides" class="hover:text-teal-400 transition">Guides</a></li>
-              <li><a href="/resources" class="hover:text-teal-400 transition">Study Resources</a></li>
+              <li><a href="/mcqs" class="hover:text-teal-400 transition">Practice MCQs</a></li>
               <li><a href="/subjects" class="hover:text-teal-400 transition">Subjects</a></li>
             </ul>
           </div>

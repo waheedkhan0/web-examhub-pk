@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ClientSearch from '../components/ClientSearch.astro';
+import { getCollection } from 'astro:content';
+
+const query = Astro.url.searchParams.get('q') ?? '';
+
+const [mcqs, subjects, guides, exams, blog] = await Promise.all([
+  getCollection('mcqs'),
+  getCollection('subjects'),
+  getCollection('guides'),
+  getCollection('exams'),
+  getCollection('blog'),
+]);
+const totalQuestions = mcqs.reduce((sum, m) => sum + m.data.questions.length, 0);
+---
+
+<BaseLayout
+  title="Search | ExamHub.pk"
+  description={`Search ${totalQuestions} practice MCQs, ${subjects.length} subjects, ${guides.length} study guides and ${exams.length} exam hubs across ExamHub.pk.`}
+>
+  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-3xl md:text-4xl font-bold mb-2">Search ExamHub.pk</h1>
+      <p class="text-slate-300">
+        Find a topic, subject, exam hub or study guide. Searching also matches question topics, so
+        “rivers”, “prepositions” or “Bloom” will surface the right practice set.
+      </p>
+    </div>
+  </div>
+
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <ClientSearch variant="list" initialQuery={query} />
+
+    <div class="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
+      <a href="/mcqs" class="p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition">
+        <h2 class="font-bold text-slate-900">Browse all MCQ sets</h2>
+        <p class="text-slate-600 mt-1">{mcqs.length} topic sets · {totalQuestions} questions</p>
+      </a>
+      <a href="/subjects" class="p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition">
+        <h2 class="font-bold text-slate-900">Browse by subject</h2>
+        <p class="text-slate-600 mt-1">{subjects.length} subjects with syllabus guidance</p>
+      </a>
+      <a href="/guides" class="p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition">
+        <h2 class="font-bold text-slate-900">Study guides</h2>
+        <p class="text-slate-600 mt-1">{guides.length} strategy and subject guides</p>
+      </a>
+      <a href="/blog" class="p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition">
+        <h2 class="font-bold text-slate-900">Latest articles</h2>
+        <p class="text-slate-600 mt-1">{blog.length} posts · {exams.length} exam hubs</p>
+      </a>
+    </div>
+  </div>
+</BaseLayout>

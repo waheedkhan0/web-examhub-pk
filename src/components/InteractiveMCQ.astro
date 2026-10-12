@@ -14,12 +14,14 @@ interface Props {
   questions: Question[];
   subjectTitle: string;
   topicTitle: string;
+  setId?: string;
 }
 
-const { questions, subjectTitle, topicTitle } = Astro.props;
+const { questions, subjectTitle, topicTitle, setId } = Astro.props;
+const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
 ---
 
-<div class="space-y-8" id="mcq-interactive-container">
+<div class="space-y-8" id="mcq-interactive-container" data-storage-key={storageKey}>
   <!-- Progress & Filter bar -->
   <div class="bg-white rounded-xl p-4 sm:p-5 border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-4">
     <div class="flex items-center gap-3">
@@ -45,6 +47,24 @@ const { questions, subjectTitle, topicTitle } = Astro.props;
         Reset Progress
       </button>
     </div>
+  </div>
+
+  <!-- Live score — persisted locally so a session can be resumed -->
+  <div class="mcq-scorebar sticky top-2 z-20 bg-white rounded-xl border border-slate-200 shadow-sm p-4">
+    <div class="flex items-center justify-between text-sm font-semibold text-slate-700 mb-2">
+      <span>Your progress</span>
+      <span class="tabular-nums">
+        <span data-score-answered>0</span>/<span data-score-total>{questions.length}</span> answered
+        · <span data-score-correct class="text-emerald-700">0</span> correct
+        (<span data-score-accuracy>0</span>%)
+      </span>
+    </div>
+    <div class="h-2 w-full bg-slate-100 rounded-full overflow-hidden" role="progressbar" aria-label="Questions answered">
+      <div data-score-fill class="h-full bg-teal-500 rounded-full transition-all duration-300" style="width:0%"></div>
+    </div>
+    <p data-score-complete class="hidden mt-2 text-xs font-semibold text-teal-700">
+      Set complete — review the explanations below, then reset and run it again for retention.
+    </p>
   </div>
 
   <!-- Questions List -->
@@ -149,91 +169,188 @@ const { questions, subjectTitle, topicTitle } = Astro.props;
 
 <script>
   function setupInteractiveMCQs() {
-    const cards = document.querySelectorAll('.mcq-card');
+    const container = document.getElementById('mcq-interactive-container') as HTMLElement | null;
+    if (!container) return;
 
-    cards.forEach((card) => {
-      const correctIndex = parseInt(card.getAttribute('data-correct') || '0', 10);
-      const buttons = card.querySelectorAll<HTMLButtonElement>('.opt-btn');
-      const toggleExpBtn = card.querySelector<HTMLButtonElement>('.toggle-exp-btn');
-      const expBox = card.querySelector<HTMLDivElement>('.exp-box');
+    const storageKey = container.dataset.storageKey || 'examhub:mcq:default';
+    const cards = Array.from(container.querySelectorAll<HTMLElement>('.mcq-card'));
+    const total = cards.length;
+
+    /** Load saved answers: { [questionId]: chosenOptionIndex } */
+    function loadState(): Record<string, number> {
+      try {
+        const parsed = JSON.parse(localStorage.getItem(storageKey) || '{}');
+        return parsed && typeof parsed === 'object' ? parsed : {};
+      } catch {
+        return {};
+      }
+    }
+
+    function saveState(state: Record<string, number>) {
+      try {
+        localStorage.setItem(storageKey, JSON.stringify(state));
+      } catch {
+        /* private browsing / quota — the quiz still works, it just won't persist */
+      }
+    }
+
+    let state = loadState();
+
+    function updateScoreBar() {
+      const answered = Object.keys(state).length;
+      const correct = cards.filter((card) => {
+        const chosen = state[card.dataset.qid || ''];
+        return chosen !== undefined && Number(chosen) === Number(card.dataset.correct);
+      }).length;
+      const accuracy = answered ? Math.round((correct / answered) * 100) : 0;
+
+      const set = (selector: string, value: string) => {
+        const el = container.querySelector(selector);
+        if (el) el.textContent = value;
+      };
+      set('[data-score-answered]', String(answered));
+      set('[data-score-total]', String(total));
+      set('[data-score-correct]', String(correct));
+      set('[data-score-accuracy]', String(accuracy));
+
+      const fill = container.querySelector<HTMLElement>('[data-score-fill]');
+      if (fill) fill.style.width = `${total ? (answered / total) * 100 : 0}%`;
+
+      const done = container.querySelector<HTMLElement>('[data-score-complete]');
+      if (done) done.classList.toggle('hidden', answered < total);
+    }
+
+    /** Paint a card to reflect a chosen option (used for clicks and for restoring a saved session). */
+    function applyChoice(card: HTMLElement, selectedIdx: number, isRestore: boolean) {
+      const correctIndex = Number(card.dataset.correct || '0');
+      const buttons = Array.from(card.querySelectorAll<HTMLButtonElement>('.opt-btn'));
       const resultBadge = card.querySelector<HTMLSpanElement>('.result-badge');
+      const button = buttons[selectedIdx];
+      if (!button) return;
 
-      function showExplanation() {
-        if (!expBox) return;
-        expBox.classList.remove('hidden');
-        if (toggleExpBtn) {
-          toggleExpBtn.querySelector('span')!.textContent = 'Hide Explanation';
-          toggleExpBtn.querySelector('svg')!.classList.add('rotate-180');
+      buttons.forEach((b) => b.classList.add('pointer-events-none'));
+
+      if (selectedIdx === correctIndex) {
+        button.classList.add('bg-emerald-50', 'border-emerald-500', 'text-emerald-900');
+        button.querySelector('.opt-badge')?.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
+        if (resultBadge) {
+          resultBadge.textContent = isRestore ? '✓ Correct' : '✓ Correct Answer';
+          resultBadge.className = 'result-badge text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded';
+          resultBadge.classList.remove('hidden');
+        }
+      } else {
+        button.classList.add('bg-rose-50', 'border-rose-400', 'text-rose-900');
+        button.querySelector('.opt-badge')?.classList.add('bg-rose-600', 'text-white', 'border-rose-600');
+
+        const correctBtn = buttons[correctIndex];
+        correctBtn?.classList.add('bg-emerald-50', 'border-emerald-500');
+        correctBtn?.querySelector('.opt-badge')?.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
+
+        if (resultBadge) {
+          resultBadge.textContent = isRestore ? '✗ Incorrect' : '✗ Incorrect';
+          resultBadge.className = 'result-badge text-xs font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded';
+          resultBadge.classList.remove('hidden');
         }
       }
 
-      function hideExplanation() {
-        if (!expBox) return;
-        expBox.classList.add('hidden');
-        if (toggleExpBtn) {
-          toggleExpBtn.querySelector('span')!.textContent = 'Show Explanation';
-          toggleExpBtn.querySelector('svg')!.classList.remove('rotate-180');
-        }
+      showExplanation(card);
+    }
+
+    function showExplanation(card: HTMLElement) {
+      const expBox = card.querySelector<HTMLElement>('.exp-box');
+      const toggleExpBtn = card.querySelector<HTMLButtonElement>('.toggle-exp-btn');
+      if (!expBox || expBox.classList.contains('hidden') === false) return;
+      expBox.classList.remove('hidden');
+      if (toggleExpBtn) {
+        toggleExpBtn.querySelector('span')!.textContent = 'Hide Explanation';
+        toggleExpBtn.querySelector('svg')?.classList.add('rotate-180');
+      }
+    }
+
+    cards.forEach((card) => {
+      const qid = card.dataset.qid || '';
+      const buttons = Array.from(card.querySelectorAll<HTMLButtonElement>('.opt-btn'));
+      const toggleExpBtn = card.querySelector<HTMLButtonElement>('.toggle-exp-btn');
+      const expBox = card.querySelector<HTMLElement>('.exp-box');
+
+      // Restore a previously answered question.
+      if (state[qid] !== undefined) {
+        applyChoice(card, Number(state[qid]), true);
+        return;
       }
 
       toggleExpBtn?.addEventListener('click', () => {
-        if (expBox?.classList.contains('hidden')) {
-          showExplanation();
+        if (!expBox) return;
+        if (expBox.classList.contains('hidden')) {
+          expBox.classList.remove('hidden');
+          if (toggleExpBtn) {
+            toggleExpBtn.querySelector('span')!.textContent = 'Hide Explanation';
+            toggleExpBtn.querySelector('svg')?.classList.add('rotate-180');
+          }
         } else {
-          hideExplanation();
+          expBox.classList.add('hidden');
+          if (toggleExpBtn) {
+            toggleExpBtn.querySelector('span')!.textContent = 'Show Explanation';
+            toggleExpBtn.querySelector('svg')?.classList.remove('rotate-180');
+          }
         }
       });
 
       buttons.forEach((btn) => {
         btn.addEventListener('click', () => {
-          const selectedIdx = parseInt(btn.getAttribute('data-option-index') || '0', 10);
-          
-          // Disable further clicking on this card options
-          buttons.forEach((b) => b.classList.add('pointer-events-none'));
-
-          if (selectedIdx === correctIndex) {
-            btn.classList.add('bg-emerald-50', 'border-emerald-500', 'text-emerald-900');
-            const badge = btn.querySelector('.opt-badge');
-            badge?.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
-            if (resultBadge) {
-              resultBadge.textContent = '✓ Correct Answer';
-              resultBadge.className = 'result-badge text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded';
-              resultBadge.classList.remove('hidden');
-            }
-          } else {
-            btn.classList.add('bg-rose-50', 'border-rose-400', 'text-rose-900');
-            const badge = btn.querySelector('.opt-badge');
-            badge?.classList.add('bg-rose-600', 'text-white', 'border-rose-600');
-            
-            // Highlight correct one
-            const correctBtn = buttons[correctIndex];
-            correctBtn?.classList.add('bg-emerald-50', 'border-emerald-500');
-            const correctBadge = correctBtn?.querySelector('.opt-badge');
-            correctBadge?.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
-
-            if (resultBadge) {
-              resultBadge.textContent = '✗ Incorrect';
-              resultBadge.className = 'result-badge text-xs font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded';
-              resultBadge.classList.remove('hidden');
-            }
-          }
-
-          showExplanation();
+          const selectedIdx = Number(btn.dataset.optionIndex || '0');
+          state[qid] = selectedIdx;
+          saveState(state);
+          applyChoice(card, selectedIdx, false);
+          updateScoreBar();
         });
       });
     });
+
+    updateScoreBar();
 
     // Bulk buttons
     document.getElementById('reveal-all-btn')?.addEventListener('click', () => {
       document.querySelectorAll('.exp-box').forEach((box) => box.classList.remove('hidden'));
       document.querySelectorAll('.toggle-exp-btn').forEach((btn) => {
-        btn.querySelector('span')!.textContent = 'Hide Explanation';
+        const label = btn.querySelector('span');
+        if (label) label.textContent = 'Hide Explanation';
         btn.querySelector('svg')?.classList.add('rotate-180');
       });
     });
 
     document.getElementById('reset-all-btn')?.addEventListener('click', () => {
-      window.location.reload();
+      try {
+        localStorage.removeItem(storageKey);
+      } catch {
+        /* ignore */
+      }
+      state = {};
+      cards.forEach((card) => {
+        card.querySelectorAll('.opt-btn').forEach((b) => {
+          b.classList.remove(
+            'pointer-events-none', 'bg-emerald-50', 'border-emerald-500', 'text-emerald-900',
+            'bg-rose-50', 'border-rose-400', 'text-rose-900',
+          );
+        });
+        card.querySelectorAll('.opt-badge').forEach((b) => {
+          b.classList.remove('bg-emerald-600', 'text-white', 'border-emerald-600', 'bg-rose-600');
+        });
+        const badge = card.querySelector('.result-badge');
+        if (badge) {
+          badge.className = 'result-badge text-xs font-bold hidden';
+          badge.textContent = '';
+        }
+        const exp = card.querySelector<HTMLElement>('.exp-box');
+        if (exp) exp.classList.add('hidden');
+        const toggle = card.querySelector('.toggle-exp-btn');
+        if (toggle) {
+          const label = toggle.querySelector('span');
+          if (label) label.textContent = 'Show Explanation';
+          toggle.querySelector('svg')?.classList.remove('rotate-180');
+        }
+      });
+      updateScoreBar();
     });
   }
 

@@ -1,11 +1,18 @@
 ---
-title: "Mathematics & Quantitative Ability"
-description: "Quantitative problem solving including arithmetic percentages, ratios, proportions, speed-distance-time, basic algebra, and probability for NTS, FPSC, and CSS GSA."
-icon: "calculator"
+title: Mathematics & Quantitative Ability
+description: Quantitative problem solving including arithmetic percentages, ratios, proportions, speed-distance-time, basic algebra, and probability for NTS, FPSC, and CSS GSA.
+icon: calculator
 updatedDate: "2026-10-10"
-syllabusWeightage: "40 Marks in CSS General Ability, 20% in FPSC/NTS"
-relatedExams: ["CSS","FPSC","NTS","PPSC"]
-subtopics: [{"name":"Quantitative Ability, Percentages & Ratios","slug":"quantitative-ability","questionCount":25}]
+syllabusWeightage: 40 Marks in CSS General Ability, 20% in FPSC/NTS
+relatedExams:
+  - CSS
+  - FPSC
+  - NTS
+  - PPSC
+subtopics:
+  - name: Quantitative Ability and Arithmetic
+    slug: quantitative-ability
+    questionCount: 14
 ---
 
 ## Quantitative Ability: Logic, Speed, and Precision
