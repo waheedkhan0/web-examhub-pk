@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const exams = await getCollection('exams');
+---
+
+<BaseLayout
+  title="Exams | ExamHub.pk"
+  description="Complete preparation guides for all major Pakistani competitive exams."
+>
+  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Competitive Exams</h1>
+      <p class="text-xl text-slate-300 max-w-3xl">
+        Comprehensive preparation materials for Pakistan's most competitive civil service and professional exams.
+      </p>
+    </div>
+  </div>
+
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    {exams.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {exams.map(exam => (
+          <a href={`/exams/${exam.slug}`} class="card-hover group">
+            <h3 class="text-lg font-bold text-slate-900 group-hover:text-teal-600 mb-1">{exam.data.title}</h3>
+            <p class="text-sm text-slate-500 font-medium mb-3">{exam.data.fullName}</p>
+            <p class="text-sm text-slate-600 line-clamp-3 mb-4">{exam.data.description}</p>
+            <div class="grid grid-cols-2 gap-2 text-xs mb-4">
+              {exam.data.keyStats.slice(0, 2).map((stat: any) => (
+                <div class="bg-slate-50 p-2 rounded">
+                  <div class="font-semibold text-slate-900">{stat.value}</div>
+                  <div class="text-slate-600 line-clamp-1">{stat.label}</div>
+                </div>
+              ))}
+            </div>
+            <span class="text-teal-600 font-medium text-sm group-hover:translate-x-1 transition-transform inline-block">Learn More →</span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-12">
+        <p class="text-slate-600 text-lg">No exams available yet.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

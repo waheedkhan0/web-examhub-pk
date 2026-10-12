@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const blog = await getCollection('blog');
+const sortedBlog = blog.sort((a, b) => 
+  new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
+);
+---
+
+<BaseLayout
+  title="Blog | ExamHub.pk"
+  description="Latest news, tips, and insights for Pakistani competitive exams."
+>
+  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Blog</h1>
+      <p class="text-xl text-slate-300 max-w-3xl">
+        Stay updated with exam news, strategy tips, and trending topics.
+      </p>
+    </div>
+  </div>
+
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    {sortedBlog.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {sortedBlog.map(post => (
+          <a href={`/blog/${post.slug}`} class="card-hover group">
+            <div class="flex items-center justify-between mb-3">
+              <span class="badge badge-primary">{post.data.category}</span>
+              <span class="text-xs text-slate-500">{new Date(post.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+            </div>
+            <h3 class="text-lg font-bold text-slate-900 group-hover:text-teal-600 mb-2 line-clamp-2">
+              {post.data.title}
+            </h3>
+            <p class="text-sm text-slate-600 line-clamp-3 mb-4">{post.data.description}</p>
+            <div class="flex flex-wrap gap-2">
+              {post.data.tags.map((tag: string) => (
+                <span class="text-xs bg-slate-100 text-slate-700 px-2 py-1 rounded-full">{tag}</span>
+              ))}
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-12">
+        <p class="text-slate-600 text-lg">No blog posts available yet.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

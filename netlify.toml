@@ -1,0 +1,72 @@
+[build]
+command = "npm run build"
+functions = "netlify/functions"
+publish = "dist"
+
+[build.environment]
+NODE_VERSION = "22.12.0"
+
+# Redirects and rewrites
+[[redirects]]
+from = "/sitemap"
+to = "/sitemap-index.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/rss"
+to = "/feed.xml"
+status = 301
+force = true
+
+# Headers for SEO and security
+[[headers]]
+for = "/*"
+
+[headers.values]
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "SAMEORIGIN"
+X-XSS-Protection = "1; mode=block"
+Referrer-Policy = "strict-origin-when-cross-origin"
+Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Cache headers for assets
+[[headers]]
+for = "/fonts/*"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+for = "/*.{js,css}"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+# HTML cache
+[[headers]]
+for = "/*.html"
+
+[headers.values]
+Cache-Control = "public, max-age=3600, must-revalidate"
+
+# Allow Netlify crawl
+[[headers]]
+for = "/*"
+
+[headers.values]
+Content-Security-Policy = "default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'self' https: 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com; img-src 'self' https: data:; style-src 'self' https: 'unsafe-inline'; font-src 'self' https: data:;"
+
+# Forms
+[[redirects]]
+from = "/api/contact"
+to = "/.netlify/functions/contact"
+status = 200
+
+# Enable gzip compression
+[build.environment]
+ASTRO_TELEMETRY_DISABLED = "true"
+
+# Astro settings
+[env.production.build]
+command = "npm run build"

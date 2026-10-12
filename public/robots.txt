@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /*?*sort=
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://examhub.pk/sitemap-index.xml
+Sitemap: https://examhub.pk/sitemap-0.xml
+
+# Crawl delay for polite crawling
+Crawl-delay: 1

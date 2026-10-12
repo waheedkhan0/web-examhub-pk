@@ -1,0 +1,27 @@
+{
+  "name": "examhub-pk",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "cms": "node scripts/content-cli.js",
+    "cms:count": "node scripts/content-cli.js count",
+    "cms:validate": "node scripts/content-cli.js validate",
+    "cms:samples": "node scripts/content-cli.js generate-samples",
+    "cms:import-mcqs": "node scripts/import-mcqs.js",
+    "cms:import-guides": "node scripts/import-guides.js",
+    "cms:import-subjects": "node scripts/import-subjects.js"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^3.0.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^4.0.0",
+    "tailwindcss": "^4.3.3"
+  }
+}

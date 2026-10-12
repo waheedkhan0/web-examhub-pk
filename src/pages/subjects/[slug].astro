@@ -1,0 +1,180 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const subjects = await getCollection('subjects');
+  return subjects.map(subject => ({
+    params: { slug: subject.slug },
+    props: { subject },
+  }));
+}
+
+interface Props {
+  subject: any;
+}
+
+const { subject } = Astro.props;
+const { Content } = await subject.render();
+
+// Get MCQs for this subject
+const allMcqs = await getCollection('mcqs');
+const subjectMcqs = allMcqs.filter(mcq => mcq.data.subject === subject.slug);
+---
+
+<BaseLayout
+  title={`${subject.data.title} - MCQs & Study Guide | ExamHub.pk`}
+  description={subject.data.description}
+>
+  <!-- Breadcrumb -->
+  <div class="bg-slate-50 border-b border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+      <nav class="flex items-center space-x-2 text-sm text-slate-600">
+        <a href="/" class="hover:text-teal-600">Home</a>
+        <span>/</span>
+        <a href="/subjects" class="hover:text-teal-600">Subjects</a>
+        <span>/</span>
+        <span class="text-slate-900 font-medium">{subject.data.title}</span>
+      </nav>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-start justify-between mb-6">
+        <div>
+          <h1 class="text-4xl md:text-5xl font-bold mb-3">{subject.data.title}</h1>
+          <p class="text-xl text-slate-300">{subject.data.description}</p>
+        </div>
+        <div class="text-6xl">{subject.data.icon === 'book' ? '📖' : '📚'}</div>
+      </div>
+
+      <!-- Stats -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
+        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
+          <div class="text-2xl font-bold text-teal-300">{subjectMcqs.length}</div>
+          <div class="text-sm text-slate-300">MCQ Sets</div>
+        </div>
+        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
+          <div class="text-2xl font-bold text-teal-300">{subject.data.relatedExams.length}</div>
+          <div class="text-sm text-slate-300">Related Exams</div>
+        </div>
+        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
+          <div class="text-2xl font-bold text-teal-300">{subject.data.subtopics.length}</div>
+          <div class="text-sm text-slate-300">Topics</div>
+        </div>
+        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
+          <div class="text-2xl font-bold text-teal-300">{subject.data.syllabusWeightage}</div>
+          <div class="text-sm text-slate-300">Avg Weightage</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Content -->
+  <article class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <!-- Overview Section -->
+    <div class="prose prose-lg max-w-none mb-12">
+      <Content />
+    </div>
+
+    <!-- Related Exams -->
+    {subject.data.relatedExams.length > 0 && (
+      <div class="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-12">
+        <h2 class="text-xl font-bold text-blue-900 mb-4">📋 Related Exams</h2>
+        <div class="flex flex-wrap gap-2">
+          {subject.data.relatedExams.map((exam: string) => (
+            <a href={`/exams/${exam.toLowerCase()}`} class="px-3 py-2 bg-blue-100 text-blue-700 rounded-lg hover:bg-blue-200 transition text-sm font-medium">
+              {exam}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Subtopics -->
+    {subject.data.subtopics.length > 0 && (
+      <div class="mb-12">
+        <h2 class="text-2xl font-bold text-slate-900 mb-6">📚 Topics in {subject.data.title}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {subject.data.subtopics.map((subtopic: any) => {
+            const subtopicMcqs = subjectMcqs.filter(mcq => mcq.data.topic === subtopic.slug);
+            return (
+              <a href={`/mcqs/${subject.slug}/${subtopic.slug}`} class="p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition">
+                <h3 class="font-bold text-slate-900 mb-2">{subtopic.name}</h3>
+                <p class="text-sm text-slate-600">
+                  {subtopicMcqs.length > 0 
+                    ? `${subtopicMcqs.length} MCQ ${subtopicMcqs.length === 1 ? 'set' : 'sets'}` 
+                    : `${subtopic.questionCount} questions`}
+                </p>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    <!-- MCQ Sets for this Subject -->
+    {subjectMcqs.length > 0 && (
+      <div>
+        <h2 class="text-2xl font-bold text-slate-900 mb-6">🎯 Available MCQ Sets</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {subjectMcqs.map(mcq => (
+            <a href={`/mcqs/${mcq.data.subject}/${mcq.data.topic}`} class="card-hover group">
+              <div class="flex items-start justify-between mb-3">
+                <div>
+                  <h3 class="font-bold text-slate-900 group-hover:text-teal-600">{mcq.data.title}</h3>
+                  <p class="text-sm text-slate-500 mt-1">{mcq.data.topicName}</p>
+                </div>
+                <span class="badge badge-primary">{mcq.data.questions.length} Q's</span>
+              </div>
+              <p class="text-sm text-slate-600 line-clamp-2 mb-4">{mcq.data.description}</p>
+              <div class="flex items-center justify-between text-xs">
+                <span class={`badge ${mcq.data.difficulty === 'Basic' ? 'bg-green-50 text-green-700' : mcq.data.difficulty === 'Intermediate' ? 'bg-blue-50 text-blue-700' : mcq.data.difficulty === 'Advanced' ? 'bg-orange-50 text-orange-700' : 'bg-red-50 text-red-700'}`}>
+                  {mcq.data.difficulty}
+                </span>
+                <span class="text-teal-600 font-medium group-hover:translate-x-1 transition-transform">Start →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Call to Action -->
+    <div class="bg-teal-50 border border-teal-200 rounded-lg p-8 text-center mt-12">
+      <h3 class="text-2xl font-bold text-slate-900 mb-3">Ready to Practice?</h3>
+      <p class="text-slate-600 mb-6">
+        Test your knowledge of {subject.data.title} with our comprehensive MCQ sets.
+      </p>
+      <a href="/mcqs" class="btn btn-primary">Browse More MCQs</a>
+    </div>
+  </article>
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://examhub.pk"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Subjects",
+        "item": "https://examhub.pk/subjects"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": subject.data.title,
+        "item": `https://examhub.pk/subjects/${subject.slug}`
+      }
+    ]
+  })} />
+</BaseLayout>

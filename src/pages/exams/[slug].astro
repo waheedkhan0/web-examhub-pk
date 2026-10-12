@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const exams = await getCollection('exams');
+  return exams.map(exam => ({
+    params: { slug: exam.slug },
+    props: { exam },
+  }));
+}
+
+interface Props {
+  exam: any;
+}
+
+const { exam } = Astro.props;
+const { Content } = await exam.render();
+---
+
+<BaseLayout
+  title={`${exam.data.fullName} - Complete Preparation Guide | ExamHub.pk`}
+  description={exam.data.description}
+>
+  <div class="bg-slate-50 border-b border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+      <nav class="flex items-center space-x-2 text-sm text-slate-600">
+        <a href="/" class="hover:text-teal-600">Home</a>
+        <span>/</span>
+        <a href="/exams" class="hover:text-teal-600">Exams</a>
+        <span>/</span>
+        <span class="text-slate-900 font-medium">{exam.data.title}</span>
+      </nav>
+    </div>
+  </div>
+
+  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-4xl md:text-5xl font-bold mb-3">{exam.data.fullName}</h1>
+      <p class="text-xl text-slate-300 mb-6 max-w-3xl">{exam.data.description}</p>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        {exam.data.keyStats.map((stat: any) => (
+          <div class="bg-white/10 backdrop-blur rounded-lg p-4">
+            <div class="text-teal-300 font-semibold">{stat.value}</div>
+            <div class="text-sm text-slate-300">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <article class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="prose prose-lg max-w-none mb-12">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

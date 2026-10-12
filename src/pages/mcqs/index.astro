@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const mcqs = await getCollection('mcqs');
+const subjects = await getCollection('subjects');
+---
+
+<BaseLayout
+  title="Practice MCQs | ExamHub.pk"
+  description="Thousands of quality MCQs with detailed explanations for all Pakistani competitive exams."
+>
+  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Practice MCQs</h1>
+      <p class="text-xl text-slate-300 max-w-3xl">
+        Thousands of quality MCQs with detailed explanations and exam patterns.
+      </p>
+    </div>
+  </div>
+
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="mb-8">
+      <p class="text-lg text-slate-700 font-semibold mb-4">Browse by Subject:</p>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {subjects.map(subject => {
+          const subjectMcqs = mcqs.filter(m => m.data.subject === subject.slug);
+          return (
+            <a href={`/subjects/${subject.slug}`} class="card-hover">
+              <h3 class="font-bold text-slate-900 mb-2">{subject.data.title}</h3>
+              <p class="text-sm text-slate-600 mb-3">{subjectMcqs.length} MCQ Sets • {subjectMcqs.reduce((acc, m) => acc + m.data.questions.length, 0)} Questions</p>
+              <span class="text-teal-600 font-medium text-sm">View →</span>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+
+    {mcqs.length > 0 && (
+      <>
+        <hr class="my-12" />
+        <p class="text-lg text-slate-700 font-semibold mb-4">Recent MCQ Sets:</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {mcqs.slice(0, 6).map(mcq => (
+            <a href={`/mcqs/${mcq.data.subject}/${mcq.data.topic}`} class="card-hover group">
+              <div class="flex items-start justify-between mb-2">
+                <h3 class="font-bold text-slate-900 group-hover:text-teal-600 line-clamp-2 flex-1">{mcq.data.title}</h3>
+                <span class="badge badge-primary ml-2">{mcq.data.questions.length}Q</span>
+              </div>
+              <p class="text-sm text-slate-600 line-clamp-2 mb-3">{mcq.data.description}</p>
+              <div class="flex justify-between items-center text-xs">
+                <span class="text-slate-500">{mcq.data.difficulty}</span>
+                <span class="text-teal-600 font-medium group-hover:translate-x-1 transition-transform">Start →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </>
+    )}
+  </div>
+</BaseLayout>

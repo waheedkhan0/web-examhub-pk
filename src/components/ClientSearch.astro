@@ -1,0 +1,115 @@
+---
+interface Props {
+  title?: string;
+}
+
+const { title = "Search MCQs, Subjects & Guides" } = Astro.props;
+---
+
+<div class="relative w-full max-w-2xl mx-auto my-6" id="search-widget">
+  <div class="relative">
+    <div class="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      </svg>
+    </div>
+    <input
+      type="text"
+      id="site-search-input"
+      placeholder="Search subjects, topics, MCQs (e.g., Pakistan Studies, Quran, Rivers, CSS...)"
+      class="w-full pl-11 pr-4 py-3 bg-white border border-slate-300 rounded-xl text-sm placeholder-slate-400 focus:outline-hidden focus:ring-2 focus:ring-teal-500 focus:border-teal-500 shadow-xs transition-all"
+    />
+  </div>
+
+  <!-- Search Results Dropdown -->
+  <div id="search-results" class="hidden absolute top-full left-0 right-0 mt-2 bg-white rounded-xl shadow-xl border border-slate-200 z-50 max-h-96 overflow-y-auto divide-y divide-slate-100">
+    <!-- Populated by JS -->
+  </div>
+</div>
+
+<script>
+  // Simple quick search directory of main topics & exams
+  const searchIndex = [
+    { title: "Pakistan Studies - Geography & Borders MCQs", url: "/mcqs/pakistan-studies/geography", category: "MCQs", keywords: "borders durand line k2 himalayas pass" },
+    { title: "Pakistan Studies - Constitutional History (1947–1973)", url: "/mcqs/pakistan-studies/constitution", category: "MCQs", keywords: "1973 constitution 1956 1962 amendments articles" },
+    { title: "Pakistan Studies - Freedom Movement (1857–1947)", url: "/mcqs/pakistan-studies/freedom-movement", category: "MCQs", keywords: "sir syed allama iqbal quaid e azam lahore resolution 1940" },
+    { title: "Pakistan Studies - Rivers, Dams & Water Barrages", url: "/mcqs/pakistan-studies/rivers-and-dams", category: "MCQs", keywords: "indus indus basin tarbela mangla hydro" },
+    { title: "Pakistan Studies - Economy & National Resources", url: "/mcqs/pakistan-studies/economy-and-resources", category: "MCQs", keywords: "gdp cpec minerals thar coal agriculture" },
+    { title: "Islamiat - Holy Quran Revelation & Compilations", url: "/mcqs/islamiat/quran-revelation", category: "MCQs", keywords: "makki madani surah ayat hazrat usman hazrat abu bakr" },
+    { title: "Islamiat - Seerat-un-Nabi & Prophetic Era", url: "/mcqs/islamiat/prophetic-era", category: "MCQs", keywords: "ghazwa badr uhud mecca treaties migration" },
+    { title: "Islamiat - Khulafa-e-Rashideen (Rightly Guided Caliphs)", url: "/mcqs/islamiat/rightly-guided-caliphs", category: "MCQs", keywords: "abu bakr umar usman ali battles administration" },
+    { title: "Islamiat - Islamic Jurisprudence & Pillars of Islam", url: "/mcqs/islamiat/pillars-and-jurisprudence", category: "MCQs", keywords: "zakat namaz hajj roza fiqh imam abu hanifa" },
+    { title: "General Knowledge - World Geography & Capitals", url: "/mcqs/general-knowledge/world-geography", category: "MCQs", keywords: "capitals continents straits canals mountains deserts" },
+    { title: "General Knowledge - International Organizations (UN, OIC, SCO)", url: "/mcqs/general-knowledge/international-organizations", category: "MCQs", keywords: "united nations headquarters unesco who imf world bank" },
+    { title: "General Knowledge - Famous Inventions & Discoveries", url: "/mcqs/general-knowledge/inventions-and-discoveries", category: "MCQs", keywords: "nobel scientists invention physics chemistry" },
+    { title: "Everyday Science - Human Anatomy & Physiology", url: "/mcqs/everyday-science/human-anatomy", category: "MCQs", keywords: "heart blood brain hormones vitamins diseases" },
+    { title: "Everyday Science - Physics, Atmosphere & Solar System", url: "/mcqs/everyday-science/physics-and-solar-system", category: "MCQs", keywords: "planets gravity light ozone layer atmosphere" },
+    { title: "English - Prepositions & Idiomatic Phrasal Verbs", url: "/mcqs/english/prepositions", category: "MCQs", keywords: "grammar prepositions idiom fpsc ppsc rules" },
+    { title: "English - Synonyms & Antonyms for Screening Tests", url: "/mcqs/english/vocabulary", category: "MCQs", keywords: "gre vocabulary analogies words antonyms synonyms" },
+    { title: "English - Sentence Correction & Active Passive Rules", url: "/mcqs/english/sentence-correction", category: "MCQs", keywords: "subject verb agreement conditionals tenses" },
+    { title: "Computer Science - IT Fundamentals & MS Office Shortcuts", url: "/mcqs/computer-science/it-fundamentals", category: "MCQs", keywords: "excel word powerpoint shortcut keys memory cpu" },
+    { title: "Computer Science - Networking, Security & Cloud Protocols", url: "/mcqs/computer-science/networking-and-security", category: "MCQs", keywords: "osi model tcp ip cybersecurity firewall dns" },
+    { title: "Current Affairs - CPEC & Pakistan Foreign Relations", url: "/mcqs/current-affairs/pakistan-foreign-relations", category: "MCQs", keywords: "china usa middle east treaties bilateral sco saarc" },
+    { title: "Mathematics - Quantitative Ability, Percentages & Ratios", url: "/mcqs/mathematics/quantitative-ability", category: "MCQs", keywords: "speed time work ratio algebra percentage nts gat" },
+    { title: "CSS Exam Preparation Hub", url: "/exams/css", category: "Exam", keywords: "ce-2026 fpsc compulsory optional papers mpt" },
+    { title: "PPSC Examination Master Guide", url: "/exams/ppsc", category: "Exam", keywords: "punjab public service commission lecturer tehsildar sub-inspector" },
+    { title: "FPSC Inspector & Officer Tests", url: "/exams/fpsc", category: "Exam", keywords: "federal public service commission custom inspector ad fia" },
+    { title: "NTS NAT/GAT Screening Test Hub", url: "/exams/nts", category: "Exam", keywords: "national testing service gat general subject nat" },
+    { title: "PMS Provincial Management Service Hub", url: "/exams/pms", category: "Exam", keywords: "provincial civil service punjab sindh kpk" },
+    { title: "Complete CSS Preparation Strategy 2026", url: "/guides/complete-css-preparation-guide-2026", category: "Guide", keywords: "roadmap english essay current affairs syllabus" },
+    { title: "How to Prepare for PPSC One-Paper MCQs in 3 Months", url: "/guides/how-to-prepare-for-ppsc-in-3-months", category: "Guide", keywords: "one paper strategy past papers general knowledge" },
+    { title: "Mastering Current Affairs & International Relations", url: "/guides/best-strategy-for-current-affairs-mcqs", category: "Guide", keywords: "newspaper dawn notes foreign policy" },
+  ];
+
+  const searchInput = document.getElementById('site-search-input') as HTMLInputElement | null;
+  const resultsBox = document.getElementById('search-results');
+
+  if (searchInput && resultsBox) {
+    searchInput.addEventListener('input', (e) => {
+      const val = (e.target as HTMLInputElement).value.trim().toLowerCase();
+      if (val.length < 2) {
+        resultsBox.classList.add('hidden');
+        resultsBox.innerHTML = '';
+        return;
+      }
+
+      const matches = searchIndex.filter(item => 
+        item.title.toLowerCase().includes(val) || 
+        item.keywords.toLowerCase().includes(val) ||
+        item.category.toLowerCase().includes(val)
+      ).slice(0, 7);
+
+      if (matches.length === 0) {
+        resultsBox.innerHTML = `
+          <div class="p-4 text-center text-sm text-slate-500">
+            No matching resources found for "${val}". Try "Pakistan Studies", "CSS", or "Quran".
+          </div>
+        `;
+        resultsBox.classList.remove('hidden');
+        return;
+      }
+
+      resultsBox.innerHTML = matches.map(m => `
+        <a href="${m.url}" class="block p-3.5 hover:bg-slate-50 transition-colors">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-bold px-2 py-0.5 rounded ${
+              m.category === 'Exam' ? 'bg-purple-100 text-purple-800' :
+              m.category === 'Guide' ? 'bg-amber-100 text-amber-800' : 'bg-teal-100 text-teal-800'
+            }">${m.category}</span>
+            <span class="text-xs text-slate-400">Jump to resource →</span>
+          </div>
+          <div class="text-sm font-semibold text-slate-800 mt-1">${m.title}</div>
+        </a>
+      `).join('');
+
+      resultsBox.classList.remove('hidden');
+    });
+
+    // Close when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!searchInput.contains(e.target as Node) && !resultsBox.contains(e.target as Node)) {
+        resultsBox.classList.add('hidden');
+      }
+    });
+  }
+</script>

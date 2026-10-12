@@ -1,0 +1,248 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  canonical?: string;
+  noindex?: boolean;
+}
+
+const { title, description, ogImage = '/og-image.png', canonical, noindex = false } = Astro.props;
+const { pathname } = Astro.url;
+const fullUrl = new URL(pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#0f172a" />
+    
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    {canonical && <link rel="canonical" href={canonical} />}
+    {!canonical && <link rel="canonical" href={fullUrl} />}
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={fullUrl} />
+    <meta property="og:site_name" content="ExamHub.pk - Pakistani Competitive Exam Preparation" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>{title} | ExamHub.pk</title>
+
+    <!-- Google Analytics placeholder -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX', { anonymize_ip: true });
+    </script>
+
+    <!-- Structured Data: Organization -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "ExamHub.pk",
+        "url": "https://examhub.pk",
+        "logo": "https://examhub.pk/logo.png",
+        "description": "High-quality Pakistani competitive exam preparation platform with MCQs, guides, and resources.",
+        "sameAs": [
+          "https://www.facebook.com/examhub.pk",
+          "https://www.twitter.com/examhubpk",
+          "https://www.instagram.com/examhubpk"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "Customer Support",
+          "email": "support@examhub.pk"
+        }
+      }
+    </script>
+
+    <!-- Structured Data: Website -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://examhub.pk",
+        "name": "ExamHub.pk",
+        "description": "Pakistani competitive exam preparation with MCQs, guides, and study resources",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://examhub.pk/search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+  </head>
+  <body class="bg-white text-slate-900 font-sans">
+    <!-- Skip to main content -->
+    <a href="#main-content" class="sr-only focus:not-sr-only">Skip to main content</a>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-16">
+          <!-- Logo -->
+          <a href="/" class="flex items-center space-x-2 font-bold text-xl text-slate-900 hover:text-teal-600 transition">
+            <div class="w-8 h-8 bg-teal-600 rounded-lg flex items-center justify-center">
+              <span class="text-white font-bold">E</span>
+            </div>
+            <span class="hidden sm:inline">ExamHub.pk</span>
+          </a>
+
+          <!-- Desktop Navigation -->
+          <div class="hidden md:flex items-center space-x-8">
+            <a href="/exams" class="text-slate-700 hover:text-teal-600 font-medium transition">Exams</a>
+            <a href="/subjects" class="text-slate-700 hover:text-teal-600 font-medium transition">Subjects</a>
+            <a href="/mcqs" class="text-slate-700 hover:text-teal-600 font-medium transition">MCQs</a>
+            <a href="/practice" class="text-slate-700 hover:text-teal-600 font-medium transition">Practice</a>
+            <a href="/blog" class="text-slate-700 hover:text-teal-600 font-medium transition">Blog</a>
+            <a href="/resources" class="text-slate-700 hover:text-teal-600 font-medium transition">Resources</a>
+          </div>
+
+          <!-- Mobile menu button -->
+          <button
+            class="md:hidden p-2 text-slate-700 hover:text-teal-600"
+            id="mobile-menu-btn"
+            aria-label="Toggle menu"
+          >
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+        </div>
+
+        <!-- Mobile Navigation -->
+        <div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-slate-200">
+          <a href="/exams" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Exams</a>
+          <a href="/subjects" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Subjects</a>
+          <a href="/mcqs" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">MCQs</a>
+          <a href="/practice" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Practice</a>
+          <a href="/blog" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Blog</a>
+          <a href="/resources" class="block py-2 px-2 text-slate-700 hover:text-teal-600 transition">Resources</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main id="main-content" class="min-h-screen">
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-slate-200 py-12 mt-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+          <!-- About -->
+          <div>
+            <h3 class="font-bold text-white mb-4">About ExamHub</h3>
+            <p class="text-sm text-slate-300">
+              Comprehensive Pakistani competitive exam preparation platform with high-quality MCQs, guides, and resources for CSS, PMS, PPSC, FPSC, NTS, and more.
+            </p>
+          </div>
+
+          <!-- Exams -->
+          <div>
+            <h3 class="font-bold text-white mb-4">Exams</h3>
+            <ul class="space-y-2 text-sm">
+              <li><a href="/exams/css" class="hover:text-teal-400 transition">CSS</a></li>
+              <li><a href="/exams/pms" class="hover:text-teal-400 transition">PMS</a></li>
+              <li><a href="/exams/ppsc" class="hover:text-teal-400 transition">PPSC</a></li>
+              <li><a href="/exams/fpsc" class="hover:text-teal-400 transition">FPSC</a></li>
+              <li><a href="/exams/nts" class="hover:text-teal-400 transition">NTS</a></li>
+            </ul>
+          </div>
+
+          <!-- Resources -->
+          <div>
+            <h3 class="font-bold text-white mb-4">Resources</h3>
+            <ul class="space-y-2 text-sm">
+              <li><a href="/blog" class="hover:text-teal-400 transition">Blog</a></li>
+              <li><a href="/guides" class="hover:text-teal-400 transition">Guides</a></li>
+              <li><a href="/resources" class="hover:text-teal-400 transition">Study Resources</a></li>
+              <li><a href="/subjects" class="hover:text-teal-400 transition">Subjects</a></li>
+            </ul>
+          </div>
+
+          <!-- Legal -->
+          <div>
+            <h3 class="font-bold text-white mb-4">Legal</h3>
+            <ul class="space-y-2 text-sm">
+              <li><a href="/about" class="hover:text-teal-400 transition">About Us</a></li>
+              <li><a href="/contact" class="hover:text-teal-400 transition">Contact</a></li>
+              <li><a href="/privacy-policy" class="hover:text-teal-400 transition">Privacy Policy</a></li>
+              <li><a href="/terms" class="hover:text-teal-400 transition">Terms</a></li>
+              <li><a href="/disclaimer" class="hover:text-teal-400 transition">Disclaimer</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="border-t border-slate-700 pt-8">
+          <div class="flex flex-col md:flex-row justify-between items-center">
+            <p class="text-sm text-slate-300">
+              © 2026 ExamHub.pk. All rights reserved. | For Pakistani competitive exam aspirants.
+            </p>
+            <div class="flex space-x-6 mt-4 md:mt-0">
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition">
+                <span class="sr-only">Facebook</span>
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" /></svg>
+              </a>
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition">
+                <span class="sr-only">Twitter</span>
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M8.29 20c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-7.593 3.744A11.65 11.65 0 012.794 4.555a4.108 4.108 0 001.27 5.478A4.086 4.086 0 012 9.713v.052a4.105 4.105 0 003.292 4.022 4.093 4.093 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" /></svg>
+              </a>
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition">
+                <span class="sr-only">Instagram</span>
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><rect width="24" height="24" rx="5.17" fill="url(#paint0_radial_87_7153)" /><rect width="24" height="24" rx="5.17" fill="url(#paint1_radial_87_7153)" /><path d="M12 2.16c2.695 0 3.012.01 4.07.059 1.04.048 1.604.228 1.98.385a3.291 3.291 0 011.889 1.89c.157.375.337.938.385 1.98.049 1.057.059 1.374.059 4.07 0 2.695-.01 3.012-.059 4.07-.048 1.04-.228 1.604-.385 1.98a3.291 3.291 0 01-1.89 1.889c-.375.157-.938.337-1.98.385-1.057.049-1.374.059-4.07.059-2.695 0-3.012-.01-4.07-.059-1.04-.048-1.604-.228-1.98-.385a3.291 3.291 0 01-1.889-1.89c-.157-.375-.337-.938-.385-1.98-.049-1.057-.059-1.374-.059-4.07 0-2.695.01-3.012.059-4.07.048-1.04.228-1.604.385-1.98a3.291 3.291 0 011.89-1.889c.375-.157.938-.337 1.98-.385 1.057-.049 1.374-.059 4.07-.059zm0 1.802c-2.67 0-2.962.01-4.007.058-.97.045-1.504.207-1.857.344-.466.181-.798.397-1.148.747-.35.35-.566.682-.747 1.148-.137.353-.3.887-.344 1.857-.049 1.045-.058 1.337-.058 4.007 0 2.67.01 2.962.058 4.007.045.97.207 1.504.344 1.857.181.466.397.798.747 1.148.35.35.682.566 1.148.747.353.137.887.3 1.857.344 1.045.049 1.337.058 4.007.058 2.67 0 2.962-.01 4.007-.058.97-.045 1.504-.207 1.857-.344.466-.181.798-.397 1.148-.747.35-.35.566-.682.747-1.148.137-.353.3-.887.344-1.857.049-1.045.058-1.337.058-4.007 0-2.67-.01-2.962-.058-4.007-.045-.97-.207-1.504-.344-1.857-.181-.466-.397-.798-.747-1.148-.35-.35-.682-.566-1.148-.747-.353-.137-.887-.3-1.857-.344-1.045-.049-1.337-.058-4.007-.058z" fill="#fff" /><path d="M12 6.865a5.135 5.135 0 100 10.27 5.135 5.135 0 000-10.27zm0 8.468a3.333 3.333 0 110 -6.666 3.333 3.333 0 010 6.666z" fill="#fff" /><circle cx="17.34" cy="6.865" r="1.201" fill="#fff" /><defs><radialGradient id="paint0_radial_87_7153" cx="0" cy="0" r="1" gradientTransform="translate(-298.468 -439.368)scale(251.772)"><stop offset=".067" stop-color="#feda75" /><stop offset=".243" stop-color="#fa7e1e" /><stop offset=".426" stop-color="#d92e7f" /></radialGradient><radialGradient id="paint1_radial_87_7153" cx="0" cy="0" r="1" gradientTransform="translate(-217.703 -450.469)scale(360.266)"><stop offset=".3" stop-color="#3441c7" /><stop offset="1" stop-color="#1f6feb" stop-opacity="0" /></radialGradient></defs>" /></svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      // Mobile menu toggle
+      const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+      const mobileMenu = document.getElementById('mobile-menu');
+      
+      if (mobileMenuBtn && mobileMenu) {
+        mobileMenuBtn.addEventListener('click', () => {
+          mobileMenu.classList.toggle('hidden');
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,204 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Get featured content
+const guides = await getCollection('guides');
+const blog = await getCollection('blog');
+const subjects = await getCollection('subjects');
+
+const featuredGuides = guides.filter(g => g.data.featured).slice(0, 3);
+const latestBlog = blog.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()).slice(0, 3);
+const allSubjects = subjects.slice(0, 6);
+---
+
+<BaseLayout title="ExamHub.pk - Pakistani Competitive Exam Preparation" description="Prepare for CSS, PMS, PPSC, FPSC, NTS and other Pakistani competitive exams with quality MCQs, guides, and resources.">
+  <!-- Hero Section -->
+  <section class="relative bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-20">
+    <div class="absolute inset-0 overflow-hidden">
+      <div class="absolute top-0 left-1/4 w-96 h-96 bg-teal-500/10 rounded-full blur-3xl"></div>
+      <div class="absolute bottom-0 right-1/4 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl"></div>
+    </div>
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+        Master Pakistani <span class="text-gradient">Competitive Exams</span>
+      </h1>
+      <p class="text-xl md:text-2xl text-slate-300 mb-8 max-w-3xl mx-auto">
+        High-quality MCQs, comprehensive guides, and expert resources for CSS, PMS, PPSC, FPSC, NTS, and more. 50+ pages of premium content crafted for your success.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+        <a href="/exams" class="btn btn-primary text-lg">Explore Exams</a>
+        <a href="/mcqs" class="btn btn-secondary text-lg">Start Practicing</a>
+      </div>
+
+      <!-- Stats -->
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mt-12">
+        <div class="bg-white/10 backdrop-blur rounded-lg p-6">
+          <div class="text-4xl font-bold text-teal-300">50+</div>
+          <div class="text-sm text-slate-300 mt-2">Quality Pages</div>
+        </div>
+        <div class="bg-white/10 backdrop-blur rounded-lg p-6">
+          <div class="text-4xl font-bold text-teal-300">500+</div>
+          <div class="text-sm text-slate-300 mt-2">MCQs</div>
+        </div>
+        <div class="bg-white/10 backdrop-blur rounded-lg p-6">
+          <div class="text-4xl font-bold text-teal-300">8+</div>
+          <div class="text-sm text-slate-300 mt-2">Major Exams</div>
+        </div>
+        <div class="bg-white/10 backdrop-blur rounded-lg p-6">
+          <div class="text-4xl font-bold text-teal-300">100%</div>
+          <div class="text-sm text-slate-300 mt-2">Original Content</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Exams -->
+  <section class="py-16 bg-slate-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-slate-900 mb-4 text-center">Popular Exams</h2>
+      <p class="text-center text-slate-600 mb-12 max-w-2xl mx-auto">Comprehensive preparation materials for Pakistan's most competitive civil service and professional exams</p>
+      
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {[
+          { slug: 'css', name: 'CSS', desc: 'Central Superior Services Examination' },
+          { slug: 'pms', name: 'PMS', desc: 'Provincial Management Services' },
+          { slug: 'ppsc', name: 'PPSC', desc: 'Punjab Public Service Commission' },
+          { slug: 'fpsc', name: 'FPSC', desc: 'Federal Public Service Commission' },
+          { slug: 'nts', name: 'NTS', desc: 'National Testing Service' },
+          { slug: 'issb', name: 'ISSB', desc: 'Inter-Services Selection Board' },
+        ].map(exam => (
+          <a href={`/exams/${exam.slug}`} class="card-hover group">
+            <div class="flex items-start justify-between mb-3">
+              <div>
+                <h3 class="text-xl font-bold text-slate-900 group-hover:text-teal-600">{exam.name}</h3>
+                <p class="text-sm text-slate-600 mt-1">{exam.desc}</p>
+              </div>
+              <div class="text-2xl">📚</div>
+            </div>
+            <p class="text-sm text-teal-600 font-medium group-hover:translate-x-1 transition-transform">View Details →</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Subjects Grid -->
+  <section class="py-16">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-slate-900 mb-4 text-center">Study by Subject</h2>
+      <p class="text-center text-slate-600 mb-12 max-w-2xl mx-auto">Master each subject with organized MCQs, detailed explanations, and exam-focused content</p>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {allSubjects.map(subject => (
+          <a href={`/subjects/${subject.slug}`} class="card-hover group">
+            <div class="flex items-start justify-between mb-3">
+              <div>
+                <h3 class="text-lg font-bold text-slate-900 group-hover:text-teal-600">{subject.data.title}</h3>
+                <p class="text-xs text-slate-500 mt-1 font-medium">Syllabus: {subject.data.syllabusWeightage}</p>
+              </div>
+              <div class="text-2xl">{subject.data.icon === 'book' ? '📖' : '📚'}</div>
+            </div>
+            <p class="text-sm text-slate-600 line-clamp-2 mb-3">{subject.data.description}</p>
+            <p class="text-xs text-teal-600 font-medium">Explore Topic →</p>
+          </a>
+        ))}
+      </div>
+
+      <div class="text-center mt-8">
+        <a href="/subjects" class="btn btn-primary">View All Subjects</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Guides -->
+  <section class="py-16 bg-slate-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-slate-900 mb-4 text-center">Study Guides</h2>
+      <p class="text-center text-slate-600 mb-12 max-w-2xl mx-auto">In-depth guides covering strategies, syllabus breakdown, and expert tips for each major exam</p>
+      
+      {featuredGuides.length > 0 ? (
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+          {featuredGuides.map(guide => (
+            <a href={`/guides/${guide.slug}`} class="card-hover group">
+              <div class="mb-3">
+                <span class="badge badge-primary">{guide.data.category}</span>
+              </div>
+              <h3 class="text-lg font-bold text-slate-900 group-hover:text-teal-600 mb-2 line-clamp-2">{guide.data.title}</h3>
+              <p class="text-sm text-slate-600 line-clamp-2 mb-4">{guide.data.description}</p>
+              <div class="flex items-center justify-between text-xs text-slate-500">
+                <span>{guide.data.readingTime}</span>
+                <span class="text-teal-600 font-medium group-hover:translate-x-1 transition-transform">Read →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="text-center text-slate-600 mb-8">Featured guides coming soon...</p>
+      )}
+
+      <div class="text-center">
+        <a href="/guides" class="btn btn-primary">Browse All Guides</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest Blog Posts -->
+  <section class="py-16">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-slate-900 mb-4 text-center">Latest Updates</h2>
+      <p class="text-center text-slate-600 mb-12 max-w-2xl mx-auto">Stay informed with exam news, strategy updates, and trending topics</p>
+      
+      {latestBlog.length > 0 ? (
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+          {latestBlog.map(post => (
+            <a href={`/blog/${post.slug}`} class="card-hover group">
+              <div class="mb-3 flex items-center justify-between">
+                <span class="badge badge-primary">{post.data.category}</span>
+                <span class="text-xs text-slate-500">{new Date(post.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+              </div>
+              <h3 class="text-lg font-bold text-slate-900 group-hover:text-teal-600 mb-2 line-clamp-2">{post.data.title}</h3>
+              <p class="text-sm text-slate-600 line-clamp-2">{post.data.description}</p>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="text-center text-slate-600 mb-8">Latest posts coming soon...</p>
+      )}
+
+      <div class="text-center">
+        <a href="/blog" class="btn btn-primary">View All Posts</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="bg-teal-600 text-white py-16">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">Ready to Excel?</h2>
+      <p class="text-lg text-teal-100 mb-8 max-w-2xl mx-auto">
+        Join thousands of students using ExamHub.pk to prepare for competitive exams. Start with free practice today.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/mcqs" class="btn bg-white text-teal-600 hover:bg-slate-100 font-semibold">Start Practicing</a>
+        <a href="/about" class="btn border-2 border-white text-white hover:bg-white/10">Learn More</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Structured Data: Schema markup -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://examhub.pk"
+        }
+      ]
+    }
+  </script>
+</BaseLayout>

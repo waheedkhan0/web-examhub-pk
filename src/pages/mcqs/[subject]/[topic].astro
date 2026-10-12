@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import MCQLayout from '../../../layouts/MCQLayout.astro';
+
+export async function getStaticPaths() {
+  const mcqs = await getCollection('mcqs');
+  return mcqs.map(mcq => ({
+    params: { subject: mcq.data.subject, topic: mcq.data.topic },
+    props: { mcq },
+  }));
+}
+
+interface Props {
+  mcq: any;
+}
+
+const { mcq } = Astro.props;
+const { Content } = await mcq.render();
+---
+
+<MCQLayout
+  title={mcq.data.title}
+  description={mcq.data.description}
+  subject={mcq.data.subject}
+  subjectName={mcq.data.subjectName}
+  topic={mcq.data.topic}
+  topicName={mcq.data.topicName}
+  difficulty={mcq.data.difficulty}
+  targetExams={mcq.data.targetExams}
+  questions={mcq.data.questions}
+  updatedDate={mcq.data.updatedDate}
+>
+  <Content />
+</MCQLayout>
