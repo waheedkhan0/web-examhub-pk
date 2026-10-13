@@ -51,7 +51,7 @@ const HEADER_ALIASES = {
   option3: ['c', 'optionc', 'option_c', 'choice3'],
   option4: ['d', 'optiond', 'option_d', 'choice4'],
   option5: ['e', 'optione', 'option_e', 'choice5'],
-  answer: ['correctanswer', 'correct_answer', 'answerkey', 'answer_index', 'correct', 'ans'],
+  answer: ['correctanswer', 'correct_answer', 'answerkey', 'answer_index', 'correct', 'ans', 'correctoption', 'correctoptiontext'],
   explanation: ['explanationtext', 'explanation_text', 'reason', 'rationale', 'detail'],
   keyConcept: ['keyconcept', 'key_concept', 'concept'],
   examTip: ['examtip', 'exam_tip', 'tip'],

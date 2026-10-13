@@ -20,6 +20,120 @@ subtopics:
   - name: Inventions, Discoveries and Nobel Laureates
     slug: inventions-and-discoveries
     questionCount: 14
+  - name: General Knowledge — Mixed Practice
+    slug: general-knowledge-mix
+    questionCount: 1
+  - name: Abbreviations & Important Days
+    slug: abbreviations-and-days
+    questionCount: 36
+  - name: Awards & Honours — Part 1
+    slug: awards-and-honours-part-1
+    questionCount: 40
+  - name: Awards & Honours — Part 2
+    slug: awards-and-honours-part-2
+    questionCount: 31
+  - name: Books & Authors — Part 1
+    slug: books-and-authors-part-1
+    questionCount: 40
+  - name: Books & Authors — Part 2
+    slug: books-and-authors-part-2
+    questionCount: 40
+  - name: Books & Authors — Part 3
+    slug: books-and-authors-part-3
+    questionCount: 40
+  - name: Books & Authors — Part 4
+    slug: books-and-authors-part-4
+    questionCount: 40
+  - name: Books & Authors — Part 5
+    slug: books-and-authors-part-5
+    questionCount: 40
+  - name: General Knowledge — Mixed Practice — Part 1
+    slug: general-knowledge-mix-part-1
+    questionCount: 40
+  - name: General Knowledge — Mixed Practice — Part 2
+    slug: general-knowledge-mix-part-2
+    questionCount: 40
+  - name: General Knowledge — Mixed Practice — Part 3
+    slug: general-knowledge-mix-part-3
+    questionCount: 40
+  - name: General Knowledge — Mixed Practice — Part 4
+    slug: general-knowledge-mix-part-4
+    questionCount: 40
+  - name: General Knowledge — Mixed Practice — Part 5
+    slug: general-knowledge-mix-part-5
+    questionCount: 40
+  - name: World History & Civilization — Part 1
+    slug: history-and-civilization-part-1
+    questionCount: 40
+  - name: World History & Civilization — Part 2
+    slug: history-and-civilization-part-2
+    questionCount: 40
+  - name: World History & Civilization — Part 3
+    slug: history-and-civilization-part-3
+    questionCount: 40
+  - name: World History & Civilization — Part 4
+    slug: history-and-civilization-part-4
+    questionCount: 40
+  - name: World History & Civilization — Part 5
+    slug: history-and-civilization-part-5
+    questionCount: 34
+  - name: International Organizations — Part 1
+    slug: international-organizations-part-1
+    questionCount: 40
+  - name: International Organizations — Part 2
+    slug: international-organizations-part-2
+    questionCount: 40
+  - name: International Organizations — Part 3
+    slug: international-organizations-part-3
+    questionCount: 40
+  - name: International Organizations — Part 4
+    slug: international-organizations-part-4
+    questionCount: 21
+  - name: Inventions & Discoveries — Part 1
+    slug: inventions-and-discoveries-part-1
+    questionCount: 40
+  - name: Inventions & Discoveries — Part 2
+    slug: inventions-and-discoveries-part-2
+    questionCount: 40
+  - name: Inventions & Discoveries — Part 3
+    slug: inventions-and-discoveries-part-3
+    questionCount: 40
+  - name: Inventions & Discoveries — Part 4
+    slug: inventions-and-discoveries-part-4
+    questionCount: 40
+  - name: Inventions & Discoveries — Part 5
+    slug: inventions-and-discoveries-part-5
+    questionCount: 40
+  - name: Sports & Games — Part 1
+    slug: sports-part-1
+    questionCount: 40
+  - name: Sports & Games — Part 2
+    slug: sports-part-2
+    questionCount: 40
+  - name: Sports & Games — Part 3
+    slug: sports-part-3
+    questionCount: 40
+  - name: Sports & Games — Part 4
+    slug: sports-part-4
+    questionCount: 40
+  - name: Sports & Games — Part 5
+    slug: sports-part-5
+    questionCount: 30
+  - name: World Geography & Capitals — Part 1
+    slug: world-geography-part-1
+    questionCount: 40
+  - name: World Geography & Capitals — Part 2
+    slug: world-geography-part-2
+    questionCount: 40
+  - name: World Geography & Capitals — Part 3
+    slug: world-geography-part-3
+    questionCount: 40
+  - name: World Geography & Capitals — Part 4
+    slug: world-geography-part-4
+    questionCount: 40
+  - name: World Geography & Capitals — Part 5
+    slug: world-geography-part-5
+    questionCount: 40
 ---
 
 ## General Knowledge: Breadth, Fact Verification, and Retention

@@ -19,10 +19,73 @@ subtopics:
     questionCount: 10
   - name: Khulafa-e-Rashideen (Rightly Guided Caliphs)
     slug: rightly-guided-caliphs
-    questionCount: 10
+    questionCount: 47
   - name: Pillars of Islam & Jurisprudence (Fiqh)
     slug: pillars-and-jurisprudence
     questionCount: 10
+  - name: Hadith & Sunnah — Part 1
+    slug: hadith-and-sunnah-part-1
+    questionCount: 40
+  - name: Hadith & Sunnah — Part 2
+    slug: hadith-and-sunnah-part-2
+    questionCount: 19
+  - name: Islamiat — Mixed Practice — Part 1
+    slug: islamiat-mix-part-1
+    questionCount: 40
+  - name: Islamiat — Mixed Practice — Part 2
+    slug: islamiat-mix-part-2
+    questionCount: 40
+  - name: Islamiat — Mixed Practice — Part 3
+    slug: islamiat-mix-part-3
+    questionCount: 40
+  - name: Islamiat — Mixed Practice — Part 4
+    slug: islamiat-mix-part-4
+    questionCount: 40
+  - name: Islamiat — Mixed Practice — Part 5
+    slug: islamiat-mix-part-5
+    questionCount: 40
+  - name: Islamic Law & Society
+    slug: islamic-law-and-society
+    questionCount: 6
+  - name: Pillars of Islam & Jurisprudence — Part 1
+    slug: pillars-and-jurisprudence-part-1
+    questionCount: 40
+  - name: Pillars of Islam & Jurisprudence — Part 2
+    slug: pillars-and-jurisprudence-part-2
+    questionCount: 40
+  - name: Pillars of Islam & Jurisprudence — Part 3
+    slug: pillars-and-jurisprudence-part-3
+    questionCount: 24
+  - name: Seerah — Life of the Prophet ﷺ — Part 1
+    slug: prophetic-era-part-1
+    questionCount: 40
+  - name: Seerah — Life of the Prophet ﷺ — Part 2
+    slug: prophetic-era-part-2
+    questionCount: 40
+  - name: Seerah — Life of the Prophet ﷺ — Part 3
+    slug: prophetic-era-part-3
+    questionCount: 40
+  - name: Seerah — Life of the Prophet ﷺ — Part 4
+    slug: prophetic-era-part-4
+    questionCount: 40
+  - name: Seerah — Life of the Prophet ﷺ — Part 5
+    slug: prophetic-era-part-5
+    questionCount: 40
+  - name: Quran & Its Revelation — Part 1
+    slug: quran-revelation-part-1
+    questionCount: 40
+  - name: Quran & Its Revelation — Part 2
+    slug: quran-revelation-part-2
+    questionCount: 40
+  - name: Quran & Its Revelation — Part 3
+    slug: quran-revelation-part-3
+    questionCount: 40
+  - name: Quran & Its Revelation — Part 4
+    slug: quran-revelation-part-4
+    questionCount: 40
+  - name: Quran & Its Revelation — Part 5
+    slug: quran-revelation-part-5
+    questionCount: 40
 ---
 
 ## Islamic Studies: Spiritual Depth and Academic Accuracy

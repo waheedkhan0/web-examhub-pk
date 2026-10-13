@@ -6,7 +6,7 @@ subjectName: Computer Science & Information Technology
 topic: it-fundamentals
 topicName: IT Fundamentals and MS Office Shortcuts
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-12"
+updatedDate: "2026-10-13"
 difficulty: Exam-Level
 targetExams:
   - PPSC
@@ -207,12 +207,32 @@ questions:
       - .pdf
       - .pptx
     answer: 3
-    explanation: The .pptx extension marks a PowerPoint presentation in the XML-based format, .docx is a Word document and .xlsx an Excel workbook, while .pdf is the layout-preserving Portable Document Format introduced by Adobe. The earlier binary formats were saved as .ppt, .doc and .xls.
-    keyConcept: "Common extensions: .docx Word, .xlsx Excel, .pptx PowerPoint, .pdf document, .zip archive, .jpg/.png/.gif images, .mp3 audio, .mp4 video"
+    explanation: The.pptx extension marks a PowerPoint presentation in the XML-based format,.docx is a Word document and.xlsx an Excel workbook, while.pdf is the layout-preserving Portable Document Format introduced by Adobe. The earlier binary formats were saved as.ppt,.doc and.xls.
+    keyConcept: Common extensions:.docx Word,.xlsx Excel,.pptx PowerPoint,.pdf document,.zip archive,.jpg/.png/.gif images,.mp3 audio,.mp4 video
     examTip: The trailing x marks the XML-based Office formats (docx, xlsx, pptx); the legacy formats carried no x.
     testedIn:
       - NTS
       - FPSC
+  - id: 15
+    question: Which of the following are components of Central Processing Unit (CPU)?
+    options:
+      - A.Arithmetic logic unit, Mouse
+      - B.Arithmetic logic unit, Control unit
+      - C.Arithmetic logic unit, Integrated Circuits
+      - D.Control Unit, Monitor
+    answer: 1
+    explanation: Arithmetic logic unit, Control unit
+    keyConcept: Computer Fundamentals & Hardware
+  - id: 16
+    question: What is the main difference between a mainframe and a super computer?
+    options:
+      - A.Super computer is much larger than mainframe computers
+      - B.Super computers are much smaller than mainframe computers
+      - C.Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently
+      - D.Supercomputers are focused to execute as many programs as possible while mainframe uses its power to execute few programs as fast as possible.
+    answer: 2
+    explanation: Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently
+    keyConcept: Computer Fundamentals & Hardware
 ---
 
 ## About this set

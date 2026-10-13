@@ -6,11 +6,13 @@ subjectName: Pakistan Studies & Constitutional Affairs
 topic: geography
 topicName: Geography, Borders & Mountain Passes
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-12"
-difficulty: Exam-Level
+updatedDate: "2026-10-13"
+difficulty: Basic
 targetExams:
   - PPSC
   - FPSC
+  - CSS
+  - PMS
   - NTS
 questions:
   - id: 1
@@ -163,6 +165,76 @@ questions:
     answer: 0
     explanation: The Broghol Pass, at about 4,660 m, links Chitral in Pakistan with Badakhshan in Afghanistan. Of the options, the Khyber Pass is far lower at roughly 1,067 m, while the Khunjerab Pass (about 4,694 m) is on the China border and carries the Karakoram Highway.
     keyConcept: High mountain passes
+  - id: 12
+    question: Which river is the longest in Pakistan?
+    options:
+      - Indus River
+      - Chenab River
+      - Jhelum River
+      - Sutlej River
+    answer: 0
+    explanation: The Indus River is approximately 3,180 km long, making it the longest river in Pakistan. It originates in Tibet and flows through the entire length of Pakistan before emptying into the Arabian Sea.
+    keyConcept: Geography, Borders & Mountain Passes
+  - id: 13
+    question: Which mountain range separates Pakistan from China?
+    options:
+      - Himalayas
+      - Hindu Kush
+      - Karakoram
+      - Sulaiman Range
+    answer: 2
+    explanation: The Karakoram Range forms the natural boundary between Pakistan and China in the northern areas. It contains K2 (Mount Godwin-Austen), the second highest peak in the world at 8,611 meters.
+    keyConcept: Geography, Borders & Mountain Passes
+  - id: 14
+    question: Which province of Pakistan has the largest area?
+    options:
+      - Punjab
+      - Sindh
+      - Khyber Pakhtunkhwa
+      - Balochistan
+    answer: 3
+    explanation: Balochistan is the largest province of Pakistan by area, covering approximately 347,190 square kilometers, which is about 44% of Pakistan's total land area.
+    keyConcept: Geography, Borders & Mountain Passes
+  - id: 15
+    question: The Tarbela Dam is built on which river?
+    options:
+      - Indus River
+      - Jhelum River
+      - Chenab River
+      - Kabul River
+    answer: 0
+    explanation: Tarbela Dam, one of the largest earth-filled dams in the world, is built on the Indus River in Khyber Pakhtunkhwa province. It was completed in 1976 and serves irrigation, flood control, and hydroelectric power generation purposes.
+    keyConcept: Geography, Borders & Mountain Passes
+  - id: 16
+    question: Which is the highest peak of Pakistan?
+    options:
+      - Nanga Parbat
+      - Rakaposhi
+      - K2 (Mount Godwin-Austen)
+      - Tirich Mir
+    answer: 2
+    explanation: K2, also known as Mount Godwin-Austen or Chhogori, is the highest peak in Pakistan and the second highest mountain in the world at 8,611 meters (28,251 feet) above sea level.
+    keyConcept: Geography, Borders & Mountain Passes
+  - id: 17
+    question: "The length of Pakistan's coastline along the Arabian Sea is approximately:"
+    options:
+      - 1,046 km
+      - 1,500 km
+      - 800 km
+      - 1,200 km
+    answer: 0
+    explanation: Pakistan has a coastline of approximately 1,046 kilometers (650 miles) along the Arabian Sea, extending from the Iranian border in the west to the Indian border in the east.
+    keyConcept: Geography, Borders & Mountain Passes
+  - id: 18
+    question: "The 'One Unit Scheme' was introduced in West Pakistan in:"
+    options:
+      - "1947"
+      - "1955"
+      - "1962"
+      - "1970"
+    answer: 1
+    explanation: The One Unit Scheme was introduced on 14 October 1955, merging the four provinces of West Pakistan (Punjab, Sindh, NWFP, and Balochistan) into a single province called 'West Pakistan' to counterbalance East Pakistan's population advantage.
+    keyConcept: Geography, Borders & Mountain Passes
 ---
 
 ## In-Depth Academic Study Notes: Pakistan Geography & Strategic Frontiers

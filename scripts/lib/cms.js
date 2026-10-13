@@ -36,13 +36,39 @@ export function ensureDir(dir) {
   return dir;
 }
 
-/** Write via a temp sibling + rename so an interrupted run never leaves a half-file. */
+/**
+ * Write via a temp sibling + rename so an interrupted run never leaves a half-file.
+ *
+ * On Windows the rename step intermittently fails with EPERM when another
+ * process (antivirus, Search indexer, an editor with the file open) holds a
+ * handle on the destination. Retry with a short backoff before giving up.
+ */
 export function atomicWrite(file, contents) {
   ensureDir(path.dirname(file));
   const tmp = `${file}.tmp-${process.pid}`;
   fs.writeFileSync(tmp, contents, 'utf-8');
-  fs.renameSync(tmp, file);
-  return file;
+
+  let lastError;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    try {
+      fs.renameSync(tmp, file);
+      return file;
+    } catch (error) {
+      lastError = error;
+      if (error.code !== 'EPERM' && error.code !== 'EACCES' && error.code !== 'EBUSY') break;
+      const waitUntil = Date.now() + 40 * (attempt + 1);
+      while (Date.now() < waitUntil) { /* brief synchronous backoff: imports are offline tooling */ }
+    }
+  }
+
+  try {
+    fs.writeFileSync(file, contents, 'utf-8'); // fall back to a direct write
+    fs.unlinkSync(tmp);
+    return file;
+  } catch {
+    fs.rmSync(tmp, { force: true });
+    throw lastError;
+  }
 }
 
 export function listMarkdown(dir) {
@@ -238,11 +264,13 @@ export function stringifyCsv(records, headers) {
  * Frontmatter
  * ------------------------------------------------------------------ */
 
-const FM_RE = /^---[ \t]*\n([\s\S]*?)\n---[ \t]*\n?([\s\S]*)$/;
+const FM_RE = /^---[ \t]*\r?\n([\s\S]*?)\r?\n---[ \t]*\r?\n?([\s\S]*)$/;
 
 /** Read a markdown file into { data, body }. Throws on malformed frontmatter. */
 export function readMarkdown(file) {
-  const raw = fs.readFileSync(file, 'utf-8');
+  // Files committed on Windows come back with CRLF line endings (core.autocrlf),
+  // so the frontmatter delimiters must be matched with \r?\n rather than \n.
+  const raw = fs.readFileSync(file, 'utf-8').replace(/\r\n/g, '\n');
   const match = raw.match(FM_RE);
   if (!match) {
     const err = new Error(`${rel(file)}: no YAML frontmatter block found`);

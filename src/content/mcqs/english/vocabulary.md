@@ -6,14 +6,14 @@ subjectName: English Language, Grammar & Comprehension
 topic: vocabulary
 topicName: Vocabulary, Synonyms and Antonyms
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-12"
+updatedDate: "2026-10-13"
 difficulty: Exam-Level
 targetExams:
   - PPSC
   - FPSC
+  - NTS
   - CSS
   - PMS
-  - NTS
 questions:
   - id: 1
     question: "Choose the nearest synonym of ABATE: the violence of the storm soon abated."
@@ -211,6 +211,145 @@ questions:
     testedIn:
       - CSS
       - NTS
+  - id: 15
+    question: The famous word ‘coulrophobia’ means extreme fear of?
+    options:
+      - Clouds
+      - Clowns
+      - Colours
+      - Cold
+    answer: 1
+    explanation: Clowns is the correct answer to “The famous word ‘coulrophobia’ means extreme fear of”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 16
+    question: Antonym of Accord?
+    options:
+      - Withhold
+      - Act
+      - Concord
+      - Solution
+    answer: 0
+    explanation: Withhold is the correct answer to “Antonym of Accord”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 17
+    question: Once in a Blue Moon means?
+    options:
+      - Rarely
+      - Always
+      - Impossibly
+      - Never
+    answer: 0
+    explanation: Rarely is the correct answer to “Once in a Blue Moon means”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 18
+    question: Synonym of connoisseur?
+    options:
+      - Ignorant
+      - Lover of art
+      - Interpreter
+      - Delinquent
+    answer: 1
+    explanation: Lover of art is the correct answer to “Synonym of connoisseur”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 19
+    question: Idiom “Between Scylla and Charybdis” means?
+    options:
+      - Between two Happy Moments
+      - Between two dangers/evils
+      - Between two lovers
+      - Between two parties
+    answer: 1
+    explanation: Between two dangers/evils is the correct answer to “Idiom “Between Scylla and Charybdis” means”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 20
+    question: Synonym of “Caucus”?
+    options:
+      - Congregation
+      - Indicts
+      - Confession
+      - Systematic
+    answer: 0
+    explanation: Congregation is the correct answer to “Synonym of “Caucus””. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 21
+    question: The Synonyms of resuscitate is ________________?
+    options:
+      - A and C
+      - Revitalize
+      - Demolish
+      - Rejuvenate
+    answer: 0
+    explanation: The Synonyms of resuscitate is A and C .
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 22
+    question: The Idiom “At the drop of a hat” means?
+    options:
+      - Feeling proud
+      - Without any hesitation
+      - At the top level
+      - Hide something
+    answer: 1
+    explanation: Without any hesitation is the correct answer to “The Idiom “At the drop of a hat” means”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 23
+    question: Meaning of words and how to use them is called?
+    options:
+      - Semantics
+      - Pragmatics
+      - IPA
+      - Syntax
+    answer: 0
+    explanation: Semantics is the correct answer to “Meaning of words and how to use them is called”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 24
+    question: ill-gotten meaning?
+    options:
+      - Taken through legal way
+      - No required
+      - Acquired by illegal or unfair means
+    answer: 2
+    explanation: Acquired by illegal or unfair means is the correct answer to “ill-gotten meaning”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 25
+    question: What is synonyms of word Nightmare?
+    options:
+      - Incubus
+      - Owl
+      - Story
+      - Journey
+    answer: 0
+    explanation: Incubus is the correct answer to “What is synonyms of word Nightmare”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 26
+    question: What is synonyms of word Pedigree_____?
+    options:
+      - Lineage
+      - Ladder
+      - Kernel
+      - Facet
+    answer: 0
+    explanation: What is synonyms of word Pedigree Lineage .
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 27
+    question: What does the word ‘CASCADE’ means?
+    options:
+      - Waterfall
+      - Entagle
+      - Garden
+      - Small boat
+    answer: 0
+    explanation: Waterfall is the correct answer to “What does the word ‘CASCADE’ means”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
+  - id: 28
+    question: Choose the correct meaning of ENERVATE.
+    options:
+      - Strengthen
+      - Energetic
+      - Excite
+      - Weaken
+    answer: 3
+    explanation: Weaken is the correct answer to “Choose the correct meaning of ENERVATE.”. Items of this type are drawn from the Vocabulary — Synonyms & Antonyms syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Vocabulary — Synonyms & Antonyms
 ---
 
 ## About this set

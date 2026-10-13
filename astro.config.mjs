@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import node from '@astrojs/node';
 import mdx from '@astrojs/mdx';
 import tailwindcss from '@tailwindcss/vite';
 
@@ -6,10 +7,12 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   site: 'https://examhub.pk',
   trailingSlash: 'never',
+  output: 'hybrid',
+  adapter: node({
+    mode: 'standalone',
+  }),
   integrations: [
     mdx(),
-    // Sitemap disabled due to dependency issue - use static sitemap instead
-    // Manually created sitemap: /public/sitemap.xml
   ],
   vite: {
     plugins: [tailwindcss()],

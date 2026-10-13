@@ -70,7 +70,7 @@ questions:
       - FPSC
       - PPSC
   - id: 5
-    question: "The length and breadth of a rectangular field are in the ratio 5 : 3 and its perimeter is 240 metres. What is its area?"
+    question: "The length and breadth of a rectangular field are in the ratio 5: 3 and its perimeter is 240 metres. What is its area?"
     options:
       - 2,700 sq m
       - 3,375 sq m
@@ -112,7 +112,7 @@ questions:
       - FPSC
       - NTS
   - id: 8
-    question: "Number series: 2, 6, 12, 20, 30, ... Which number comes next?"
+    question: "Number series: 2, 6, 12, 20, 30,... Which number comes next?"
     options:
       - "36"
       - "38"

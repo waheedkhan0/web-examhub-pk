@@ -14,13 +14,49 @@ relatedExams:
 subtopics:
   - name: Prepositions and Usage
     slug: prepositions
-    questionCount: 14
+    questionCount: 31
   - name: Vocabulary, Synonyms and Antonyms
     slug: vocabulary
-    questionCount: 14
+    questionCount: 28
   - name: Sentence Correction and Grammar
     slug: sentence-correction
-    questionCount: 14
+    questionCount: 37
+  - name: Grammar & Parts of Speech — Part 1
+    slug: grammar-part-1
+    questionCount: 40
+  - name: Grammar & Parts of Speech — Part 2
+    slug: grammar-part-2
+    questionCount: 40
+  - name: Grammar & Parts of Speech — Part 3
+    slug: grammar-part-3
+    questionCount: 6
+  - name: Idioms & Phrases
+    slug: idioms-and-phrases
+    questionCount: 3
+  - name: Figures of Speech & Literary Devices
+    slug: literary-devices
+    questionCount: 10
+  - name: Spelling & Word Formation
+    slug: spelling
+    questionCount: 5
+  - name: Vocabulary — Synonyms & Antonyms — Part 1
+    slug: vocabulary-part-1
+    questionCount: 40
+  - name: Vocabulary — Synonyms & Antonyms — Part 2
+    slug: vocabulary-part-2
+    questionCount: 13
+  - name: English — Mixed Practice — Part 1
+    slug: english-misc-part-1
+    questionCount: 40
+  - name: English — Mixed Practice — Part 2
+    slug: english-misc-part-2
+    questionCount: 40
+  - name: English — Mixed Practice — Part 3
+    slug: english-misc-part-3
+    questionCount: 30
+  - name: Grammar & Parts of Speech
+    slug: grammar
+    questionCount: 6
 ---
 
 ## English: The Decisive Elimination Filter in Competitive Exams

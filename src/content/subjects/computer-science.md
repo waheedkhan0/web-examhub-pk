@@ -12,10 +12,61 @@ relatedExams:
 subtopics:
   - name: IT Fundamentals and MS Office Shortcuts
     slug: it-fundamentals
-    questionCount: 14
+    questionCount: 16
   - name: Networking, Protocols and Cybersecurity
     slug: networking-and-security
-    questionCount: 14
+    questionCount: 50
+  - name: Computer Science — Mixed Practice
+    slug: computer-misc
+    questionCount: 2
+  - name: Computer Science — Mixed Practice — Part 1
+    slug: computer-misc-part-1
+    questionCount: 40
+  - name: Computer Science — Mixed Practice — Part 2
+    slug: computer-misc-part-2
+    questionCount: 40
+  - name: Computer Science — Mixed Practice — Part 3
+    slug: computer-misc-part-3
+    questionCount: 40
+  - name: Computer Science — Mixed Practice — Part 4
+    slug: computer-misc-part-4
+    questionCount: 40
+  - name: Computer Science — Mixed Practice — Part 5
+    slug: computer-misc-part-5
+    questionCount: 40
+  - name: Computer Fundamentals & Hardware — Part 1
+    slug: it-fundamentals-part-1
+    questionCount: 40
+  - name: Computer Fundamentals & Hardware — Part 2
+    slug: it-fundamentals-part-2
+    questionCount: 40
+  - name: Computer Fundamentals & Hardware — Part 3
+    slug: it-fundamentals-part-3
+    questionCount: 40
+  - name: Computer Fundamentals & Hardware — Part 4
+    slug: it-fundamentals-part-4
+    questionCount: 40
+  - name: Computer Fundamentals & Hardware — Part 5
+    slug: it-fundamentals-part-5
+    questionCount: 40
+  - name: Office Applications & Shortcuts — Part 1
+    slug: office-and-shortcuts-part-1
+    questionCount: 40
+  - name: Office Applications & Shortcuts — Part 2
+    slug: office-and-shortcuts-part-2
+    questionCount: 40
+  - name: Office Applications & Shortcuts — Part 3
+    slug: office-and-shortcuts-part-3
+    questionCount: 40
+  - name: Office Applications & Shortcuts — Part 4
+    slug: office-and-shortcuts-part-4
+    questionCount: 40
+  - name: Office Applications & Shortcuts — Part 5
+    slug: office-and-shortcuts-part-5
+    questionCount: 40
+  - name: Programming & Databases
+    slug: programming-and-data
+    questionCount: 33
 ---
 
 ## Computer Science & IT: Modern Administrative Essentials

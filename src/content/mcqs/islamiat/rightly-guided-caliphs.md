@@ -6,14 +6,13 @@ subjectName: Islamiat & Islamic Studies
 topic: rightly-guided-caliphs
 topicName: Khulafa-e-Rashideen (Rightly Guided Caliphs)
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-13"
 difficulty: Exam-Level
 targetExams:
-  - CSS
-  - PMS
   - PPSC
   - FPSC
   - NTS
+  - CSS
 questions:
   - id: 1
     question: Which caliph officially introduced the Islamic Hijri calendar system, fixing its epoch to the year of the Prophet's migration to Madinah?
@@ -155,6 +154,366 @@ questions:
     testedIn:
       - PPSC Sub-Inspector 2023
       - FPSC AD FIA 2024
+  - id: 11
+    question: Hazrat Umar R.A is called ____________?
+    options:
+      - Farooq-e- Azam
+      - Lion of Allah
+      - Sword of Allah
+    answer: 0
+    explanation: Hazrat Umar R.A is called Farooq-e- Azam .
+    keyConcept: Islamic History & Caliphate
+  - id: 12
+    question: Who is most popular Khalifa in the period of Abbasid Khalifa?
+    options:
+      - Haroon -Ur- Rasheed
+      - Mutasim Bilaha
+      - Muztasir Bilaha
+      - Mamoon-Ur- Rasheed
+    answer: 0
+    explanation: Haroon -Ur- Rasheed is the correct answer to “Who is most popular Khalifa in the period of Abbasid Khalifa”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 13
+    question: Hazrat Abu Bakr Siddiq (R.A.) caliphate Era is from ______ Hijri?
+    options:
+      - 11 to 13 Hijri
+      - 11 to 12 Hijri
+      - 11 to 15 Hijri
+      - 11 to 14 Hijri
+    answer: 0
+    explanation: Hazrat Abu Bakr Siddiq (R.A.) caliphate Era is from 11 to 13 Hijri Hijri.
+    keyConcept: Islamic History & Caliphate
+  - id: 14
+    question: Hazrat Fatima (R.A) went to which Khalifa for Bagh e Fadak?
+    options:
+      - Hazrat Abu Bakar Siddique
+      - Hazrat Usman (R.A)
+      - Hazrat Umar (R.A)
+      - Hazrat Muwaiya (R.A)
+    answer: 0
+    explanation: Hazrat Abu Bakar Siddique is the correct answer to “Hazrat Fatima (R.A) went to which Khalifa for Bagh e Fadak”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 15
+    question: Hazrat Ali (R.A) died due to________?
+    options:
+      - Both
+      - Poisoned Arrow
+      - Poisoned Sword
+    answer: 2
+    explanation: Hazrat Ali (R.A) died due to Poisoned Sword .
+    keyConcept: Islamic History & Caliphate
+  - id: 16
+    question: Who was the last ruler of Abbasid dynasty?
+    options:
+      - Al-Muktafī Billah
+      - AL-Muntansir Billah
+      - Al-Musta’sim Billah
+      - Al-Mustanjid Billah ‎
+    answer: 2
+    explanation: Al-Musta’sim Billah is the correct answer to “Who was the last ruler of Abbasid dynasty”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 17
+    question: Who was the first Abbasid caliph of Islam?
+    options:
+      - Abu al-Abbas al-Saffah
+      - Abū Muḥammad Mūsā (Al Hadi)
+      - Abu Ja’far al Mansur
+      - Abū ʿAbd Allāh Muḥammad (Al Mahdi)
+    answer: 0
+    explanation: Abu al-Abbas al-Saffah is the correct answer to “Who was the first Abbasid caliph of Islam”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 18
+    question: Transoxiana was conquered in the reign of ________________Abbaside caliph.
+    options:
+      - Al Walid bin Abdul malik
+      - Hisham
+      - Sulemain bin Abdul Malik
+    answer: 0
+    explanation: Transoxiana was conquered in the reign of Al Walid bin Abdul malik Abbaside caliph.
+    keyConcept: Islamic History & Caliphate
+  - id: 19
+    question: The “Ridda Wars” were fought by which caliph?
+    options:
+      - 3rd caliph
+      - 1st caliph
+      - 2nd caliph
+    answer: 1
+    explanation: 1st caliph is the correct answer to “The “Ridda Wars” were fought by which caliph”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 20
+    question: Who is the real founder of Abbasid?
+    options:
+      - Al-Mansur
+      - Jafar
+      - Mamon
+    answer: 0
+    explanation: Al-Mansur is the correct answer to “Who is the real founder of Abbasid”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 21
+    question: Who was the first lady inspector of Madinah appointed by Hazrat Umar (R.A)?
+    options:
+      - Rufaida Al-Aslamia
+      - Hazrat Ayesha
+      - Umm Al-shifaa bint Abdullah
+    answer: 2
+    explanation: Umm Al-shifaa bint Abdullah is the correct answer to “Who was the first lady inspector of Madinah appointed by Hazrat Umar (R.A)”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 22
+    question: The real name of Bibi Umm-ul-Banin, she was the wife of Hazrat Ali?
+    options:
+      - Laila
+      - Umemah
+      - Fatima
+      - Sofia
+    answer: 2
+    explanation: Fatima is the correct answer to “The real name of Bibi Umm-ul-Banin, she was the wife of Hazrat Ali”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 23
+    question: Who established the foundation of Umayyad dynasty?
+    options:
+      - Hazrat Ameer Muawiya RA
+      - Hazrat Khalid Bin Waleed RA
+      - Hazrat Abo Sufyan RA
+      - Hazrat Abubakr RA
+    answer: 0
+    explanation: Hazrat Ameer Muawiya RA is the correct answer to “Who established the foundation of Umayyad dynasty”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 24
+    question: The Umayyad rule in Spain lasted for __________years
+    options:
+      - "135"
+      - "145"
+      - "125"
+      - "136"
+    answer: 2
+    explanation: The Umayyad rule in Spain lasted for 125 years.
+    keyConcept: Islamic History & Caliphate
+  - id: 25
+    question: _________,was the brother of Hazrat Ali r.a who was taken as prisoner in the battle of Badr?
+    options:
+      - NONE
+      - Aqeel
+      - BIN JASH
+      - AQBA BIN NAFA
+    answer: 1
+    explanation: Aqeel ,was the brother of Hazrat Ali r.a who was taken as prisoner in the battle of Badr.
+    keyConcept: Islamic History & Caliphate
+  - id: 26
+    question: The conquest of Mecca was on ______ 8 AH.
+    options:
+      - 20 Ramzan
+      - 10 Shahban
+      - 10 Ramzan
+      - 20 Shawal
+    answer: 0
+    explanation: The conquest of Mecca was on 20 Ramzan 8 AH.
+    keyConcept: Islamic History & Caliphate
+  - id: 27
+    question: The Battle of Camel was fought between Hazrat Ali (R.A) and__________?
+    options:
+      - Hazrat Sa’d bin Abi Wakas RA
+      - Muawia
+      - Bibi Aisha
+    answer: 2
+    explanation: The Battle of Camel was fought between Hazrat Ali (R.A) and Bibi Aisha .
+    keyConcept: Islamic History & Caliphate
+  - id: 28
+    question: First Mujadid was Hazrat Umar bin Abdul Aziz. Who was the second one?
+    options:
+      - Imam Ghizali
+      - Shah Waliullah
+      - Ahmad Sirhindi
+      - Ibn-e-Taimya
+    answer: 2
+    explanation: Ahmad Sirhindi is the correct answer to “First Mujadid was Hazrat Umar bin Abdul Aziz. Who was the second one”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 29
+    question: The most exemplary administration out of the rightly guided caliphs was that of__________?
+    options:
+      - Hazrat Ali (R.A)
+      - Hazrat Umar (R.A)
+      - Hazrat Usman (R.A)
+    answer: 1
+    explanation: The most exemplary administration out of the rightly guided caliphs was that of Hazrat Umar (R.A) .
+    keyConcept: Islamic History & Caliphate
+  - id: 30
+    question: Hazrat Abu Bakr (R.A) belonged to the tribe of__________?
+    options:
+      - Banu Sahm
+      - Banu Taym
+      - Banu Hashim
+      - Banu Asad
+    answer: 1
+    explanation: Hazrat Abu Bakr (R.A) belonged to the tribe of Banu Taym .
+    keyConcept: Islamic History & Caliphate
+  - id: 31
+    question: The Umayyad Caliphate was overthrown in 751 A.D by Abbasids after the_________?
+    options:
+      - Battle of Islam
+      - Battle of Zab
+      - Battle of Arabs
+      - Battle of Tribes
+    answer: 1
+    explanation: The Umayyad Caliphate was overthrown in 751 A.D by Abbasids after the Battle of Zab .
+    keyConcept: Islamic History & Caliphate
+  - id: 32
+    question: Baghdad city was established as Capital of Abbasid Dynasty by____________?
+    options:
+      - Al’Ma’mun
+      - Harun Rasheed
+      - As’Saffah
+      - Al’Mansoor
+    answer: 3
+    explanation: Baghdad city was established as Capital of Abbasid Dynasty by Al’Mansoor .
+    keyConcept: Islamic History & Caliphate
+  - id: 33
+    question: Which caliph formed a parliament namely Majlis e Aam?
+    options:
+      - Hazrat Ali
+      - Hazrat Abu Bakar
+      - Hazrat Usman
+      - Hazrat Umar
+    answer: 3
+    explanation: Hazrat Umar is the correct answer to “Which caliph formed a parliament namely Majlis e Aam”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 34
+    question: Hazrat Umer was Caliph for__________Years?
+    options:
+      - 10 years
+      - 2 years
+      - 4 years
+    answer: 0
+    explanation: Hazrat Umer was Caliph for 10 years Years.
+    keyConcept: Islamic History & Caliphate
+  - id: 35
+    question: For how many months Hazart Hasan (R.A) remained khalifa?
+    options:
+      - "14"
+      - "12"
+      - "13"
+      - "15"
+    answer: 0
+    explanation: 14 is the correct answer to “For how many months Hazart Hasan (R.A) remained khalifa”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 36
+    question: Hazrat Asma (RA), the daughter of Hazrat Abu Bakr (RA), got married to _________?
+    options:
+      - Hazrat Abdur Rehman (RA)
+      - Hazrat Ubaidah (RA)
+      - Hazrat Zubair Ibn al-Awam(RA)
+    answer: 2
+    explanation: Hazrat Asma (RA), the daughter of Hazrat Abu Bakr (RA), got married to Hazrat Zubair Ibn al-Awam(RA) .
+    keyConcept: Islamic History & Caliphate
+  - id: 37
+    question: Hazrat Ali (R.A) wife was?
+    options:
+      - Ruqayyah (R.A)
+      - Hazrat Aisha (R.A)
+      - Umm Kulthum (R.A)
+      - Fatima-tul-Zahra (R.A)
+    answer: 3
+    explanation: Hazrat Ali (R.A) wife was Fatima-tul-Zahra (R.A).
+    keyConcept: Islamic History & Caliphate
+  - id: 38
+    question: After Hazrat Umar, to whom lady, script of Musaef Abi Bakr was handed over? This lady is amongst the Umhat-ul-Momenine (R.A)
+    options:
+      - Hazrat Hifsa (R.A)
+      - Hazrat Memona (R.A)
+      - Hazrat Safia (R.A)
+      - Hazrat Aysha Siddiqa (R.A)
+    answer: 0
+    explanation: Hazrat Hifsa (R.A) is the correct answer to “After Hazrat Umar, to whom lady, script of Musaef Abi Bakr was handed over? This lady is amongst the Umhat-ul-Momenine (R.A)”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 39
+    question: Hazrat Umar Farooq was martyred on ___________ 24 A.H.
+    options:
+      - 2nd Muharram
+      - 3rd Muharram
+      - 1st Muharram
+      - 4th Muharram
+    answer: 2
+    explanation: Hazrat Umar Farooq was martyred on 1st Muharram 24 A.H.
+    keyConcept: Islamic History & Caliphate
+  - id: 40
+    question: Hazrat Ali (R.A) was martyred in __________ Hijrah?
+    options:
+      - "42"
+      - "40"
+      - "38"
+      - "36"
+    answer: 1
+    explanation: Hazrat Ali (R.A) was martyred in 40 Hijrah.
+    keyConcept: Islamic History & Caliphate
+  - id: 41
+    question: The first Ummayed Caliph was _________?
+    options:
+      - Khalid bin Waleed (R.A)
+      - Abu Ubaidah (R.A)
+      - Amr bin Al-Aas (R.A)
+      - Ameer Muawiyah (R.A)
+    answer: 3
+    explanation: The first Ummayed Caliph was Ameer Muawiyah (R.A) .
+    keyConcept: Islamic History & Caliphate
+  - id: 42
+    question: When Khalid bin Waleed was removed from the service in the rein of Hazrat Umar Farooq (RA)?
+    options:
+      - 14 A.H
+      - 15 A.H
+      - 16 A.H
+      - 17 A.H
+    answer: 3
+    explanation: 17 A.H is the correct answer to “When Khalid bin Waleed was removed from the service in the rein of Hazrat Umar Farooq (RA)”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 43
+    question: Who was the first Caliph?
+    options:
+      - Hazrat Umar(R.A.)
+      - Hazrat Ali(R.A.)
+      - Hazrat Usman(R.A.)
+      - Hazrat Abu Bakar(R.A.)
+    answer: 3
+    explanation: Hazrat Abu Bakar(R.A.) is the correct answer to “Who was the first Caliph”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 44
+    question: Who was the second Caliph?
+    options:
+      - Hazrat Ali(R.A.)
+      - Hazrat Umar(R.A.)
+      - Hazrat Usman(R.A.)
+      - Hazrat Abu Bakar(R.A.)
+    answer: 1
+    explanation: Hazrat Umar(R.A.) is the correct answer to “Who was the second Caliph”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 45
+    question: Who was the Third Caliph?
+    options:
+      - Hazrat Umar(R.A.)
+      - Hazrat Ali(R.A.)
+      - Hazrat Usman(R.A.)
+      - Hazrat Abu Bakar(R.A.)
+    answer: 2
+    explanation: Hazrat Usman(R.A.) is the correct answer to “Who was the Third Caliph”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 46
+    question: Who was the fourth Caliph?
+    options:
+      - Hazrat Umar(R.A.)
+      - Hazrat Ali(R.A.)
+      - Hazrat Usman(R.A.)
+      - Hazrat Abu Bakar(R.A.)
+    answer: 1
+    explanation: Hazrat Ali(R.A.) is the correct answer to “Who was the fourth Caliph”. Items of this type are drawn from the Islamic History & Caliphate syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Islamic History & Caliphate
+  - id: 47
+    question: Hazart Ali (R.A) married Hazart Fatma (R.A) in______________?
+    options:
+      - 622 A.D B. 623 A.D C. 624 A.D D. 625 A.D
+      - B. 623 A.D
+      - C. 624 A.D
+      - D. 625 A.D
+    answer: 2
+    explanation: Hazart Ali (R.A) married Hazart Fatma (R.A) in C. 624 A.D .
+    keyConcept: Islamic History & Caliphate
 ---
 
 ## The Era of the Rightly Guided Caliphate (11–40 AH / 632–661 CE)
@@ -175,4 +534,3 @@ The 30-year period of Khilafat-e-Rashida represents the golden era of Islamic go
 4. **Hazrat Ali ibn Abi Talib (Asadullah) [35–40 AH / 656–661 CE]:**
    - Shifted the administrative capital from Madinah to Kufa.
    - Emphasized administrative accountability and judicial independence, as detailed in his famous treatise/letter to the Governor of Egypt, Malik al-Ashtar.
-

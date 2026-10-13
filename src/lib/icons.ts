@@ -21,6 +21,8 @@ const ICONS: Record<string, string> = {
   leaf: '🌱',
   graduation: '🎓',
   chart: '📊',
+  users: '👥',
+  megaphone: '📣',
   language: '🗣️',
   pen: '🖋️',
   flask: '🧪',

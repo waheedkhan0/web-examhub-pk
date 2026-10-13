@@ -6,14 +6,14 @@ subjectName: English Language, Grammar & Comprehension
 topic: prepositions
 topicName: Prepositions and Usage
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-12"
-difficulty: Exam-Level
+updatedDate: "2026-10-13"
+difficulty: Basic
 targetExams:
   - PPSC
   - FPSC
+  - NTS
   - CSS
   - PMS
-  - NTS
 questions:
   - id: 1
     question: "Choose the correct preposition: The clerk was accused ___ forging official signatures."
@@ -211,6 +211,176 @@ questions:
     testedIn:
       - PMS
       - NTS
+  - id: 15
+    question: "Choose the correct preposition: 'She is good _____ mathematics.'"
+    options:
+      - in
+      - at
+      - "on"
+      - with
+    answer: 1
+    explanation: We use 'good at' to indicate skill or proficiency in something. 'Good in' is also sometimes used but 'good at' is more common and correct.
+    keyConcept: Prepositions
+  - id: 16
+    question: "Choose the correct preposition: 'He is allergic _____ peanuts.'"
+    options:
+      - to
+      - with
+      - for
+      - at
+    answer: 0
+    explanation: We use 'allergic to' to indicate what someone is allergic to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 17
+    question: "Choose the correct preposition: 'She is proficient _____ computer programming.'"
+    options:
+      - in
+      - at
+      - "on"
+      - with
+    answer: 0
+    explanation: We use 'proficient in' to indicate skill or expertise in a particular field or subject.
+    keyConcept: Prepositions
+  - id: 18
+    question: "Choose the correct preposition: 'She is married _____ a doctor.'"
+    options:
+      - with
+      - to
+      - for
+      - at
+    answer: 1
+    explanation: We use 'married to' to indicate the person someone is married to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 19
+    question: "Choose the correct preposition: 'He is fond _____ classical music.'"
+    options:
+      - of
+      - with
+      - for
+      - at
+    answer: 0
+    explanation: We use 'fond of' to indicate liking or affection for something. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 20
+    question: "Choose the correct preposition: 'She is afraid _____ spiders.'"
+    options:
+      - of
+      - with
+      - for
+      - at
+    answer: 0
+    explanation: We use 'afraid of' to indicate what someone fears. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 21
+    question: "Choose the correct preposition: 'She is allergic _____ cats.'"
+    options:
+      - to
+      - with
+      - for
+      - at
+    answer: 0
+    explanation: We use 'allergic to' to indicate what someone is allergic to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 22
+    question: "Choose the correct preposition: 'He is good _____ cricket.'"
+    options:
+      - in
+      - at
+      - "on"
+      - with
+    answer: 1
+    explanation: We use 'good at' to indicate skill or proficiency in something. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 23
+    question: "Choose the correct preposition: 'He is married _____ my sister.'"
+    options:
+      - with
+      - to
+      - for
+      - at
+    answer: 1
+    explanation: We use 'married to' to indicate the person someone is married to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 24
+    question: "Choose the correct preposition: 'She is afraid _____ heights.'"
+    options:
+      - of
+      - with
+      - for
+      - at
+    answer: 0
+    explanation: We use 'afraid of' to indicate what someone fears. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 25
+    question: "Choose the correct preposition: 'She is proficient _____ mathematics.'"
+    options:
+      - in
+      - at
+      - "on"
+      - with
+    answer: 0
+    explanation: We use 'proficient in' to indicate skill or expertise in a particular field or subject.
+    keyConcept: Prepositions
+  - id: 26
+    question: "Choose the correct preposition: 'He is good _____ mathematics.'"
+    options:
+      - in
+      - at
+      - "on"
+      - with
+    answer: 1
+    explanation: We use 'good at' to indicate skill or proficiency in something. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 27
+    question: "Choose the correct preposition: 'He is allergic _____ nuts.'"
+    options:
+      - to
+      - with
+      - for
+      - at
+    answer: 0
+    explanation: We use 'allergic to' to indicate what someone is allergic to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 28
+    question: "Choose the correct preposition: 'She is married _____ a lawyer.'"
+    options:
+      - with
+      - to
+      - for
+      - at
+    answer: 1
+    explanation: We use 'married to' to indicate the person someone is married to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 29
+    question: "Choose the correct preposition: 'He is married _____ my cousin.'"
+    options:
+      - with
+      - to
+      - for
+      - at
+    answer: 1
+    explanation: We use 'married to' to indicate the person someone is married to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 30
+    question: "Choose the correct preposition: 'He is married _____ a doctor.'"
+    options:
+      - with
+      - to
+      - for
+      - at
+    answer: 1
+    explanation: We use 'married to' to indicate the person someone is married to. This is a fixed prepositional phrase.
+    keyConcept: Prepositions
+  - id: 31
+    question: "Choose the correct preposition: 'She is proficient _____ English.'"
+    options:
+      - in
+      - at
+      - "on"
+      - with
+    answer: 0
+    explanation: We use 'proficient in' to indicate skill or expertise in a particular field or subject.
+    keyConcept: Prepositions
 ---
 
 ## About this set

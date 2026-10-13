@@ -15,19 +15,109 @@ relatedExams:
 subtopics:
   - name: Geography, Borders & Mountain Passes
     slug: geography
-    questionCount: 11
+    questionCount: 18
   - name: Constitutional History & 1973 Constitution
     slug: constitution
-    questionCount: 10
+    questionCount: 22
   - name: Freedom Movement (1857–1947)
     slug: freedom-movement
-    questionCount: 10
+    questionCount: 35
   - name: Rivers, Dams & Water Barrages
     slug: rivers-and-dams
     questionCount: 10
   - name: National Economy, Energy & Resources
     slug: economy-and-resources
-    questionCount: 10
+    questionCount: 42
+  - name: Defence & Armed Forces
+    slug: defence-and-armed-forces
+    questionCount: 2
+  - name: Firsts in Pakistan — Pioneers & Milestones
+    slug: firsts-in-pakistan
+    questionCount: 51
+  - name: Foreign Policy, Treaties & Agreements
+    slug: foreign-policy-and-treaties
+    questionCount: 22
+  - name: Government & Politics
+    slug: government-and-politics
+    questionCount: 3
+  - name: Constitutional & Legal History — Part 1
+    slug: constitution-part-1
+    questionCount: 40
+  - name: Constitutional & Legal History — Part 2
+    slug: constitution-part-2
+    questionCount: 40
+  - name: Constitutional & Legal History — Part 3
+    slug: constitution-part-3
+    questionCount: 23
+  - name: Defence & Armed Forces — Part 1
+    slug: defence-and-armed-forces-part-1
+    questionCount: 40
+  - name: Defence & Armed Forces — Part 2
+    slug: defence-and-armed-forces-part-2
+    questionCount: 39
+  - name: Foreign Policy, Treaties & Agreements — Part 1
+    slug: foreign-policy-and-treaties-part-1
+    questionCount: 40
+  - name: Foreign Policy, Treaties & Agreements — Part 2
+    slug: foreign-policy-and-treaties-part-2
+    questionCount: 32
+  - name: Freedom Movement & History — Part 1
+    slug: freedom-movement-part-1
+    questionCount: 40
+  - name: Freedom Movement & History — Part 2
+    slug: freedom-movement-part-2
+    questionCount: 40
+  - name: Freedom Movement & History — Part 3
+    slug: freedom-movement-part-3
+    questionCount: 40
+  - name: Freedom Movement & History — Part 4
+    slug: freedom-movement-part-4
+    questionCount: 40
+  - name: Freedom Movement & History — Part 5
+    slug: freedom-movement-part-5
+    questionCount: 40
+  - name: Geography, Borders & Mountain Passes — Part 1
+    slug: geography-part-1
+    questionCount: 40
+  - name: Geography, Borders & Mountain Passes — Part 2
+    slug: geography-part-2
+    questionCount: 40
+  - name: Geography, Borders & Mountain Passes — Part 3
+    slug: geography-part-3
+    questionCount: 40
+  - name: Geography, Borders & Mountain Passes — Part 4
+    slug: geography-part-4
+    questionCount: 40
+  - name: Geography, Borders & Mountain Passes — Part 5
+    slug: geography-part-5
+    questionCount: 40
+  - name: Government & Politics — Part 1
+    slug: government-and-politics-part-1
+    questionCount: 40
+  - name: Government & Politics — Part 2
+    slug: government-and-politics-part-2
+    questionCount: 40
+  - name: Government & Politics — Part 3
+    slug: government-and-politics-part-3
+    questionCount: 40
+  - name: Government & Politics — Part 4
+    slug: government-and-politics-part-4
+    questionCount: 1
+  - name: Pakistan Studies — Mixed Practice — Part 1
+    slug: pakistan-studies-misc-part-1
+    questionCount: 40
+  - name: Pakistan Studies — Mixed Practice — Part 2
+    slug: pakistan-studies-misc-part-2
+    questionCount: 40
+  - name: Pakistan Studies — Mixed Practice — Part 3
+    slug: pakistan-studies-misc-part-3
+    questionCount: 40
+  - name: Pakistan Studies — Mixed Practice — Part 4
+    slug: pakistan-studies-misc-part-4
+    questionCount: 40
+  - name: Pakistan Studies — Mixed Practice — Part 5
+    slug: pakistan-studies-misc-part-5
+    questionCount: 40
 ---
 
 ## Pakistan Studies: The Bedrock of Pakistani Competitive Exams

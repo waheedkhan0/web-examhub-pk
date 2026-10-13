@@ -6,13 +6,13 @@ subjectName: Pakistan Studies & Constitutional Affairs
 topic: economy-and-resources
 topicName: National Economy, Energy & Resources
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-13"
 difficulty: Exam-Level
 targetExams:
-  - CSS
-  - PMS
   - PPSC
   - FPSC
+  - CSS
+  - PMS
   - NTS
 questions:
   - id: 1
@@ -155,6 +155,323 @@ questions:
     testedIn:
       - CSS GSA 2023
       - FPSC Inspector 2024
+  - id: 11
+    question: "The first census of Pakistan was conducted in:"
+    options:
+      - "1947"
+      - "1951"
+      - "1961"
+      - "1972"
+    answer: 1
+    explanation: The first census of Pakistan was conducted in February 1951, recording a population of approximately 75 million people (33.7 million in West Pakistan and 42 million in East Pakistan).
+    keyConcept: Economy & Natural Resources
+  - id: 12
+    question: "The first Governor of State Bank of Pakistan was:"
+    options:
+      - Mahbubur Rasheed
+      - Zahid Hussain
+      - A.G.N. Kazi
+      - I.A. Hanfi
+    answer: 1
+    explanation: Zahid Hussain was appointed as the first Governor of the State Bank of Pakistan when it was established on 1 July 1948.
+    keyConcept: Economy & Natural Resources
+  - id: 13
+    question: Foundation of “Pakistan Mineral Development Corporation” in the year ________?
+    options:
+      - "1948"
+      - "1974"
+      - "1962"
+      - "1952"
+    answer: 1
+    explanation: Foundation of “Pakistan Mineral Development Corporation” in the year 1974 .
+    keyConcept: Economy & Natural Resources
+  - id: 14
+    question: As per SBP Act 2021, the governor State Bank shall be appointed for a term of___________?
+    options:
+      - 3 years
+      - 4 years
+      - 2 years
+      - 5 years
+    answer: 3
+    explanation: As per SBP Act 2021, the governor State Bank shall be appointed for a term of 5 years .
+    keyConcept: Economy & Natural Resources
+  - id: 15
+    question: Pakistan joined World Trade Organization in ___________?
+    options:
+      - "1994"
+      - "2005"
+      - "1997"
+      - "1995"
+    answer: 3
+    explanation: Pakistan joined World Trade Organization in 1995 .
+    keyConcept: Economy & Natural Resources
+  - id: 16
+    question: Pakistan bought Gawadar port from Oman in 1958 who was the prime minister at that time?
+    options:
+      - Ch Muhammad Ali
+      - Muhammad Ali Bogra
+      - Malik Feroz Khan Noon
+    answer: 2
+    explanation: Malik Feroz Khan Noon is the correct answer to “Pakistan bought Gawadar port from Oman in 1958 who was the prime minister at that time”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 17
+    question: ________is situated about 29 km west of the right bank of the Indus, with a railway station, 37 km north-west of Sukkur.
+    options:
+      - Khairpur
+      - Shikarpur
+      - Gotki
+      - Jacababad
+    answer: 1
+    explanation: Shikarpur is situated about 29 km west of the right bank of the Indus, with a railway station, 37 km north-west of Sukkur.
+    keyConcept: Economy & Natural Resources
+  - id: 18
+    question: State bank of Pakistan remaind Parliament house for _______ years?
+    options:
+      - "12"
+      - "14"
+      - "10"
+    answer: 1
+    explanation: State bank of Pakistan remaind Parliament house for 14 years.
+    keyConcept: Economy & Natural Resources
+  - id: 19
+    question: Who introduced leather token currency in India?
+    options:
+      - Akbar
+      - Humayun
+      - Babur
+      - Mohammad-Bin-Tughlaq
+    answer: 3
+    explanation: Mohammad-Bin-Tughlaq is the correct answer to “Who introduced leather token currency in India”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 20
+    question: Who among the following created the department of agriculture Dewan-i-Kohi?
+    options:
+      - Muhammad bin Tughluq
+      - Ghiyasuddin Balban
+      - Alauddin Khilji
+      - Ibrahim Lodhi
+    answer: 0
+    explanation: Muhammad bin Tughluq is the correct answer to “Who among the following created the department of agriculture Dewan-i-Kohi”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 21
+    question: The first female finance minister of Pakistan who presented annual budget?
+    options:
+      - Hina Rabbani
+      - Shamshad Akhtar
+      - begum salma
+    answer: 0
+    explanation: Hina Rabbani is the correct answer to “The first female finance minister of Pakistan who presented annual budget”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 22
+    question: Which types of industry in Utility Stores Corporation of Pakistan (Private) Limited?
+    options:
+      - Fruits
+      - Vegetable
+      - Sea food
+      - Grocery
+    answer: 3
+    explanation: Grocery is the correct answer to “Which types of industry in Utility Stores Corporation of Pakistan (Private) Limited”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 23
+    question: The most important cash crop of Pakistan after wheat is___________?
+    options:
+      - Rice
+      - Maize
+      - Millet
+      - Sugarcane
+    answer: 0
+    explanation: The most important cash crop of Pakistan after wheat is Rice .
+    keyConcept: Economy & Natural Resources
+  - id: 24
+    question: Pakistan State Bank started working on 1st July 1948 with the amount of Rs:________?
+    options:
+      - Thirty Millions
+      - Thirty Billions
+      - Twenty Billions
+      - Twenty Millions
+    answer: 0
+    explanation: "Pakistan State Bank started working on 1st July 1948 with the amount of Rs: Thirty Millions ."
+    keyConcept: Economy & Natural Resources
+  - id: 25
+    question: Balochistan comprises what percentage of Population of Pakistan?
+    options:
+      - 4.34%
+      - 5.94%
+      - 7.10%
+      - 6.54%
+    answer: 1
+    explanation: 5.94% is the correct answer to “Balochistan comprises what percentage of Population of Pakistan”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 26
+    question: Harappa City is situated on the bank of____________?
+    options:
+      - Jhelum river
+      - Ravi River
+      - Sutlej river
+      - Chenab river
+    answer: 1
+    explanation: Harappa City is situated on the bank of Ravi River .
+    keyConcept: Economy & Natural Resources
+  - id: 27
+    question: Who Presented Poor Men’s budget in 1946?
+    options:
+      - Raja Ahmed
+      - Non of above
+      - Ch. Muhammad Ali.
+      - Liaquat Ali
+    answer: 3
+    explanation: Liaquat Ali is the correct answer to “Who Presented Poor Men’s budget in 1946”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 28
+    question: when did first census held in the Subcontinent?
+    options:
+      - "1890"
+      - "1884"
+      - "1881"
+      - "1888"
+    answer: 2
+    explanation: 1881 is the correct answer to “when did first census held in the Subcontinent”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 29
+    question: First census in India was made in the period of___________?
+    options:
+      - Lord Curzon
+      - Lord Mayo
+      - None
+      - Lord Canning
+    answer: 1
+    explanation: First census in India was made in the period of Lord Mayo .
+    keyConcept: Economy & Natural Resources
+  - id: 30
+    question: At present Pakistan has vast natural resources and items of mineral as many as________________?
+    options:
+      - "46"
+      - "64"
+      - "52"
+      - "34"
+    answer: 2
+    explanation: At present Pakistan has vast natural resources and items of mineral as many as 52 .
+    keyConcept: Economy & Natural Resources
+  - id: 31
+    question: What is the old name of Bin Qasim (Sea port)?
+    options:
+      - Dahir Kot
+      - Neroon
+      - Pepri
+      - Debal
+    answer: 2
+    explanation: Pepri is the correct answer to “What is the old name of Bin Qasim (Sea port)”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 32
+    question: First Women Bank Limited commenced its business on____________?
+    options:
+      - 02 Nov 1989
+      - 01 Nov 1990
+      - 02 Dec 1989
+      - 02 Dec 1988
+    answer: 2
+    explanation: First Women Bank Limited commenced its business on 02 Dec 1989 .
+    keyConcept: Economy & Natural Resources
+  - id: 33
+    question: When the banks were nationalized in Pakistan?
+    options:
+      - "1974"
+      - "1972"
+      - "1973"
+      - "1971"
+    answer: 0
+    explanation: 1974 is the correct answer to “When the banks were nationalized in Pakistan”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 34
+    question: The State Bank of Pakistan was established on____________?
+    options:
+      - 30 june 1948
+      - 29 june 1948
+      - 28 june 1948
+      - 1st july 1948
+    answer: 3
+    explanation: The State Bank of Pakistan was established on 1st july 1948 .
+    keyConcept: Economy & Natural Resources
+  - id: 35
+    question: The first currency note of SBP was issued on___________?
+    options:
+      - January 1, 1949
+      - March 1, 1949
+      - July 1, 1949
+      - June 10, 1949
+    answer: 1
+    explanation: The first currency note of SBP was issued on March 1, 1949 .
+    keyConcept: Economy & Natural Resources
+  - id: 36
+    question: "The first currency note issued by the State Bank of Pakistan was in the denomination of:"
+    options:
+      - Rs.2
+      - Rs.1
+      - Rs.5
+      - Rs.10
+    answer: 0
+    explanation: Rs.2 is the correct answer to “The first currency note issued by the State Bank of Pakistan was in the denomination of:”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 37
+    question: In Pakistan _______% of the population lives below the national poverty line (2017)?
+    options:
+      - 41.5%
+      - 34.5%
+      - 29.5%
+      - 52.3%
+    answer: 2
+    explanation: In Pakistan 29.5% % of the population lives below the national poverty line (2017).
+    keyConcept: Economy & Natural Resources
+  - id: 38
+    question: Which city of the Sindh is popular for woodwork industry?
+    options:
+      - Larkana
+      - Thattha
+      - Kotri
+      - Hala
+    answer: 3
+    explanation: Hala is the correct answer to “Which city of the Sindh is popular for woodwork industry”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 39
+    question: Moenjodaro is located at the west bank of the Indus in the __________?
+    options:
+      - Upper Sindh
+      - Southern Sindh
+      - Central Sindh
+      - Lower Sindh
+    answer: 0
+    explanation: Moenjodaro is located at the west bank of the Indus in the Upper Sindh .
+    keyConcept: Economy & Natural Resources
+  - id: 40
+    question: Who inaugurated the State Bank of Pakistan?
+    options:
+      - Allama Muhammad Iqbal
+      - Malik Ghulam Muhammad
+      - Quaid-e-Azam
+      - Liaquat Ali Khan
+    answer: 2
+    explanation: Quaid-e-Azam is the correct answer to “Who inaugurated the State Bank of Pakistan”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 41
+    question: First Census was held in Pakistan in the year?
+    options:
+      - "1953"
+      - "1952"
+      - "1951"
+      - "1950"
+    answer: 2
+    explanation: 1951 is the correct answer to “First Census was held in Pakistan in the year”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
+  - id: 42
+    question: First agriculture reforms in Pakistan?
+    options:
+      - 24-Jun-59
+      - 24-Jan-56
+      - 30-Jan-59
+      - 24-Jan-59
+    answer: 0
+    explanation: 24-Jun-59 is the correct answer to “First agriculture reforms in Pakistan”. Items of this type are drawn from the Economy & Natural Resources syllabus of Pakistani competitive exams, where the fact is tested verbatim.
+    keyConcept: Economy & Natural Resources
 ---
 
 ## Pakistan's Economic Geography, Minerals & Energy Resources
@@ -170,4 +487,3 @@ A solid understanding of Pakistan's natural resources, trade profile, and fiscal
 - Agriculture accounts for approximately 23% of GDP and employs 37% of the national labor force.
 - **Major Crops:** Wheat (Rabi staple), Rice (Kharif export), Cotton (industrial silver fiber), and Sugarcane.
 - **Key Exports:** Textile goods (cotton yarn, bedwear, knitwear accounting for ~60% of total export receipts), Basmati rice, surgical instruments (Sialkot cluster), and leather goods.
-

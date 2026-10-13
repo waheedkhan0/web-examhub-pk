@@ -20,6 +20,9 @@
     "cms:template": "node scripts/content-cli.js template",
     "cms:export": "node scripts/content-cli.js export mcqs",
     "cms:import-mcqs": "node scripts/content-cli.js import mcqs",
+    "cms:import-csv": "node scripts/import-csv.js",
+    "import:csv": "node scripts/import-csv.js",
+    "cms:expand": "node scripts/content-cli.js expand",
     "cms:import-guides": "node scripts/content-cli.js import guides",
     "cms:import-subjects": "node scripts/content-cli.js import subjects",
     "cms:import-exams": "node scripts/content-cli.js import exams",
@@ -27,6 +30,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^3.0.0",
+    "@astrojs/node": "^8.3.4",
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^4.0.0",
     "tailwindcss": "^4.3.3"

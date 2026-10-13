@@ -6,13 +6,13 @@ subjectName: Pakistan Studies & Constitutional Affairs
 topic: constitution
 topicName: Constitutional History & 1973 Constitution
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-10"
-difficulty: Exam-Level
+updatedDate: "2026-10-13"
+difficulty: Intermediate
 targetExams:
-  - CSS
-  - PMS
   - PPSC
   - FPSC
+  - CSS
+  - PMS
   - NTS
 questions:
   - id: 1
@@ -155,6 +155,126 @@ questions:
     testedIn:
       - PPSC Sub-Inspector 2023
       - CSS MPT 2024
+  - id: 11
+    question: "The Objectives Resolution was passed by the Constituent Assembly of Pakistan on:"
+    options:
+      - 7 March 1949
+      - 12 March 1949
+      - 23 March 1949
+      - 14 August 1949
+    answer: 1
+    explanation: The Objectives Resolution was presented by Prime Minister Liaquat Ali Khan on 7 March 1949 and passed on 12 March 1949. It laid down the principles for the future constitution of Pakistan based on Islamic ideology and democracy.
+    keyConcept: Constitutional & Legal History
+  - id: 12
+    question: "The first Constitution of Pakistan was enforced on:"
+    options:
+      - 23 March 1956
+      - 14 August 1947
+      - 7 October 1958
+      - 12 April 1973
+    answer: 0
+    explanation: Pakistan's first constitution was enforced on 23 March 1956, declaring Pakistan an Islamic Republic. It remained in force until the imposition of martial law by Iskander Mirza on 7 October 1958.
+    keyConcept: Constitutional & Legal History
+  - id: 13
+    question: "The first martial law in Pakistan was imposed on:"
+    options:
+      - 7 October 1958
+      - 5 July 1977
+      - 12 October 1999
+      - 25 March 1969
+    answer: 0
+    explanation: The first martial law in Pakistan was imposed by President Iskander Mirza on 7 October 1958. However, he was soon ousted by General Ayub Khan who took over as the Chief Martial Law Administrator.
+    keyConcept: Constitutional & Legal History
+  - id: 14
+    question: Who was the first President of Pakistan?
+    options:
+      - Ayub Khan
+      - Iskander Mirza
+      - Yahya Khan
+      - Zulfikar Ali Bhutto
+    answer: 1
+    explanation: Major General Iskander Mirza became the first President of Pakistan when Pakistan was declared an Islamic Republic on 23 March 1956 under the 1956 Constitution.
+    keyConcept: Constitutional & Legal History
+  - id: 15
+    question: "The 1973 Constitution of Pakistan was passed by the National Assembly on:"
+    options:
+      - 10 April 1973
+      - 12 April 1973
+      - 14 August 1973
+      - 23 March 1973
+    answer: 0
+    explanation: The National Assembly of Pakistan passed the 1973 Constitution on 10 April 1973. It was authenticated by the President of the Assembly on 12 April 1973 and came into full effect on 14 August 1973.
+    keyConcept: Constitutional & Legal History
+  - id: 16
+    question: "The first Chief Justice of Pakistan was:"
+    options:
+      - Justice Mian Sir Abdur Rashid
+      - Justice Muhammad Munir
+      - Justice A.R. Cornelius
+      - Justice Hamoodur Rahman
+    answer: 0
+    explanation: Justice Mian Sir Abdur Rashid was appointed as the first Chief Justice of Pakistan on 27 June 1949 and served until 22 June 1954.
+    keyConcept: Constitutional & Legal History
+  - id: 17
+    question: "The 18th Amendment to the Constitution of Pakistan was passed in:"
+    options:
+      - "2008"
+      - "2010"
+      - "2012"
+      - "2014"
+    answer: 1
+    explanation: The 18th Amendment was passed by the National Assembly on 8 April 2010 and by the Senate on 15 April 2010. It restored parliamentary democracy by reducing presidential powers and devolving more authority to provinces.
+    keyConcept: Constitutional & Legal History
+  - id: 18
+    question: Who was the last Governor-General of Pakistan?
+    options:
+      - Muhammad Ali Jinnah
+      - Khawaja Nazimuddin
+      - Ghulam Muhammad
+      - Iskander Mirza
+    answer: 3
+    explanation: Iskander Mirza was the last Governor-General of Pakistan from 1955 to 1956. When Pakistan became an Islamic Republic on 23 March 1956, he became its first President.
+    keyConcept: Constitutional & Legal History
+  - id: 19
+    question: "The 'Objectives Resolution' was made a substantive part of the Constitution through:"
+    options:
+      - 8th Amendment
+      - 1st Amendment
+      - 2nd Amendment
+      - 17th Amendment
+    answer: 1
+    explanation: The Objectives Resolution was made a substantive part of the Constitution through the First Amendment in 1954 during the tenure of Governor-General Ghulam Muhammad.
+    keyConcept: Constitutional & Legal History
+  - id: 20
+    question: "The 'Doctrine of Necessity' was first invoked by:"
+    options:
+      - Justice Muhammad Munir
+      - Justice A.R. Cornelius
+      - Justice Hamoodur Rahman
+      - Justice Iftikhar Muhammad Chaudhry
+    answer: 0
+    explanation: The Doctrine of Necessity was first invoked by Chief Justice Muhammad Munir in 1954 to validate Governor-General Ghulam Muhammad's dissolution of the Constituent Assembly, setting a controversial precedent for judicial validation of martial law.
+    keyConcept: Constitutional & Legal History
+  - id: 21
+    question: "The 'Martial Law Regulation 115' was used by Zia-ul-Haq to:"
+    options:
+      - Dissolve National Assembly
+      - Hang Zulfikar Ali Bhutto
+      - Ban political parties
+      - Censor the press
+    answer: 1
+    explanation: Martial Law Regulation 115 was used by General Zia-ul-Haq to try and subsequently execute former Prime Minister Zulfikar Ali Bhutto on 4 April 1979.
+    keyConcept: Constitutional & Legal History
+  - id: 22
+    question: "The 'FATA Merger' with Khyber Pakhtunkhwa was completed through:"
+    options:
+      - 22nd Amendment
+      - 23rd Amendment
+      - 24th Amendment
+      - 25th Amendment
+    answer: 3
+    explanation: The merger of Federally Administered Tribal Areas (FATA) with Khyber Pakhtunkhwa province was completed through the 25th Constitutional Amendment passed in May 2018.
+    keyConcept: Constitutional & Legal History
 ---
 
 ## Constitutional Evolution of the Islamic Republic of Pakistan
@@ -166,4 +286,3 @@ Constitutional history is one of the most frequently tested areas in CSS, PMS, a
 3. **The 1956 Constitution:** Enacted on March 23, 1956, introducing a parliamentary system with a unicameral legislature (National Assembly of 300 seats based on the 'Principle of Parity' between East and West Pakistan). Abrogated on October 7, 1958, by President Iskander Mirza.
 4. **The 1962 Constitution:** Promulgated on June 8, 1962, by Field Marshal Ayub Khan. Introduced a presidential system with indirect elections through 80,000 Basic Democrats.
 5. **The 1973 Constitution:** Passed unanimously by the National Assembly on April 10, 1973, authenticated on April 12, and enforced on August 14, 1973. Re-established a bicameral federal parliamentary system.
-

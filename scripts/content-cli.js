@@ -31,6 +31,7 @@ import {
 } from './lib/library.js';
 import { runRecordImport, recordUsage, SPECS } from './import-records.js';
 import * as mcqImport from './import-mcqs.js';
+import * as mcqExpand from './expand-mcqs.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SAMPLES_DIR = path.join(ROOT, 'samples');
@@ -429,6 +430,7 @@ function help() {
 BULK WORKFLOW
   cms template <type>            Write a starter CSV/JSON with correct headers
   cms import <type> <file>       Import rows into src/content (csv/tsv/json/ndjson/yaml)
+  cms expand [options]           Import every CSV in "MCQs csv files/" (see --tier/--max-per-set)
   cms export mcqs                Dump every MCQ out to samples/mcqs-export.csv
   cms doctor [--fix]             Find and repair inconsistencies
 
@@ -504,6 +506,9 @@ export async function main(argv = process.argv.slice(2)) {
       if (!result?.ok) process.exitCode = 1;
       return;
     }
+
+    case 'expand':
+      return mcqExpand.run(rest);
 
     case 'export':
       if (type === 'mcqs') return exportMcqs(rest.slice(1));
