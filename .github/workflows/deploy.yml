@@ -1,0 +1,73 @@
+name: Deploy to AWS Lightsail
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: production
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    name: Build & Deploy to Lightsail
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build Astro Production Site
+        run: pnpm run build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=6144"
+
+      - name: Configure SSH Key
+        env:
+          SSH_KEY: ${{ secrets.LIGHTSAIL_SSH_KEY }}
+          HOST: ${{ secrets.LIGHTSAIL_HOST }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/lightsail.pem
+          chmod 600 ~/.ssh/lightsail.pem
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null || true
+
+      - name: Deploy Code & Artifacts to Lightsail
+        env:
+          HOST: ${{ secrets.LIGHTSAIL_HOST }}
+          USER: ${{ secrets.LIGHTSAIL_USER }}
+        run: |
+          echo "🚀 Updating repository state on Lightsail instance..."
+          ssh -i ~/.ssh/lightsail.pem -o StrictHostKeyChecking=no $USER@$HOST "cd /home/ubuntu/web-examhub-pk && git fetch origin && git reset --hard origin/main"
+
+          echo "📦 Syncing production build (dist/) to Lightsail..."
+          rsync -avz --delete -e "ssh -i ~/.ssh/lightsail.pem -o StrictHostKeyChecking=no" dist/ $USER@$HOST:/home/ubuntu/web-examhub-pk/dist/
+
+          echo "🔄 Reloading PM2 process 'examhub'..."
+          ssh -i ~/.ssh/lightsail.pem -o StrictHostKeyChecking=no $USER@$HOST "cd /home/ubuntu/web-examhub-pk && (pm2 restart examhub || pm2 reload ecosystem.config.cjs || pm2 start ecosystem.config.cjs) && pm2 save"
+
+      - name: Production Health Check
+        env:
+          HOST: ${{ secrets.LIGHTSAIL_HOST }}
+        run: |
+          echo "🏥 Verifying production site response..."
+          sleep 3
+          curl --fail --retry 5 --retry-delay 3 -k -I -H "Host: examhub.pk" "https://$HOST/" || curl --fail --retry 3 -k -I "http://$HOST/"
+          echo "✅ Production site successfully deployed and responding!"

@@ -4,18 +4,29 @@ import MCQLayout from '../../../layouts/MCQLayout.astro';
 
 export async function getStaticPaths() {
   const mcqs = await getCollection('mcqs');
+  
+  // Pre-index by subject once (O(N)) instead of filtering 2,200 times (O(N^2))
+  const bySubject = new Map<string, { subject: string; topic: string; topicName: string; count: number }[]>();
+  for (const m of mcqs) {
+    let list = bySubject.get(m.data.subject);
+    if (!list) {
+      list = [];
+      bySubject.set(m.data.subject, list);
+    }
+    list.push({
+      subject: m.data.subject,
+      topic: m.data.topic,
+      topicName: m.data.topicName,
+      count: m.data.questions?.length || 0,
+    });
+  }
+
   return mcqs.map(mcq => ({
     params: { subject: mcq.data.subject, topic: mcq.data.topic },
     props: {
       mcq,
-      relatedSets: mcqs
-        .filter(other => other.data.subject === mcq.data.subject && other.data.topic !== mcq.data.topic)
-        .map(other => ({
-          subject: other.data.subject,
-          topic: other.data.topic,
-          topicName: other.data.topicName,
-          count: other.data.questions.length,
-        }))
+      relatedSets: (bySubject.get(mcq.data.subject) || [])
+        .filter(other => other.topic !== mcq.data.topic)
         .slice(0, 6),
     },
   }));
@@ -27,7 +38,6 @@ interface Props {
 }
 
 const { mcq, relatedSets } = Astro.props;
-const { Content } = await mcq.render();
 ---
 
 <MCQLayout
@@ -42,6 +52,4 @@ const { Content } = await mcq.render();
   questions={mcq.data.questions}
   updatedDate={mcq.data.updatedDate}
   relatedSets={relatedSets}
->
-  <Content />
-</MCQLayout>
+/>
