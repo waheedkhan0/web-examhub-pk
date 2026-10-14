@@ -16,6 +16,30 @@ subtopics:
   - name: Urdu Literature and Authors
     slug: literature-and-authors
     questionCount: 12
+  - name: Urdu Adab & Qawaid — Past Papers — Part 1
+    slug: urdu-past-papers-part-1
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 2
+    slug: urdu-past-papers-part-2
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 3
+    slug: urdu-past-papers-part-3
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 4
+    slug: urdu-past-papers-part-4
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 5
+    slug: urdu-past-papers-part-5
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 6
+    slug: urdu-past-papers-part-6
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 7
+    slug: urdu-past-papers-part-7
+    questionCount: 40
+  - name: Urdu Adab & Qawaid — Past Papers — Part 8
+    slug: urdu-past-papers-part-8
+    questionCount: 20
 ---
 
 # Urdu Language and Literature

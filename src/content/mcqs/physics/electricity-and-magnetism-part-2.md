@@ -2,15 +2,16 @@
 title: "Electricity & Magnetism — Part 2: 40 MCQs with Explanations"
 description: 40 intermediate electricity & magnetism MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.
 subject: physics
-subjectName: Physics
+subjectName: Physics & Applied Physics
 topic: electricity-and-magnetism-part-2
-topicName: Electricity & Magnetism — Part 2
+topicName: Electricity And Magnetism — Part 2
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
-difficulty: Intermediate
+updatedDate: "2026-10-14"
+difficulty: Exam-Level
 targetExams:
   - MDCAT
-  - FSc
+  - CSS
+  - PMS
   - PPSC
   - FPSC
 questions:
@@ -414,8 +415,526 @@ questions:
     answer: 0
     explanation: "Ohm's law: V = IR, so R = V/I = 2 V / 1 A = 2 Ω."
     keyConcept: Electricity & Magnetism
+  - id: 41
+    question: Electrical fuse is based on which of the following?
+    options:
+      - Magnetic effect of current
+      - Cooling effect of current
+      - Heating effect of current
+      - Electromagnetic induction
+    answer: 2
+    explanation: Heating effect of current is the correct answer to “Electrical fuse is based on which of the following”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 42
+    question: Why the batteries are used in electrical circuits?
+    options:
+      - to generate current
+      - to produce electrons
+      - to generate potential difference
+      - to measurement of potential difference
+    answer: 2
+    explanation: to generate potential difference is the correct answer to “Why the batteries are used in electrical circuits”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 43
+    question: A dynamo which is said to generate electricity actually acts as a
+    options:
+      - Source of ions
+      - Source of electric charge
+      - Converter of energy
+      - Source of electrons
+    answer: 2
+    explanation: Converter of energy is the correct answer to “A dynamo which is said to generate electricity actually acts as a”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 44
+    question: What will be the resultant resistance of a circuit that has three resistors of each 25 Ω in series?
+    options:
+      - 100 Ω
+      - 75 Ω
+      - 105 Ω
+      - 25 Ω
+    answer: 1
+    explanation: 75 Ω is the correct answer to “What will be the resultant resistance of a circuit that has three resistors of each 25 Ω in series”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 45
+    question: Domestic electrical wiring is basically a
+    options:
+      - Series connection
+      - Parallel connection
+      - Combination of series and parallel connections
+      - Series connection within each room and parallel connective elsewhere
+    answer: 1
+    explanation: Parallel connection is the correct answer to “Domestic electrical wiring is basically a”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 46
+    question: Which one of the following statements is correct with regard to the material of electrical insulators?
+    options:
+      - They contain no electrons
+      - Electrons do not flow easily through them
+      - They are crystals
+      - They have more number of electrons than the protons on their surface
+    answer: 1
+    explanation: Electrons do not flow easily through them is the correct answer to “Which one of the following statements is correct with regard to the material of electrical insulators”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 47
+    question: If a 50 W bulb consumes 1000 J of energy, then the time taken by the bulb is?
+    options:
+      - 10 s
+      - 100 s
+      - 1 s
+      - 20 s
+    answer: 3
+    explanation: 20 s is the correct answer to “If a 50 W bulb consumes 1000 J of energy, then the time taken by the bulb is”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 48
+    question: How much work is done to moving a charge of 5C across two points having a potential difference of 11V?
+    options:
+      - 5 J
+      - 11 J
+      - 55 J
+      - 48 J
+    answer: 2
+    explanation: 55 J is the correct answer to “How much work is done to moving a charge of 5C across two points having a potential difference of 11V”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 49
+    question: A current of 0.6A is drawn by an electrical device in 10 minutes. Find the amount of electric charge flows through the circuit.
+    options:
+      - 6 C
+      - 36 C
+      - 360 C
+      - 60 C
+    answer: 2
+    explanation: 360 C is the correct answer to “A current of 0.6A is drawn by an electrical device in 10 minutes. Find the amount of electric charge flows through the circuit.”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 50
+    question: The symbol represents.
+    options:
+      - unconnected wire crossing
+      - a voltmeter
+      - variable resistance or current controller
+      - a resistance of resistance R
+    answer: 1
+    explanation: a voltmeter is the correct answer to “The symbol represents.”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 51
+    question: What is the difference between a CFL and an LED Lamp? 1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material. 2. The average life span of a CFL is much longer than of an LED lamp. 3. A CFL is less energy efficient as compared to an LED lamp. Which of the statements given above is/are correct?
+    options:
+      - Only 1
+      - Only 2 and 3
+      - Only 1 and 3
+      - 1, 2 and 3
+    answer: 2
+    explanation: Only 1 and 3 is the correct answer to “What is the difference between a CFL and an LED Lamp? 1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material. 2. The average life span of a CFL is much longer than of an LED lamp. 3. A CFL is less energy efficient as compared to an LED lamp. Which of the statements given above is/are correct”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 52
+    question: When electrical energy is converted into motion
+    options:
+      - There is no heat loss
+      - Heat loss is 50%
+      - Heat loss is 30%
+      - Heat loss is 80%
+    answer: 0
+    explanation: There is no heat loss is the correct answer to “When electrical energy is converted into motion”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 53
+    question: "How much work is done in moving a charge of 5C across two points having a potential difference of 17V:"
+    options:
+      - 75 J
+      - 40 J
+      - 85 J
+      - 45 J
+    answer: 2
+    explanation: 85 J is the correct answer to “How much work is done in moving a charge of 5C across two points having a potential difference of 17V:”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 54
+    question: "The resistivity of an electric conductor depends on:"
+    options:
+      - Area of cross section
+      - All given options
+      - Length
+      - Material
+    answer: 3
+    explanation: Material is the correct answer to “The resistivity of an electric conductor depends on:”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 55
+    question: Which of the following substances has the highest resistivity?
+    options:
+      - Ebonite
+      - copper
+      - Nichrome
+      - Glass
+    answer: 0
+    explanation: Ebonite is the correct answer to “Which of the following substances has the highest resistivity”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 56
+    question: X-rays are . . . . . . . . waves.
+    options:
+      - longitudinal
+      - transverse
+      - electromagnetic
+      - elastic
+    answer: 2
+    explanation: electromagnetic is the correct answer to “X-rays are . . . . . . . . waves.”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 57
+    question: A current of 0.8 A is drawn by a filament of on electric bulb for 3 minutes. Amount of electric change that flows through the circuit is . . . . . . . .
+    options:
+      - "1.44"
+      - "144"
+      - "14.4"
+      - "0.144"
+    answer: 1
+    explanation: 144 is the correct answer to “A current of 0.8 A is drawn by a filament of on electric bulb for 3 minutes. Amount of electric change that flows through the circuit is . . . . . . . .”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 58
+    question: Electromagnet is constructed with which of the following?
+    options:
+      - Steel
+      - Soft Iron
+      - Aluminium
+      - Nickel
+    answer: 1
+    explanation: Soft Iron is the correct answer to “Electromagnet is constructed with which of the following”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 59
+    question: A current of 5A is taken by a filament for 10 minutes. Find the amount of electric charge flowing through the circuit.
+    options:
+      - 3000 C
+      - 30 C
+      - 5 C
+      - 350 C
+    answer: 0
+    explanation: 3000 C is the correct answer to “A current of 5A is taken by a filament for 10 minutes. Find the amount of electric charge flowing through the circuit.”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 60
+    question: A rectangular coil of copper wire is rotating in a magnetic field. The direction of the induced current changes once in each?
+    options:
+      - Two revolutions
+      - One revolution
+      - Half revolution
+      - One fourth revolution
+    answer: 2
+    explanation: Half revolution is the correct answer to “A rectangular coil of copper wire is rotating in a magnetic field. The direction of the induced current changes once in each”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 61
+    question: "Assertion (A): Light Emitting Diode (LED) lamps offer longer service life as compared to Compact Fluorescent Lamps (CFL). Reason (R): Light Emitting Diodes (LED) lamps are more energy efficient as compared to the Compact Fluorescent Lamps (CFL). Select the correct answer:"
+    options:
+      - Both (A) and (R) are true and (R) is the correct explanation of (A)
+      - Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+      - (A) is true, but (R) is false
+      - (A) is false, but (R) is true
+    answer: 0
+    explanation: "Both (A) and (R) are true and (R) is the correct explanation of (A) is the correct answer to “Assertion (A): Light Emitting Diode (LED) lamps offer longer service life as compared to Compact Fluorescent Lamps (CFL). Reason (R): Light Emitting Diodes (LED) lamps are more energy efficient as compared to the Compact Fluorescent Lamps (CFL). Select the correct answer:”. This question is standard in competitive examination syllabi for Electricity And Magnetism."
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 62
+    question: Electric current is equals to
+    options:
+      - $$l = \frac{\Omega }{t}$$
+      - $$l = \frac{Q}{t}$$
+      - $$l = \frac{\pi }{t}$$
+      - $$l = \frac{W}{t}$$
+    answer: 1
+    explanation: $$l = \frac{Q}{t}$$ is the correct answer to “Electric current is equals to”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 63
+    question: Which is the gas inside an electric bulb?
+    options:
+      - Argon
+      - Nitrogen
+      - Carbon dioxide
+      - Both A and B
+    answer: 3
+    explanation: Both A and B is the correct answer to “Which is the gas inside an electric bulb”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 64
+    question: A liquid plane plate collector located in the northern hemisphere is usually tilted to a fixed position in front of . . . . . . . .
+    options:
+      - west
+      - east
+      - south
+      - north
+    answer: 2
+    explanation: south is the correct answer to “A liquid plane plate collector located in the northern hemisphere is usually tilted to a fixed position in front of . . . . . . . .”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 65
+    question: If an electrical device stops working due to a malfunction in a parallel circuit then other all electric equipments-
+    options:
+      - will continue to work at double capacity
+      - will not work
+      - will continue to function normally
+      - Will continue to work at half its capacity
+    answer: 2
+    explanation: will continue to function normally is the correct answer to “If an electrical device stops working due to a malfunction in a parallel circuit then other all electric equipments-”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 66
+    question: If the diameter of a wire is reduced to half, then what will be the value of the current flowing through the wire.
+    options:
+      - one fourth
+      - half
+      - double
+      - four times
+    answer: 0
+    explanation: one fourth is the correct answer to “If the diameter of a wire is reduced to half, then what will be the value of the current flowing through the wire.”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 67
+    question: A fuse wire must be
+    options:
+      - conducting and of low melting point
+      - conducting and of high melting point
+      - insulator and of high melting point
+      - insulator and of low melting point
+    answer: 0
+    explanation: conducting and of low melting point is the correct answer to “A fuse wire must be”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 68
+    question: "\"The workdone in moving a unit charge across two points of an electrical circuit\" is called . . . . . . . ."
+    options:
+      - Potential difference
+      - current
+      - powet
+      - resistance
+    answer: 0
+    explanation: Potential difference is the correct answer to “"The workdone in moving a unit charge across two points of an electrical circuit" is called . . . . . . . .”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 69
+    question: The earth's magnetic field is due to
+    options:
+      - currents circulating inside the core
+      - presence of a huge magnet at its centre
+      - moving charges in space outside
+      - None of the above
+    answer: 0
+    explanation: currents circulating inside the core is the correct answer to “The earth's magnetic field is due to”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 70
+    question: Which one of the following statements regarding Ohm's law is not correct?
+    options:
+      - Ohm's law is an assumption that current through a conductor is always directly proportional to the potential difference applied to it
+      - A conducting device obeys Ohm's law when the resistance of a device is independent of magnitude and polarity of applied potential difference
+      - A conducting material obeys Ohm's law when the resistance of material is independent of the magnitude and direction of applied electric field
+      - All homogeneous materials obey Ohm's law irrespective of whether the field is within range or strong
+    answer: 3
+    explanation: All homogeneous materials obey Ohm's law irrespective of whether the field is within range or strong is the correct answer to “Which one of the following statements regarding Ohm's law is not correct”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 71
+    question: Curie point is the temperature at which
+    options:
+      - matter becomes radioactive
+      - a metal loses magnetic properties
+      - a metal loses conductivity
+      - transmutation of metal occurs
+    answer: 1
+    explanation: a metal loses magnetic properties is the correct answer to “Curie point is the temperature at which”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 72
+    question: The dimension of magnetic field intensity is-
+    options:
+      - IL
+      - I2L
+      - IL-1
+      - IL-2
+    answer: 2
+    explanation: IL-1 is the correct answer to “The dimension of magnetic field intensity is-”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 73
+    question: What would be the electric current in electric bulb from the source of 220 V. If the resistance of bulb filament is 1200 Ω?
+    options:
+      - 18 A
+      - 0.18 A
+      - 1.8 A
+      - 0.018 A
+    answer: 1
+    explanation: 0.18 A is the correct answer to “What would be the electric current in electric bulb from the source of 220 V. If the resistance of bulb filament is 1200 Ω”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 74
+    question: Use of signal in an electrical circuit. It is indicated by . . . . . . . .?
+    options:
+      - Rheostat
+      - Resistor
+      - Wire joint
+      - Electric cell
+    answer: 0
+    explanation: Rheostat is the correct answer to “Use of signal in an electrical circuit. It is indicated by . . . . . . . .”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 75
+    question: Why does the core of a transformer is laminated?
+    options:
+      - To increase the electrical conductivity of the core
+      - To increase the magnetization of the core
+      - To reduce the eddy current loss
+      - To increase current and improve efficiency
+    answer: 2
+    explanation: To reduce the eddy current loss is the correct answer to “Why does the core of a transformer is laminated”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 76
+    question: What do the given symbol in figure represents in a reference of electric circuit?
+    options:
+      - resistance
+      - plug key
+      - electric bulb
+      - battery
+    answer: 2
+    explanation: electric bulb is the correct answer to “What do the given symbol in figure represents in a reference of electric circuit”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 77
+    question: An electric bulb of 100 W is used for 8 hours per day. The energy used by a bulb in a day is . . . . . . . . unit
+    options:
+      - "80"
+      - "800"
+      - "8"
+      - "0.8"
+    answer: 3
+    explanation: 0.8 is the correct answer to “An electric bulb of 100 W is used for 8 hours per day. The energy used by a bulb in a day is . . . . . . . . unit”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 78
+    question: The power of an electric bulb with 240 V and 0.6 A current will be . . . . . . . .?
+    options:
+      - 144 W
+      - 400 W
+      - 14.4 W
+      - 40 W
+    answer: 0
+    explanation: 144 W is the correct answer to “The power of an electric bulb with 240 V and 0.6 A current will be . . . . . . . .”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 79
+    question: The purpose of choke in a fluorescent lamp is
+    options:
+      - to increase the current flow
+      - to decrease the current flow
+      - to decrease the resistance
+      - to decrease the voltage momentarily
+    answer: 1
+    explanation: to decrease the current flow is the correct answer to “The purpose of choke in a fluorescent lamp is”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 80
+    question: What is electromagnetic induction?
+    options:
+      - The generation of electric current due to the relative motion between the coil and the magnetic field
+      - Generation of electrostatic force due to relative motion between the coil and the magnetic field
+      - Generation of electric current due to static current between the coil and the magnetic field
+      - The generation of electric current due to the relative motion between the induction motor and the magnetic field
+    answer: 0
+    explanation: The generation of electric current due to the relative motion between the coil and the magnetic field is the correct answer to “What is electromagnetic induction”. This question is standard in competitive examination syllabi for Electricity And Magnetism.
+    keyConcept: Electricity And Magnetism
+    testedIn:
+      - MDCAT
+      - CSS
 ---
 
-## About this set
 
-40 intermediate electricity & magnetism MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.

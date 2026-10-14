@@ -4,15 +4,16 @@ description: 40 exam-level sports & games MCQs with answers and explanations for
 subject: general-knowledge
 subjectName: General Knowledge & World Affairs
 topic: sports-part-2
-topicName: Sports & Games — Part 2
+topicName: Sports — Part 2
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-14"
 difficulty: Exam-Level
 targetExams:
   - PPSC
   - FPSC
+  - PMS
   - NTS
-  - CSS
+  - SPSC
 questions:
   - id: 1
     question: Penalty cards(Yellow, Red) used in Football first introduced in which year?
@@ -410,8 +411,526 @@ questions:
     answer: 2
     explanation: One time is the correct answer to “How many times England won the ICC World Cup”. Items of this type are drawn from the Sports & Games — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
+  - id: 41
+    question: Where did the 1st ODI match was played in India?
+    options:
+      - New Delhi
+      - Ahmedabad
+      - Kolkata
+      - Mumbai
+    answer: 1
+    explanation: The 1st ODI match played in India was at Ahmedabad.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 42
+    question: Who had a torrid time with Lancashire in 2000?
+    options:
+      - Sachin Tendulkar
+      - Nayan Mongia
+      - Javagal Srinath
+      - Saurav Ganguly
+    answer: 3
+    explanation: Saurav Ganguly had a torrid time with Lancashire in 2000.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 43
+    question: What is the name of the person that controls a football match?
+    options:
+      - A referee
+      - An umpire
+      - A spectator
+      - A goalkeeper
+    answer: 0
+    explanation: The predominant system of positioning and division of responsibility used by football match officials throughout the world is known as the Diagonal system of control (DSC). The referee has final decision-making authority on all matters. The referee is assisted by two assistant referees who advise the referee.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 44
+    question: Former Australian captain Allan Border was sometimes known as "Captain Grumpy". What was his other nickname?
+    options:
+      - Abe
+      - Captain Junior
+      - AB
+      - Groucho
+    answer: 2
+    explanation: AB was his other nickname.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 45
+    question: The Indian football team made its first appearance at Olympics in?
+    options:
+      - "1936"
+      - "1948"
+      - "1952"
+      - "1956"
+    answer: 1
+    explanation: The 1948 Summer Olympics was the first time that India played football in the Olympics, their first real test on the world football stage. Despite playing barefoot the Indian team impressed in the only match they played, losing 1-2 to France.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 46
+    question: Who was the first captain of Indian Test team?
+    options:
+      - Vijay Hazare
+      - C K Nayudu
+      - Lala Amarnath
+      - Vijay Merchant
+    answer: 1
+    explanation: BCCI had established C K Nayudu award in memory of him for contribution to the Indian cricket. The award carries a citation, a trophy, and a cash prize of Rs 2 lakh. Lala Amarnath was the 1st recipient of this award.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 47
+    question: Fenway Park is the home field of what Major League Baseball team?
+    options:
+      - New York Yankees
+      - Chicago White Sox
+      - Montreal Expos
+      - Boston Red Sox
+    answer: 3
+    explanation: Fenway Park is a baseball park located in Boston, Massachusetts, near Kenmore Square. Since 1912, it has been the home for the Boston Red Sox, the city's American League baseball team, and since 1953, its only Major League Baseball (MLB) franchise.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 48
+    question: Pravin Amre and Vinod Kambli played for which province in South Africa?
+    options:
+      - Border
+      - Boland
+      - Griqualand West
+      - Gauteng
+    answer: 1
+    explanation: Like Sachin Tendulkar, both Kambli and Amre were coached by Ramakanth Achrekar and played for Mumbai and India.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 49
+    question: Which football hero was nicknamed "The Sundance Kid"?
+    options:
+      - Jim Kiick
+      - Troy Aikman
+      - Brett Favre
+      - Joe Montana
+    answer: 0
+    explanation: Jim Kiick was nicknamed "The Sundance Kid".
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 50
+    question: Which country won the Cricket World Cup in 1999?
+    options:
+      - Australia
+      - South Africa
+      - Pakistan
+      - England
+    answer: 0
+    explanation: Australia emerged victorious in a one-sided final where they defeated Pakistan by eight wickets.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 51
+    question: Who did The Rock beat to win his first WWE Title?
+    options:
+      - Triple H
+      - Stone Cold Steve Austin
+      - Mankind
+      - Bret Hart
+    answer: 2
+    explanation: This happened at the 1998 edition of "Survivor Series". They had a tournament to determine the WWE Champion. Mankind and The Rock made it to the finals. The Rock won after using a Sharpshooter. Mankind didn't quit but Vince McMahon called for the bell. This was in reference to what he did to Bret Hart the previous year.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 52
+    question: The name Kunjarani Devi is associated with?
+    options:
+      - Weight Lifting
+      - Target shooting
+      - Athletics
+      - Swimming
+    answer: 0
+    explanation: Nameirakpam Kunjarani Devi is the most decorated Indian sportswoman in weightlifting.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 53
+    question: In what year was the first international cricket match held?
+    options:
+      - 1892 between England and India
+      - 1869 between England and Australia
+      - 1883 between Australia and Wales
+      - 1844 between Canada and the USA
+    answer: 3
+    explanation: The first international cricket match was held between Canada and the USA on September 25, 1844, at the St George Cricket Club ground, Manhattan. Canada won by 23 runs.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 54
+    question: How many gold medals have been won by India in the Olympics so far?
+    options:
+      - "4"
+      - "8"
+      - "9"
+      - "10"
+    answer: 3
+    explanation: Neeraj Chopra is the first Asian athlete to win an Olympic gold medal in men's javelin throw in 2020 Game. In the 2008 Games in Beijing, Abhinav Bindra became the first Indian to win gold in an individual event when he won the men's 10 meter air rifle competition. This was India's 9th gold medal in Olympic competition. India has won eight gold medals in field hockey (1928,1932, 1936, 1948, 1952, 1956, 1964, 1980).
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 55
+    question: Who did The Rock wrestle in the main event at the 1999 edition of "Wrestlemania"?
+    options:
+      - Stone Cold Steve Austin
+      - Triple H
+      - Mankind
+      - Undertaker
+    answer: 0
+    explanation: This was the first time they wrestled each other at "Wrestlemania". Two years later they wrestled again with Austin winning that match as well. The third match was in 2003 in Seattle. This was Austin's last match and he finally lost to The Rock.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 56
+    question: Which English county did batting sensation Virender Sehwag join in the 2003 season?
+    options:
+      - Lancashire
+      - Leicestershire
+      - Yorkshire
+      - Middlesex
+    answer: 1
+    explanation: Virender Sehwag holds the record for the Highest individual score by an Indian in test matches when he scored 309 against Pakistan in 2004. He made 219 in ODI which is highest score in ODI by any cricketer.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 57
+    question: Who has scored the most Test hundreds ever?
+    options:
+      - Steve Waugh
+      - Sachin Tendulkar
+      - Shane Warne
+      - Sunil Gavaskar
+    answer: 1
+    explanation: He has scored 51 hundred in 200 test matches.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 58
+    question: When was the first cricket Test match played?
+    options:
+      - "1873"
+      - "1877"
+      - "1870"
+      - "1788"
+    answer: 1
+    explanation: The first ever Test match was played between Australia and England at Melbourne Cricket Ground in 1877.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 59
+    question: Which track and field star overcame childhood polio to become one of the greatest athletes of her time?
+    options:
+      - Wilma Rudolph
+      - Gail Devers
+      - Florence Griffith Joyner
+      - Jackie Robinson
+    answer: 0
+    explanation: Rudolph won 3 gold medals (100m, 200m and 4x100m relay) at the 1960 Olympics. Devers overcame a thyroid disorder (Graves' disease) that nearly resulted in her having both feet amputated.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 60
+    question: Who beat Duke in the Great Alaskan Shootout Finals in 1998?
+    options:
+      - Syracuse
+      - University of Cincinnati
+      - Notre Dame
+      - UCLA
+    answer: 1
+    explanation: University of Cincinnati beat Duke in the Great Alaskan Shootout Finals in 1998.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 61
+    question: "'Dizzy' is the nickname of what Australian player?"
+    options:
+      - Adam Gilchrist
+      - Jason Gillespie
+      - Glenn McGrath
+      - Brett Lee
+    answer: 1
+    explanation: Dizzy' is the nickname of Jason Gillespie after the famous musician.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 62
+    question: Who is the highest wicket taker in Test cricket?
+    options:
+      - Shane Warne
+      - Brian Lara
+      - Courtney Walsh
+      - Muttiah Muralitharan
+    answer: 3
+    explanation: He has taken 800 wickets in 133 test matches and 534 wickets in 350 ODIs.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 63
+    question: Which country, which made its debut in the Norwich Union League in 2003, signed Rahul Dravid as their overseas player?
+    options:
+      - Holland
+      - Ireland
+      - Wales
+      - Scotland
+    answer: 3
+    explanation: Scotland is the country. Rahul had a highly successful stint with Kent in 2000.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 64
+    question: Which county signed Yuvraj Singh to play for them in 2003?
+    options:
+      - Nottinghamshire
+      - Lancashire
+      - Hampshire
+      - Yorkshire
+    answer: 3
+    explanation: Yorkshire signed Yuvraj Singh to play for them in 2003.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 65
+    question: Which county did the outspoken Spin great Bishen Singh Bedi play for?
+    options:
+      - Essex
+      - Surrey
+      - Northamptonshire
+      - Sussex
+    answer: 2
+    explanation: Bedi represented Northamptonshire in English county cricket for many years. He finished his career with 1560 wickets in first-class cricket—more than any other Indian. His bowling has been described as graceful, even beautiful, and full of guile and artistry.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 66
+    question: Who was the first Indian to win an individual medal in Olympics?
+    options:
+      - Milkha Singh
+      - P.T.Usha
+      - Karnam Malleshwari
+      - K.D.Jadhav
+    answer: 3
+    explanation: Mr. Khashaba Dadasaheb Jadhav or KD Jadhav, widely known as 'Pocket Dynamo', was independent India's first individual Olympic medalist when he won the freestyle wrestling bronze medal at the 1952 Helsinki Games
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 67
+    question: Which county did speedster Javagal Srinath play for in 1995?
+    options:
+      - Kent
+      - Glamorgan
+      - Gloucestershire
+      - Leicestershire
+    answer: 2
+    explanation: Javagal Srinath played for Gloucestershire in 1995.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 68
+    question: Stripped of his heavyweight title in 1967 for refusing induction into the U.S. military, Muhammad Ali regained the heavyweight championship on October 30, 1974, in Kinshasa, Zaire with an eighth-round knockout of which prizefighter?
+    options:
+      - George Foreman
+      - Joe Frazier
+      - Leon Spinks
+      - Sputnik
+    answer: 0
+    explanation: Stripped of his heavyweight title in 1967 for refusing induction into the U.S. military, Muhammad Ali regained the heavyweight championship on October 30, 1974, in Kinshasa, Zaire with an eighth-round knockout of George Foreman.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 69
+    question: Undertaker wrestled Yokozuna at the 1994 "Royal Rumble". This was a Casket Match. Undertaker wrestled in another Casket Match at the 1998 "Royal Rumble". Who did he wrestle?
+    options:
+      - Yokozuna
+      - Shawn Michaels
+      - Mabel
+      - Triple H
+    answer: 1
+    explanation: This was the match that injured Shawn Michaels' back. Undertaker back dropped Shawn on the casket. Undertaker lost this match when Kane interfered.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 70
+    question: With which sport is the 'Choudhury Trophy' associated?
+    options:
+      - Golf
+      - Circumnavigation of the earth by car
+      - Formula One racing
+      - Buggy-Jumping
+    answer: 1
+    explanation: Circumnavigating of the earth by car. This trophy has been named after Saloo and Neena Choudhury, ace car rallyists from Calcutta. It's in recognition of the couple's achievement in 1989 when they passed through all six continents in 69 days and repeated the same feat in 1991 in 39 days.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 71
+    question: The nickname of wicketkeeping great Rod Marsh was what?
+    options:
+      - Billabong
+      - Swampy
+      - Bacchus
+      - Lagoon
+    answer: 2
+    explanation: Bacchus Marsh is a town in Victoria Australia. He was also known as 'Iron Gloves'.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 72
+    question: Who was the 1st president of BCCI ( Board of Control for Cricket in India )?
+    options:
+      - R.E. Grant Govan
+      - Dr. Maharajkumar Sir Vijaya Ananda
+      - Sikandar Hyat Khan
+      - Anthony S. D'Mello
+    answer: 0
+    explanation: Govan was president from 1928-29 to 1932-33.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 73
+    question: How many gold medals did P.T.Usha win in the 1986 Seoul Asian Games?
+    options:
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+    answer: 3
+    explanation: At the Seoul Asian Games in 1986, P.T. Usha won five historic medals - 4 gold and 1 silver - in the track and field events, a record for an Indian athlete at any international meet.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 74
+    question: Who holds second and third place for most yards rushing in a single season in the NFL?
+    options:
+      - Barry Sanders
+      - Jim Brown
+      - OJ Simpson
+      - Dick Lane
+    answer: 2
+    explanation: OJ Simpson holds second and third place for most yards rushing in a single season in the NFL.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 75
+    question: Which of the following country won the final of the triangular cricket series held in Durban in February 1997?
+    options:
+      - India
+      - New zealand
+      - South africa
+      - Zimbabwe
+    answer: 2
+    explanation: South Africa won the final of the triangular cricket series held in Durban in February 1997.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 76
+    question: Who has scored the most runs in a single First-class innings?
+    options:
+      - Hanif Mohammad
+      - Brian Lara
+      - Sir Donald Bradman
+      - Sachin Tendulkar
+    answer: 1
+    explanation: The highest individual score in first-class cricket is 501* scored by Brian Lara for Warwickshire in 1994. There have been nine other scores of 400 or more, including another by Lara and two by Bill Ponsford.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 77
+    question: Which batsman started his international cricketing career at the age of 16?
+    options:
+      - Suresh Raina
+      - Sachin Tendulkar
+      - Piyush Chawla
+      - Rahul Dravid
+    answer: 1
+    explanation: Sachin Tendulkar made his debut in Pakistan when he was only 16 in 1989.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 78
+    question: How many wickets did Yograj Singh take in his 1st ODI match?
+    options:
+      - "1"
+      - "2"
+      - "4"
+      - "3"
+    answer: 1
+    explanation: Yograj Singh was a bowler, but his son Yuvraj Singh, also nicknamed as Yuvi, turned out to be a smashing batsman.
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 79
+    question: Who made his test debut alongwith Salil Ankola in the same match?
+    options:
+      - Rahul Dravid
+      - Sachin Tendulkar
+      - Kapil Dev
+      - Mohinder Amarnath
+    answer: 1
+    explanation: Sachin Tendulkar made his test debut alongwith Salil Ankola in the same match
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 80
+    question: What is the middle name of Rahul Dravid?
+    options:
+      - Naren
+      - Sharad
+      - Srivatsav
+      - Shyam
+    answer: 1
+    explanation: Full name, Rahul Sharad Dravid. Born, 11 January 1973 (1973-01-11).
+    keyConcept: Sports
+    testedIn:
+      - PPSC
+      - FPSC
 ---
 
-## About this set
 
-40 exam-level sports & games MCQs with answers and explanations for PPSC, FPSC, NTS preparation.

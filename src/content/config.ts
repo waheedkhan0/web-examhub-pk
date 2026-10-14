@@ -33,10 +33,10 @@ const mcqs = defineCollection({
     questions: z.array(
       z.object({
         id: z.number(),
-        question: z.string(),
-        options: z.array(z.string()),
+        question: z.coerce.string(),
+        options: z.array(z.coerce.string()),
         answer: z.number(), // index 0-3
-        explanation: z.string(),
+        explanation: z.coerce.string(),
         keyConcept: z.string().optional(),
         examTip: z.string().optional(),
         testedIn: z.array(z.string()).optional(),

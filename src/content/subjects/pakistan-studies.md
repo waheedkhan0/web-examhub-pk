@@ -118,6 +118,30 @@ subtopics:
   - name: Pakistan Studies — Mixed Practice — Part 5
     slug: pakistan-studies-misc-part-5
     questionCount: 40
+  - name: Fia Recruitment Screening
+    slug: fia-recruitment-screening
+    questionCount: 2
+  - name: Pakistan Studies — Commission Past Papers — Part 1
+    slug: pak-study-past-papers-part-1
+    questionCount: 40
+  - name: Pakistan Studies — Commission Past Papers — Part 2
+    slug: pak-study-past-papers-part-2
+    questionCount: 40
+  - name: Pakistan Studies — Commission Past Papers — Part 3
+    slug: pak-study-past-papers-part-3
+    questionCount: 40
+  - name: Pakistan Studies — Commission Past Papers — Part 4
+    slug: pak-study-past-papers-part-4
+    questionCount: 40
+  - name: Pakistan Studies — Commission Past Papers — Part 5
+    slug: pak-study-past-papers-part-5
+    questionCount: 40
+  - name: Pakistan Studies — Commission Past Papers — Part 6
+    slug: pak-study-past-papers-part-6
+    questionCount: 40
+  - name: Pakistan Studies — Commission Past Papers — Part 7
+    slug: pak-study-past-papers-part-7
+    questionCount: 39
 ---
 
 ## Pakistan Studies: The Bedrock of Pakistani Competitive Exams

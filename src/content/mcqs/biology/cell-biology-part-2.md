@@ -2,17 +2,17 @@
 title: "Cell Structure & Function — Part 2: 40 MCQs with Explanations"
 description: 40 basic cell structure & function MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.
 subject: biology
-subjectName: Biology (MDCAT & FSc)
+subjectName: Biology & Life Sciences
 topic: cell-biology-part-2
-topicName: Cell Structure & Function — Part 2
+topicName: Cell Biology — Part 2
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-14"
 difficulty: Exam-Level
 targetExams:
   - MDCAT
-  - FSc
   - PPSC
   - FPSC
+  - NTS
 questions:
   - id: 1
     question: "The process by which an amoeba engulfs a food particle is an example of:"
@@ -814,8 +814,526 @@ questions:
     answer: 1
     explanation: Attachment of the bacteriophage with the receptor site on the bacterial cell wall involves Week chemical unior between them .
     keyConcept: Cell Structure & Function
+  - id: 81
+    question: The cell wall is interrupted by narrow pores carrying fine strands of cytoplasm, which interlink the contents of the cells, are called
+    options:
+      - Plasmahole
+      - Microvilli
+      - Plasmodesmata
+      - Plasmalemma
+    answer: 2
+    explanation: Plasmodesmata is the correct answer to “The cell wall is interrupted by narrow pores carrying fine strands of cytoplasm, which interlink the contents of the cells, are called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 82
+    question: DNA is mainly found in the following organelles 1. Mitochondria 2. Chloroplasts 3. Peroixsomes 4. Nucleus Which of the statements given above is/are correct?
+    options:
+      - 1, 2, 3 and 4
+      - 1, 2 and 4
+      - 2, 3 and 4
+      - 2 and 4
+    answer: 1
+    explanation: 1, 2 and 4 is the correct answer to “DNA is mainly found in the following organelles 1. Mitochondria 2. Chloroplasts 3. Peroixsomes 4. Nucleus Which of the statements given above is/are correct”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 83
+    question: Which of the following cell organelles are present only in plant cell?
+    options:
+      - Lysosomes
+      - Plastids
+      - Cell membrane
+      - Mitochondria
+    answer: 1
+    explanation: Plastids is the correct answer to “Which of the following cell organelles are present only in plant cell”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 84
+    question: The principal functions of the cell wall include
+    options:
+      - Protection
+      - Mechanical support
+      - Maintenance
+      - All of the above
+    answer: 3
+    explanation: All of the above is the correct answer to “The principal functions of the cell wall include”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 85
+    question: During cell division the hereditary characters are transmitted in the form of
+    options:
+      - Citric acids
+      - Nucleic acids
+      - Amino acids
+      - None of the above
+    answer: 1
+    explanation: Nucleic acids is the correct answer to “During cell division the hereditary characters are transmitted in the form of”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 86
+    question: Pre-mitotic gap is also known as
+    options:
+      - S-phase
+      - G2-phase
+      - G0-phase
+      - G1-phase
+    answer: 1
+    explanation: G2-phase is the correct answer to “Pre-mitotic gap is also known as”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 87
+    question: The entire content of a living cell is known as . . . . . . . . which includes the cytoplasm and the nucleus.
+    options:
+      - protoplasm
+      - cell membrane
+      - lysosomes
+      - mitochondria
+    answer: 0
+    explanation: protoplasm is the correct answer to “The entire content of a living cell is known as . . . . . . . . which includes the cytoplasm and the nucleus.”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 88
+    question: The lecithin molecule of the lipid layer consists of two lipid chains of glycerol and a polar head containing
+    options:
+      - Cholesterol and cephalin
+      - Cholesterol and phosphate
+      - Phosphate and choline
+      - None of the above
+    answer: 2
+    explanation: Phosphate and choline is the correct answer to “The lecithin molecule of the lipid layer consists of two lipid chains of glycerol and a polar head containing”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 89
+    question: Vacuoles are sap filled vesicles in the cytoplasm, covered by a membrane called
+    options:
+      - Protoplast
+      - Leucoplast
+      - Tonoplast
+      - Chromoplast
+    answer: 2
+    explanation: Tonoplast is the correct answer to “Vacuoles are sap filled vesicles in the cytoplasm, covered by a membrane called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 90
+    question: Many folds of the inner membrane of mitochondria project into the matrix as incomplete partitions which are called
+    options:
+      - Cristae
+      - Grana
+      - Inner membrane particles
+      - Plastids
+    answer: 0
+    explanation: Cristae is the correct answer to “Many folds of the inner membrane of mitochondria project into the matrix as incomplete partitions which are called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 91
+    question: A protein is synthesised in the endoplasmic reticulum bound ribosomes and it targets to the inner thylakoid space of chloroplast. How many double-layered membrane layers it has to pass to reach its destination?
+    options:
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+    answer: 2
+    explanation: 4 is the correct answer to “A protein is synthesised in the endoplasmic reticulum bound ribosomes and it targets to the inner thylakoid space of chloroplast. How many double-layered membrane layers it has to pass to reach its destination”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 92
+    question: Which of the following is known as Energy Currency of the Cell?
+    options:
+      - Adenosine diphosphate
+      - Adenosine triphosphate
+      - Glycine triphosphate
+      - Adenosine phosphate
+    answer: 1
+    explanation: Adenosine triphosphate is the correct answer to “Which of the following is known as Energy Currency of the Cell”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 93
+    question: Which one of the following functions is not carried out by smooth endoplasmic reticulum?
+    options:
+      - Transport of materials
+      - Synthesis of lipid
+      - Synthesis of protein
+      - Synthesis of steroid hormone
+    answer: 2
+    explanation: Synthesis of protein is the correct answer to “Which one of the following functions is not carried out by smooth endoplasmic reticulum”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 94
+    question: The fruit softens amd ripens due to
+    options:
+      - conversion of starch from sugar
+      - jelly formation of an acid pH
+      - incorporation of pectate in the middle lamella
+      - dissolution of middle lamella
+    answer: 3
+    explanation: dissolution of middle lamella is the correct answer to “The fruit softens amd ripens due to”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 95
+    question: The synthesis of two strands of DNA takes place in the
+    options:
+      - 5' to 3' direction
+      - 3' to 5' direction
+      - 3' to 3' direction
+      - 5' to 5' direction
+    answer: 0
+    explanation: 5' to 3' direction is the correct answer to “The synthesis of two strands of DNA takes place in the”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 96
+    question: The arm ratio is high in which of the following types of chromosomes?
+    options:
+      - Telocentric chromosomes
+      - Acrocentric chromosomes
+      - Metacentric chromosomes
+      - Acentric chromosomes
+    answer: 1
+    explanation: Acrocentric chromosomes is the correct answer to “The arm ratio is high in which of the following types of chromosomes”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 97
+    question: "Consider the following statements regarding the pachytene substage of prophase I during meiosis and choose the correct answer: 1. Pachytene is said to begin when synapsis is completed 2. During pachytene the chromosomes are associated in bivalents or tetrads 3. Shortening and thickening of the chromosomes takes place due to longitudinal contraction 4. Exchange of groups of genes takes place as a result of crossing over"
+    options:
+      - Only 1 and 2 are correct
+      - Only 1, 2 and 3 are correct
+      - Only 2, 3 and 4 are correct
+      - 1, 2, 3 and 4 are correct
+    answer: 3
+    explanation: "1, 2, 3 and 4 are correct is the correct answer to “Consider the following statements regarding the pachytene substage of prophase I during meiosis and choose the correct answer: 1. Pachytene is said to begin when synapsis is completed 2. During pachytene the chromosomes are associated in bivalents or tetrads 3. Shortening and thickening of the chromosomes takes place due to longitudinal contraction 4. Exchange of groups of genes takes place as a result of crossing over”. This question is standard in competitive examination syllabi for Cell Biology."
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 98
+    question: Which cell organelle performs the principal function of packaging materials?
+    options:
+      - Endoplasmic reticulum
+      - Golgi apparatus
+      - Lysosome
+      - Vacuoles
+    answer: 1
+    explanation: Golgi apparatus is the correct answer to “Which cell organelle performs the principal function of packaging materials”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 99
+    question: The single stack of Golgi apparatus found in plants and fungi is
+    options:
+      - plasmodesmata
+      - lomasome
+      - desmotubule
+      - dictyosome
+    answer: 3
+    explanation: dictyosome is the correct answer to “The single stack of Golgi apparatus found in plants and fungi is”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 100
+    question: In prokaryotic organisms, nuclear region is not surrounded by a membrane. This undefined nuclear region is known as
+    options:
+      - Nucleic acid
+      - Nucleoid
+      - Nucleolus
+      - Nucleosome
+    answer: 1
+    explanation: Nucleoid is the correct answer to “In prokaryotic organisms, nuclear region is not surrounded by a membrane. This undefined nuclear region is known as”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 101
+    question: Which of the following is an exception to cell theory?
+    options:
+      - Angiosperms
+      - WBCs
+      - Viruses
+      - Gymnosperms
+    answer: 2
+    explanation: Viruses is the correct answer to “Which of the following is an exception to cell theory”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 102
+    question: Eukaryotic ribosomes are called
+    options:
+      - 80 S ribosomes
+      - 70 S ribosomes
+      - 60 S ribosomes
+      - 55 S ribosomes
+    answer: 0
+    explanation: 80 S ribosomes is the correct answer to “Eukaryotic ribosomes are called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 103
+    question: Crossing over occurs during meiosis at
+    options:
+      - Leptotene
+      - Anaphase-I
+      - Pachytene
+      - Diakinesis
+    answer: 2
+    explanation: Pachytene is the correct answer to “Crossing over occurs during meiosis at”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 104
+    question: Consider the given cell organelles. 1. Mitochondria 2. Plastids 3. Ribosome Which of the cell organelle(s) given above is/are common in both plant and animal cells?
+    options:
+      - 1, 2 and 3
+      - 1 and 2
+      - 1 and 3
+      - Only 2
+    answer: 2
+    explanation: 1 and 3 is the correct answer to “Consider the given cell organelles. 1. Mitochondria 2. Plastids 3. Ribosome Which of the cell organelle(s) given above is/are common in both plant and animal cells”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 105
+    question: Mitochondria are able to produce their own . . . . . . . .
+    options:
+      - nucleus
+      - proteins
+      - chloroplasts
+      - digestive enzymes
+    answer: 1
+    explanation: proteins is the correct answer to “Mitochondria are able to produce their own . . . . . . . .”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 106
+    question: The phosphotransferase system (PTS) always uses which of the following as the energy form?
+    options:
+      - Adenosine triphosphate (ATP)
+      - Nicotinamide dinucleotide phosphate (NADP)
+      - Adenosine monophosphate (AMP)
+      - Phosphoenol pyruvate (PEP)
+    answer: 3
+    explanation: Phosphoenol pyruvate (PEP) is the correct answer to “The phosphotransferase system (PTS) always uses which of the following as the energy form”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 107
+    question: Cytokinesis of a plant cell is achieved by the formation of
+    options:
+      - Cleavage furrow
+      - Groove
+      - Cell plate
+      - All of the above
+    answer: 2
+    explanation: Cell plate is the correct answer to “Cytokinesis of a plant cell is achieved by the formation of”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 108
+    question: Dinosaurs were in
+    options:
+      - Paleozoic era
+      - Cenozoic era
+      - Mesozoic era
+      - Pleistocene era
+    answer: 2
+    explanation: Mesozoic era is the correct answer to “Dinosaurs were in”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 109
+    question: The rough endoplasmic reticulum is also known as
+    options:
+      - Protoplasm
+      - Tonoplast
+      - Ergastoplasm
+      - All of the above
+    answer: 2
+    explanation: Ergastoplasm is the correct answer to “The rough endoplasmic reticulum is also known as”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 110
+    question: Nucleotide constituent of RNA are
+    options:
+      - adenine, guanine, cytosine, uracil
+      - adenine, guanine, cytosine, thiamine
+      - thymine, cytosine, xanthine, uracil
+      - cytosine, adenine uric acid, guanine
+    answer: 0
+    explanation: adenine, guanine, cytosine, uracil is the correct answer to “Nucleotide constituent of RNA are”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 111
+    question: Darwin's theory of natural selection is based on
+    options:
+      - Over production
+      - Struggle for existence and variation
+      - Survival of the fittest
+      - All of the above
+    answer: 3
+    explanation: All of the above is the correct answer to “Darwin's theory of natural selection is based on”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 112
+    question: The inner membrane of mitochondrion is thrown up into a series of folds called
+    options:
+      - Thylakoids
+      - Grana
+      - Cisternae
+      - Cristae mitochondriales
+    answer: 3
+    explanation: Cristae mitochondriales is the correct answer to “The inner membrane of mitochondrion is thrown up into a series of folds called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 113
+    question: The fully reduced form of ubiquinone, with hydrogen atoms attached to both oxygens is called as
+    options:
+      - Semiquinone
+      - Hydroquinone
+      - Quinone
+      - None of these
+    answer: 1
+    explanation: Hydroquinone is the correct answer to “The fully reduced form of ubiquinone, with hydrogen atoms attached to both oxygens is called as”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 114
+    question: The small particles on the outer membrane of mitochondria are stalkless and are called
+    options:
+      - Subunits of Fernandez-Moran
+      - Subunits of Parson
+      - Lateral-Central (LC) particles
+      - F1 particles
+    answer: 1
+    explanation: Subunits of Parson is the correct answer to “The small particles on the outer membrane of mitochondria are stalkless and are called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 115
+    question: Leptotene chromosomes may be irregularly arranged or may be polarized towards the centrioles forming
+    options:
+      - Matting threads
+      - A bouquet
+      - Protein fibrils
+      - A synaptonemal complex
+    answer: 1
+    explanation: A bouquet is the correct answer to “Leptotene chromosomes may be irregularly arranged or may be polarized towards the centrioles forming”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 116
+    question: The cellular and molecular control of programmed cell death is known as
+    options:
+      - apoptosis
+      - ageing
+      - degeneration
+      - necrosis
+    answer: 0
+    explanation: apoptosis is the correct answer to “The cellular and molecular control of programmed cell death is known as”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 117
+    question: Woodcock (1973) showed that chromatin appears to have a 'string of beads' structure and is made up of a number of repeating units which are called
+    options:
+      - Nucleosomes
+      - Nu bodies
+      - B fibres
+      - Protamines
+    answer: 0
+    explanation: Nucleosomes is the correct answer to “Woodcock (1973) showed that chromatin appears to have a 'string of beads' structure and is made up of a number of repeating units which are called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 118
+    question: Cells, in living organisms, adhere to each other by means of junctions called
+    options:
+      - Dictyosomes
+      - Plasmosomes
+      - Glycosomes
+      - Desmosomes
+    answer: 3
+    explanation: Desmosomes is the correct answer to “Cells, in living organisms, adhere to each other by means of junctions called”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 119
+    question: Which one of the following is known as the 'immovable property' in the cell?
+    options:
+      - Carbohydrate
+      - Fat
+      - Protein
+      - Nucleic acid
+    answer: 3
+    explanation: Nucleic acid is the correct answer to “Which one of the following is known as the 'immovable property' in the cell”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
+  - id: 120
+    question: In Protoplasm, fat store in the form of
+    options:
+      - polypeptide
+      - triglyceride
+      - polysaccharide
+      - nucleoside
+    answer: 1
+    explanation: triglyceride is the correct answer to “In Protoplasm, fat store in the form of”. This question is standard in competitive examination syllabi for Cell Biology.
+    keyConcept: Cell Biology
+    testedIn:
+      - MDCAT
+      - PPSC
 ---
 
-## About this set
 
-40 basic cell structure & function MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.

@@ -178,6 +178,48 @@ subtopics:
   - name: World Countries, Cities & Capitals — Part 5
     slug: world-countries-and-cities-part-5
     questionCount: 40
+  - name: International Current Affairs — Recurring MCQs — Part 1
+    slug: international-current-affairs-past-papers-part-1
+    questionCount: 40
+  - name: International Current Affairs — Recurring MCQs — Part 2
+    slug: international-current-affairs-past-papers-part-2
+    questionCount: 40
+  - name: International Current Affairs — Recurring MCQs — Part 3
+    slug: international-current-affairs-past-papers-part-3
+    questionCount: 40
+  - name: International Current Affairs — Recurring MCQs — Part 4
+    slug: international-current-affairs-past-papers-part-4
+    questionCount: 40
+  - name: International Current Affairs — Recurring MCQs — Part 5
+    slug: international-current-affairs-past-papers-part-5
+    questionCount: 24
+  - name: Monthly Current Affairs Roundup
+    slug: monthly-current-affairs-roundup
+    questionCount: 27
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 1
+    slug: pakistan-current-affairs-past-papers-part-1
+    questionCount: 40
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 2
+    slug: pakistan-current-affairs-past-papers-part-2
+    questionCount: 40
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 3
+    slug: pakistan-current-affairs-past-papers-part-3
+    questionCount: 40
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 4
+    slug: pakistan-current-affairs-past-papers-part-4
+    questionCount: 40
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 5
+    slug: pakistan-current-affairs-past-papers-part-5
+    questionCount: 40
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 6
+    slug: pakistan-current-affairs-past-papers-part-6
+    questionCount: 40
+  - name: Pakistan Current Affairs — Recurring MCQs — Part 7
+    slug: pakistan-current-affairs-past-papers-part-7
+    questionCount: 23
+  - name: Yearly Current Affairs Highlights
+    slug: yearly-current-affairs-roundup
+    questionCount: 11
 ---
 
 ## Current Affairs: Dynamic Real-Time Analysis

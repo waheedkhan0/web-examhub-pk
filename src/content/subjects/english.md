@@ -21,12 +21,12 @@ subtopics:
   - name: Sentence Correction and Grammar
     slug: sentence-correction
     questionCount: 37
-  - name: Grammar & Parts of Speech — Part 1
+  - name: Grammar — Part 1
     slug: grammar-part-1
-    questionCount: 40
-  - name: Grammar & Parts of Speech — Part 2
+    questionCount: 80
+  - name: Grammar — Part 2
     slug: grammar-part-2
-    questionCount: 40
+    questionCount: 80
   - name: Grammar & Parts of Speech — Part 3
     slug: grammar-part-3
     questionCount: 6
@@ -57,6 +57,135 @@ subtopics:
   - name: Grammar & Parts of Speech
     slug: grammar
     questionCount: 6
+  - name: Antonyms — Part 1
+    slug: antonyms-part-1
+    questionCount: 40
+  - name: Antonyms — Part 2
+    slug: antonyms-part-2
+    questionCount: 40
+  - name: Articles — Part 1
+    slug: articles-part-1
+    questionCount: 40
+  - name: Articles — Part 2
+    slug: articles-part-2
+    questionCount: 40
+  - name: Common Error Detection — Part 1
+    slug: common-error-detection-part-1
+    questionCount: 40
+  - name: Common Error Detection — Part 2
+    slug: common-error-detection-part-2
+    questionCount: 40
+  - name: Completing Statements
+    slug: completing-statements
+    questionCount: 33
+  - name: Direct And Indirect Speech — Part 1
+    slug: direct-and-indirect-speech-part-1
+    questionCount: 40
+  - name: Direct And Indirect Speech — Part 2
+    slug: direct-and-indirect-speech-part-2
+    questionCount: 40
+  - name: Idioms And Phrases — Part 1
+    slug: idioms-and-phrases-part-1
+    questionCount: 40
+  - name: Idioms And Phrases — Part 2
+    slug: idioms-and-phrases-part-2
+    questionCount: 40
+  - name: One Word Substitution — Part 1
+    slug: one-word-substitution-part-1
+    questionCount: 40
+  - name: One Word Substitution — Part 2
+    slug: one-word-substitution-part-2
+    questionCount: 40
+  - name: Ordering Of Sentences — Part 1
+    slug: ordering-of-sentences-part-1
+    questionCount: 40
+  - name: Ordering Of Sentences — Part 2
+    slug: ordering-of-sentences-part-2
+    questionCount: 40
+  - name: Ordering Of Words — Part 1
+    slug: ordering-of-words-part-1
+    questionCount: 40
+  - name: Ordering Of Words — Part 2
+    slug: ordering-of-words-part-2
+    questionCount: 40
+  - name: Preposition — Part 1
+    slug: preposition-part-1
+    questionCount: 40
+  - name: Preposition — Part 2
+    slug: preposition-part-2
+    questionCount: 40
+  - name: Selecting Words — Part 1
+    slug: selecting-words-part-1
+    questionCount: 40
+  - name: Selecting Words — Part 2
+    slug: selecting-words-part-2
+    questionCount: 40
+  - name: Sentence Completion — Part 1
+    slug: sentence-completion-part-1
+    questionCount: 40
+  - name: Sentence Completion — Part 2
+    slug: sentence-completion-part-2
+    questionCount: 40
+  - name: Sentence Correction — Part 1
+    slug: sentence-correction-part-1
+    questionCount: 40
+  - name: Sentence Correction — Part 2
+    slug: sentence-correction-part-2
+    questionCount: 40
+  - name: Sentence Formation — Part 1
+    slug: sentence-formation-part-1
+    questionCount: 40
+  - name: Sentence Formation — Part 2
+    slug: sentence-formation-part-2
+    questionCount: 40
+  - name: Sentence Improvement — Part 1
+    slug: sentence-improvement-part-1
+    questionCount: 40
+  - name: Sentence Improvement — Part 2
+    slug: sentence-improvement-part-2
+    questionCount: 40
+  - name: Spelling Check
+    slug: spelling-check
+    questionCount: 2
+  - name: Synonyms — Part 1
+    slug: synonyms-part-1
+    questionCount: 40
+  - name: Synonyms — Part 2
+    slug: synonyms-part-2
+    questionCount: 40
+  - name: Tenses — Part 1
+    slug: tenses-part-1
+    questionCount: 40
+  - name: Tenses — Part 2
+    slug: tenses-part-2
+    questionCount: 40
+  - name: Verbal Analogies
+    slug: verbal-analogies
+    questionCount: 18
+  - name: Voice — Part 1
+    slug: voice-part-1
+    questionCount: 40
+  - name: Voice — Part 2
+    slug: voice-part-2
+    questionCount: 40
+  - name: General English — Past Papers — Part 1
+    slug: english-past-papers-part-1
+    questionCount: 40
+  - name: General English — Past Papers — Part 2
+    slug: english-past-papers-part-2
+    questionCount: 40
+  - name: General English — Past Papers — Part 3
+    slug: english-past-papers-part-3
+    questionCount: 40
+  - name: General English — Past Papers — Part 4
+    slug: english-past-papers-part-4
+    questionCount: 40
+  - name: General English — Past Papers — Part 5
+    slug: english-past-papers-part-5
+    questionCount: 40
+  - name: General English — Past Papers — Part 6
+    slug: english-past-papers-part-6
+    questionCount: 37
 ---
 
 ## English: The Decisive Elimination Filter in Competitive Exams

@@ -10,12 +10,12 @@ relatedExams:
   - FPSC
   - NTS
 subtopics:
-  - name: Electricity & Magnetism — Part 1
+  - name: Electricity And Magnetism — Part 1
     slug: electricity-and-magnetism-part-1
-    questionCount: 40
-  - name: Electricity & Magnetism — Part 2
+    questionCount: 80
+  - name: Electricity And Magnetism — Part 2
     slug: electricity-and-magnetism-part-2
-    questionCount: 40
+    questionCount: 80
   - name: Electricity & Magnetism — Part 3
     slug: electricity-and-magnetism-part-3
     questionCount: 2
@@ -73,6 +73,120 @@ subtopics:
   - name: Waves & Sound
     slug: waves-and-sound
     questionCount: 1
+  - name: Atomic And Molecular Physics — Part 1
+    slug: atomic-and-molecular-physics-part-1
+    questionCount: 40
+  - name: Atomic And Molecular Physics — Part 2
+    slug: atomic-and-molecular-physics-part-2
+    questionCount: 36
+  - name: Classical Mechanics — Part 1
+    slug: classical-mechanics-part-1
+    questionCount: 40
+  - name: Classical Mechanics — Part 2
+    slug: classical-mechanics-part-2
+    questionCount: 25
+  - name: Electromagnetic Theory — Part 1
+    slug: electromagnetic-theory-part-1
+    questionCount: 40
+  - name: Electromagnetic Theory — Part 2
+    slug: electromagnetic-theory-part-2
+    questionCount: 40
+  - name: Electronics Gk — Part 1
+    slug: electronics-gk-part-1
+    questionCount: 40
+  - name: Electronics Gk — Part 2
+    slug: electronics-gk-part-2
+    questionCount: 2
+  - name: Electronics — Part 1
+    slug: electronics-part-1
+    questionCount: 40
+  - name: Electronics — Part 2
+    slug: electronics-part-2
+    questionCount: 20
+  - name: Gravitational Force — Part 1
+    slug: gravitational-force-part-1
+    questionCount: 40
+  - name: Gravitational Force — Part 2
+    slug: gravitational-force-part-2
+    questionCount: 40
+  - name: Heat And Thermodynamics — Part 1
+    slug: heat-and-thermodynamics-part-1
+    questionCount: 40
+  - name: Heat And Thermodynamics — Part 2
+    slug: heat-and-thermodynamics-part-2
+    questionCount: 40
+  - name: Law Of Motion — Part 1
+    slug: law-of-motion-part-1
+    questionCount: 40
+  - name: Law Of Motion — Part 2
+    slug: law-of-motion-part-2
+    questionCount: 40
+  - name: Light — Part 1
+    slug: light-part-1
+    questionCount: 40
+  - name: Light — Part 2
+    slug: light-part-2
+    questionCount: 40
+  - name: Mathematical Physics — Part 1
+    slug: mathematical-physics-part-1
+    questionCount: 40
+  - name: Mathematical Physics — Part 2
+    slug: mathematical-physics-part-2
+    questionCount: 40
+  - name: Mechanical Physics — Part 1
+    slug: mechanical-physics-part-1
+    questionCount: 40
+  - name: Mechanical Physics — Part 2
+    slug: mechanical-physics-part-2
+    questionCount: 40
+  - name: Modern Physics — Part 1
+    slug: modern-physics-part-1
+    questionCount: 40
+  - name: Modern Physics — Part 2
+    slug: modern-physics-part-2
+    questionCount: 40
+  - name: Nuclear And Particle Physics — Part 1
+    slug: nuclear-and-particle-physics-part-1
+    questionCount: 40
+  - name: Nuclear And Particle Physics — Part 2
+    slug: nuclear-and-particle-physics-part-2
+    questionCount: 30
+  - name: Quantum Mechanics — Part 1
+    slug: quantum-mechanics-part-1
+    questionCount: 40
+  - name: Quantum Mechanics — Part 2
+    slug: quantum-mechanics-part-2
+    questionCount: 36
+  - name: Solid State Physics — Part 1
+    slug: solid-state-physics-part-1
+    questionCount: 40
+  - name: Solid State Physics — Part 2
+    slug: solid-state-physics-part-2
+    questionCount: 26
+  - name: Sounds Waves And Motion — Part 1
+    slug: sounds-waves-and-motion-part-1
+    questionCount: 40
+  - name: Sounds Waves And Motion — Part 2
+    slug: sounds-waves-and-motion-part-2
+    questionCount: 40
+  - name: Thermodynamics And Statistical Physics — Part 1
+    slug: thermodynamics-and-statistical-physics-part-1
+    questionCount: 40
+  - name: Thermodynamics And Statistical Physics — Part 2
+    slug: thermodynamics-and-statistical-physics-part-2
+    questionCount: 14
+  - name: Unit And Measurement — Part 1
+    slug: unit-and-measurement-part-1
+    questionCount: 40
+  - name: Unit And Measurement — Part 2
+    slug: unit-and-measurement-part-2
+    questionCount: 40
+  - name: Work_ Energy And Power — Part 1
+    slug: work-energy-and-power-part-1
+    questionCount: 40
+  - name: Work_ Energy And Power — Part 2
+    slug: work-energy-and-power-part-2
+    questionCount: 40
 ---
 
 ## Physics: Reasoning Under a Clock

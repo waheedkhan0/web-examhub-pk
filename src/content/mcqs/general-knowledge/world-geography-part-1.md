@@ -4,15 +4,16 @@ description: 40 exam-level world geography & capitals MCQs with answers and expl
 subject: general-knowledge
 subjectName: General Knowledge & World Affairs
 topic: world-geography-part-1
-topicName: World Geography & Capitals — Part 1
+topicName: World Geography — Part 1
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-14"
 difficulty: Exam-Level
 targetExams:
   - PPSC
   - FPSC
+  - PMS
   - NTS
-  - CSS
+  - SPSC
 questions:
   - id: 1
     question: Cambodia is a _________ asian country?
@@ -407,8 +408,526 @@ questions:
     answer: 1
     explanation: China is the correct answer to “Largest Producer of Rice in the World”. Items of this type are drawn from the World Geography & Capitals — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: World Geography & Capitals
+  - id: 41
+    question: "The Hwang Ho River falls into:"
+    options:
+      - Indian Ocean
+      - Yellow Sea.
+      - Red Sea
+      - Bay of China
+    answer: 1
+    explanation: Yellow Sea.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 42
+    question: "Yokohama and Kobe are the main centres of ship building industry in:"
+    options:
+      - Japan
+      - South Korea
+      - North Korea
+      - China
+    answer: 0
+    explanation: Japan is the correct answer to “Yokohama and Kobe are the main centres of ship building industry in:”. This question is standard in competitive examination syllabi for World Geography.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 43
+    question: "Cocos plate lies between:"
+    options:
+      - Central America and Pacific Plate.
+      - North America and Pacific Plate.
+      - South America and Pacific Plate.
+      - None of Above.
+    answer: 0
+    explanation: Central America and Pacific Plate.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 44
+    question: "Brown Waterfalls are situated in:"
+    options:
+      - Australia
+      - New Zealand
+      - Canada
+      - SwitSwitzerland
+    answer: 1
+    explanation: New Zealand.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 45
+    question: "Mindanoo Island is located in:"
+    options:
+      - The Indian Ocean
+      - North Atlantic
+      - The Pacific Ocean
+      - South Atlantic
+    answer: 2
+    explanation: The Pacific Ocean.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 46
+    question: "Upper Volta is the old name of:"
+    options:
+      - Angola
+      - Cape Verde
+      - Burkina Faso
+      - Burkina
+    answer: 2
+    explanation: Burkina Faso is a landlocked country in West Africa around 274,200 square kilometers in size. Formerly called the Republic of Upper Volta. Under the direction of Sankara, the country changed its name on August 4, 1984, from Upper Volta to Burkina Faso, which means "Land of Incorruptible People". The name Upper Volta indicated that the country contains the upper part of the Volta River.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 47
+    question: "Greenland is under the rule of:"
+    options:
+      - Turkey
+      - Denmark
+      - Germany
+      - Portugal
+    answer: 1
+    explanation: Denmark is the correct answer to “Greenland is under the rule of:”. This question is standard in competitive examination syllabi for World Geography.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 48
+    question: "The highest point of Australia is:"
+    options:
+      - Mount Kosciusko.
+      - Mount Twonsend
+      - Mount Twynam
+      - Abbott Peak
+    answer: 0
+    explanation: Mount Kosciusko (2,228 m) Mount Twonsend (2,209 m) Mount Twynam (2,196 m) Abbott Peak (2,145 m) These all are located in New South Wales.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 49
+    question: Who constructed Suez Canal?
+    options:
+      - Fyodor Litke
+      - Pyotr Semyonov-Tyan-Shansky
+      - Voin Rimsky-Korsakov
+      - Ferdinand de Lesseps
+    answer: 3
+    explanation: Ferdinand Marie Vicomte de Lesseps GCSI was a French diplomat and later developer of the Suez Canal, which in 1869 joined the Mediterranean and Red Seas, substantially reducing sailing distances and times between Europe and East Asia.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 50
+    question: "Cincinnati (U .S .A.) is famous in the making of:"
+    options:
+      - Machine Tools.
+      - Cement Industry
+      - Bio-technical Industry
+      - Aviation Tools
+    answer: 0
+    explanation: Machine Tools.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 51
+    question: "Intensity of production declines with distance from the market and the type of land use varies with distance from the market are the two basic tenets of:"
+    options:
+      - Von Thunen’s Agriculture Location Theory.
+      - Environmental determinism
+      - Possibilism
+      - Probabilism
+    answer: 0
+    explanation: Von Thunen's Agriculture Location Theory.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 52
+    question: "The grasslands in Canada are known as:"
+    options:
+      - Prairies.
+      - Dawns
+      - Pampas
+      - Steppes
+    answer: 0
+    explanation: Prairies. is the correct answer to “The grasslands in Canada are known as:”. This question is standard in competitive examination syllabi for World Geography.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 53
+    question: "India's major contacts with out-side world for the last two millennia have been by sea there-by earning the title for India:"
+    options:
+      - The Mistress of the Eastern Seas
+      - The Mistress of the Western Seas
+      - The Mistress of the Southern Seas
+      - The Mistress of the Northern Seas
+    answer: 0
+    explanation: The Mistress of the Eastern Seas.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 54
+    question: "The oldest rock system of the world is:"
+    options:
+      - The Archaean Rock system
+      - The Zircons Rock system
+      - The Primitive Rock system
+      - None of these
+    answer: 0
+    explanation: The Archaean Rock system.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 55
+    question: "The names of Harry Hess, R . S . Dietz, W . J . Morgan and Le Pichon are associated with:"
+    options:
+      - Plate Tectonics Theory
+      - Agriculture Location Theory
+      - Diversion of Wind Theory
+      - None of these
+    answer: 0
+    explanation: Plate Tectonics Theory.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 56
+    question: "The concept of sustainable development relates to:"
+    options:
+      - Intergenerational Equity.
+      - Intrageneration Equity
+      - Extrageneration Equity
+      - All of the above
+    answer: 0
+    explanation: Intergenerational Equity.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 57
+    question: Which country is known as the "Sugar Bowl" of the world?
+    options:
+      - Cuba
+      - China
+      - Australia
+      - India
+    answer: 0
+    explanation: Cuba is known as the "Sugar Bowl of the World" because of its historically large production and export of sugar. The country has a favorable tropical climate , fertile soil, and suitable rainfall conditions, which are ideal for growing sugarcane. For many years, sugarcane has been the main agricultural crop and a major source of income for Cuba. Due to its dominance in sugar production and export in the past, Cuba earned the title "Sugar Bowl of the World" . Hence, the correct answer is Cuba .
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 58
+    question: The Homolographic projection has the correct representation of
+    options:
+      - shape
+      - area
+      - baring
+      - distance
+    answer: 1
+    explanation: The Homolographic projection has the correct representation of area.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 59
+    question: The latitudinal differences in pressure delineate a number of major pressure zones, which correspond with
+    options:
+      - zones of climate
+      - zones of oceans
+      - zones of land
+      - zones of cyclonic depressions
+    answer: 0
+    explanation: zones of climate.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 60
+    question: The higher the wind speed and the longer the fetch or distance of open water across which the wind blows and waves travel, the ____ waves and the ____ energy they process.
+    options:
+      - larger, more
+      - larger, less
+      - smaller, more
+      - smaller, less
+    answer: 0
+    explanation: larger, more.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 61
+    question: The hazards of radiation belts include
+    options:
+      - deterioration of electronic circuits
+      - damage of solar cells of spacecraft
+      - adverse effect on living organisms
+      - All of the above
+    answer: 3
+    explanation: All of the above
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 62
+    question: The great Victoria Desert is located in
+    options:
+      - Canada
+      - West Africa
+      - Australia
+      - North America
+    answer: 2
+    explanation: The Great Victoria Desert, an interim Australian bioregion, is a sparsely populated desert area in Western Australia and South Australia.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 63
+    question: The intersecting lines drawn on maps and globes are
+    options:
+      - latitudes
+      - longitudes
+      - geographic grids
+      - None of the above
+    answer: 2
+    explanation: Intersecting lines drawn on maps and globes are called Geographic Grid.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 64
+    question: The light of distant stars is affected by
+    options:
+      - the earth's atmosphere
+      - interstellar dust
+      - both (a) and (b)
+      - None of the above
+    answer: 2
+    explanation: both (a) and (b)
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 65
+    question: The landmass of which of the following continents is the least?
+    options:
+      - Africa
+      - Asia
+      - Australia
+      - Europe
+    answer: 2
+    explanation: Australia has the least landmass, at 5.9% of the Earth's land. Australia is a single country continent and also the smallest of all the seven continents.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 66
+    question: Without ____ the equator would be much hotter than it is while the poles would be much cooler.
+    options:
+      - latitudinal redistribution of heat
+      - cycle of air circulation
+      - global wind pattern
+      - All are similar terms
+    answer: 3
+    explanation: All are similar terms
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 67
+    question: The habitats valuable for commercially harvested species are called
+    options:
+      - coral reefs
+      - sea grass bed
+      - hot spots
+      - None of the above
+    answer: 1
+    explanation: A coral reef is an underwater ecosystem characterized by reef-building corals. Reefs are formed of colonies of coral polyps held together by calcium carbonate. Most coral reefs are built from stony corals, whose polyps cluster in groups. Seagrasses are not true grasses but are flowering plants that carry out their entire lifecycles underwater. Like all plants, seagrasses rely on sunlight to convert carbon dioxide into food/energy (via a process called photosynthesis). Therefore, they only succeed in clear, shallow waters. When the conditions are just right, seagrasses can densely cover the sea floor, creating an ecosystem known as the seagrass bed or seagrass meadow. A biodiversity hotspot is a biogeographic region with significant levels of biodiversity that is threatened with destruction. For example, forests are considered as biodiversity hotspots.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 68
+    question: Which of the following is tropical grassland?
+    options:
+      - Taiga
+      - Savannah
+      - Pampas
+      - Prairies
+    answer: 1
+    explanation: Tropical grasslands, or savannas, are also the homes of primates in Africa and Asia; no savanna-living primates exist in South America.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 69
+    question: With the disintegration of USSR in end 1991, comprised of ____ Union Republics.
+    options:
+      - "15"
+      - "10"
+      - "5"
+      - "25"
+    answer: 0
+    explanation: With the disintegration of USSR in end 1991 comprised of 15 union republics.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 70
+    question: The iron and steel industries of which of the following countries are almost fully dependent on imported raw materials?
+    options:
+      - Britain
+      - Japan
+      - Poland
+      - Germany
+    answer: 1
+    explanation: Japan is the correct answer to “The iron and steel industries of which of the following countries are almost fully dependent on imported raw materials”. This question is standard in competitive examination syllabi for World Geography.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 71
+    question: The temperature increases rapidly after
+    options:
+      - ionosphere
+      - exosphere
+      - stratosphere
+      - troposphere
+    answer: 0
+    explanation: The temperature increases rapidly after ionosphere.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 72
+    question: The humidity of the air depends upon
+    options:
+      - temperature
+      - location
+      - weather
+      - All of the above
+    answer: 3
+    explanation: All of the above
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 73
+    question: The groundwater can become confined between two impermeable layers. This type of enclosed water is called
+    options:
+      - artesian
+      - artesian well
+      - unconfined groundwater
+      - confined groundwater
+    answer: 0
+    explanation: The groundwater can become confined between two impermeable layers. This type of enclosed water is called a artesian.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 74
+    question: The largest glaciers are
+    options:
+      - mountain glaciers
+      - alpine glaciers
+      - continental glaciers
+      - piedmont glaciers
+    answer: 2
+    explanation: The largest glacial bodies, ice sheets or continental glaciers, cover more than 50,000 km 2 (20,000 mile 2 ). Several kilometers deep, they obscure the underlying topography. Only nunataks protrude from the surface. The only extant ice sheets are the two that cover most of Antarctica and Greenland. These regions contain vast quantities of fresh water. The volume of ice is so large that if the Greenland ice sheet melted, it would cause sea levels to rise six meters (20 ft) all around the world. If the Antarctic ice sheet melted, sea levels would rise up to 65 meters (210 ft).
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 75
+    question: The ionosphere includes
+    options:
+      - mesosphere
+      - thermosphere
+      - thermosphere and exosphere
+      - thermosphere, exosphere and mesosphere
+    answer: 2
+    explanation: The ionosphere includes thermosphere and exosphere.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 76
+    question: The highest degree of concentration of mineral deposits are found in
+    options:
+      - northeastern zone
+      - northwestern zone
+      - southern zone
+      - All of the above
+    answer: 0
+    explanation: The highest degree of concentration of mineral deposits are found in Northern Eastern zone.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 77
+    question: The group of minerals chemically containing hydrocarbons is
+    options:
+      - silicate group
+      - organic group
+      - oxide group
+      - hydride group
+    answer: 1
+    explanation: organic group
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 78
+    question: The iron ore mined at Bailadila is mostly
+    options:
+      - haematite
+      - siderite
+      - limonite
+      - magnetic
+    answer: 0
+    explanation: The iron ore mined at Bailadila is mostly haematite.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 79
+    question: The leading state in producing paper is
+    options:
+      - Bihar
+      - West Bengal
+      - Kerala
+      - Orissa
+    answer: 1
+    explanation: Production of paper in West Bengal is the highest because raw material for the industry, i.e., bamboo, is abundantly available in the state. Moreover, the neighboring state of Assam also provides bamboo in large amounts to West Bengal.
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 80
+    question: The largest dune files are found in
+    options:
+      - Middle East
+      - North Africa
+      - both (a) and (b)
+      - None of the above
+    answer: 2
+    explanation: both (a) and (b)
+    keyConcept: World Geography
+    testedIn:
+      - PPSC
+      - FPSC
 ---
 
-## About this set
 
-40 exam-level world geography & capitals MCQs with answers and explanations for PPSC, FPSC, NTS preparation.

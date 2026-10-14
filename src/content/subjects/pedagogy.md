@@ -15,6 +15,30 @@ subtopics:
   - name: Child Development and Educational Psychology
     slug: child-development
     questionCount: 12
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 1
+    slug: pedagogy-past-papers-part-1
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 2
+    slug: pedagogy-past-papers-part-2
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 3
+    slug: pedagogy-past-papers-part-3
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 4
+    slug: pedagogy-past-papers-part-4
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 5
+    slug: pedagogy-past-papers-part-5
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 6
+    slug: pedagogy-past-papers-part-6
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 7
+    slug: pedagogy-past-papers-part-7
+    questionCount: 40
+  - name: Pedagogy & Teaching Methodology — Past Papers — Part 8
+    slug: pedagogy-past-papers-part-8
+    questionCount: 19
 ---
 
 # Pedagogy and Teaching Methodology

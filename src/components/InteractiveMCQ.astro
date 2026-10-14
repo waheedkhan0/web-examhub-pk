@@ -18,99 +18,201 @@ interface Props {
 }
 
 const { questions, subjectTitle, topicTitle, setId } = Astro.props;
-const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
+const cleanSetId = setId ?? `${subjectTitle}/${topicTitle}`;
+const storageKey = `examhub:mcq:${cleanSetId}`;
+const bookmarkStorageKey = `examhub:bookmarks:${cleanSetId}`;
 ---
 
-<div class="space-y-8" id="mcq-interactive-container" data-storage-key={storageKey}>
-  <!-- Progress & Filter bar -->
-  <div class="bg-white rounded-xl p-4 sm:p-5 border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-4">
+<div class="space-y-6" id="mcq-interactive-container" data-storage-key={storageKey} data-bookmark-key={bookmarkStorageKey}>
+  
+  <!-- Top Control & Mode Toolbar -->
+  <div class="bg-white rounded-2xl p-4 sm:p-5 border border-slate-200/90 shadow-xs flex flex-wrap items-center justify-between gap-4">
     <div class="flex items-center gap-3">
-      <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-teal-100 text-teal-800 font-bold text-sm">
+      <span class="inline-flex items-center justify-center w-9 h-9 rounded-xl bg-teal-100 text-teal-800 font-black text-sm shadow-xs">
         {questions.length}
       </span>
       <div>
-        <p class="text-sm font-semibold text-slate-800">Total Practice MCQs</p>
-        <p class="text-xs text-slate-500">Instant feedback with detailed pedagogical explanations</p>
+        <p class="text-sm font-bold text-slate-800">Verified Practice Questions</p>
+        <p class="text-xs text-slate-500">Interactive test mode with detailed academic worked solutions</p>
       </div>
     </div>
-    <div class="flex items-center gap-2">
+
+    <!-- Mode Selector & Controls -->
+    <div class="flex flex-wrap items-center gap-2">
+      <!-- Mode Toggle: Practice vs Test -->
+      <div class="inline-flex p-0.5 rounded-xl bg-slate-100 border border-slate-200 text-xs font-semibold">
+        <button
+          type="button"
+          id="mode-practice-btn"
+          class="px-3 py-1.5 rounded-lg bg-white text-teal-800 shadow-xs transition-all font-bold"
+        >
+          Instant Study
+        </button>
+        <button
+          type="button"
+          id="mode-exam-btn"
+          class="px-3 py-1.5 rounded-lg text-slate-600 hover:text-slate-900 transition-all"
+        >
+          Mock Test
+        </button>
+      </div>
+
       <button 
+        type="button"
         id="reveal-all-btn"
-        class="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-300 text-slate-700 hover:bg-slate-50 transition-colors"
+        class="text-xs font-semibold px-3 py-1.5 rounded-xl border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 hover:border-slate-300 transition-colors shadow-xs"
       >
-        Reveal All Answers
+        Reveal Answers
       </button>
+
       <button 
+        type="button"
         id="reset-all-btn"
-        class="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-300 text-slate-700 hover:bg-slate-50 transition-colors"
+        class="text-xs font-semibold px-3 py-1.5 rounded-xl border border-slate-200 bg-white text-slate-700 hover:bg-rose-50 hover:text-rose-700 hover:border-rose-200 transition-colors shadow-xs"
       >
-        Reset Progress
+        Reset
       </button>
     </div>
   </div>
 
-  <!-- Live score — persisted locally so a session can be resumed -->
-  <div class="mcq-scorebar sticky top-2 z-20 bg-white rounded-xl border border-slate-200 shadow-sm p-4">
-    <div class="flex items-center justify-between text-sm font-semibold text-slate-700 mb-2">
-      <span>Your progress</span>
-      <span class="tabular-nums">
-        <span data-score-answered>0</span>/<span data-score-total>{questions.length}</span> answered
-        · <span data-score-correct class="text-emerald-700">0</span> correct
-        (<span data-score-accuracy>0</span>%)
-      </span>
+  <!-- Sticky Question Navigation Palette & Live Score Bar -->
+  <div class="sticky top-2 z-20 bg-white/95 backdrop-blur-md rounded-2xl border border-slate-200 shadow-md p-4 transition-all" id="sticky-score-wrapper">
+    <div class="flex flex-wrap items-center justify-between gap-3 text-xs sm:text-sm font-semibold text-slate-700 mb-2.5">
+      <div class="flex items-center gap-2">
+        <span class="w-2.5 h-2.5 rounded-full bg-teal-500 animate-pulse"></span>
+        <span class="font-bold text-slate-900">Live Progress</span>
+        <span class="text-slate-400">|</span>
+        <span class="tabular-nums text-slate-600">
+          <span data-score-answered class="font-bold text-slate-900">0</span>/{questions.length} answered
+        </span>
+      </div>
+
+      <div class="flex items-center gap-3 tabular-nums text-xs">
+        <span class="inline-flex items-center gap-1 text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-md font-bold">
+          <span>✓</span> <span data-score-correct>0</span> correct
+        </span>
+        <span class="inline-flex items-center gap-1 text-rose-700 bg-rose-50 px-2 py-0.5 rounded-md font-bold">
+          <span>✗</span> <span data-score-incorrect>0</span> wrong
+        </span>
+        <span class="font-bold text-slate-800 bg-slate-100 px-2 py-0.5 rounded-md">
+          <span data-score-accuracy>0</span>% score
+        </span>
+      </div>
     </div>
+
+    <!-- Progress bar line -->
     <div class="h-2 w-full bg-slate-100 rounded-full overflow-hidden" role="progressbar" aria-label="Questions answered">
-      <div data-score-fill class="h-full bg-teal-500 rounded-full transition-all duration-300" style="width:0%"></div>
+      <div data-score-fill class="h-full bg-gradient-to-r from-teal-500 to-emerald-500 rounded-full transition-all duration-300" style="width:0%"></div>
     </div>
-    <p data-score-complete class="hidden mt-2 text-xs font-semibold text-teal-700">
-      Set complete — review the explanations below, then reset and run it again for retention.
-    </p>
+
+    <!-- Question Palette Jump Buttons -->
+    <div class="mt-3 pt-3 border-t border-slate-100 flex items-center justify-between gap-2">
+      <div class="flex items-center gap-1.5 overflow-x-auto pb-1 scrollbar-thin max-w-full" id="question-jump-palette">
+        {questions.map((q, idx) => (
+          <button
+            type="button"
+            data-jump-target={q.id}
+            class="jump-pill flex-shrink-0 w-7 h-7 rounded-lg text-xs font-bold border border-slate-200 bg-slate-50 text-slate-600 hover:border-teal-500 hover:text-teal-700 transition-all flex items-center justify-center focus:outline-hidden"
+            title={`Jump to Question ${idx + 1}`}
+          >
+            {idx + 1}
+          </button>
+        ))}
+      </div>
+    </div>
+
+    <!-- Completion banner -->
+    <div data-score-complete class="hidden mt-3 pt-3 border-t border-teal-100 text-xs font-bold text-teal-800 flex items-center justify-between">
+      <span>🎉 Set complete! All {questions.length} questions answered.</span>
+      <button type="button" id="scroll-top-btn" class="text-teal-600 hover:text-teal-900 underline">
+        Back to top ↑
+      </button>
+    </div>
   </div>
 
   <!-- Questions List -->
-  <div class="space-y-6">
+  <div class="space-y-6" id="questions-list">
     {questions.map((q, idx) => (
       <article 
         id={`question-${q.id}`} 
-        class="mcq-card bg-white rounded-2xl border border-slate-200 p-5 sm:p-7 shadow-xs hover:border-teal-200 transition-all"
+        class="mcq-card bg-white rounded-2xl border border-slate-200/90 p-5 sm:p-7 shadow-xs hover:border-teal-300/80 transition-all scroll-mt-28"
         data-qid={q.id}
+        data-index={idx}
         data-correct={q.answer}
       >
-        <!-- Header: Question number & past paper tag -->
+        <!-- Header: Question number & Action buttons -->
         <div class="flex items-start justify-between gap-4 mb-4">
-          <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-slate-100 text-slate-700">
-            Q{idx + 1} of {questions.length}
-          </span>
-          {q.testedIn && q.testedIn.length > 0 && (
-            <div class="flex flex-wrap gap-1 justify-end">
-              {q.testedIn.map((tag) => (
-                <span class="text-[11px] font-semibold bg-emerald-50 text-emerald-800 border border-emerald-200 px-2 py-0.5 rounded-md">
-                  ★ {tag}
-                </span>
-              ))}
-            </div>
-          )}
+          <div class="flex items-center gap-2">
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-black bg-slate-100 text-slate-800">
+              Question {idx + 1} of {questions.length}
+            </span>
+
+            {q.testedIn && q.testedIn.length > 0 && (
+              <div class="hidden sm:flex flex-wrap gap-1">
+                {q.testedIn.map((tag) => (
+                  <span class="text-[11px] font-bold bg-amber-50 text-amber-900 border border-amber-200/80 px-2 py-0.5 rounded-md">
+                    ★ {tag}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+
+          <!-- Utility actions: Bookmark & Copy Link -->
+          <div class="flex items-center gap-1 text-slate-400">
+            <button
+              type="button"
+              class="bookmark-btn p-1.5 rounded-lg hover:bg-slate-100 hover:text-amber-500 transition-colors"
+              title="Bookmark Question"
+              data-qid={q.id}
+            >
+              <svg class="w-4 h-4 bookmark-icon fill-none stroke-current" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
+              </svg>
+            </button>
+            <button
+              type="button"
+              class="copy-link-btn p-1.5 rounded-lg hover:bg-slate-100 hover:text-teal-600 transition-colors"
+              title="Copy link to this question"
+              data-qid={q.id}
+            >
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+              </svg>
+            </button>
+          </div>
         </div>
 
-        <!-- Question Title -->
-        <h3 class="text-base sm:text-lg font-bold text-slate-900 leading-snug mb-5">
+        <!-- Mobile-only past paper tag row -->
+        {q.testedIn && q.testedIn.length > 0 && (
+          <div class="flex sm:hidden flex-wrap gap-1 mb-3">
+            {q.testedIn.map((tag) => (
+              <span class="text-[10px] font-bold bg-amber-50 text-amber-900 border border-amber-200 px-1.5 py-0.5 rounded">
+                ★ {tag}
+              </span>
+            ))}
+          </div>
+        )}
+
+        <!-- Question Prompt -->
+        <h3 class="text-base sm:text-lg font-bold text-slate-900 leading-snug mb-5 select-text">
           {q.question}
         </h3>
 
         <!-- Options Grid -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-5">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4">
           {q.options.map((option, optIdx) => {
             const letter = String.fromCharCode(65 + optIdx);
             return (
               <button
                 type="button"
-                class="opt-btn w-full text-left p-3.5 rounded-xl border border-slate-200 hover:bg-slate-50 hover:border-teal-400 transition-all flex items-start gap-3 group focus:outline-hidden focus:ring-2 focus:ring-teal-500/20"
+                class="opt-btn w-full text-left p-3.5 rounded-xl border border-slate-200/90 hover:bg-slate-50 hover:border-teal-400 transition-all flex items-start gap-3 group focus:outline-hidden focus:ring-2 focus:ring-teal-500/20"
                 data-option-index={optIdx}
               >
-                <span class="opt-badge flex-shrink-0 w-6 h-6 rounded-full border border-slate-300 text-slate-600 font-bold text-xs flex items-center justify-center group-hover:border-teal-500 group-hover:text-teal-600 transition-colors">
+                <span class="opt-badge flex-shrink-0 w-6 h-6 rounded-lg border border-slate-300 text-slate-600 font-black text-xs flex items-center justify-center group-hover:border-teal-500 group-hover:text-teal-600 transition-colors shadow-2xs">
                   {letter}
                 </span>
-                <span class="opt-text text-sm font-medium text-slate-700 leading-relaxed">
+                <span class="opt-text text-sm font-medium text-slate-800 leading-relaxed pt-0.5">
                   {option}
                 </span>
               </button>
@@ -118,45 +220,52 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
           })}
         </div>
 
-        <!-- Toggle Explanation Button -->
-        <div class="pt-2 flex items-center justify-between border-t border-slate-100">
+        <!-- Card Footer: Explanation button & Status -->
+        <div class="pt-3 flex items-center justify-between border-t border-slate-100">
           <button 
             type="button" 
-            class="toggle-exp-btn text-xs font-semibold text-teal-700 hover:text-teal-900 flex items-center gap-1"
+            class="toggle-exp-btn text-xs font-bold text-teal-700 hover:text-teal-900 flex items-center gap-1.5 py-1 px-2 rounded-lg hover:bg-teal-50/60 transition-colors"
           >
             <span>Show Explanation</span>
             <svg class="w-4 h-4 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
             </svg>
           </button>
-          <span class="result-badge text-xs font-bold hidden"></span>
+          
+          <div class="flex items-center gap-2">
+            <span class="result-badge text-xs font-bold hidden"></span>
+          </div>
         </div>
 
-        <!-- Deep Explanation Box (Critical for AdSense & Educational Depth) -->
-        <div class="exp-box mt-4 hidden rounded-xl bg-slate-50 border border-slate-200 p-4 sm:p-5 space-y-3">
-          <div class="flex items-center gap-2 text-teal-800 font-bold text-sm">
-            <svg class="w-5 h-5 text-teal-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+        <!-- Deep Academic Explanation Box -->
+        <div class="exp-box mt-4 hidden rounded-2xl bg-gradient-to-br from-slate-50 to-teal-50/20 border border-slate-200 p-4 sm:p-5 space-y-3">
+          <div class="flex items-center gap-2 text-teal-900 font-bold text-sm">
+            <div class="w-6 h-6 rounded-full bg-emerald-100 text-emerald-800 flex items-center justify-center flex-shrink-0">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7" /></svg>
+            </div>
             <span>Correct Answer: Option {String.fromCharCode(65 + q.answer)} — {q.options[q.answer]}</span>
           </div>
 
-          <div class="text-sm text-slate-700 leading-relaxed border-t border-slate-200/60 pt-3">
-            <strong class="text-slate-900 block mb-1">Detailed Academic Explanation:</strong>
-            <p>{q.explanation}</p>
+          <div class="text-sm text-slate-700 leading-relaxed border-t border-slate-200/80 pt-3">
+            <strong class="text-slate-900 block mb-1 text-xs uppercase tracking-wider">Detailed Academic Explanation:</strong>
+            <p class="text-slate-700">{q.explanation}</p>
           </div>
 
           {q.keyConcept && (
-            <div class="bg-amber-50/70 border border-amber-200/80 rounded-lg p-3 text-xs text-amber-900">
-              <strong class="font-bold flex items-center gap-1 mb-0.5">
-                💡 Key Conceptual Anchor:
+            <div class="bg-amber-50 border border-amber-200/80 rounded-xl p-3 text-xs text-amber-900">
+              <strong class="font-bold flex items-center gap-1.5 mb-0.5">
+                <span>💡</span>
+                <span>Key Conceptual Anchor:</span>
               </strong>
               <span>{q.keyConcept}</span>
             </div>
           )}
 
           {q.examTip && (
-            <div class="bg-blue-50/70 border border-blue-200/80 rounded-lg p-3 text-xs text-blue-900">
-              <strong class="font-bold flex items-center gap-1 mb-0.5">
-                🎯 Examiner's Trap & Study Tip:
+            <div class="bg-sky-50 border border-sky-200/80 rounded-xl p-3 text-xs text-sky-900">
+              <strong class="font-bold flex items-center gap-1.5 mb-0.5">
+                <span>🎯</span>
+                <span>Examiner's Trap & Study Tip:</span>
               </strong>
               <span>{q.examTip}</span>
             </div>
@@ -164,6 +273,12 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
         </div>
       </article>
     ))}
+  </div>
+
+  <!-- Toast notification for copy link -->
+  <div id="mcq-toast" class="fixed bottom-6 right-6 z-50 transform translate-y-20 opacity-0 transition-all duration-300 bg-slate-900 text-white text-xs font-semibold px-4 py-2.5 rounded-xl shadow-lg flex items-center gap-2">
+    <span>✓</span>
+    <span id="mcq-toast-text">Link copied to clipboard</span>
   </div>
 </div>
 
@@ -173,10 +288,13 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
     if (!container) return;
 
     const storageKey = container.dataset.storageKey || 'examhub:mcq:default';
+    const bookmarkKey = container.dataset.bookmarkKey || 'examhub:bookmarks:default';
     const cards = Array.from(container.querySelectorAll<HTMLElement>('.mcq-card'));
     const total = cards.length;
+    const jumpPills = Array.from(container.querySelectorAll<HTMLButtonElement>('.jump-pill'));
 
-    /** Load saved answers: { [questionId]: chosenOptionIndex } */
+    let examMode = false; // false = instant feedback, true = mock test mode
+
     function loadState(): Record<string, number> {
       try {
         const parsed = JSON.parse(localStorage.getItem(storageKey) || '{}');
@@ -189,19 +307,70 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
     function saveState(state: Record<string, number>) {
       try {
         localStorage.setItem(storageKey, JSON.stringify(state));
+      } catch {}
+    }
+
+    function loadBookmarks(): Record<string, boolean> {
+      try {
+        const parsed = JSON.parse(localStorage.getItem(bookmarkKey) || '{}');
+        return parsed && typeof parsed === 'object' ? parsed : {};
       } catch {
-        /* private browsing / quota — the quiz still works, it just won't persist */
+        return {};
       }
     }
 
+    function saveBookmarks(b: Record<string, boolean>) {
+      try {
+        localStorage.setItem(bookmarkKey, JSON.stringify(b));
+      } catch {}
+    }
+
     let state = loadState();
+    let bookmarks = loadBookmarks();
+
+    function showToast(msg: string) {
+      const toast = document.getElementById('mcq-toast');
+      const text = document.getElementById('mcq-toast-text');
+      if (!toast || !text) return;
+      text.textContent = msg;
+      toast.classList.remove('translate-y-20', 'opacity-0');
+      setTimeout(() => {
+        toast.classList.add('translate-y-20', 'opacity-0');
+      }, 2200);
+    }
 
     function updateScoreBar() {
-      const answered = Object.keys(state).length;
-      const correct = cards.filter((card) => {
-        const chosen = state[card.dataset.qid || ''];
-        return chosen !== undefined && Number(chosen) === Number(card.dataset.correct);
-      }).length;
+      const answeredKeys = Object.keys(state);
+      const answered = answeredKeys.length;
+      let correct = 0;
+      let incorrect = 0;
+
+      cards.forEach((card, idx) => {
+        const qid = card.dataset.qid || '';
+        const pill = jumpPills[idx];
+        const chosen = state[qid];
+
+        if (chosen !== undefined) {
+          const isCorrect = Number(chosen) === Number(card.dataset.correct);
+          if (isCorrect) correct++;
+          else incorrect++;
+
+          if (pill) {
+            pill.classList.remove('bg-slate-50', 'text-slate-600', 'border-slate-200');
+            if (isCorrect) {
+              pill.classList.add('bg-emerald-500', 'text-white', 'border-emerald-600');
+            } else {
+              pill.classList.add('bg-rose-500', 'text-white', 'border-rose-600');
+            }
+          }
+        } else {
+          if (pill) {
+            pill.classList.remove('bg-emerald-500', 'bg-rose-500', 'text-white', 'border-emerald-600', 'border-rose-600');
+            pill.classList.add('bg-slate-50', 'text-slate-600', 'border-slate-200');
+          }
+        }
+      });
+
       const accuracy = answered ? Math.round((correct / answered) * 100) : 0;
 
       const set = (selector: string, value: string) => {
@@ -209,8 +378,8 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
         if (el) el.textContent = value;
       };
       set('[data-score-answered]', String(answered));
-      set('[data-score-total]', String(total));
       set('[data-score-correct]', String(correct));
+      set('[data-score-incorrect]', String(incorrect));
       set('[data-score-accuracy]', String(accuracy));
 
       const fill = container.querySelector<HTMLElement>('[data-score-fill]');
@@ -220,7 +389,6 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
       if (done) done.classList.toggle('hidden', answered < total);
     }
 
-    /** Paint a card to reflect a chosen option (used for clicks and for restoring a saved session). */
     function applyChoice(card: HTMLElement, selectedIdx: number, isRestore: boolean) {
       const correctIndex = Number(card.dataset.correct || '0');
       const buttons = Array.from(card.querySelectorAll<HTMLButtonElement>('.opt-btn'));
@@ -231,29 +399,31 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
       buttons.forEach((b) => b.classList.add('pointer-events-none'));
 
       if (selectedIdx === correctIndex) {
-        button.classList.add('bg-emerald-50', 'border-emerald-500', 'text-emerald-900');
+        button.classList.add('bg-emerald-50', 'border-emerald-500', 'text-emerald-950');
         button.querySelector('.opt-badge')?.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
         if (resultBadge) {
-          resultBadge.textContent = isRestore ? '✓ Correct' : '✓ Correct Answer';
-          resultBadge.className = 'result-badge text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded';
+          resultBadge.textContent = '✓ Correct';
+          resultBadge.className = 'result-badge text-xs font-bold text-emerald-800 bg-emerald-100/80 px-2.5 py-1 rounded-md';
           resultBadge.classList.remove('hidden');
         }
       } else {
-        button.classList.add('bg-rose-50', 'border-rose-400', 'text-rose-900');
+        button.classList.add('bg-rose-50', 'border-rose-400', 'text-rose-950');
         button.querySelector('.opt-badge')?.classList.add('bg-rose-600', 'text-white', 'border-rose-600');
 
         const correctBtn = buttons[correctIndex];
-        correctBtn?.classList.add('bg-emerald-50', 'border-emerald-500');
+        correctBtn?.classList.add('bg-emerald-50/70', 'border-emerald-400');
         correctBtn?.querySelector('.opt-badge')?.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
 
         if (resultBadge) {
-          resultBadge.textContent = isRestore ? '✗ Incorrect' : '✗ Incorrect';
-          resultBadge.className = 'result-badge text-xs font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded';
+          resultBadge.textContent = '✗ Incorrect';
+          resultBadge.className = 'result-badge text-xs font-bold text-rose-800 bg-rose-100/80 px-2.5 py-1 rounded-md';
           resultBadge.classList.remove('hidden');
         }
       }
 
-      showExplanation(card);
+      if (!examMode || isRestore) {
+        showExplanation(card);
+      }
     }
 
     function showExplanation(card: HTMLElement) {
@@ -267,18 +437,28 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
       }
     }
 
+    // Initialize Card Listeners
     cards.forEach((card) => {
       const qid = card.dataset.qid || '';
       const buttons = Array.from(card.querySelectorAll<HTMLButtonElement>('.opt-btn'));
       const toggleExpBtn = card.querySelector<HTMLButtonElement>('.toggle-exp-btn');
       const expBox = card.querySelector<HTMLElement>('.exp-box');
+      const bookmarkBtn = card.querySelector<HTMLButtonElement>('.bookmark-btn');
+      const copyBtn = card.querySelector<HTMLButtonElement>('.copy-link-btn');
 
-      // Restore a previously answered question.
+      // Restore choice
       if (state[qid] !== undefined) {
         applyChoice(card, Number(state[qid]), true);
-        return;
       }
 
+      // Restore bookmark status
+      if (bookmarks[qid]) {
+        const icon = bookmarkBtn?.querySelector('.bookmark-icon');
+        icon?.classList.remove('fill-none');
+        icon?.classList.add('fill-amber-400', 'text-amber-500');
+      }
+
+      // Toggle explanation button
       toggleExpBtn?.addEventListener('click', () => {
         if (!expBox) return;
         if (expBox.classList.contains('hidden')) {
@@ -296,6 +476,33 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
         }
       });
 
+      // Bookmark button
+      bookmarkBtn?.addEventListener('click', () => {
+        bookmarks[qid] = !bookmarks[qid];
+        saveBookmarks(bookmarks);
+        const icon = bookmarkBtn.querySelector('.bookmark-icon');
+        if (bookmarks[qid]) {
+          icon?.classList.remove('fill-none');
+          icon?.classList.add('fill-amber-400', 'text-amber-500');
+          showToast('Question bookmarked');
+        } else {
+          icon?.classList.add('fill-none');
+          icon?.classList.remove('fill-amber-400', 'text-amber-500');
+          showToast('Bookmark removed');
+        }
+      });
+
+      // Copy link button
+      copyBtn?.addEventListener('click', () => {
+        const url = `${window.location.origin}${window.location.pathname}#question-${qid}`;
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(url).then(() => {
+            showToast('Question link copied to clipboard');
+          });
+        }
+      });
+
+      // Option clicks
       buttons.forEach((btn) => {
         btn.addEventListener('click', () => {
           const selectedIdx = Number(btn.dataset.optionIndex || '0');
@@ -307,9 +514,51 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
       });
     });
 
-    updateScoreBar();
+    // Jump palette button clicks
+    jumpPills.forEach((pill) => {
+      pill.addEventListener('click', () => {
+        const targetQid = pill.getAttribute('data-jump-target');
+        const targetEl = document.getElementById(`question-${targetQid}`);
+        if (targetEl) {
+          targetEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          targetEl.classList.add('ring-2', 'ring-teal-500', 'shadow-md');
+          setTimeout(() => {
+            targetEl.classList.remove('ring-2', 'ring-teal-500', 'shadow-md');
+          }, 1500);
+        }
+      });
+    });
 
-    // Bulk buttons
+    // Practice vs Exam Mode switch
+    const practiceBtn = document.getElementById('mode-practice-btn');
+    const examBtn = document.getElementById('mode-exam-btn');
+
+    practiceBtn?.addEventListener('click', () => {
+      examMode = false;
+      practiceBtn.className = 'px-3 py-1.5 rounded-lg bg-white text-teal-800 shadow-xs transition-all font-bold';
+      examBtn!.className = 'px-3 py-1.5 rounded-lg text-slate-600 hover:text-slate-900 transition-all';
+      // reveal explanations for already answered cards
+      cards.forEach((card) => {
+        const qid = card.dataset.qid || '';
+        if (state[qid] !== undefined) {
+          showExplanation(card);
+        }
+      });
+    });
+
+    examBtn?.addEventListener('click', () => {
+      examMode = true;
+      examBtn.className = 'px-3 py-1.5 rounded-lg bg-white text-teal-800 shadow-xs transition-all font-bold';
+      practiceBtn!.className = 'px-3 py-1.5 rounded-lg text-slate-600 hover:text-slate-900 transition-all';
+      showToast('Mock Test Mode: Answers hidden until completion or manual reveal');
+    });
+
+    // Scroll top button
+    document.getElementById('scroll-top-btn')?.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // Reveal All
     document.getElementById('reveal-all-btn')?.addEventListener('click', () => {
       document.querySelectorAll('.exp-box').forEach((box) => box.classList.remove('hidden'));
       document.querySelectorAll('.toggle-exp-btn').forEach((btn) => {
@@ -317,20 +566,20 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
         if (label) label.textContent = 'Hide Explanation';
         btn.querySelector('svg')?.classList.add('rotate-180');
       });
+      showToast('All answers & explanations revealed');
     });
 
+    // Reset Progress
     document.getElementById('reset-all-btn')?.addEventListener('click', () => {
       try {
         localStorage.removeItem(storageKey);
-      } catch {
-        /* ignore */
-      }
+      } catch {}
       state = {};
       cards.forEach((card) => {
         card.querySelectorAll('.opt-btn').forEach((b) => {
           b.classList.remove(
-            'pointer-events-none', 'bg-emerald-50', 'border-emerald-500', 'text-emerald-900',
-            'bg-rose-50', 'border-rose-400', 'text-rose-900',
+            'pointer-events-none', 'bg-emerald-50', 'border-emerald-500', 'text-emerald-950',
+            'bg-rose-50', 'border-rose-400', 'text-rose-950', 'bg-emerald-50/70', 'border-emerald-400'
           );
         });
         card.querySelectorAll('.opt-badge').forEach((b) => {
@@ -351,10 +600,12 @@ const storageKey = `examhub:mcq:${setId ?? `${subjectTitle}/${topicTitle}`}`;
         }
       });
       updateScoreBar();
+      showToast('Progress reset successfully');
     });
+
+    updateScoreBar();
   }
 
-  // Initialize
   setupInteractiveMCQs();
   document.addEventListener('astro:after-swap', setupInteractiveMCQs);
 </script>

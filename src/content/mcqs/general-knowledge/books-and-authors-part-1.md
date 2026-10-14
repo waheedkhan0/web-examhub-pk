@@ -4,15 +4,16 @@ description: 40 exam-level books & authors MCQs with answers and explanations fo
 subject: general-knowledge
 subjectName: General Knowledge & World Affairs
 topic: books-and-authors-part-1
-topicName: Books & Authors — Part 1
+topicName: Books And Authors — Part 1
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-14"
 difficulty: Exam-Level
 targetExams:
   - PPSC
   - FPSC
+  - PMS
   - NTS
-  - CSS
+  - SPSC
 questions:
   - id: 1
     question: The Book ” Incomplete Partition was written by __________?
@@ -394,8 +395,526 @@ questions:
     answer: 0
     explanation: Charles Dickens is the author of All of these .
     keyConcept: Books & Authors
+  - id: 41
+    question: Who wrote the famous book 'We the people'?
+    options:
+      - T. N. Kaul
+      - J. R. D. Tata
+      - Khushwant Singh
+      - Nani Palkhivala
+    answer: 3
+    explanation: "Nanabhoy Palkhivala is also known as \"Nani Palkhivala\". He was an Indian Jurist and Economist. Some of his famous creation are - \"Our Constitution Defaced and Defiled\", \"The Law and Practice of Income Tax in 2 Vols \", \"We, The People: India, the largest Democracy\"."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 42
+    question: Who is the author of the book 'Nineteen Eighty Four'?
+    options:
+      - Thomas Hardy
+      - Emile Zola
+      - George Orwell
+      - Walter Scott
+    answer: 2
+    explanation: "'Nineteen Eighty Four', also published as '1984', is a novel by English author George Orwell published in 1949 as a warning against totalitarianism."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 43
+    question: Which of the following is not written by Munshi Premchand?
+    options:
+      - Gaban
+      - Godan
+      - Guide
+      - Manasorovar
+    answer: 2
+    explanation: "'Guide' is a 1958 novel written in English by the Indian author R. K. Narayan."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 44
+    question: The lead character in the film 'The Bandit Queen' has been played by -
+    options:
+      - Rupa Ganguly
+      - Seema Biswas
+      - Pratiba Sinha
+      - Shabana Azmi
+    answer: 1
+    explanation: The lead character in the film 'The Bandit Queen' was played by Seema Biswas.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 45
+    question: Which of the following books has been written by Vikram Seth?
+    options:
+      - My God Died Young
+      - Islamic Bomb
+      - Look Back in Anger
+      - A Suitable Boy
+    answer: 3
+    explanation: A Suitable Boy is a novel by Vikram Seth, published in 1993.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 46
+    question: Who has written the book 'My Frozen Turbulence in Kashmir'?
+    options:
+      - Anees Jung
+      - Jagmohan
+      - M. J. Akbar
+      - Nissim Ezekiel
+    answer: 1
+    explanation: "'My Frozen Turbulence in Kashmir' was written by Jagmohan."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 47
+    question: The book 'To Live or Not Live' was written by -
+    options:
+      - V. S. Naipaul
+      - Alexandra Dumas
+      - George Elliot
+      - Nirad C. Chaudhuri
+    answer: 3
+    explanation: The book 'To Live or Not Live' was written by Nirad C. Chaudhuri.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 48
+    question: In India the first television programme was broadcasted in -
+    options:
+      - "1959"
+      - "1965"
+      - "1976"
+      - "1957"
+    answer: 0
+    explanation: Terrestrial television in India started with the experimental telecast starting in Delhi on 15 September 1959 with a small transmitter and a makeshift studio.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 49
+    question: "'A Voice for Freedom' is a book written by -"
+    options:
+      - Corazon Aquino
+      - Nayantara Sahgal
+      - Aung San Suu Kyi
+      - Benazir Bhutto
+    answer: 1
+    explanation: "'A Voice for Freedom' is a book written by Nayantara Sahgal."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 50
+    question: Who is the father of English Poetry?
+    options:
+      - John Milton
+      - William Wordsworth
+      - Geoffrey Chaucer
+      - Charles Dickens
+    answer: 2
+    explanation: Geoffrey Chaucer is called as "The Father of English Poetry".
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 51
+    question: The popular TV serial 'Neem ka Ped' was written by -
+    options:
+      - Rahi Masoom Raza
+      - Sharad Joshi
+      - Ashapurna Devi
+      - Harivansh Rai Bachachan
+    answer: 0
+    explanation: Neem Ka Ped is an Indian television drama - series that was edited and directed by Gurbir Singh Grewal and produced by Nawman Malik. It was written by Rahi Masoom Raza.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 52
+    question: Which of the book was written by Graham Greene?
+    options:
+      - O' Jerusalem
+      - The Power and Glory
+      - Crisis in India
+      - Of Human Bondage
+    answer: 1
+    explanation: The Power and the Glory is a 1940 novel by British author Graham Greene.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 53
+    question: George Bernard Shaw, the great dramatist, was -
+    options:
+      - a Welsh
+      - an Irishman
+      - a Scotsman
+      - an Englishman
+    answer: 1
+    explanation: George Bernard Shaw, known at his insistence simply as Bernard Shaw, was an Irish playwright, critic, polemicist and political activist.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 54
+    question: "'Mrichchhakatika' was written by -"
+    options:
+      - Vikramaditya
+      - Shudraka
+      - Kalhana
+      - Banabhatta
+    answer: 1
+    explanation: Mrichchhakatika (The Little Clay Cart) is a ten - act Sanskrit drama attributed to Shudraka, an ancient playwright who is possibly from the 5th century CE, and who is identified by the prologue as a Kshatriya.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 55
+    question: The famous book 'Anandmath' was authored by -
+    options:
+      - Sarojini Naidu
+      - Bankim Chandra Chattopadhyay
+      - Aurobindo Ghosh
+      - Rabindranath Tagore
+    answer: 1
+    explanation: Anandmath is a 1952 Hindi patriotic - historical film directed by Hemen Gupta, based on 'Anandmath', the famous Bengali novel written by Bankim Chandra Chattopadhyay in 1882. The novel and film are set in the events of the Sannyasi Rebellion, which took place in the late 18th century in eastern India, especially Bengal.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 56
+    question: "Who directed the film '1942 : A love story'?"
+    options:
+      - Mahesh Bhatt
+      - Vidhu Vinod Chopra
+      - Yash Chopra
+      - Ketan Mehta
+    answer: 1
+    explanation: "Vidhu Vinod Chopra is an Indian film director, producer, editor, screenwriter, lyricist and actor. His better known films include Parinda, 1942 : A Love Story, Munna Bhai film series, 3 Idiots, PK, Sanju, Ek Ladki Ko Dekha Toh Aisa Laga and Shikara."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 57
+    question: "Who is the author of famous statement: \"That Government is the best which governs least\"?"
+    options:
+      - Herbert Spencer
+      - Harold Laski
+      - Alexis De Tocqueville
+      - Henry David Thoreau
+    answer: 3
+    explanation: "Henry David Thoreau in 1849 said : \"We've heard it said, that government is best which governs least. That government is best which governs not at all, and when men are prepared for it, that will be the kind of government they will have\"."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 58
+    question: Who wrote the book 'Reminiscences of the Nehru Age'?
+    options:
+      - C. D. Deshmukh
+      - Dr. P. C. Alexander
+      - M. O. Mathai
+      - S. C. Rajagopalachari
+    answer: 2
+    explanation: M. O. Mathai (Mundapallil Oommen Mathai) was the Private Secretary to India's first Prime Minister Jawaharlal Nehru. He is primarily famed for his controversial memoirs in 'Reminiscences of the Nehru Age' (1978) and 'My Days with Nehru' (1979).
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 59
+    question: Aurobindo was the author of -
+    options:
+      - Discovery of India
+      - Hindu view of life
+      - Yogashastra
+      - Savitri
+    answer: 3
+    explanation: "'Savitri : A Legend and a Symbol' is an epic poem in blank verse by Sri Aurobindo Ghosh, based upon the theology from the Mahabharata."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 60
+    question: Which of the following is a biography of the Lady Mountbatten?
+    options:
+      - Edwina Mountbatten - A Life of Her Own.
+      - Edwina Mountbatten - Her relationship with Nehru
+      - Mountbatten
+      - Edwina Mountbattten
+    answer: 0
+    explanation: "'Edwina Mountbatten - A Life of Her Own' is a biography of Lady Mountbatten."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 61
+    question: In which year was the 'All India Radio' set up?
+    options:
+      - "1936"
+      - "1927"
+      - "1947"
+      - "1950"
+    answer: 0
+    explanation: Lionel Fielden was appointed the first Controller of Broadcasting in August 1935. In the following month Akashvani Mysore, a private radio station was set up. On 8 June 1936, the Indian State Broadcasting Service became All India Radio.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 62
+    question: Who directed the film 'Sardar'?
+    options:
+      - Das Gupta
+      - Shyam Benegal
+      - Tapan Sinha
+      - Ketan Mehta
+    answer: 3
+    explanation: Ketan Mehta is an Indian film director who has also directed documentaries and television serials since 1975. He directed the film 'Sardar'.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 63
+    question: Who said "God helps those who help themselves"?
+    options:
+      - Andre Maurois
+      - Andre Gide
+      - Algernon Sidney
+      - Swami Vivekananda
+    answer: 2
+    explanation: The phrase "God helps those who help themselves" is a popular motto which emphasizes the importance of self-initiative. The phrase originated in ancient Greece, occurring as the moral to one of Aesop's Fables, and later in the great tragedy authors of ancient Greek drama. It has been commonly attributed to Benjamin Franklin, however the modern English wording appears earlier in Algernon Sidney's work. It is mistaken by many to be a Bible quote, however the phrase does not occur in the Bible. Some Christians have criticized it as actually against the Bible's basic message of God's grace.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 64
+    question: "'Alice in Wonderland' the famous TV serial is based on a book written by -"
+    options:
+      - Father Discoste
+      - Thomas Hardy
+      - Charles Dickens
+      - Lewis Caroll
+    answer: 3
+    explanation: Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel by English author Lewis Carroll. It tells of a young girl named Alice, who falls through a rabbit hole into a subterranean fantasy world populated by peculiar, anthropomorphic creatures.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 65
+    question: "'The Gathering Storm' is written by -"
+    options:
+      - Winston Churchill
+      - George Washington
+      - Voltaire
+      - Romain Rolland
+    answer: 0
+    explanation: "'The Gathering Storm' is the first volume of Sir Winston Churchill's definitive account of the Second World War."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 66
+    question: The television serial 'Charitraheen' is based on the famous novel of which of the following authors?
+    options:
+      - Rabindranath Tagore
+      - Sarat Chandra Chattopadhyay
+      - Tara Sankar Bandhopadhyay
+      - Bankim Chandra Chatterji
+    answer: 1
+    explanation: "'Charitraheen' is a 1917 novel by Bengali novelist Sarat Chandra Chattopadhyay."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 67
+    question: The programme 'Gyan Vani' is broadcasted by -
+    options:
+      - Zee TV
+      - AIR
+      - Sony TV
+      - Doordarshan
+    answer: 1
+    explanation: Gyan Vani is an educational FM radio station in several cities of India. Gyan Vani stations operate as a media cooperative with the day-to-day programmes being contributed by various educational institutions, NGOs, government and semi - government organizations, UN agencies, ministries such as Agriculture, Environment, Health, Women and Child Welfare, Science & Technology etc.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 68
+    question: Who is the author of the book 'My Experiments with Truth'?
+    options:
+      - Mahatma Gandhi
+      - Michael Anderson
+      - Winston Churchill
+      - Jarnes Morris
+    answer: 0
+    explanation: Mahatma Gandhi is the author of the book 'My Experiments with Truth'.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 69
+    question: "'The Naked Face', a very popular book is written by -"
+    options:
+      - Dominique Lapierre
+      - Larry Collins
+      - Sidney Sheldon
+      - Juan Benet
+    answer: 2
+    explanation: The Naked Face is the first novel (1970) written by Sidney Sheldon. It was nominated by the Mystery Writers of America for the Edgar Allan Poe Award for Best First Novel by an American Author.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 70
+    question: The author of controversial book 'Lajja' is a citizen of -
+    options:
+      - Pakistan
+      - Indonesia
+      - Bangladesh
+      - India
+    answer: 2
+    explanation: Lajja (Shame) is a novel in Bengali by Taslima Nasrin, a writer of Bangladesh.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 71
+    question: The first history book was written by -
+    options:
+      - Euclid
+      - Herodotus
+      - Aristotle
+      - Caesar
+    answer: 1
+    explanation: The first history book was written by Greek author Herodotus.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 72
+    question: "'A Secular Agenda' is a book written by -"
+    options:
+      - Arun Shourie
+      - Mani Shankar Aiyar
+      - Prem Shankar Jha
+      - M.J. Akbar
+    answer: 0
+    explanation: "'A Secular Agenda' is a book written by Arun Shourie."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 73
+    question: In which language did 'Dr. Masti Venkatesh Iyengar' write?
+    options:
+      - Malayalam
+      - Tamil
+      - Telugu
+      - Kannada
+    answer: 3
+    explanation: Dr. Masti Venkatesh Iyengar (6 June 1891 - 6 June 1986) was a well - known writer in Kannada language.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 74
+    question: The book named 'Three Decades in Parliament' is a collection of the speeches of -
+    options:
+      - A. B. Vajpayee
+      - S. Chatterjee
+      - L. K. Advani
+      - N. G. Ranga
+    answer: 0
+    explanation: "'Three Decades in Parliament' is a collection of the speeches of Atal Bihari Vajpayee."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 75
+    question: The famous character 'Pickwick' was created by -
+    options:
+      - Steven Spielberg
+      - Leo Tolstoy
+      - Walt Disney
+      - Charles Dickens
+    answer: 3
+    explanation: Samuel Pickwick is a fictional character and the main protagonist in The Pickwick Papers (1836), the first novel by author Charles Dickens.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 76
+    question: "'Sports Channel' a monthly video magazine has been launched by -"
+    options:
+      - Kapil Dev
+      - Sunil Gavaskar
+      - Ajit Wadekar
+      - Nawab Pataudi
+    answer: 0
+    explanation: "'Sports Channel' a monthly video magazine has been launched by Kapil Dev."
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 77
+    question: The creator of 'Sherlock Holmes' was -
+    options:
+      - Arthur Conan Doyle
+      - Ian Fleming
+      - Dr. Watson
+      - William Shakespeare
+    answer: 0
+    explanation: Sherlock Holmes is a fictional character created by the Scottish writer Arthur Conan Doyle.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 78
+    question: Who directed the famous TV Serial 'Tandoori Nights'?
+    options:
+      - Farrukh Dhondy
+      - Jon Amiel
+      - Zohra Sehgal
+      - Saeed Jaffrey
+    answer: 1
+    explanation: Tandoori Nights is a television sitcom that was broadcast on Channel 4 between 1985 and 1987. It consisted of two series of six episodes each. The series was directed by Jon Amiel and written by Farrukh Dhondy.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 79
+    question: Who is the author of book 'We Indians'?
+    options:
+      - Nirad C. Chaudhuri
+      - Subramanian Swamy
+      - Khushwant Singh
+      - Mulk Raj Anand
+    answer: 2
+    explanation: Khushwant Singh is the author of book 'We Indians'.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 80
+    question: Who is the author of the book - 'Preparing for the Twenty - First Century'?
+    options:
+      - Larry Collins
+      - V. S. Naipaul
+      - V. R. Krishna Iyer
+      - Paul Kennedy
+    answer: 3
+    explanation: Paul Kennedy is the author of the book - 'Preparing for the Twenty - First Century'.
+    keyConcept: Books And Authors
+    testedIn:
+      - PPSC
+      - FPSC
 ---
 
-## About this set
 
-40 exam-level books & authors MCQs with answers and explanations for PPSC, FPSC, NTS preparation.

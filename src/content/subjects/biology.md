@@ -31,12 +31,12 @@ subtopics:
   - name: Biology — Mixed Practice — Part 4
     slug: biology-misc-part-4
     questionCount: 64
-  - name: Cell Structure & Function — Part 1
+  - name: Cell Biology — Part 1
     slug: cell-biology-part-1
-    questionCount: 80
-  - name: Cell Structure & Function — Part 2
+    questionCount: 120
+  - name: Cell Biology — Part 2
     slug: cell-biology-part-2
-    questionCount: 80
+    questionCount: 120
   - name: Cell Structure & Function — Part 3
     slug: cell-biology-part-3
     questionCount: 80
@@ -79,9 +79,9 @@ subtopics:
   - name: Human Physiology & Anatomy — Part 6
     slug: human-physiology-part-6
     questionCount: 38
-  - name: Microbiology & Immunity
+  - name: Microbiology
     slug: microbiology
-    questionCount: 18
+    questionCount: 44
   - name: Plant Physiology & Botany — Part 1
     slug: plant-physiology-part-1
     questionCount: 80
@@ -106,6 +106,54 @@ subtopics:
   - name: Plant Physiology & Botany — Part 3
     slug: plant-physiology-part-3
     questionCount: 3
+  - name: Animal Kindom — Part 1
+    slug: animal-kindom-part-1
+    questionCount: 40
+  - name: Animal Kindom — Part 2
+    slug: animal-kindom-part-2
+    questionCount: 40
+  - name: Biotechnology — Part 1
+    slug: biotechnology-part-1
+    questionCount: 40
+  - name: Biotechnology — Part 2
+    slug: biotechnology-part-2
+    questionCount: 40
+  - name: Economic Biology — Part 1
+    slug: economic-biology-part-1
+    questionCount: 40
+  - name: Economic Biology — Part 2
+    slug: economic-biology-part-2
+    questionCount: 40
+  - name: Gentics And Evoloution — Part 1
+    slug: gentics-and-evoloution-part-1
+    questionCount: 40
+  - name: Gentics And Evoloution — Part 2
+    slug: gentics-and-evoloution-part-2
+    questionCount: 40
+  - name: Human Anatomy And Physiology — Part 1
+    slug: human-anatomy-and-physiology-part-1
+    questionCount: 40
+  - name: Human Anatomy And Physiology — Part 2
+    slug: human-anatomy-and-physiology-part-2
+    questionCount: 40
+  - name: Human Diseases — Part 1
+    slug: human-diseases-part-1
+    questionCount: 40
+  - name: Human Diseases — Part 2
+    slug: human-diseases-part-2
+    questionCount: 40
+  - name: Plant Anatomy And Physiology — Part 1
+    slug: plant-anatomy-and-physiology-part-1
+    questionCount: 40
+  - name: Plant Anatomy And Physiology — Part 2
+    slug: plant-anatomy-and-physiology-part-2
+    questionCount: 40
+  - name: Plant Kindom — Part 1
+    slug: plant-kindom-part-1
+    questionCount: 40
+  - name: Plant Kindom — Part 2
+    slug: plant-kindom-part-2
+    questionCount: 40
 ---
 
 ## Biology: The Highest-Yield Section in MDCAT

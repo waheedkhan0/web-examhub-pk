@@ -18,6 +18,7 @@ interface RelatedSet {
   topic: string;
   topicName: string;
   count: number;
+  difficulty?: string;
 }
 
 interface Props {
@@ -52,78 +53,101 @@ const {
 
 const totalQuestions = questions.length;
 const difficultyColors = {
-  'Basic': 'bg-green-50 text-green-700 border-green-200',
-  'Intermediate': 'bg-blue-50 text-blue-700 border-blue-200',
-  'Advanced': 'bg-orange-50 text-orange-700 border-orange-200',
-  'Exam-Level': 'bg-red-50 text-red-700 border-red-200',
+  'Basic': 'bg-emerald-50 text-emerald-800 border-emerald-200',
+  'Intermediate': 'bg-sky-50 text-sky-800 border-sky-200',
+  'Advanced': 'bg-amber-50 text-amber-800 border-amber-200',
+  'Exam-Level': 'bg-rose-50 text-rose-800 border-rose-200',
 };
+
+// Find next topic if available
+const nextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
 ---
 
 <BaseLayout title={title} description={description} ogImage={ogImage}>
   <!-- Breadcrumb -->
-  <div class="bg-slate-50 border-b border-slate-200">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+  <div class="bg-slate-50 border-b border-slate-200/80">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
       <nav class="flex items-center space-x-2 text-sm text-slate-600">
-        <a href="/" class="hover:text-teal-600">Home</a>
-        <span>/</span>
-        <a href="/subjects" class="hover:text-teal-600">Subjects</a>
-        <span>/</span>
-        <a href={`/subjects/${subject}`} class="hover:text-teal-600">{subjectName}</a>
-        <span>/</span>
-        <span class="text-slate-900 font-medium truncate">{topicName}</span>
+        <a href="/" class="hover:text-teal-600 font-medium transition-colors">Home</a>
+        <span class="text-slate-400">/</span>
+        <a href="/subjects" class="hover:text-teal-600 font-medium transition-colors">Subjects</a>
+        <span class="text-slate-400">/</span>
+        <a href={`/subjects/${subject}`} class="hover:text-teal-600 font-medium transition-colors truncate">{subjectName}</a>
+        <span class="text-slate-400">/</span>
+        <span class="text-slate-900 font-semibold truncate">{topicName}</span>
       </nav>
     </div>
   </div>
 
-  <!-- Header -->
-  <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="mb-4">
-        <a href={`/subjects/${subject}`} class="inline-block text-teal-300 hover:text-teal-200 font-medium text-sm mb-2">← {subjectName}</a>
+  <!-- Header Banner -->
+  <header class="bg-gradient-to-br from-slate-950 via-slate-900 to-teal-950 text-white py-10 md:py-14 relative overflow-hidden">
+    <div class="absolute inset-0 opacity-10 bg-[radial-gradient(#0d9488_1px,transparent_1px)] [background-size:16px_16px]"></div>
+    
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-3">
+        <a
+          href={`/subjects/${subject}`}
+          class="inline-flex items-center gap-1.5 text-teal-300 hover:text-teal-200 font-semibold text-xs uppercase tracking-wider bg-white/10 px-3 py-1 rounded-full backdrop-blur-xs transition"
+        >
+          <span>←</span>
+          <span>{subjectName} Hub</span>
+        </a>
       </div>
-      <h1 class="text-3xl md:text-4xl font-bold mb-3">{title}</h1>
-      <p class="text-slate-300 text-lg mb-6">{description}</p>
 
-      <!-- Stats -->
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
-          <div class="text-2xl font-bold text-teal-300">{totalQuestions}</div>
-          <div class="text-sm text-slate-300">Questions</div>
+      <h1 class="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight mb-3">
+        {title}
+      </h1>
+      <p class="text-slate-300 text-sm sm:text-base max-w-3xl mb-6 leading-relaxed">
+        {description}
+      </p>
+
+      <!-- Key Metadata Pills -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 pt-4 border-t border-slate-800">
+        <div class="bg-slate-800/70 border border-slate-700/70 rounded-xl p-3 backdrop-blur-xs">
+          <div class="text-xs text-slate-400 font-medium">Questions</div>
+          <div class="text-xl sm:text-2xl font-black text-teal-300 mt-0.5">{totalQuestions}</div>
         </div>
-        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
-          <div class="text-2xl font-bold text-teal-300">{difficulty}</div>
-          <div class="text-sm text-slate-300">Difficulty</div>
+        <div class="bg-slate-800/70 border border-slate-700/70 rounded-xl p-3 backdrop-blur-xs">
+          <div class="text-xs text-slate-400 font-medium">Difficulty Level</div>
+          <div class="text-base sm:text-lg font-bold text-teal-300 mt-0.5">{difficulty}</div>
         </div>
-        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
-          <div class="text-2xl font-bold text-teal-300">{targetExams.length}</div>
-          <div class="text-sm text-slate-300">Exams Covered</div>
+        <div class="bg-slate-800/70 border border-slate-700/70 rounded-xl p-3 backdrop-blur-xs">
+          <div class="text-xs text-slate-400 font-medium">Target Exams</div>
+          <div class="text-sm font-bold text-teal-300 mt-0.5 truncate">
+            {targetExams.slice(0, 3).join(', ')}{targetExams.length > 3 ? '...' : ''}
+          </div>
         </div>
-        <div class="bg-white/10 backdrop-blur rounded-lg p-4">
-          <div class="text-2xl font-bold text-teal-300">{Math.ceil(totalQuestions * 1.5)}</div>
-          <div class="text-sm text-slate-300">Min Time</div>
+        <div class="bg-slate-800/70 border border-slate-700/70 rounded-xl p-3 backdrop-blur-xs">
+          <div class="text-xs text-slate-400 font-medium">Estimated Time</div>
+          <div class="text-xl sm:text-2xl font-black text-teal-300 mt-0.5">
+            {Math.ceil(totalQuestions * 1.2)} <span class="text-xs font-normal text-slate-400">mins</span>
+          </div>
         </div>
       </div>
     </div>
-  </div>
+  </header>
 
-  <!-- Content -->
-  <article class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <!-- Metadata -->
-    <div class="flex flex-wrap gap-3 mb-8 pb-8 border-b border-slate-200">
-      <span class={`inline-block px-3 py-1 rounded-full border text-xs font-medium ${difficultyColors[difficulty]}`}>
-        {difficulty}
-      </span>
-      {targetExams.map((exam) => (
-        <span class="inline-block px-3 py-1 bg-teal-50 text-teal-700 rounded-full border border-teal-200 text-xs font-medium">
-          {exam}
+  <!-- Main Question Practice Content -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-10">
+    
+    <!-- Badges Row -->
+    <div class="flex flex-wrap items-center justify-between gap-3 mb-6 pb-4 border-b border-slate-200">
+      <div class="flex flex-wrap items-center gap-2">
+        <span class={`inline-block px-3 py-1 rounded-full border text-xs font-bold ${difficultyColors[difficulty]}`}>
+          {difficulty}
         </span>
-      ))}
-      <div class="ml-auto text-sm text-slate-500">
-        Last updated: {new Date(updatedDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+        {targetExams.map((exam) => (
+          <span class="inline-block px-2.5 py-0.5 bg-teal-50 text-teal-800 rounded-md border border-teal-200/80 text-xs font-semibold">
+            {exam}
+          </span>
+        ))}
+      </div>
+      <div class="text-xs text-slate-500 font-medium">
+        Verified for Commission Syllabus • {new Date(updatedDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
       </div>
     </div>
 
-    <!-- Interactive MCQs -->
+    <!-- Interactive MCQs Engine -->
     <InteractiveMCQ
       questions={questions}
       subjectTitle={subjectName}
@@ -131,58 +155,102 @@ const difficultyColors = {
       setId={`${subject}/${topic}`}
     />
 
-    <!-- Additional Content -->
-    <div class="mt-12 p-6 bg-blue-50 border border-blue-200 rounded-lg">
-      <h3 class="font-bold text-blue-900 mb-3">💡 How to Use These MCQs</h3>
-      <ul class="text-sm text-blue-800 space-y-2">
-        <li><strong>Self-Assessment:</strong> Test your current knowledge level before studying.</li>
-        <li><strong>Learning Aid:</strong> Read explanations carefully to understand concepts, not just memorize answers.</li>
-        <li><strong>Revision Tool:</strong> Review these questions periodically before exams.</li>
-        <li><strong>Time Management:</strong> Practice answering within time limits to improve speed.</li>
-      </ul>
-    </div>
-
-    <!-- Continue in this subject -->
-    {relatedSets.length > 0 && (
-      <div class="mt-12">
-        <h2 class="text-xl font-bold text-slate-900 mb-4">More {subjectName} practice</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {relatedSets.map((set) => (
-            <a
-              href={`/mcqs/${set.subject}/${set.topic}`}
-              class="flex items-center justify-between p-4 border border-slate-200 rounded-lg hover:border-teal-500 hover:bg-teal-50 transition group"
-            >
-              <span class="font-semibold text-slate-800 group-hover:text-teal-700">{set.topicName}</span>
-              <span class="text-xs font-bold text-slate-500 bg-slate-100 group-hover:bg-teal-100 px-2 py-1 rounded">
-                {set.count} Q
-              </span>
-            </a>
-          ))}
+    <!-- Post-Quiz Action Banner: Next Topic or Return -->
+    {nextSet && (
+      <div class="mt-12 bg-gradient-to-r from-teal-900 to-slate-900 text-white rounded-2xl p-6 sm:p-8 shadow-md flex flex-col sm:flex-row sm:items-center justify-between gap-6">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-teal-300">Continue Your Practice</span>
+          <h3 class="text-xl font-black mt-1">{nextSet.topicName}</h3>
+          <p class="text-xs sm:text-sm text-slate-300 mt-1">
+            Master the next curriculum module with {nextSet.count} exam-standard MCQs.
+          </p>
         </div>
+        <a
+          href={`/mcqs/${nextSet.subject}/${nextSet.topic}`}
+          class="inline-flex items-center justify-center px-6 py-3 rounded-xl bg-teal-500 hover:bg-teal-400 text-slate-950 font-black text-sm shadow-md transition-all self-start sm:self-auto flex-shrink-0"
+        >
+          <span>Next Practice Set</span>
+          <span class="ml-2">→</span>
+        </a>
       </div>
     )}
 
-    <!-- Related Content -->
-    <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
-      <div class="p-4 border border-slate-200 rounded-lg hover:shadow-md transition">
-        <h4 class="font-semibold text-slate-900 mb-2">📚 Study Guides</h4>
-        <p class="text-sm text-slate-600 mb-3">Strategy and concept guides across every subject</p>
-        <a href="/guides" class="text-teal-600 font-medium text-sm hover:text-teal-700">Explore →</a>
+    <!-- Pedagogical Guidance Box -->
+    <section class="mt-8 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
+      <h3 class="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+        <span class="text-teal-600">💡</span>
+        <span>Examiner's Advisory for {subjectName}</span>
+      </h3>
+      <p class="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
+        In competitive commission exams (FPSC, PPSC, KPPSC, SPSC, CSS, PMS), questions are frequently phrased with distractor options designed to catch rote learners. Whenever you answer an MCQ, read the <strong>Detailed Academic Explanation</strong> and <strong>Conceptual Anchor</strong> to understand why the remaining options are incorrect.
+      </p>
+      <div class="flex flex-wrap gap-2 pt-2 border-t border-slate-200/80">
+        <a href={`/subjects/${subject}`} class="text-xs font-bold text-teal-700 hover:text-teal-900">
+          View full {subjectName} curriculum →
+        </a>
       </div>
-      <div class="p-4 border border-slate-200 rounded-lg hover:shadow-md transition">
-        <h4 class="font-semibold text-slate-900 mb-2">🎯 More Practice</h4>
-        <p class="text-sm text-slate-600 mb-3">Browse the full MCQ library by subject</p>
-        <a href="/mcqs" class="text-teal-600 font-medium text-sm hover:text-teal-700">Browse →</a>
+    </section>
+
+    <!-- More Sets in this Subject -->
+    {relatedSets.length > 1 && (
+      <section class="mt-12">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-lg sm:text-xl font-bold text-slate-900">
+            More Modules in {subjectName}
+          </h2>
+          <a href={`/subjects/${subject}`} class="text-xs font-bold text-teal-700 hover:text-teal-900">
+            View All →
+          </a>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+          {relatedSets.slice(0, 6).map((set) => (
+            <a
+              href={`/mcqs/${set.subject}/${set.topic}`}
+              class="flex flex-col justify-between p-4 bg-white border border-slate-200 rounded-xl hover:border-teal-500 hover:shadow-sm hover:bg-teal-50/20 transition-all group"
+            >
+              <div>
+                <span class="font-bold text-sm text-slate-800 group-hover:text-teal-700 transition-colors line-clamp-2">
+                  {set.topicName}
+                </span>
+              </div>
+              <div class="flex items-center justify-between mt-3 pt-3 border-t border-slate-100 text-xs">
+                <span class="font-bold text-teal-800 bg-teal-50 px-2 py-0.5 rounded">
+                  {set.count} MCQs
+                </span>
+                <span class="text-teal-600 font-semibold group-hover:translate-x-1 transition-transform">
+                  Practice →
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Navigation Hub Cards -->
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div class="p-5 bg-white border border-slate-200 rounded-xl shadow-2xs">
+        <div class="text-xl mb-2">📚</div>
+        <h4 class="font-bold text-slate-900 text-sm mb-1">Study Guides</h4>
+        <p class="text-xs text-slate-500 mb-3">Topic summaries and syllabus breakdown</p>
+        <a href="/guides" class="text-teal-700 font-bold text-xs hover:text-teal-900">Explore Guides →</a>
       </div>
-      <div class="p-4 border border-slate-200 rounded-lg hover:shadow-md transition">
-        <h4 class="font-semibold text-slate-900 mb-2">📖 Subject Hub</h4>
-        <p class="text-sm text-slate-600 mb-3">Full curriculum for {subjectName}</p>
-        <a href={`/subjects/${subject}`} class="text-teal-600 font-medium text-sm hover:text-teal-700">View →</a>
+      <div class="p-5 bg-white border border-slate-200 rounded-xl shadow-2xs">
+        <div class="text-xl mb-2">🎯</div>
+        <h4 class="font-bold text-slate-900 text-sm mb-1">Complete Library</h4>
+        <p class="text-xs text-slate-500 mb-3">Search through 78,000+ verified MCQs</p>
+        <a href="/mcqs" class="text-teal-700 font-bold text-xs hover:text-teal-900">Browse Library →</a>
+      </div>
+      <div class="p-5 bg-white border border-slate-200 rounded-xl shadow-2xs">
+        <div class="text-xl mb-2">📱</div>
+        <h4 class="font-bold text-slate-900 text-sm mb-1">Mobile App</h4>
+        <p class="text-xs text-slate-500 mb-3">Offline mock tests and instant bookmarks</p>
+        <a href="/mobile" class="text-teal-700 font-bold text-xs hover:text-teal-900">Get Mobile App →</a>
       </div>
     </div>
-  </article>
+  </main>
 
-  <!-- JSON-LD Quiz Schema -->
+  <!-- JSON-LD Quiz Schema for Google Rich Results -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Quiz",
@@ -198,17 +266,10 @@ const difficultyColors = {
         "text": q.options[q.answer],
         "explanation": q.explanation
       },
-      "suggestedAnswer": q.options.map((opt, idx) => ({
+      "suggestedAnswer": q.options.map((opt) => ({
         "@type": "Answer",
         "text": opt
       }))
     }))
   })} />
 </BaseLayout>
-
-<style>
-  /* Placeholder for interactive widget styling */
-  interactive-mcq-widget {
-    display: block;
-  }
-</style>

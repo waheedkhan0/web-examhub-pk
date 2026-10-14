@@ -1,0 +1,534 @@
+---
+title: Internet Of Things _Iot — Part 1 MCQs with Explanations
+description: Practice high-yield Computer Science & IT MCQs on Internet Of Things _Iot — Part 1 with worked academic solutions for PPSC, FPSC, CSS, PMS, NTS.
+subject: computer-science
+subjectName: Computer Science & IT
+topic: internet-of-things-iot-part-1
+topicName: Internet Of Things _Iot — Part 1
+author: ExamHub Academic Editorial Board
+updatedDate: "2026-10-14"
+difficulty: Exam-Level
+targetExams:
+  - PPSC
+  - FPSC
+  - CSS
+  - PMS
+  - NTS
+questions:
+  - id: 1
+    question: IoT stands for
+    options:
+      - Internet of Technology
+      - Internet of Things
+      - Internet of Tech
+      - Industrial of things
+    answer: 1
+    explanation: IoT stands for Internet of Things . It refers to the network of physical objects, devices, vehicles, buildings, and other items that are embedded with sensors, software, and connectivity to enable them to collect and exchange data over the internet. This allows these objects to be monitored, controlled, and interacted with remotely, leading to increased automation, efficiency, and convenience in various domains.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 2
+    question: The number of elements in the Open IoT Architecture?
+    options:
+      - 6 elements
+      - 8 elements
+      - 7 elements
+      - 3 elements
+    answer: 2
+    explanation: "The Open IoT Architecture is typically composed of 7 elements that collectively form the framework for building IoT solutions. These elements are: 1. Devices: Physical objects or sensors that gather data from the environment. 2. Gateway: An intermediary between devices and the cloud, responsible for data aggregation and preprocessing. 3. Network: The communication infrastructure facilitating data exchange between devices, gateways, and the cloud. 4. Data Processing: Involves analyzing and processing collected data to extract valuable insights. 5. Data Storage: Refers to storing processed data in databases or other storage systems. 6. Application Enablement: Allows the creation of applications utilizing data and insights from IoT devices. 7. Security: Encompasses measures to ensure the security of IoT data, communications, and devices. Hence, the correct answer is Option C: 7 elements. While there may be variations or additional sub-elements in different interpretations, the most commonly accepted categorization includes 7 main elements in the Open IoT Architecture. Options A (6 elements), B (8 elements), and D (3 elements) are not accurate representations of the commonly accepted elements."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 3
+    question: a cellular network is expensive, especially with many IoT devices.
+    options:
+      - signaling
+      - security
+      - bandwidth
+      - power consumption
+    answer: 3
+    explanation: "In the context of Internet of Things (IoT) , the use of a cellular network can be costly, particularly when dealing with a large number of IoT devices. One of the significant contributing factors to this expense is the power consumption of the devices. Cellular communication requires energy for transmitting and receiving data, which can drain the limited power resources of IoT devices, especially those with small batteries or located in remote areas. This power consumption issue often necessitates frequent battery replacements or recharging, leading to increased operational costs and maintenance efforts. In scenarios where IoT devices are deployed on a massive scale, managing their power needs becomes a critical concern to ensure the sustainability and cost-effectiveness of the IoT deployment. Therefore, the correct answer is Option D: power consumption. Options A (signaling), B (security), and C (bandwidth) are also relevant factors to consider in IoT deployments but are not directly linked to the statement about the costliness of cellular networks for IoT devices."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 4
+    question: The IoT platforms are mainly divided into how many types
+    options:
+      - 3 types
+      - 5 types
+      - 4 types
+      - 2 types
+    answer: 2
+    explanation: "IoT platforms are categorized into four main types based on their functionalities and capabilities. These types are: 1. Connectivity Management Platforms: These platforms primarily focus on managing the connectivity between IoT devices and the network. They handle tasks such as device onboarding, provisioning, and ensuring seamless communication. 2. Device Management Platforms: These platforms are responsible for managing the lifecycle of IoT devices. This includes tasks like device registration, configuration, monitoring, firmware updates, and troubleshooting. 3. Data Management Platforms: These platforms deal with the collection, storage, processing, and analysis of the data generated by IoT devices. They often integrate with data analytics tools to extract valuable insights. 4. Application Enablement Platforms: These platforms facilitate the development and deployment of applications that utilize the data and capabilities of IoT devices. They provide APIs, tools, and services for building custom IoT applications."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 5
+    question: empowers IoT by bringing together everyday objects.
+    options:
+      - intelligence
+      - connectivity
+      - dynamic nature
+      - enormous scale
+    answer: 1
+    explanation: "The concept of the Internet of Things (IoT) is based on connectivity , which empowers IoT by bringing together everyday objects into a networked environment. Through connectivity, these objects are able to communicate, share data, and interact with each other over the internet. This interconnectedness allows for the collection of data from various sources, enabling better understanding, control, and automation of processes. Options A (intelligence), C (dynamic nature), and D (enormous scale) are important aspects of IoT as well, but connectivity is the foundational element that enables these other aspects to come into play. While intelligence enhances the ability of devices to process and analyze data, dynamic nature refers to the adaptability of IoT systems, and enormous scale highlights the widespread deployment of connected devices, connectivity is what initially makes all these possibilities achievable. Hence, the correct answer is Option B: connectivity. It's the element that enables the networking of everyday objects to create the IoT ecosystem."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 6
+    question: IoT devices are naturally vulnerable to . . . . . . . . threats.
+    options:
+      - sensors
+      - heterogeneity
+      - security
+      - connectivity
+    answer: 2
+    explanation: "IoT devices are inherently susceptible to various security threats due to their interconnected and often resource-constrained nature. The interconnectedness of these devices exposes them to potential vulnerabilities that malicious actors can exploit to gain unauthorized access, manipulate data, or disrupt operations. As IoT devices collect and transmit sensitive data, inadequate security measures can result in data breaches and privacy violations. Option A: Sensors are components of IoT devices that gather data from the environment. While they can be exploited in some attack scenarios, they are not the main reason for IoT device vulnerability. Option B: Heterogeneity refers to the diversity of devices and technologies in IoT ecosystems. While it can complicate security measures, it is not the primary cause of vulnerability. Option D: Connectivity is a fundamental aspect of IoT but is not inherently a threat. However, the way devices are connected can introduce vulnerabilities if not properly secured. Therefore, the correct answer is Option C: security. IoT devices are naturally vulnerable to security threats due to their interconnected and resource-limited nature."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 7
+    question: IoT is a paradigm that involves ubiquitous presence in the environment
+    options:
+      - "TRUE"
+      - "FALSE"
+    answer: 0
+    explanation: "The statement is true . IoT (Internet of Things) is indeed a paradigm that involves the ubiquitous presence of interconnected devices in the environment. In IoT, various objects, sensors, devices, and even everyday items are equipped with sensors, software, and connectivity, allowing them to collect and exchange data over the internet. This interconnectedness creates an environment where devices and objects can communicate, share information, and collaborate to provide enhanced functionality and services. Therefore, the correct answer is Option A: TRUE. IoT is characterized by its widespread and pervasive presence in the environment through interconnected devices. Option B is incorrect as the statement is true."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 8
+    question: What is the java extension file in IoT?
+    options:
+      - .jar
+      - .c
+      - .exe
+      - .py
+    answer: 0
+    explanation: "The Java extension file commonly used in the context of IoT (Internet of Things) is .jar . A .jar file, which stands for Java Archive, is a compressed file format that contains Java class files, resources, and metadata. It is used to package and distribute Java applications and libraries. In IoT, Java is a popular programming language for developing applications that run on various IoT devices and platforms. Options B (.c), C (.exe), and D (.py) represent file extensions for programming languages other than Java. .c is for C programming language, .exe is for executable files in Windows, and .py is for Python programming language. Hence, the correct answer is Option A: .jar. It is the extension commonly associated with Java files used in IoT development."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 9
+    question: What is the role of Cloud in smart grid architecture of IoT?
+    options:
+      - store data
+      - manage data
+      - collect data
+      - security
+    answer: 1
+    explanation: "In the smart grid architecture of IoT (Internet of Things) , the role of the Cloud goes beyond just storing or collecting data. While the Cloud can certainly store data, its primary role is to manage data in a way that enables efficient processing, analysis, and utilization of the vast amount of data generated by smart grid devices. The Cloud in smart grid architecture serves as a centralized platform for aggregating, processing, and analyzing data collected from various IoT-enabled devices within the grid. It provides the computational resources needed to handle the data influx, perform real-time analytics, and generate insights that help optimize grid operations, energy distribution, and consumption patterns. Options A (store data), C (collect data), and D (security) are relevant aspects of IoT and smart grid architecture, but Option B (manage data) specifically highlights the Cloud's crucial role in handling and processing the data collected from smart grid devices. Hence, the correct answer is Option B: manage data. The Cloud manages and processes data to derive meaningful insights and enhance the efficiency of the smart grid architecture in IoT."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 10
+    question: When we hear about IoT, we think of our
+    options:
+      - microphone
+      - speaker
+      - thermostat
+      - transmitter
+    answer: 2
+    explanation: "When we hear about IoT (Internet of Things) , we often associate it with devices that are part of our daily lives and surroundings. The thermostat is a prime example of an IoT device. IoT encompasses the interconnection of various objects, devices, and sensors to the internet, enabling them to gather and exchange data, and in the case of a thermostat, control and regulate environmental conditions. Option A: While microphones can be part of IoT devices, they are not the most common or typical representation of IoT in our minds. Option B: Similar to microphones, speakers can also be connected to IoT systems, but they do not symbolize IoT as prominently as other devices. Option D: Transmitters are used for communication, but they are not as strongly associated with the concept of IoT as a thermostat. Therefore, the correct answer is Option C: thermostat. When we think of IoT, devices like thermostats that offer smart control and automation capabilities often come to mind, as they exemplify the connectivity and convenience that IoT technology brings to our everyday lives."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 11
+    question: Which of the following is IoT device manageability?
+    options:
+      - protocol abstraction
+      - simple and fast installation
+      - security with hardware
+      - data storage
+    answer: 0
+    explanation: "IoT device manageability involves the capability to effectively control, monitor, and administer IoT devices throughout their lifecycle. One of the key aspects of managing IoT devices is protocol abstraction . This refers to the concept of providing a higher-level interface or layer that abstracts the underlying communication protocols used by different IoT devices. This abstraction allows for uniform management and interaction with devices, regardless of the specific communication protocols they use. Option B: While simple and fast installation is important for user convenience, it is not a core element of IoT device manageability. Option C: Security with hardware is crucial for overall IoT security, but it is not the primary focus of device manageability, which deals more with operational aspects. Option D: Data storage is relevant for managing the data generated by IoT devices, but it is not the main aspect of device manageability. Therefore, the correct answer is Option A: protocol abstraction. Ensuring consistent and effective device management across diverse IoT devices often requires abstracting the underlying communication protocols to simplify administration and control."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 12
+    question: . . . . . . . . layer is the communication layer that connects the IoT devices with WAN.
+    options:
+      - internet layer
+      - application layer
+      - sensor layer
+      - network layer
+    answer: 0
+    explanation: "The communication layer that connects IoT devices with WAN (Wide Area Network) is the internet layer . This layer is responsible for facilitating communication between devices over the internet, enabling them to transmit and receive data to and from remote locations. Option B: The application layer is higher in the communication stack and deals with the protocols and services that applications use to communicate with each other. Option C: The sensor layer is typically the lowest layer, consisting of physical sensors and devices that collect data. It is not directly responsible for connecting devices to the WAN. Option D: The network layer is generally responsible for routing and forwarding data packets within a network, but it doesn't specifically handle the connection of IoT devices to the WAN. Hence, the correct answer is Option A: internet layer. This layer facilitates the connection of IoT devices to the wider internet, enabling them to communicate over a larger network."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 13
+    question: What is the role of Sensor in smart grid architecture of IoT?
+    options:
+      - store data
+      - manage data
+      - collect data
+      - security
+    answer: 2
+    explanation: "In the smart grid architecture of IoT (Internet of Things) , the role of a sensor is primarily to collect data from various points within the grid. Sensors are deployed at different locations to capture real-time information about parameters such as energy consumption, voltage levels, current flow, and environmental conditions. Sensors play a crucial role in the smart grid by continuously monitoring and collecting data related to the grid's performance, energy distribution, and consumption patterns. This data is then transmitted to a central system, such as the Cloud, where it can be further processed and analyzed to gain insights that facilitate efficient energy management and grid optimization. Options A (store data), B (manage data), and D (security) are important considerations in IoT and smart grid architecture, but they are not the primary roles of sensors. Sensors are the devices responsible for gathering the raw data that forms the foundation for decision-making and optimization within the smart grid. Hence, the correct answer is Option C: collect data. Sensors are instrumental in collecting real-time data that enables smart grid management and optimization."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 14
+    question: In order to improve their competitiveness and services assurance, the . . . . . . . . require independently funded IoT projects.
+    options:
+      - egovermnent related
+      - enterprise based
+      - company based
+      - business oriented platform
+    answer: 1
+    explanation: "To enhance their competitiveness and ensure reliable services, organizations often undertake enterprise based IoT projects that are funded independently. These projects involve implementing IoT solutions tailored to the specific needs and goals of the organization. By integrating IoT technologies into their operations, enterprises can streamline processes, enhance efficiency, and deliver improved services. Option A: While e-government-related projects can certainly benefit from IoT technologies, the statement specifically focuses on improving competitiveness and services assurance, which are more directly related to enterprises. Option C: The term \"company based\" is similar to enterprise based and could be interpreted as the same. However, \"enterprise based\" is a more common term in this context. Option D: \"Business-oriented platform\" is not directly mentioned in the context of independently funded IoT projects. Hence, the correct answer is Option B: enterprise-based. Enterprises initiate IoT projects to enhance their competitiveness and ensure the quality of their services, using independent funding to tailor solutions to their specific needs."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 15
+    question: IoT gateway must provide
+    options:
+      - simple and fastinstallation
+      - security with hardware
+      - data storage
+      - protocol abstraction
+    answer: 3
+    explanation: "An IoT gateway serves as an intermediary between IoT devices and a central system or Cloud. One of the key functions that an IoT gateway must provide is protocol abstraction . This means that the gateway should be capable of translating and adapting different communication protocols used by various IoT devices into a common format that can be understood by the central system. The role of protocol abstraction is to ensure seamless communication between devices with different communication protocols. By abstracting these protocols, the gateway simplifies the integration of diverse devices into the IoT ecosystem, allowing for efficient data exchange and management. Options A (simple and fast installation), B (security with hardware), and C (data storage) are important considerations for IoT gateways as well, but protocol abstraction specifically addresses the challenge of managing communication diversity in IoT networks. Hence, the correct answer is Option D: protocol abstraction. An IoT gateway must provide protocol abstraction to enable effective communication between devices with varying communication protocols."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 16
+    question: IoT solutions are at the heart of IDC's view of the
+    options:
+      - three
+      - two
+      - one
+      - four
+    answer: 0
+    explanation: "According to IDC (International Data Corporation), IoT solutions are considered central to their perspective of the three phases of digital transformation. These phases include: 1. Edge Computing and Data Management: This phase focuses on the collection, processing, and management of data at the edge of the network, where IoT devices are deployed. It involves real-time analytics and decision-making to optimize processes. 2. Connectivity and Digital Platforms: This phase encompasses the networking and connectivity of IoT devices, along with the platforms that enable data exchange, integration, and application development. 3. Data Analytics and Artificial Intelligence: In this phase, the data collected from IoT devices is analyzed using advanced analytics and artificial intelligence techniques to extract insights, patterns, and predictions that drive informed decisions. Option B: The number \"two\" does not align with IDC's view of three phases of digital transformation related to IoT solutions. Option C: The number \"one\" is also inconsistent with the three-phase model described by IDC. Option D: Similarly, the number \"four\" does not match the phases identified by IDC. Hence, the correct answer is Option A: three. According to IDC's perspective, IoT solutions are integral to the three distinct phases of digital transformation, focusing on edge computing, connectivity, and data analytics."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 17
+    question: Most IoT problems are addressed at layer
+    options:
+      - TCP
+      - IP
+      - API
+      - UDP
+    answer: 1
+    explanation: "Most IoT (Internet of Things) problems are addressed at the IP (Internet Protocol) layer. The IP layer is responsible for routing and forwarding data packets across networks, enabling communication between devices and systems. In the context of IoT, many challenges and solutions related to data transmission, network connectivity, and addressing are resolved at the IP layer. Option A: TCP (Transmission Control Protocol) is a protocol that operates at a higher layer and is built on top of IP. It is used for reliable data transmission. Option C: API (Application Programming Interface) is not a networking layer but a set of routines and protocols that allow different software applications to communicate with each other. Option D: UDP (User Datagram Protocol) is another transport layer protocol like TCP and operates on top of IP. It is used for lightweight and connectionless communication. Hence, the correct answer is Option B: ip. The IP layer plays a central role in addressing and resolving many challenges in IoT networking and communication."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 18
+    question: The feature of IoT Gateway is the ability to download updates over-the-air.
+    options:
+      - "TRUE"
+      - "FALSE"
+    answer: 0
+    explanation: "The statement is true . One of the key features of an IoT gateway is indeed the ability to download updates over-the-air (OTA). OTA updates enable the gateway to receive and install software updates remotely without requiring physical access or manual intervention. This capability is essential for maintaining and improving the performance, security, and functionality of IoT gateways and the connected devices. OTA updates are crucial for keeping IoT devices up-to-date with the latest software versions, bug fixes, security patches, and new features. This feature simplifies the management and maintenance of IoT deployments, as updates can be deployed to multiple gateways simultaneously without the need for on-site visits. Therefore, the correct answer is Option A: TRUE. IoT gateways commonly have the ability to download updates over-the-air to ensure their optimal operation and the security of the connected IoT ecosystem. Option B is incorrect as the statement is true."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 19
+    question: What is the role of Bigdata in smart grid architecture of IoT?
+    options:
+      - store data
+      - manage data
+      - collect data
+      - security
+    answer: 0
+    explanation: "In the smart grid architecture of IoT (Internet of Things) , the role of Big Data is primarily to manage data . Big Data technologies are used to handle the massive volume, variety, and velocity of data generated by IoT devices within the smart grid. Smart grids generate a vast amount of data from various sources, such as sensors, meters, and other connected devices. This data includes information about energy consumption, grid performance, environmental conditions, and more. Big Data solutions are employed to process, analyze, and extract valuable insights from this data, enabling grid operators to make informed decisions, optimize energy distribution, detect anomalies, and enhance overall efficiency. Options A (store data), C (collect data), and D (security) are important aspects of IoT and smart grid architecture, but Option B (manage data) specifically highlights how Big Data technologies contribute to processing and deriving value from the data generated within the smart grid ecosystem. Hence, the correct answer is Option B: manage data. Big Data plays a significant role in managing and analyzing the vast amount of data generated by IoT devices in smart grid architecture."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 20
+    question: What is the role of Gateway in smart grid architecture of IoT?
+    options:
+      - store data
+      - manage data
+      - collect data
+      - security
+    answer: 2
+    explanation: "In the smart grid architecture of IoT (Internet of Things) , the primary role of a gateway is to collect data from various sensors, meters, and devices deployed within the smart grid. Gateways are responsible for acting as intermediaries between IoT devices and the central system. They receive data from distributed devices and sensors and aggregate it for transmission to the central system or Cloud. Gateways can preprocess and filter the data before forwarding it, helping to reduce network traffic and improve efficiency. Options A (store data), B (manage data), and D (security) are also important considerations in IoT and smart grid architecture, but the primary function of a gateway, particularly in the context of smart grids, is to collect data from devices distributed throughout the grid. Hence, the correct answer is Option C: collect data. Gateways are crucial for collecting data from IoT devices within the smart grid architecture and facilitating its transmission for further processing and analysis."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 21
+    question: . . . . . . . . allows us to control electronic components
+    options:
+      - retful api
+      - restful api
+      - http
+      - mqtt
+    answer: 3
+    explanation: "The correct answer is Option D: mqtt . MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol that allows us to control electronic components in the context of the Internet of Things (IoT). It is designed for efficient communication between devices and is commonly used for IoT applications to send and receive data, including control commands, between connected devices. Option A: retful api : This option appears to contain a typo. The correct term is \"RESTful API,\" which stands for Representational State Transfer Application Programming Interface. RESTful APIs are commonly used for communication between applications over the internet, but they are not specifically designed for controlling electronic components in IoT. RESTful APIs are more focused on data exchange and are not as efficient or well-suited for real-time control and communication in IoT scenarios. Option B: restful api : Similar to Option A, this option refers to a \"RESTful API.\" As mentioned above, while RESTful APIs are useful for data exchange and web services, they are not the primary choice for controlling electronic components in the IoT context. They lack the lightweight and real-time capabilities offered by MQTT. Option C: http : HTTP (Hypertext Transfer Protocol) is commonly used for web browsing and general data transfer on the internet. While it can be used for sending commands and receiving data in IoT applications, it is not specifically designed for controlling electronic components efficiently in the IoT context. HTTP is request-response based, which may not be suitable for real-time control. Option D: mqtt : This is the correct answer. MQTT, as previously explained, is a messaging protocol designed for IoT applications. It excels in controlling electronic components due to its lightweight, publish-subscribe model, support for various QoS levels, and asynchronous communication, making it well-suited for real-time control and efficient communication in IoT environments. In summary, MQTT (Option D) is the preferred choice for controlling electronic components in IoT because it is purpose-built for this task, offering the necessary features for efficient, real-time communication and control, while the other options (Options A, B, and C) are not as well-suited or appropriate for this specific use case."
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 22
+    question: Which protocol is used to link all the devices in the IoT?
+    options:
+      - tcp/ip
+      - network
+      - udp
+      - http
+    answer: 0
+    explanation: tcp/ip is the correct answer to “Which protocol is used to link all the devices in the IoT”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 23
+    question: What translates IP address into MAC address?
+    options:
+      - organizationally unique identifier
+      - address resolution protocol
+      - network interface card
+      - burned in address
+    answer: 2
+    explanation: network interface card is the correct answer to “What translates IP address into MAC address”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 24
+    question: The core of the protocol is specified in
+    options:
+      - rfc 7254
+      - rfc 7252
+      - rfc 7452
+      - rfc 7524
+    answer: 1
+    explanation: rfc 7252 is the correct answer to “The core of the protocol is specified in”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 25
+    question: . . . . . . . . is an application layer protocol for resource constrained devices.
+    options:
+      - coap
+      - hmtp
+      - mqtt
+      - tcp/ip
+    answer: 0
+    explanation: coap is the correct answer to “. . . . . . . . is an application layer protocol for resource constrained devices.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 26
+    question: An IoT . . . . . . . . center is envisaged as an important part of the generic IoT platform to unify the organization.
+    options:
+      - individual information
+      - individual integration
+      - integrated information
+      - individual and integrated information
+    answer: 2
+    explanation: integrated information is the correct answer to “An IoT . . . . . . . . center is envisaged as an important part of the generic IoT platform to unify the organization.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 27
+    question: By clicking which key the PubNub will display public, subscribe, and secret keys.
+    options:
+      - pane
+      - demo keyset
+      - portal
+      - network
+    answer: 1
+    explanation: demo keyset is the correct answer to “By clicking which key the PubNub will display public, subscribe, and secret keys.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 28
+    question: What is the facility Sonos provides?
+    options:
+      - it provides high quality 3d audio
+      - canhere only to a restricted area
+      - call connectivity
+      - choose to play what you want in different rooms
+    answer: 3
+    explanation: choose to play what you want in different rooms is the correct answer to “What is the facility Sonos provides”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 29
+    question: Which of the following computing emphasizes proximity to end user?
+    options:
+      - mist computing
+      - cloud computing
+      - edge computing
+      - fog computing
+    answer: 3
+    explanation: fog computing is the correct answer to “Which of the following computing emphasizes proximity to end user”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 30
+    question: The availability of . . . . . . . . is the cloud services provider who will host video and data for end users.
+    options:
+      - devices
+      - memory
+      - security system
+      - objects
+    answer: 2
+    explanation: security system is the correct answer to “The availability of . . . . . . . . is the cloud services provider who will host video and data for end users.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 31
+    question: What does p refer to in ATmega328p?
+    options:
+      - production
+      - pico- power
+      - power-pico
+      - programmable on chip
+    answer: 1
+    explanation: pico- power is the correct answer to “What does p refer to in ATmega328p”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 32
+    question: Does IOT gateway provide security for the network.
+    options:
+      - "TRUE"
+      - "FALSE"
+    answer: 0
+    explanation: TRUE is the correct answer to “Does IOT gateway provide security for the network.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 33
+    question: In which phase packets are forwarded hop by hop to get closer to the sink?
+    options:
+      - initialization
+      - message relaying
+      - selective recovery
+      - lost messagedetection
+    answer: 1
+    explanation: message relaying is the correct answer to “In which phase packets are forwarded hop by hop to get closer to the sink”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 34
+    question: . . . . . . . . Provide the means to create capability that reflects true awareness of the physical world and people.
+    options:
+      - sensors
+      - heterogeneity
+      - security
+      - connectivity
+    answer: 0
+    explanation: sensors is the correct answer to “. . . . . . . . Provide the means to create capability that reflects true awareness of the physical world and people.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 35
+    question: How many messages types are there in CoAP?
+    options:
+      - "2"
+      - "5"
+      - "3"
+      - "4"
+    answer: 3
+    explanation: 4 is the correct answer to “How many messages types are there in CoAP”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 36
+    question: Global Sensor Network is built for . . . . . . . .
+    options:
+      - reducing cost and time for development
+      - reducing cost and increasing time for development
+      - increasing cost and increasing time for development
+      - increasing cost and decreasing time for development
+    answer: 0
+    explanation: reducing cost and time for development is the correct answer to “Global Sensor Network is built for . . . . . . . .”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 37
+    question: Which environment does Global Sensor Network work on?
+    options:
+      - c++
+      - java
+      - html
+      - c
+    answer: 1
+    explanation: java is the correct answer to “Which environment does Global Sensor Network work on”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 38
+    question: allows us to monitor the application.
+    options:
+      - actuators
+      - endpoints
+      - boot
+      - hypermedia
+    answer: 1
+    explanation: endpoints is the correct answer to “allows us to monitor the application.”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 39
+    question: Which category could be used by citizens to contribute to a smart city?
+    options:
+      - personal iot
+      - group iot
+      - community iot
+      - industrial iot
+    answer: 2
+    explanation: community iot is the correct answer to “Which category could be used by citizens to contribute to a smart city”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+  - id: 40
+    question: Resolution is expressed in
+    options:
+      - bytes
+      - bits
+      - word
+      - nibble
+    answer: 1
+    explanation: bits is the correct answer to “Resolution is expressed in”. This question is standard in competitive examination syllabi for Internet Of Things _Iot.
+    keyConcept: Internet Of Things _Iot
+    testedIn:
+      - PPSC
+      - FPSC
+---
+
+

@@ -43,9 +43,9 @@ subtopics:
   - name: Chemistry — Mixed Practice — Part 6
     slug: chemistry-misc-part-6
     questionCount: 6
-  - name: Electrochemistry & Redox
+  - name: Electrochemistry
     slug: electrochemistry
-    questionCount: 35
+    questionCount: 45
   - name: Inorganic Chemistry & Acids-Bases — Part 1
     slug: inorganic-chemistry-part-1
     questionCount: 40
@@ -54,10 +54,10 @@ subtopics:
     questionCount: 21
   - name: Organic Chemistry — Part 1
     slug: organic-chemistry-part-1
-    questionCount: 40
+    questionCount: 80
   - name: Organic Chemistry — Part 2
     slug: organic-chemistry-part-2
-    questionCount: 34
+    questionCount: 74
   - name: Physical Chemistry & Stoichiometry — Part 1
     slug: physical-chemistry-part-1
     questionCount: 40
@@ -67,6 +67,108 @@ subtopics:
   - name: Physical Chemistry & Stoichiometry — Part 3
     slug: physical-chemistry-part-3
     questionCount: 35
+  - name: Acid_ Base And Salts — Part 1
+    slug: acid-base-and-salts-part-1
+    questionCount: 40
+  - name: Acid_ Base And Salts — Part 2
+    slug: acid-base-and-salts-part-2
+    questionCount: 40
+  - name: Atomic Structure
+    slug: atomic-structure
+    questionCount: 20
+  - name: Basics Of Organic Reaction Mechanism — Part 1
+    slug: basics-of-organic-reaction-mechanism-part-1
+    questionCount: 40
+  - name: Basics Of Organic Reaction Mechanism — Part 2
+    slug: basics-of-organic-reaction-mechanism-part-2
+    questionCount: 19
+  - name: Biomolecules And Polymers — Part 1
+    slug: biomolecules-and-polymers-part-1
+    questionCount: 40
+  - name: Biomolecules And Polymers — Part 2
+    slug: biomolecules-and-polymers-part-2
+    questionCount: 40
+  - name: Chemical And Ionic Equilibrium
+    slug: chemical-and-ionic-equilibrium
+    questionCount: 18
+  - name: Chemical Bonding And Molecular Structure — Part 1
+    slug: chemical-bonding-and-molecular-structure-part-1
+    questionCount: 40
+  - name: Chemical Bonding And Molecular Structure — Part 2
+    slug: chemical-bonding-and-molecular-structure-part-2
+    questionCount: 4
+  - name: Chemical Bonding And Reactions — Part 1
+    slug: chemical-bonding-and-reactions-part-1
+    questionCount: 40
+  - name: Chemical Bonding And Reactions — Part 2
+    slug: chemical-bonding-and-reactions-part-2
+    questionCount: 26
+  - name: Chemical Kinetics
+    slug: chemical-kinetics
+    questionCount: 19
+  - name: Chemical Thermodynamics
+    slug: chemical-thermodynamics
+    questionCount: 21
+  - name: Chemistry In Everyday Life — Part 1
+    slug: chemistry-in-everyday-life-part-1
+    questionCount: 40
+  - name: Chemistry In Everyday Life — Part 2
+    slug: chemistry-in-everyday-life-part-2
+    questionCount: 40
+  - name: Environmental Chemistry — Part 1
+    slug: environmental-chemistry-part-1
+    questionCount: 40
+  - name: Environmental Chemistry — Part 2
+    slug: environmental-chemistry-part-2
+    questionCount: 3
+  - name: Inorganic Chemistry
+    slug: inorganic-chemistry
+    questionCount: 10
+  - name: Metal And Its Compounds — Part 1
+    slug: metal-and-its-compounds-part-1
+    questionCount: 40
+  - name: Metal And Its Compounds — Part 2
+    slug: metal-and-its-compounds-part-2
+    questionCount: 40
+  - name: Non Metal And Its Compounds — Part 1
+    slug: non-metal-and-its-compounds-part-1
+    questionCount: 40
+  - name: Non Metal And Its Compounds — Part 2
+    slug: non-metal-and-its-compounds-part-2
+    questionCount: 40
+  - name: Periodic Classification Of Elements — Part 1
+    slug: periodic-classification-of-elements-part-1
+    questionCount: 40
+  - name: Periodic Classification Of Elements — Part 2
+    slug: periodic-classification-of-elements-part-2
+    questionCount: 40
+  - name: S Block And P Block Elements
+    slug: s-block-and-p-block-elements
+    questionCount: 28
+  - name: Solutions And Surface Chemistry — Part 1
+    slug: solutions-and-surface-chemistry-part-1
+    questionCount: 40
+  - name: Solutions And Surface Chemistry — Part 2
+    slug: solutions-and-surface-chemistry-part-2
+    questionCount: 5
+  - name: State Of Matter — Part 1
+    slug: state-of-matter-part-1
+    questionCount: 40
+  - name: State Of Matter — Part 2
+    slug: state-of-matter-part-2
+    questionCount: 40
+  - name: Thermochemistry — Part 1
+    slug: thermochemistry-part-1
+    questionCount: 40
+  - name: Thermochemistry — Part 2
+    slug: thermochemistry-part-2
+    questionCount: 22
+  - name: Transition Elements — Part 1
+    slug: transition-elements-part-1
+    questionCount: 40
+  - name: Transition Elements — Part 2
+    slug: transition-elements-part-2
+    questionCount: 28
 ---
 
 ## Chemistry: Concepts, Numbers, and Predictable Traps

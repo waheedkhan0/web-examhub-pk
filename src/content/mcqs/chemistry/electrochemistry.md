@@ -2,15 +2,16 @@
 title: "Electrochemistry & Redox: 35 MCQs with Explanations"
 description: 35 intermediate electrochemistry & redox MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.
 subject: chemistry
-subjectName: Chemistry
+subjectName: Chemistry & Applied Chemical Sciences
 topic: electrochemistry
-topicName: Electrochemistry & Redox
+topicName: Electrochemistry
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
-difficulty: Intermediate
+updatedDate: "2026-10-14"
+difficulty: Exam-Level
 targetExams:
   - MDCAT
-  - FSc
+  - CSS
+  - PMS
   - PPSC
   - FPSC
 questions:
@@ -364,8 +365,136 @@ questions:
     answer: 2
     explanation: Pyridinium chlorochromate (PCC) in anhydrous conditions oxidizes 1° alcohols to aldehydes without further oxidation to carboxylic acids.
     keyConcept: Electrochemistry & Redox
+  - id: 36
+    question: For the concentration cell, M|M + (aq, 0.01 mol/dm 3 )| |M + (aq), 0.1 mol/dm 3 |M the EMF (E) of the cell at a temperature (T) equals
+    options:
+      - $$2.303\frac{{RT}}{F}$$
+      - $$ - 2.303\frac{{RT}}{F}$$
+      - $$E_{{M^ + }|m}^ \circ + 2.303\frac{{RT}}{F}$$
+      - $$E_{{M^ + }|m}^ \circ - 2.303\frac{{RT}}{F}$$
+    answer: 0
+    explanation: $$2.303\frac{{RT}}{F}$$ is the correct answer to “For the concentration cell, M|M + (aq, 0.01 mol/dm 3 )| |M + (aq), 0.1 mol/dm 3 |M the EMF (E) of the cell at a temperature (T) equals”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 37
+    question: The activity of water at 11 bar and 298 K is
+    options:
+      - "1.101"
+      - "1.007"
+      - "0.998"
+      - "0.898"
+    answer: 1
+    explanation: 1.007 is the correct answer to “The activity of water at 11 bar and 298 K is”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 38
+    question: Given that E°(Fe 3+ , Fe) = -0.4 V and E°(Fe 2+ , Fe) = -0.44 V, the value of E°(Fe 3+ , Fe 2+ ) is
+    options:
+      - 0.76V
+      - "-0.40 V"
+      - "-0.76 V"
+      - 0.40 V
+    answer: 0
+    explanation: 0.76V is the correct answer to “Given that E°(Fe 3+ , Fe) = -0.4 V and E°(Fe 2+ , Fe) = -0.44 V, the value of E°(Fe 3+ , Fe 2+ ) is”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 39
+    question: According to the Debye-Huckel limiting law, if the concentration of a dilute aqueous solution of KCl is increased 4-fold, the value of In γ z (γ z is the molar mean ionic activity coefficient) will
+    options:
+      - decrease by a factor of 2
+      - increase by a factor of 2
+      - decrease by a factor of 4
+      - increase by a factor of 4
+    answer: 0
+    explanation: decrease by a factor of 2 is the correct answer to “According to the Debye-Huckel limiting law, if the concentration of a dilute aqueous solution of KCl is increased 4-fold, the value of In γ z (γ z is the molar mean ionic activity coefficient) will”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 40
+    question: Given the standard potential for the following half-cell reaction at 298 K, Cu + (aq) + e - → Cu(s); E° = 0.52 V Cu 2+ (aq) + e - → Cu + (aq); E° = 0.16 V Calculate the ΔG° (kJ) for the reaction, [2Cu + (aq) → Cu(s) + Cu 2+ ]
+    options:
+      - "-34.740"
+      - "-65.720"
+      - "-69.480"
+      - "-131.440"
+    answer: 0
+    explanation: "-34.740 is the correct answer to “Given the standard potential for the following half-cell reaction at 298 K, Cu + (aq) + e - → Cu(s); E° = 0.52 V Cu 2+ (aq) + e - → Cu + (aq); E° = 0.16 V Calculate the ΔG° (kJ) for the reaction, [2Cu + (aq) → Cu(s) + Cu 2+ ]”. This question is standard in competitive examination syllabi for Electrochemistry."
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 41
+    question: A student recorded a polarogram of 2.0 mM Cd 2+ solution and forget to add KCl solution. What type of error do you expect in his results?
+    options:
+      - Only migration current will be observed
+      - Only diffusion current will be observed
+      - Both migration current as well as diffusion current will be observed
+      - Both catalytic current as well as diffusion current will be observed
+    answer: 3
+    explanation: Both catalytic current as well as diffusion current will be observed is the correct answer to “A student recorded a polarogram of 2.0 mM Cd 2+ solution and forget to add KCl solution. What type of error do you expect in his results”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 42
+    question: For a 2 molal aqueous NaCl solution, the mean ionic activity coefficient $$\left( {{\gamma _ \pm }} \right)$$ and the Debye-Huckel Limiting Law constant (A) are related as
+    options:
+      - $$\log {\gamma _ \pm } = \sqrt 2 A$$
+      - $$\log {\gamma _ \pm } = - \sqrt 2 A$$
+      - $${\gamma _ \pm } = {10^4}$$
+      - $${\gamma _ \pm } = {10^{ - 4}}$$
+    answer: 1
+    explanation: $$\log {\gamma _ \pm } = - \sqrt 2 A$$ is the correct answer to “For a 2 molal aqueous NaCl solution, the mean ionic activity coefficient $$\left( {{\gamma _ \pm }} \right)$$ and the Debye-Huckel Limiting Law constant (A) are related as”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 43
+    question: The standard reduction potentials at 298 K for single electrodes are given below. Electrode Electrode potential (volt) Mg 2+ /Mg -2.34 Zn 2+ /Zn -0.76 Fe 2+ /Fe -0.44 From this we can infer that
+    options:
+      - Zn can reduce both Mg2+ and Fe2+
+      - Fe can reduce both Mg2+ and Zn2+
+      - Mg can reduce both Zn2+ and Fe2+
+      - Mg can reduce Zn2+ but not Fe2+
+    answer: 2
+    explanation: Mg can reduce both Zn2+ and Fe2+ is the correct answer to “The standard reduction potentials at 298 K for single electrodes are given below. Electrode Electrode potential (volt) Mg 2+ /Mg -2.34 Zn 2+ /Zn -0.76 Fe 2+ /Fe -0.44 From this we can infer that”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 44
+    question: "For the reaction, Hg 2 Cl 2 (s) + H 2 (g) → 2Hg(liq) + 2HCl(aq), the correct representation of the cell and the thermodynamic properties ΔG, ΔH and ΔS at 298 K respectively, are (Given: E 298 = 0.2684 V and temperature coefficient = 3 × 10 -4 VK -1 )"
+    options:
+      - Pt|H2(g, 1 atm)|HCl(aq)|Hg2Cl2(g)|Hg(liq) ΔG = -51.8 kJ mol-1, ΔH = -69 kJ mol-1, ΔS = -58 JK-1 mol-1
+      - Pt|H2(g, 1 atm)|HCl(aq)|Hg2Cl2(g)|Hg(liq) ΔG = -25.9 kJ mol-1, ΔH = -34.5 kJ mol-1, ΔS = -29 JK-1 mol-1
+      - Hg(liq)|H2Cl2(g)|HCl(aq)|H2(g, 1 atm)|Pt ΔG = -51.8 kJ mol-1, ΔH = -69 kJ mol-1, ΔS = -58 JK-1 mol-1
+      - Hg(liq)|H2Cl2(g)|HCl(aq)|H2(g, 1 atm)|Pt ΔG = 51.8 kJ mol-1, ΔH = 69 kJ mol-1, ΔS = 58 JK-1 mol-1
+    answer: 0
+    explanation: "Pt|H2(g, 1 atm)|HCl(aq)|Hg2Cl2(g)|Hg(liq) ΔG = -51.8 kJ mol-1, ΔH = -69 kJ mol-1, ΔS = -58 JK-1 mol-1 is the correct answer to “For the reaction, Hg 2 Cl 2 (s) + H 2 (g) → 2Hg(liq) + 2HCl(aq), the correct representation of the cell and the thermodynamic properties ΔG, ΔH and ΔS at 298 K respectively, are (Given: E 298 = 0.2684 V and temperature coefficient = 3 × 10 -4 VK -1 )”. This question is standard in competitive examination syllabi for Electrochemistry."
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 45
+    question: The Nernst equation for the reaction, A 2+ + 2e - → B, in terms of the free energy change is
+    options:
+      - ΔG = ΔG° + 2.303 RT log $$\frac{{\left[ B \right]}}{{\left[ A \right]}}$$
+      - ΔG = ΔG° - 2.303 RT log $$\frac{{\left[ B \right]}}{{\left[ A \right]}}$$
+      - "-ΔG = -ΔG° + 2.303 RT log $$\\frac{{\\left[ B \\right]}}{{\\left[ A \\right]}}$$"
+      - ΔG = -ΔG° + 2.303 RT log $$\frac{{\left[ B \right]}}{{\left[ A \right]}}$$
+    answer: 0
+    explanation: ΔG = ΔG° + 2.303 RT log $$\frac{{\left[ B \right]}}{{\left[ A \right]}}$$ is the correct answer to “The Nernst equation for the reaction, A 2+ + 2e - → B, in terms of the free energy change is”. This question is standard in competitive examination syllabi for Electrochemistry.
+    keyConcept: Electrochemistry
+    testedIn:
+      - MDCAT
+      - CSS
 ---
 
-## About this set
 
-35 intermediate electrochemistry & redox MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.

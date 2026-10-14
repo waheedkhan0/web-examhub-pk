@@ -2,15 +2,16 @@
 title: "Organic Chemistry — Part 2: 34 MCQs with Explanations"
 description: 34 intermediate organic chemistry MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.
 subject: chemistry
-subjectName: Chemistry
+subjectName: Chemistry & Applied Chemical Sciences
 topic: organic-chemistry-part-2
 topicName: Organic Chemistry — Part 2
 author: ExamHub Academic Editorial Board
-updatedDate: "2026-10-13"
-difficulty: Intermediate
+updatedDate: "2026-10-14"
+difficulty: Exam-Level
 targetExams:
   - MDCAT
-  - FSc
+  - CSS
+  - PMS
   - PPSC
   - FPSC
 questions:
@@ -354,8 +355,526 @@ questions:
     answer: 1
     explanation: Biochemical Oxygen Demand (BOD) measures oxygen required by microorganisms to decompose organic matter; high BOD indicates severe pollution.
     keyConcept: Organic Chemistry
+  - id: 35
+    question: What is the chemical formula of glycerol?
+    options:
+      - C2H5O2
+      - C3H7OH
+      - C3H5OH
+      - C3H8O3
+    answer: 3
+    explanation: C3H8O3 is the correct answer to “What is the chemical formula of glycerol”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 36
+    question: Which of the following contains ethanoic acid?
+    options:
+      - Lemon juice
+      - Orange juice
+      - White vinegar
+      - Tomato
+    answer: 2
+    explanation: White vinegar is the correct answer to “Which of the following contains ethanoic acid”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 37
+    question: Consider the following statements. 1. Carbon black is obtained when methane is heated in absence of air. 2. Kerosene is a mixture of alphatic hydrocarbons. 3. Most of hydrocarbons from petroleum are obtained by fractional distillation. Which of the statements given above are correct?
+    options:
+      - 1 and 2
+      - 1 and 3
+      - 2 and 3
+      - 1, 2 and 3
+    answer: 3
+    explanation: 1, 2 and 3 is the correct answer to “Consider the following statements. 1. Carbon black is obtained when methane is heated in absence of air. 2. Kerosene is a mixture of alphatic hydrocarbons. 3. Most of hydrocarbons from petroleum are obtained by fractional distillation. Which of the statements given above are correct”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 38
+    question: What is the bond angle (in degrees) in the structure of a benzene molecule?
+    options:
+      - 120°
+      - 90°
+      - 150°
+      - 60°
+    answer: 0
+    explanation: 120° is the correct answer to “What is the bond angle (in degrees) in the structure of a benzene molecule”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 39
+    question: Which organic compound has the structure R - COOH, with R referring to the alkyl, alkenyl, aryl or other group?
+    options:
+      - Ketone
+      - Ester
+      - Aldehydes
+      - Carboxylic acid
+    answer: 3
+    explanation: Carboxylic acid is the correct answer to “Which organic compound has the structure R - COOH, with R referring to the alkyl, alkenyl, aryl or other group”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 40
+    question: Which one of the following is burned in oxygen, producing a very hot flame, used for welding and cutting metals?
+    options:
+      - Butane
+      - Methane
+      - Ethylene
+      - Acetylene
+    answer: 3
+    explanation: Acetylene is the correct answer to “Which one of the following is burned in oxygen, producing a very hot flame, used for welding and cutting metals”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 41
+    question: Functional group -CHO is present in which of the following?
+    options:
+      - Ketone
+      - Alcohol
+      - Aldehyde
+      - Carboxylic acid
+    answer: 2
+    explanation: Aldehyde is the correct answer to “Functional group -CHO is present in which of the following”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 42
+    question: Which of the following is a saturated hydrocarbon?
+    options:
+      - CH2
+      - C2H6
+      - C2H2
+      - C2H4
+    answer: 1
+    explanation: C2H6 is the correct answer to “Which of the following is a saturated hydrocarbon”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 43
+    question: What is the IUPAC name for acetic acid?
+    options:
+      - propanoic acid
+      - butanoic acid
+      - ethanoic acid
+      - methanoic acid
+    answer: 2
+    explanation: ethanoic acid is the correct answer to “What is the IUPAC name for acetic acid”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 44
+    question: Consider the following statements about nitrobenzene. 1. Nitrobenzene is highly toxic and readily absorbed through the skin. 2. Nitrobenzene is consumed in the production of aniline. 3. It is also used in shoe and floor polishes. Which of the statements given above are correct?
+    options:
+      - 1 and 2
+      - 1 and 3
+      - 2 and 3
+      - 1, 2 and 3
+    answer: 3
+    explanation: 1, 2 and 3 is the correct answer to “Consider the following statements about nitrobenzene. 1. Nitrobenzene is highly toxic and readily absorbed through the skin. 2. Nitrobenzene is consumed in the production of aniline. 3. It is also used in shoe and floor polishes. Which of the statements given above are correct”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 45
+    question: The muscle fatique appears due the accumulation of the which of the following?
+    options:
+      - Pyruvic acid
+      - Lactic acid
+      - Oxid acetic acid
+      - Uric acid
+    answer: 1
+    explanation: Lactic acid is the correct answer to “The muscle fatique appears due the accumulation of the which of the following”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 46
+    question: In organic chemistry, which of the following is an empirical rule used to predict the regioselectivity of electrophilic addition reactions of alkanes and alkynes?
+    options:
+      - Cornforth's rules
+      - Bredt's rule
+      - Markovnikov's rule
+      - Baldwin's rules
+    answer: 2
+    explanation: Markovnikov's rule is the correct answer to “In organic chemistry, which of the following is an empirical rule used to predict the regioselectivity of electrophilic addition reactions of alkanes and alkynes”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 47
+    question: In a compound the elements are always present in definite proportions by
+    options:
+      - mass
+      - volume
+      - size
+      - None of these
+    answer: 0
+    explanation: mass is the correct answer to “In a compound the elements are always present in definite proportions by”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 48
+    question: The boiling point of ethanol is-
+    options:
+      - 180°C
+      - 58°C
+      - 98°C
+      - 78°C
+    answer: 3
+    explanation: 78°C is the correct answer to “The boiling point of ethanol is-”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 49
+    question: To weld metals together, high temperature required such a high temperature is obtained by burning
+    options:
+      - acetylene in oxygen
+      - LPG in oxygen
+      - methane in oxygen
+      - acetylene in nitrogen
+    answer: 0
+    explanation: acetylene in oxygen is the correct answer to “To weld metals together, high temperature required such a high temperature is obtained by burning”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 50
+    question: "Arrange the following compounds in increasing order according to the length of their carbon bond: Ethine, Ethyne, Ethane,"
+    options:
+      - Ethyne, Ethane, Ethane
+      - Ethane, Ethyne, Ethine
+      - Ethine, Ethyne, Ethane
+      - Ethane, Ethine, Ethyne
+    answer: 2
+    explanation: "Ethine, Ethyne, Ethane is the correct answer to “Arrange the following compounds in increasing order according to the length of their carbon bond: Ethine, Ethyne, Ethane,”. This question is standard in competitive examination syllabi for Organic Chemistry."
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 51
+    question: Which of the following compounds has a double bond?
+    options:
+      - acetylene
+      - ethene
+      - ethane
+      - methane
+    answer: 1
+    explanation: ethene is the correct answer to “Which of the following compounds has a double bond”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 52
+    question: Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons?
+    options:
+      - Methane, Ethane, Propane and Butane
+      - Propane, Butane, Ethane and Methane
+      - Butane, Ethane, Propane and Methane
+      - Butane, Propane, Ethane and Methane
+    answer: 0
+    explanation: Methane, Ethane, Propane and Butane is the correct answer to “Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 53
+    question: The addition of which of the following adds fizz to soft drinks?
+    options:
+      - Carbonic acid
+      - Sulphuric acid
+      - Acetic acid
+      - Citric acid
+    answer: 0
+    explanation: Carbonic acid is the correct answer to “The addition of which of the following adds fizz to soft drinks”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 54
+    question: The ester has a . . . . . . . . odor.
+    options:
+      - pungent
+      - chemical
+      - fruit like
+      - saine like
+    answer: 2
+    explanation: fruit like is the correct answer to “The ester has a . . . . . . . . odor.”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 55
+    question: Which of the following compounds does not contain a carboxylic acid group?
+    options:
+      - Picric acid
+      - Vinegar
+      - Salicylic acid
+      - Benzoic acid
+    answer: 0
+    explanation: Picric acid is the correct answer to “Which of the following compounds does not contain a carboxylic acid group”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 56
+    question: Consider the following statements. 1. Saturated hydrocarbons undergo substitution reaction. 2. Carbon black is obtained when methane is heated in the absence of air. Which of the above statement(s) is/are correct?
+    options:
+      - Only 1
+      - Only 2
+      - 1 and 2
+      - None of these
+    answer: 2
+    explanation: 1 and 2 is the correct answer to “Consider the following statements. 1. Saturated hydrocarbons undergo substitution reaction. 2. Carbon black is obtained when methane is heated in the absence of air. Which of the above statement(s) is/are correct”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 57
+    question: Consider the following statements. 1. Trinitrotoluene (TNT) is one of the most common explosives for military and industrial application. 2. The main use of aniline in the dye industry. 3. Azodyes play an important role as colouring agents in the textile, food and pharmaceutical industry. Which of the statements given above are correct?
+    options:
+      - 1 and 2
+      - 1 and 3
+      - 2 and 3
+      - 1, 2 and 3
+    answer: 3
+    explanation: 1, 2 and 3 is the correct answer to “Consider the following statements. 1. Trinitrotoluene (TNT) is one of the most common explosives for military and industrial application. 2. The main use of aniline in the dye industry. 3. Azodyes play an important role as colouring agents in the textile, food and pharmaceutical industry. Which of the statements given above are correct”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 58
+    question: . . . . . . . . does not contain a carbonyl group-
+    options:
+      - Ketone
+      - Carboxyl acid
+      - Ethanol
+      - Aldehyde
+    answer: 2
+    explanation: Ethanol is the correct answer to “. . . . . . . . does not contain a carbonyl group-”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 59
+    question: Which of the following is not an unsaturated carbon compound?
+    options:
+      - Acetylene
+      - Pentene
+      - Butane
+      - Benzene
+    answer: 2
+    explanation: Butane is the correct answer to “Which of the following is not an unsaturated carbon compound”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 60
+    question: Hydrocarbons that have the same molecular formula but have different structural formulas . . . . . . . . it is said.
+    options:
+      - isotopic
+      - isomeric
+      - deformed alcohol
+      - isobar
+    answer: 1
+    explanation: isomeric is the correct answer to “Hydrocarbons that have the same molecular formula but have different structural formulas . . . . . . . . it is said.”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 61
+    question: Which acid is found in curd?
+    options:
+      - citric acid
+      - lactic acid
+      - tartaric acid
+      - acetic acid
+    answer: 1
+    explanation: lactic acid is the correct answer to “Which acid is found in curd”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 62
+    question: Tartaric acid is a component of
+    options:
+      - Washing soda
+      - Vinegar
+      - Baking soda
+      - Baking powder
+    answer: 3
+    explanation: Baking powder is the correct answer to “Tartaric acid is a component of”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 63
+    question: The gas emerged through the cigarette lighter is
+    options:
+      - butane
+      - methane
+      - propane
+      - radon
+    answer: 1
+    explanation: methane is the correct answer to “The gas emerged through the cigarette lighter is”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 64
+    question: Which compound has the chemical formula CHCl 3 whose melting point is 209 K?
+    options:
+      - Carbon tetrachloride
+      - Chlorophenol
+      - Chloroform
+      - Chloroethanol
+    answer: 2
+    explanation: Chloroform is the correct answer to “Which compound has the chemical formula CHCl 3 whose melting point is 209 K”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 65
+    question: In which among the following molecules is the distance between two adjacent carbon atoms largest?
+    options:
+      - Benzene
+      - Ethane
+      - Ethene
+      - Ethyne
+    answer: 1
+    explanation: Ethane is the correct answer to “In which among the following molecules is the distance between two adjacent carbon atoms largest”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 66
+    question: What is the name of the compound CH 3 - CH 3 ?
+    options:
+      - propane
+      - butane
+      - ethane
+      - methane
+    answer: 2
+    explanation: ethane is the correct answer to “What is the name of the compound CH 3 - CH 3”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 67
+    question: Select one which is different from the IUPAC names given below.
+    options:
+      - C3H5OH ⟶ Propanol ⟶ Propyl Alcohol
+      - CH3OH ⟶ Methanol ⟶ Methyl Alcohol
+      - C2H5OH ⟶ Ethanol ⟶ Ethyl Alcohol
+      - C4H9OH ⟶ Butanol ⟶ butyl alcohol
+    answer: 0
+    explanation: C3H5OH ⟶ Propanol ⟶ Propyl Alcohol is the correct answer to “Select one which is different from the IUPAC names given below.”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 68
+    question: Consider the following statements. 1. Methane is also known asmarsh gas. 2. The main component of the natural gas is methane. 3. The main component of the gobar gas is methane. Which of the statements given above are correct?
+    options:
+      - 1 and 2
+      - 1 and 3
+      - 2 and 3
+      - 1, 2 and 3
+    answer: 3
+    explanation: 1, 2 and 3 is the correct answer to “Consider the following statements. 1. Methane is also known asmarsh gas. 2. The main component of the natural gas is methane. 3. The main component of the gobar gas is methane. Which of the statements given above are correct”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 69
+    question: Which of the following is used to remove rust stains on cloth?
+    options:
+      - Kerosene
+      - Lime
+      - Oxalic acid solution
+      - Petrol
+    answer: 2
+    explanation: Oxalic acid solution is the correct answer to “Which of the following is used to remove rust stains on cloth”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 70
+    question: A mixture of carbon monoxide and hydrogen, which is a starting material for manufacturing a number of organic compound is
+    options:
+      - producer gas
+      - natural gas
+      - synthesis gas
+      - oil gas
+    answer: 2
+    explanation: synthesis gas is the correct answer to “A mixture of carbon monoxide and hydrogen, which is a starting material for manufacturing a number of organic compound is”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 71
+    question: Wood spirit is
+    options:
+      - methyl alcohol
+      - ethyl alcohol
+      - butyl alcohol
+      - propyl alcohol
+    answer: 0
+    explanation: methyl alcohol is the correct answer to “Wood spirit is”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 72
+    question: Which of the following is the functional group in propanone?
+    options:
+      - Carboxylic acid
+      - Aldehyde
+      - Alcohol
+      - Ketone
+    answer: 3
+    explanation: Ketone is the correct answer to “Which of the following is the functional group in propanone”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 73
+    question: Assertion (A) Isomers are same compounds with different molecular formula. Reason (R) Isomers have different arrangement of their constituent atoms in the space.
+    options:
+      - Both A and R are true and R is the correct explanation of A
+      - Both A and R are true, but R is not the correct explanation of A
+      - A is true, but R is false
+      - A is false, but R is true
+    answer: 3
+    explanation: A is false, but R is true is the correct answer to “Assertion (A) Isomers are same compounds with different molecular formula. Reason (R) Isomers have different arrangement of their constituent atoms in the space.”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
+  - id: 74
+    question: How many carbon and hydrogen atoms are there in propane?
+    options:
+      - 2, 6
+      - 2, 4
+      - 4, 7
+      - 3, 8
+    answer: 3
+    explanation: 3, 8 is the correct answer to “How many carbon and hydrogen atoms are there in propane”. This question is standard in competitive examination syllabi for Organic Chemistry.
+    keyConcept: Organic Chemistry
+    testedIn:
+      - MDCAT
+      - CSS
 ---
 
-## About this set
 
-34 intermediate organic chemistry MCQs with answers and explanations for MDCAT, FSc, PPSC preparation.

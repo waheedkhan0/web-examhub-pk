@@ -27,6 +27,21 @@ const ICONS: Record<string, string> = {
   pen: '🖋️',
   flask: '🧪',
   earth: '🌏',
+  brain: '🧠',
+  code: '💻',
+  gear: '⚙️',
+  bolt: '⚡',
+  building: '🏗️',
+  landmark: '🏛️',
+  scroll: '📜',
+  briefcase: '💼',
+  pill: '💊',
+  dna: '🧬',
+  car: '🚗',
+  pickaxe: '⛏️',
+  flame: '🔥',
+  thought: '💭',
+  satellite: '🛰️',
 };
 
 export function iconFor(name: string | undefined, fallback = '📚'): string {

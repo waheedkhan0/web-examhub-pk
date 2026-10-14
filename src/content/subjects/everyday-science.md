@@ -95,6 +95,51 @@ subtopics:
   - name: Physics in Daily Life — Part 3
     slug: physics-in-daily-life-part-3
     questionCount: 28
+  - name: Everyday Science — Past Papers — Part 1
+    slug: everyday-science-past-papers-part-1
+    questionCount: 40
+  - name: Everyday Science — Past Papers — Part 2
+    slug: everyday-science-past-papers-part-2
+    questionCount: 40
+  - name: Everyday Science — Past Papers — Part 3
+    slug: everyday-science-past-papers-part-3
+    questionCount: 40
+  - name: Everyday Science — Past Papers — Part 4
+    slug: everyday-science-past-papers-part-4
+    questionCount: 40
+  - name: Everyday Science — Past Papers — Part 5
+    slug: everyday-science-past-papers-part-5
+    questionCount: 40
+  - name: Everyday Science — Past Papers — Part 6
+    slug: everyday-science-past-papers-part-6
+    questionCount: 40
+  - name: Everyday Science — Past Papers — Part 7
+    slug: everyday-science-past-papers-part-7
+    questionCount: 24
+  - name: General Science — Past Papers — Part 1
+    slug: general-science-past-papers-part-1
+    questionCount: 40
+  - name: General Science — Past Papers — Part 2
+    slug: general-science-past-papers-part-2
+    questionCount: 40
+  - name: General Science — Past Papers — Part 3
+    slug: general-science-past-papers-part-3
+    questionCount: 40
+  - name: General Science — Past Papers — Part 4
+    slug: general-science-past-papers-part-4
+    questionCount: 40
+  - name: General Science — Past Papers — Part 5
+    slug: general-science-past-papers-part-5
+    questionCount: 40
+  - name: General Science — Past Papers — Part 6
+    slug: general-science-past-papers-part-6
+    questionCount: 40
+  - name: General Science — Past Papers — Part 7
+    slug: general-science-past-papers-part-7
+    questionCount: 40
+  - name: General Science — Past Papers — Part 8
+    slug: general-science-past-papers-part-8
+    questionCount: 14
 ---
 
 ## Everyday Science: Demystifying the Natural World

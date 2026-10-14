@@ -86,6 +86,30 @@ subtopics:
   - name: Quran & Its Revelation — Part 5
     slug: quran-revelation-part-5
     questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 1
+    slug: islamic-studies-past-papers-part-1
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 2
+    slug: islamic-studies-past-papers-part-2
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 3
+    slug: islamic-studies-past-papers-part-3
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 4
+    slug: islamic-studies-past-papers-part-4
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 5
+    slug: islamic-studies-past-papers-part-5
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 6
+    slug: islamic-studies-past-papers-part-6
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 7
+    slug: islamic-studies-past-papers-part-7
+    questionCount: 40
+  - name: Islamic Studies — Commission Past Papers — Part 8
+    slug: islamic-studies-past-papers-part-8
+    questionCount: 20
 ---
 
 ## Islamic Studies: Spiritual Depth and Academic Accuracy

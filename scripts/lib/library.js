@@ -68,12 +68,12 @@ export function setsBySubject() {
  * Returns true when a new file was created. The overview body is a placeholder
  * that editorial should expand — but the page is immediately valid and linked.
  */
-export function ensureSubjectFor(slug, registry = subjectRegistry()) {
+export function ensureSubjectFor(slug, registry = subjectRegistry(), preloadedSets = null) {
   if (registry.has(slug)) return false;
 
   const file = path.join(SUBJECTS_DIR, `${slug}.md`);
   const name = titleize(slug);
-  const { sets } = mcqSets();
+  const sets = preloadedSets || mcqSets().sets;
   const own = sets.filter((s) => s.subject === slug);
   const exams = [...new Set(own.flatMap((s) => s.data.targetExams || []))];
 
@@ -117,14 +117,14 @@ ${own.map((s) => `- **${s.data.topicName || titleize(s.topic)}** — ${s.questio
  *  - adds topics that gained content but were never declared
  *  - refreshes questionCount from real data for topics that exist
  */
-export function syncSubjectTopics(slug, registry = subjectRegistry()) {
+export function syncSubjectTopics(slug, registry = subjectRegistry(), preloadedSets = null) {
   const entry = registry.get(slug);
   if (!entry) return { changed: false };
 
   const doc = tryReadMarkdown(entry.file);
   if (!doc) return { changed: false };
 
-  const { sets } = mcqSets();
+  const sets = preloadedSets || mcqSets().sets;
   const own = sets.filter((s) => s.subject === slug);
   const countByTopic = new Map(own.map((s) => [s.topic, s.questions.length]));
   const nameByTopic = new Map(own.map((s) => [s.topic, s.data.topicName || titleize(s.topic)]));
@@ -178,10 +178,10 @@ export function syncAllSubjects() {
   const { sets } = mcqSets();
 
   for (const subject of new Set(sets.map((s) => s.subject))) {
-    if (ensureSubjectFor(subject, registry)) out.created.push(subject);
+    if (ensureSubjectFor(subject, registry, sets)) out.created.push(subject);
   }
   for (const subject of new Set(sets.map((s) => s.subject))) {
-    const res = syncSubjectTopics(subject, registry);
+    const res = syncSubjectTopics(subject, registry, sets);
     if (res.changed) out.synced.push(subject);
     if (res.repairedName) out.repaired.push(subject);
   }

@@ -10,7 +10,8 @@ export const GET: APIRoute = async () => {
     version: '1.0.0',
     endpoints: [
       'GET  /api/categories',
-      'GET  /api/public-mcqs?page=1&limit=10&categoryId=xxx',
+      'GET  /api/topics?subject=xxx',
+      'GET  /api/public-mcqs?page=1&limit=10&subject=xxx&topic=xxx&exam=xxx&search=xxx&random=true',
       'GET  /api/quizzes?page=1&limit=20&categoryId=xxx&tag=xxx',
       'GET  /api/quiz/:id',
       'GET  /api/quizzes/:quizId/mcqs',
