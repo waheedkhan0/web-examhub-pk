@@ -29,18 +29,20 @@ const totalTopics = mcqSets.length;
 const totalPages = guides.length + blog.length + subjects.length + exams.length + mcqSets.length;
 
 const examOrder = [
+  'fpsc-computer-operator',
+  'fpsc-fia-superintendent',
+  'kppsc-pms-officer',
+  'fpsc-junior-scientific-officer',
+  'kppsc-research-officer-agriculture',
+  'kppsc-asi-police',
+  'fpsc-senior-elementary-teacher',
+  'fpsc-electrical-engineer',
+  'fpsc-assistant-director-legal',
+  'kppsc-assistant-director-plant-protection',
   'fia',
   'fpsc-lecturer',
-  'medical-officer',
   'civil-engineer',
   'css',
-  'pms',
-  'fpsc',
-  'kppsc',
-  'ministry-of-interior',
-  'charge-nurse',
-  'associate-professor',
-  'ppsc',
 ];
 const popularExams = examOrder
   .map((slug) => exams.find((e) => e.slug === slug))

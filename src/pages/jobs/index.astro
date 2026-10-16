@@ -4,79 +4,117 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const allExams = await getCollection('exams');
 
-// Filter exams and job posts
-const jobSlugs = [
-  'fia',
-  'ministry-of-interior',
-  'fpsc-lecturer',
-  'associate-professor',
-  'medical-officer',
-  'charge-nurse',
-  'civil-engineer',
-  'fpsc',
-  'kppsc',
-  'ppsc',
-  'spsc',
-  'nts',
-];
-
-const jobs = allExams.filter(e => jobSlugs.includes(e.slug));
-
-const categories = [
-  { name: 'All Jobs & Posts', filter: 'all' },
-  { name: 'FIA & Interior', filter: 'interior' },
-  { name: 'Lecturers & Academia', filter: 'education' },
-  { name: 'Healthcare & Nursing', filter: 'health' },
-  { name: 'Engineering', filter: 'engineering' },
-  { name: 'FPSC Federal', filter: 'fpsc' },
-  { name: 'KPPSC Provincial', filter: 'kppsc' },
-];
-
-function getCategoryTag(slug: string) {
-  if (slug === 'fia' || slug === 'ministry-of-interior') return 'interior';
-  if (slug === 'fpsc-lecturer' || slug === 'associate-professor') return 'education';
-  if (slug === 'medical-officer' || slug === 'charge-nurse') return 'health';
-  if (slug === 'civil-engineer') return 'engineering';
-  if (slug === 'fpsc') return 'fpsc';
-  if (slug === 'kppsc') return 'kppsc';
+// Determine category for filtering
+function getPostCategory(job: any) {
+  if (job.data.category) return job.data.category;
+  const slug = job.slug;
+  if (slug.includes('fpsc') || slug.includes('fia') || slug.includes('ministry')) return 'fpsc';
+  if (slug.includes('kppsc') || slug.includes('pms')) return 'kppsc';
+  if (slug.includes('ppsc')) return 'ppsc';
+  if (slug.includes('lecturer') || slug.includes('professor') || slug.includes('teacher')) return 'education';
+  if (slug.includes('engineer')) return 'engineering';
+  if (slug.includes('doctor') || slug.includes('nurse') || slug.includes('medical')) return 'health';
+  if (slug.includes('agriculture') || slug.includes('soil') || slug.includes('plant')) return 'agriculture';
   return 'general';
 }
+
+function getCommissionTag(job: any) {
+  if (job.data.commission) return job.data.commission.toLowerCase();
+  if (job.data.conductingBody.includes('FPSC')) return 'fpsc';
+  if (job.data.conductingBody.includes('KPPSC')) return 'kppsc';
+  if (job.data.conductingBody.includes('PPSC')) return 'ppsc';
+  if (job.data.conductingBody.includes('SPSC')) return 'spsc';
+  return 'federal';
+}
+
+// Order jobs with newest/commission posts first
+const sortedJobs = allExams.sort((a, b) => {
+  const aHasCase = a.data.caseNo ? 1 : 0;
+  const bHasCase = b.data.caseNo ? 1 : 0;
+  if (aHasCase !== bHasCase) return bHasCase - aHasCase;
+  return (b.data.updatedDate || '').localeCompare(a.data.updatedDate || '');
+});
+
+const categories = [
+  { name: 'All Advertised Posts', filter: 'all' },
+  { name: '🏛️ FPSC Federal', filter: 'fpsc' },
+  { name: '🏔️ KPPSC Provincial', filter: 'kppsc' },
+  { name: '🌾 Agriculture & Research', filter: 'agriculture' },
+  { name: '💻 IT & Technical', filter: 'technical' },
+  { name: '⚖️ Police, FIA & Law', filter: 'law-police' },
+  { name: '🎓 Education & Teachers', filter: 'education' },
+  { name: '⚙️ Engineering', filter: 'engineering' },
+  { name: '🩺 Health & Medical', filter: 'health' },
+];
 ---
 
 <BaseLayout
-  title="Government Jobs & Posts Preparation | FPSC, KPPSC, FIA, Health & Engineering | ExamHub.pk"
-  description="Comprehensive preparation guides, syllabus breakdown, past paper schemes, and MCQs for government job posts advertised by FPSC, KPPSC, Ministry of Interior, FIA, Health, and Engineering departments."
+  title="Government Commission Jobs & Screening Tests Preparation | FPSC, KPPSC, PPSC | ExamHub.pk"
+  description="Comprehensive preparation guides, official syllabi breakdowns, past paper schemes, and online practice mock tests for jobs advertised by FPSC, KPPSC, PPSC, and Federal Ministries."
 >
   <!-- Hero Section -->
-  <div class="bg-gradient-to-br from-slate-900 via-slate-800 to-teal-950 text-white py-14">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-teal-500/20 border border-teal-400/30 text-teal-300 text-sm font-medium mb-4">
-        <span>🇵🇰</span> Government Recruitment Tests (BS-16 to BS-19)
+  <div class="bg-gradient-to-br from-slate-950 via-slate-900 to-teal-950 text-white py-14 relative overflow-hidden">
+    <div class="absolute inset-0 opacity-10 bg-[radial-gradient(#0d9488_1px,transparent_1px)] [background-size:16px_16px]"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/20 border border-teal-400/30 text-teal-300 text-xs sm:text-sm font-semibold mb-4">
+        <span>🇵🇰</span> Public Service Commission Jobs (BS-11 to BS-19)
       </div>
-      <h1 class="text-4xl md:text-5xl font-bold mb-4 tracking-tight">
-        Federal & Provincial <span class="text-teal-400">Job Posts & Screening Tests</span>
+      
+      <h1 class="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-4 tracking-tight">
+        Federal & Provincial <span class="text-teal-400">Commission Posts & Mock Tests</span>
       </h1>
-      <p class="text-xl text-slate-300 max-w-3xl leading-relaxed">
-        Complete syllabus breakdowns, test schemes, past paper patterns, and high-yield MCQs for posts advertised by FPSC, KPPSC, PPSC, and Federal Ministries.
+      
+      <p class="text-base sm:text-lg text-slate-300 max-w-3xl leading-relaxed mb-8">
+        Detailed test specifications, official syllabi, past paper analysis, and interactive mock tests for posts advertised by <strong>FPSC</strong>, <strong>KPPSC</strong>, <strong>PPSC</strong>, and Federal Ministries.
       </p>
 
-      <div class="flex flex-wrap gap-3 mt-8">
-        <a href="#jobs-grid" class="btn btn-primary">Browse Advertised Posts</a>
-        <a href="/mcqs" class="btn btn-secondary">Practice Subject MCQs</a>
+      <!-- Live Search Box -->
+      <div class="max-w-2xl bg-white/10 backdrop-blur-md p-2 rounded-2xl border border-white/20 shadow-lg">
+        <div class="relative flex items-center">
+          <span class="absolute left-4 text-slate-400 text-lg">🔍</span>
+          <input
+            type="text"
+            id="job-search-input"
+            placeholder="Search by post, commission (FPSC, KPPSC), case no. (e.g. 108/2026), or degree..."
+            class="w-full pl-11 pr-4 py-3 bg-white text-slate-900 rounded-xl text-sm sm:text-base font-medium placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-teal-500 shadow-inner"
+          />
+        </div>
       </div>
+
+      <!-- Quick Metrics -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 mt-8 pt-6 border-t border-white/10">
+        <div>
+          <div class="text-2xl font-black text-teal-400">{sortedJobs.length}+</div>
+          <div class="text-xs text-slate-300">Commission Posts Listed</div>
+        </div>
+        <div>
+          <div class="text-2xl font-black text-amber-400">100%</div>
+          <div class="text-xs text-slate-300">Official Syllabus Alignment</div>
+        </div>
+        <div>
+          <div class="text-2xl font-black text-sky-400">Free</div>
+          <div class="text-xs text-slate-300">Interactive Mock Tests</div>
+        </div>
+        <div>
+          <div class="text-2xl font-black text-emerald-400">BS-11 to 19</div>
+          <div class="text-xs text-slate-300">Target Pay Scales</div>
+        </div>
+      </div>
+
     </div>
   </div>
 
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12" id="jobs-grid">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10" id="jobs-grid">
     <!-- Category Pills -->
-    <div class="flex flex-wrap gap-2 mb-10 pb-4 border-b border-slate-200">
+    <div class="flex items-center gap-2 overflow-x-auto pb-4 mb-8 scrollbar-thin">
       {categories.map((c, idx) => (
         <button
           type="button"
-          class={`filter-btn px-4 py-2 rounded-lg text-sm font-semibold transition cursor-pointer ${
+          class={`filter-btn px-4 py-2 rounded-xl text-xs sm:text-sm font-bold whitespace-nowrap transition-all cursor-pointer ${
             idx === 0
-              ? 'bg-teal-600 text-white shadow-sm'
-              : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+              ? 'bg-teal-600 text-white shadow-sm ring-2 ring-teal-600/30'
+              : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200'
           }`}
           data-filter={c.filter}
         >
@@ -85,49 +123,105 @@ function getCategoryTag(slug: string) {
       ))}
     </div>
 
+    <!-- Results Count Banner -->
+    <div class="flex items-center justify-between text-xs sm:text-sm text-slate-500 mb-6 font-medium">
+      <span>Showing <strong id="visible-count" class="text-slate-900">{sortedJobs.length}</strong> advertised commission posts</span>
+      <span class="text-teal-700 font-semibold">Updated with Phase 2026 Advertisements</span>
+    </div>
+
     <!-- Jobs Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="job-cards-container">
-      {jobs.map((job) => {
-        const catTag = getCategoryTag(job.slug);
+      {sortedJobs.map((job) => {
+        const catTag = getPostCategory(job);
+        const commTag = getCommissionTag(job);
+        const mockCount = job.data.mockTests?.length || 0;
+        const commissionName = job.data.commission || commTag.toUpperCase();
+
         return (
           <div
-            class="job-card card-hover group flex flex-col justify-between border border-slate-200 rounded-xl p-6 bg-white hover:border-teal-500 transition-all shadow-sm hover:shadow-md"
+            class="job-card group flex flex-col justify-between border border-slate-200 rounded-2xl p-6 bg-white hover:border-teal-400 transition-all shadow-xs hover:shadow-lg relative overflow-hidden"
             data-category={catTag}
+            data-commission={commTag}
+            data-search={`${job.data.title} ${job.data.fullName} ${job.data.conductingBody} ${job.data.caseNo || ''} ${job.data.department || ''} ${job.data.eligibility || ''} ${job.data.scale || ''}`.toLowerCase()}
           >
             <div>
-              <div class="flex items-center justify-between mb-3">
-                <span class="inline-block px-2.5 py-1 text-xs font-semibold uppercase tracking-wider rounded-md bg-teal-50 text-teal-700 border border-teal-200">
-                  {job.data.conductingBody.split('(')[0].trim()}
+              <!-- Top Badges -->
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <span class="inline-flex items-center gap-1 px-2.5 py-1 text-[11px] font-black uppercase tracking-wider rounded-md bg-teal-50 text-teal-800 border border-teal-200">
+                  🏛️ {commissionName}
                 </span>
-                <span class="text-xs text-slate-500 font-medium">{job.data.frequency.split(' ')[0]}</span>
+
+                <div class="flex items-center gap-1.5">
+                  {job.data.scale && (
+                    <span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-sky-50 text-sky-800 border border-sky-200">
+                      {job.data.scale}
+                    </span>
+                  )}
+                  {job.data.caseNo && (
+                    <span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-amber-50 text-amber-800 border border-amber-200">
+                      {job.data.caseNo.split('(')[0].trim()}
+                    </span>
+                  )}
+                </div>
               </div>
 
-              <h2 class="text-xl font-bold text-slate-900 group-hover:text-teal-600 transition mb-2">
+              <!-- Title & Department -->
+              <h2 class="text-lg font-bold text-slate-900 group-hover:text-teal-600 transition mb-1 leading-snug">
                 <a href={`/exams/${job.slug}`}>
                   {job.data.title}
                 </a>
               </h2>
-              <p class="text-sm text-slate-500 font-medium mb-3 line-clamp-1">{job.data.fullName}</p>
-              <p class="text-sm text-slate-600 mb-5 line-clamp-3 leading-relaxed">{job.data.description}</p>
+              
+              {job.data.department ? (
+                <p class="text-xs font-semibold text-slate-500 mb-2">
+                  🏢 {job.data.department}
+                </p>
+              ) : (
+                <p class="text-xs font-medium text-slate-500 mb-2 line-clamp-1">
+                  {job.data.fullName}
+                </p>
+              )}
+
+              <p class="text-xs text-slate-600 mb-4 line-clamp-2 leading-relaxed">
+                {job.data.description}
+              </p>
+
+              <!-- Eligibility snippet -->
+              <div class="mb-4 bg-slate-50 p-2.5 rounded-xl border border-slate-100">
+                <div class="text-[10px] uppercase font-bold text-slate-400 mb-0.5">Qualification</div>
+                <div class="text-xs text-slate-700 line-clamp-2 font-medium">
+                  {job.data.eligibility}
+                </div>
+              </div>
             </div>
 
             <div>
-              <div class="grid grid-cols-2 gap-2 text-xs mb-5 bg-slate-50 p-3 rounded-lg border border-slate-100">
-                {job.data.keyStats.slice(0, 2).map((stat: any) => (
-                  <div>
-                    <div class="font-bold text-slate-900">{stat.value}</div>
-                    <div class="text-slate-500 text-[11px] truncate">{stat.label}</div>
-                  </div>
-                ))}
-              </div>
+              <!-- Mock tests indicator if available -->
+              {mockCount > 0 ? (
+                <div class="flex items-center gap-1 text-xs font-bold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200 mb-3">
+                  <span>🚀</span> {mockCount} Interactive Mock Tests Included
+                </div>
+              ) : (
+                <div class="flex items-center gap-1 text-xs font-medium text-slate-500 bg-slate-50 px-2.5 py-1 rounded-lg border border-slate-100 mb-3">
+                  <span>📝</span> Practice MCQs & Full Syllabus Guide
+                </div>
+              )}
 
-              <div class="flex items-center justify-between pt-3 border-t border-slate-100">
-                <span class="text-xs text-slate-500">{job.data.featuredSubjects.length} Core Subjects</span>
+              <!-- Action buttons -->
+              <div class="flex items-center justify-between pt-3 border-t border-slate-100 gap-2">
                 <a
                   href={`/exams/${job.slug}`}
-                  class="text-teal-600 font-semibold text-sm group-hover:translate-x-1 transition-transform inline-flex items-center gap-1"
+                  class="text-xs font-bold text-slate-700 hover:text-teal-600 transition"
                 >
-                  Syllabus & Guide →
+                  Syllabus Breakdown
+                </a>
+
+                <a
+                  href={`/exams/${job.slug}#mock-tests-hub`}
+                  class="text-xs font-bold px-3 py-1.5 rounded-lg bg-teal-600 hover:bg-teal-700 text-white transition shadow-xs inline-flex items-center gap-1"
+                >
+                  <span>Mock Tests</span>
+                  <span>→</span>
                 </a>
               </div>
             </div>
@@ -135,40 +229,86 @@ function getCategoryTag(slug: string) {
         );
       })}
     </div>
+
+    <!-- No results message -->
+    <div id="no-results" class="hidden text-center py-16 bg-white rounded-2xl border border-slate-200 mt-6">
+      <div class="text-4xl mb-3">🔎</div>
+      <h3 class="text-lg font-bold text-slate-900 mb-1">No matching commission posts found</h3>
+      <p class="text-sm text-slate-500 max-w-md mx-auto">
+        Try adjusting your search terms or select another category filter to explore other FPSC and provincial public service commission tests.
+      </p>
+    </div>
   </div>
 
-  <!-- Interactive Client-side Filter Script -->
+  <!-- Interactive Client-side Filter & Search Script -->
   <script>
     const filterButtons = document.querySelectorAll('.filter-btn');
     const jobCards = document.querySelectorAll('.job-card');
+    const searchInput = document.getElementById('job-search-input') as HTMLInputElement | null;
+    const countDisplay = document.getElementById('visible-count');
+    const noResults = document.getElementById('no-results');
+
+    let currentFilter = 'all';
+    let currentSearch = '';
+
+    function applyFilterAndSearch() {
+      let visible = 0;
+
+      jobCards.forEach((card) => {
+        const category = card.getAttribute('data-category') || '';
+        const commission = card.getAttribute('data-commission') || '';
+        const searchText = card.getAttribute('data-search') || '';
+
+        // Category filter match
+        const matchesCategory =
+          currentFilter === 'all' ||
+          category === currentFilter ||
+          commission === currentFilter ||
+          (currentFilter === 'fpsc' && (commission === 'fpsc' || category === 'technical' || category === 'education' || category === 'law-police')) ||
+          (currentFilter === 'kppsc' && (commission === 'kppsc' || category === 'agriculture' || category === 'law-police'));
+
+        // Search match
+        const matchesSearch = !currentSearch || searchText.includes(currentSearch);
+
+        if (matchesCategory && matchesSearch) {
+          (card as HTMLElement).style.display = 'flex';
+          visible++;
+        } else {
+          (card as HTMLElement).style.display = 'none';
+        }
+      });
+
+      if (countDisplay) countDisplay.textContent = visible.toString();
+      if (noResults) {
+        if (visible === 0) {
+          noResults.classList.remove('hidden');
+        } else {
+          noResults.classList.add('hidden');
+        }
+      }
+    }
 
     filterButtons.forEach((btn) => {
       btn.addEventListener('click', () => {
-        const filter = btn.getAttribute('data-filter');
+        currentFilter = btn.getAttribute('data-filter') || 'all';
 
         // Update button styles
         filterButtons.forEach((b) => {
-          b.classList.remove('bg-teal-600', 'text-white', 'shadow-sm');
-          b.classList.add('bg-slate-100', 'text-slate-700');
+          b.classList.remove('bg-teal-600', 'text-white', 'shadow-sm', 'ring-2', 'ring-teal-600/30');
+          b.classList.add('bg-white', 'text-slate-700', 'border', 'border-slate-200');
         });
-        btn.classList.add('bg-teal-600', 'text-white', 'shadow-sm');
-        btn.classList.remove('bg-slate-100', 'text-slate-700');
+        btn.classList.add('bg-teal-600', 'text-white', 'shadow-sm', 'ring-2', 'ring-teal-600/30');
+        btn.classList.remove('bg-white', 'text-slate-700', 'border', 'border-slate-200');
 
-        // Filter cards
-        jobCards.forEach((card) => {
-          const category = card.getAttribute('data-category');
-          if (
-            filter === 'all' ||
-            category === filter ||
-            (filter === 'fpsc' && (category === 'interior' || category === 'education' || category === 'health' || category === 'engineering')) ||
-            (filter === 'kppsc' && (category === 'education' || category === 'health' || category === 'engineering' || category === 'kppsc'))
-          ) {
-            (card as HTMLElement).style.display = 'flex';
-          } else {
-            (card as HTMLElement).style.display = 'none';
-          }
-        });
+        applyFilterAndSearch();
       });
     });
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        currentSearch = (e.target as HTMLInputElement).value.trim().toLowerCase();
+        applyFilterAndSearch();
+      });
+    }
   </script>
 </BaseLayout>

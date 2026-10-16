@@ -58,6 +58,31 @@ const exams = defineCollection({
     updatedDate: z.string(),
     featuredSubjects: z.array(z.string()),
     keyStats: z.array(z.object({ label: z.string(), value: z.string() })),
+    commission: z.string().optional(), // e.g. "FPSC", "KPPSC", "PPSC", "SPSC", "Federal"
+    caseNo: z.string().optional(), // e.g. "Case No. 108/2026", "Advt. No. 02/2026"
+    scale: z.string().optional(), // e.g. "BS-16", "BS-17", "BPS-11"
+    department: z.string().optional(), // e.g. "Ministry of Defence", "Agriculture Department"
+    category: z.string().optional(), // e.g. "technical", "agriculture", "education", "law-police", "admin", "engineering"
+    closingDate: z.string().optional(),
+    syllabusBreakdown: z.array(
+      z.object({
+        part: z.string(),
+        title: z.string(),
+        marks: z.string().optional(),
+        description: z.string().optional(),
+        topics: z.array(z.string()),
+        practiceLink: z.string().optional(),
+      })
+    ).optional(),
+    mockTests: z.array(
+      z.object({
+        title: z.string(),
+        subjectSlug: z.string(),
+        topicSlug: z.string(),
+        questionsCount: z.number().optional(),
+        duration: z.string().optional(),
+      })
+    ).optional(),
   }),
 });
 
