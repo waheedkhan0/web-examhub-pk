@@ -95,16 +95,6 @@ questions:
     answer: 0
     explanation: Jane Austen is the correct answer to “A famous novel ” Pride and prejudice” is written by:”. Items of this type are drawn from the Books & Authors — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Books & Authors
-  - id: 9
-    question: Who wrote the book ” Gandhi and Stalin”?
-    options:
-      - Louis Fisher
-      - Thomas Hardy
-      - Rajmohan Gandhi
-      - Walter Scot
-    answer: 0
-    explanation: Louis Fisher is the correct answer to “Who wrote the book ” Gandhi and Stalin””. Items of this type are drawn from the Books & Authors — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Books & Authors
   - id: 10
     question: What is the father name of Hamlet in Shakespear’s novel ‘Hamlet’?
     options:
@@ -113,16 +103,6 @@ questions:
       - Jordan
     answer: 1
     explanation: Hamlet is the correct answer to “What is the father name of Hamlet in Shakespear’s novel ‘Hamlet’”. Items of this type are drawn from the Books & Authors — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Books & Authors
-  - id: 11
-    question: Who is the author of the famous book, “ The Discovery of India”?
-    options:
-      - Khushwant Singh
-      - Jawaharlal Nehru
-      - Kazi Nazrul Islam
-      - Mahatma Gandhi
-    answer: 1
-    explanation: Jawaharlal Nehru is the correct answer to “Who is the author of the famous book, “ The Discovery of India””. Items of this type are drawn from the Books & Authors — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Books & Authors
   - id: 12
     question: Which company’s laptop is known as the lightest laptop and featured its name in the Guinness book of world record?
@@ -261,15 +241,6 @@ questions:
     answer: 1
     explanation: The famous poem ‘Twinkle Twinkle Little Star’ is written by Jane Taylor .
     keyConcept: Books & Authors
-  - id: 26
-    question: Who is the author of the book “My experiments with truth”?
-    options:
-      - Shakespeare
-      - K. M. Munshi
-      - M. K. Gandhi
-    answer: 2
-    explanation: M. K. Gandhi is the correct answer to “Who is the author of the book “My experiments with truth””. Items of this type are drawn from the Books & Authors — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Books & Authors
   - id: 27
     question: “Medieval India under Mohammedan Rule (712-1764)” written by____________?
     options:
@@ -356,16 +327,6 @@ questions:
     answer: 3
     explanation: Renaissance of sciences was written by Al Ghazali .
     keyConcept: Books & Authors
-  - id: 36
-    question: Vande Mataram written by Bankim Chandra Chatterjee is in the_________ Novel?
-    options:
-      - Ramayana
-      - Anandamath
-      - Sama Veda
-      - Sitayana
-    answer: 1
-    explanation: Vande Mataram written by Bankim Chandra Chatterjee is in the Anandamath Novel.
-    keyConcept: Books & Authors
   - id: 37
     question: A book titled “A Promised Land” authored by__________?
     options:
@@ -405,32 +366,6 @@ questions:
     answer: 2
     explanation: Author of ‘With the Quaid-i-Azam During His Last Days’ is Col. Elahi Bakash .
     keyConcept: Books & Authors
-  - id: 41
-    question: Which of the film is directed by Buddhadeb Dasgupta?
-    options:
-      - Mohra
-      - Krantiveer
-      - 1942 - A Love Story
-      - Charachar
-    answer: 3
-    explanation: Buddhadeb Dasgupta (11 February 1944 - 10 June 2021) was an Indian Bengali poet and filmmaker, most known for films like Bagh Bahadur, Tahader Katha, Charachar and Uttara.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 42
-    question: "'Neela Chand' which won the Vyas Samman for 1992 is written by -"
-    options:
-      - Shiv Prasad Singh
-      - Subash Mukhopadhyay
-      - Ram Vilas Sharma
-      - Ramakant Rath
-    answer: 0
-    explanation: "'Neela Chand' which won the Vyas Samman for 1992 is written by Shiv Prasad Singh."
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 43
     question: The famous book 'Anna Karenina' is written by -
     options:
@@ -444,32 +379,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 44
-    question: Who is the author of famous book 'The Judgement'?
-    options:
-      - Anthony Mascarenhasa
-      - R. Vankataraman
-      - Kuldip Nayar
-      - Janardhan Turkur
-    answer: 2
-    explanation: Kuldip Nayar is the author of famous book 'The Judgement'.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 45
-    question: Who said "I therefore, want freedom immediately, this very night, before dawn, if it can be had"?
-    options:
-      - Jawaharlal Nehru
-      - Mahatma Gandhi
-      - Rajendra Prasad
-      - Nelson Mandela
-    answer: 1
-    explanation: Mahatma Gandhi said "I therefore, want freedom immediately, this very night, before dawn, if it can be had".
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 46
     question: Who is the author of 'Ashtadhyayi'?
     options:
@@ -479,32 +388,6 @@ questions:
       - Gitta Piramal
     answer: 2
     explanation: Ashtadhyayi, Sanskrit treatise on grammar written in the 6 th to 5 th century bce by the Indian grammarian Panini.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 47
-    question: Who directed the world famous film 'The Gandhi'?
-    options:
-      - Ben Kingsley
-      - Satyajit Ray
-      - Mrinal Sen
-      - Richard Attenborough
-    answer: 3
-    explanation: Richard Attenborough directed the world famous film 'The Gandhi'.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 48
-    question: Who is the author of the book 'No Full Stops in India'?
-    options:
-      - Raj Mohan Gandhi
-      - Shyam Lal
-      - E. M. Forster
-      - Mark Tully
-    answer: 3
-    explanation: Mark Tully is the author of the book 'No Full Stops in India'.
     keyConcept: Books And Authors
     testedIn:
       - PPSC
@@ -535,19 +418,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 51
-    question: "'Eight Lives' is a book written by -"
-    options:
-      - Raja Ramana
-      - Savita Ambedkar
-      - Mahesh Yogi
-      - Rajmohan Gandhi
-    answer: 3
-    explanation: "'Eight Lives' is a book written by Rajmohan Gandhi who is the grandson of Mohandas K. Gandhi."
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 52
     question: The book 'A Farewell to Arms' was written by -
     options:
@@ -561,19 +431,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 53
-    question: "'Ek Doctor Ki Maut' is a film directed by -"
-    options:
-      - Gautam Gosh
-      - Tapan Sinha
-      - Meera Nair
-      - Shyam Benegal
-    answer: 1
-    explanation: Tapan Sinha was one of the most prominent Indian film directors of his time forming a legendary quartet with Satyajit Ray, Ritwik Ghatak and Mrinal Sen. 'Ek Doctor Ki Maut' is a film directed by him.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 54
     question: The book 'Satanic Verses' was written by -
     options:
@@ -583,58 +440,6 @@ questions:
       - Agatha Christie
     answer: 2
     explanation: The book 'Satanic Verses' was written by Salman Rushdie.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 55
-    question: Who has won the Gyan Peeth Award for her book 'Yama'?
-    options:
-      - Maheswari Devi
-      - Asha Poorna Devi
-      - Amrita Preetam
-      - Mahadevi Verma
-    answer: 3
-    explanation: Mahadevi Verma won the Gyan Peeth Award for her book 'Yama'.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 56
-    question: Which of the following Newspapers are published in Bengali Language?
-    options:
-      - Lok Satta
-      - Pratap
-      - Din Mani
-      - Jugantar
-    answer: 3
-    explanation: Jugantar Patrika was a Bengali revolutionary newspaper founded in 1906 in Calcutta by Barindra Kumar Ghosh, Abhinash Bhattacharya and Bhupendranath Dutt.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 57
-    question: The serial 'India's Rajiv' was produced and directed by -
-    options:
-      - Simi Garewal
-      - Satyajit Ray
-      - Shyam Benegal
-      - Mira Nair
-    answer: 0
-    explanation: The serial 'India's Rajiv' was produced and directed by Simi Garewal.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 58
-    question: The original name of 'Mahabharata' is -
-    options:
-      - Katha Saritsagar
-      - Jaya Samhita
-      - Vrahat Katha
-      - Rajatarangini
-    answer: 1
-    explanation: The Mahabharata in its original version was called Jaya Samhita, and it was written down by Ganesha and narrated by Maharishi Ved Vyasa. The original epic had only 8800 shlokas and was called Jaya. Then it was called Vijaya, then Bharata and finally Mahabharata.
     keyConcept: Books And Authors
     testedIn:
       - PPSC
@@ -661,19 +466,6 @@ questions:
       - Bertrand Russel
     answer: 0
     explanation: Arnold Toynbee has written the famous book 'Mankind and Mother Earth'.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 61
-    question: "'Maya Memsaab' is a film directed by -"
-    options:
-      - Shyam Benegal
-      - Ketan Mehta
-      - Bhupen Hazarika
-      - Tapan Sinha
-    answer: 1
-    explanation: "'Maya Memsaab' is a film directed by Ketan Mehta."
     keyConcept: Books And Authors
     testedIn:
       - PPSC
@@ -782,19 +574,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 70
-    question: Who is the author of 'Betrayal of the Defence Forces'?
-    options:
-      - Vishnu Bhagat
-      - Tarun Tejpal
-      - George Fernandes
-      - Jaswant Singh
-    answer: 0
-    explanation: Vishnu Bhagat is the author of 'Betrayal of the Defence Forces'.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 71
     question: David Copperfield is the name of -
     options:
@@ -834,32 +613,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 74
-    question: The author of the book 'Waiting for the Mahatma' is -
-    options:
-      - R. K. Narayan
-      - N. A. Palkhiwala
-      - Amrita Pritam
-      - Manohar Malgonkar
-    answer: 0
-    explanation: The author of the book 'Waiting for the Mahatma' is R. K. Narayan.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 75
-    question: "'In Custody', an English novel is written by which one of the following?"
-    options:
-      - Anita Desai
-      - Vikram Seth
-      - Shoba De
-      - V. S. Naipaul
-    answer: 0
-    explanation: "'In Custody' by Anita Desai is woven around the yearnings and calamities of a small town scholar in the north of India. Anita Desai is an Indian novelist known for works on adult novels, children's books and short stories."
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 76
     question: Who wrote the book 'The Prince'?
     options:
@@ -873,19 +626,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 77
-    question: What is unique about the film 'Adi Shankaracharya'?
-    options:
-      - It has won the National Award.
-      - It is the first Bengal film.
-      - It is the first Sanskrit film.
-      - It has no female actress.
-    answer: 2
-    explanation: Adi Shankaracharya is a 1983 Indian film in Sanskrit language directed by G. V. Iyer. The film depicts the life and times of 8 th century Hindu philosopher, Adi Shankaracharya, who consolidated the doctrine of Advaita Vedanta (Non - dualism) in Hindu philosophy. It was the first film in India to be made in Sanskrit.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 78
     question: "'Crime and Punishment' was written by -"
     options:
@@ -895,32 +635,6 @@ questions:
       - Alexander Solzhenitsyn
     answer: 0
     explanation: Crime and Punishment' was written by Fyodor Dostoevsky.
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 79
-    question: Lala Lajpat Rai is the author of the book -
-    options:
-      - India Divided
-      - Unhappy India
-      - Mother India
-      - Hind Swaraj
-    answer: 1
-    explanation: Lala Lajpat Rai is the author of the book 'Unhappy India'
-    keyConcept: Books And Authors
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 80
-    question: Who has written the book entitled 'Hind Swaraj' ?
-    options:
-      - Lala Lajpat Rai
-      - Mahatma Gandhi
-      - Dr. Rajendra Prasad
-      - Pandit Madan Mohan Malaviya
-    answer: 1
-    explanation: Hind Swaraj or Indian Home Rule is a book written by Mohandas K. Gandhi in 1909.
     keyConcept: Books And Authors
     testedIn:
       - PPSC

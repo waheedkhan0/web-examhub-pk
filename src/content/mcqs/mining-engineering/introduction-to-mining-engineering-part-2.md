@@ -183,19 +183,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 14
-    question: SIVAD unit is mainly used at Indian long wall face to operate
-    options:
-      - Armoured flexible conveyor and stage loader
-      - Power pack
-      - Shearer machine
-      - All machine at long wall face
-    answer: 0
-    explanation: Armoured flexible conveyor and stage loader is the correct answer to “SIVAD unit is mainly used at Indian long wall face to operate”. This question is standard in competitive examination syllabi for Introduction To Mining Engineering.
-    keyConcept: Introduction To Mining Engineering
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 15
     question: What should be the minimum insulation resistance of high power cable?
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

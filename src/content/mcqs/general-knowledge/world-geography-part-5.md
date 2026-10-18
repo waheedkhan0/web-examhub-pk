@@ -211,16 +211,6 @@ questions:
     answer: 1
     explanation: Height of Broad Peak, 12th highest mountain in the world is 8047 m .
     keyConcept: World Geography & Capitals
-  - id: 21
-    question: Indian city Mumbai consists of how many islands?
-    options:
-      - Six islands
-      - Five islands
-      - Ten islands
-      - Seven islands
-    answer: 3
-    explanation: Seven islands is the correct answer to “Indian city Mumbai consists of how many islands”. Items of this type are drawn from the World Geography & Capitals — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: World Geography & Capitals
   - id: 22
     question: Capital of Germany is __________?
     options:

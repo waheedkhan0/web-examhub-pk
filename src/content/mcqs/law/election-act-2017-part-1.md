@@ -403,19 +403,6 @@ questions:
     testedIn:
       - FPSC Election Officer
       - ECP Screening
-  - id: 31
-    question: Who conducts the elections for local bodies (Panchayats and Municipalities) in India?
-    options:
-      - Election Commission of India
-      - State Election Commission
-      - Parliament of India
-      - Supreme Court of India
-    answer: 1
-    explanation: Elections to local bodies are the responsibility of the State Election Commission , as per Article 243K and 243ZA of the Indian Constitution. The Election Commission of India is a three-member body, with one Chief Election Commissioner and two Election Commissioners.
-    keyConcept: Elections Act 2017 — Complete MCQs
-    testedIn:
-      - FPSC Election Officer
-      - ECP Screening
   - id: 32
     question: When an assets and liabilities report to submit to ECP
     options:

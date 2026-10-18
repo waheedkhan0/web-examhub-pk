@@ -1,0 +1,802 @@
+---
+import type { GeneratedMockTest } from '../lib/mock-test-generator';
+import type { ExamBlueprint } from '../lib/syllabus-blueprints';
+
+interface Props {
+  blueprint: ExamBlueprint;
+  initialMockTest?: GeneratedMockTest | null;
+}
+
+const { blueprint, initialMockTest } = Astro.props;
+---
+
+<div
+  class="syllabus-mock-container bg-slate-900/5 rounded-3xl border border-slate-200/90 p-5 sm:p-8 transition-all"
+  id="mock-test-root"
+  data-exam-slug={blueprint.slug}
+  data-exam-title={blueprint.title}
+  data-passing-percent={blueprint.passingPercent}
+  data-negative-marking={blueprint.negativeMarking ? 'true' : 'false'}
+  data-negative-penalty={blueprint.negativeMarkPerWrong || 0}
+  data-initial-test={initialMockTest ? JSON.stringify(initialMockTest) : ''}
+>
+  <!-- 1. LOBBY / SETUP SCREEN -->
+  <div id="mock-lobby-view" class="space-y-6">
+    <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-6 border-b border-slate-200">
+      <div>
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-teal-100 text-teal-800 text-xs font-bold mb-2">
+          <span>⚡</span> Official Syllabus Mock Examination Engine
+        </div>
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
+          {blueprint.title} — Syllabus-Matched Mock Test
+        </h2>
+        <p class="text-sm text-slate-600 mt-1 max-w-2xl">
+          Simulate official examination conditions. Questions are drawn in real time across the exact syllabus weightages set by {blueprint.conductingBody}.
+        </p>
+      </div>
+
+      <!-- Quick Stats Card -->
+      <div class="flex items-center gap-3 bg-white p-3.5 rounded-2xl border border-slate-200/90 shadow-xs self-start md:self-auto">
+        <div class="text-center px-2 border-r border-slate-100">
+          <p class="text-xs text-slate-400 font-medium">Passing</p>
+          <p class="text-base font-black text-teal-600">{blueprint.passingPercent}%</p>
+        </div>
+        <div class="text-center px-2 border-r border-slate-100">
+          <p class="text-xs text-slate-400 font-medium">Negative Marks</p>
+          <p class="text-base font-black {blueprint.negativeMarking ? 'text-rose-600' : 'text-slate-700'}">
+            {blueprint.negativeMarking ? `-${blueprint.negativeMarkPerWrong}` : 'None'}
+          </p>
+        </div>
+        <div class="text-center px-2">
+          <p class="text-xs text-slate-400 font-medium">Syllabus Areas</p>
+          <p class="text-base font-black text-slate-800">{blueprint.sections.length}</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Syllabus Sections Weightage Grid -->
+    <div>
+      <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-3">
+        Official Examination Syllabus Scheme
+      </h3>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        {blueprint.sections.map((sec) => (
+          <div class="bg-white rounded-xl p-3.5 border border-slate-200/80 shadow-2xs flex flex-col justify-between">
+            <div class="flex items-start justify-between gap-2 mb-1.5">
+              <span class="text-xs font-bold text-slate-800 leading-snug">{sec.name}</span>
+              <span class="px-2 py-0.5 rounded-md bg-teal-50 text-teal-700 text-xs font-black shrink-0 border border-teal-200/60">
+                {sec.weightagePercent}%
+              </span>
+            </div>
+            {sec.description && (
+              <p class="text-2xs text-slate-500 line-clamp-2 leading-relaxed">{sec.description}</p>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Exam Length Selector & Start Button -->
+    <div class="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+      <div>
+        <label for="mock-question-count-select" class="block text-xs font-bold text-slate-700 mb-1">
+          Select Test Length & Time Allowance:
+        </label>
+        <div class="inline-flex rounded-xl bg-slate-100 p-1 text-xs font-semibold" id="length-selector">
+          <button
+            type="button"
+            class="length-btn px-3.5 py-1.5 rounded-lg transition font-bold bg-white text-teal-700 shadow-2xs"
+            data-count="30"
+            data-mins="30"
+          >
+            Quick Sprint (30 MCQs / 30m)
+          </button>
+          <button
+            type="button"
+            class="length-btn px-3.5 py-1.5 rounded-lg transition text-slate-600 hover:text-slate-900"
+            data-count="50"
+            data-mins="50"
+          >
+            Standard Mock (50 MCQs / 50m)
+          </button>
+          <button
+            type="button"
+            class="length-btn px-3.5 py-1.5 rounded-lg transition text-slate-600 hover:text-slate-900"
+            data-count="100"
+            data-mins="100"
+          >
+            Full Paper (100 MCQs / 100m)
+          </button>
+        </div>
+      </div>
+
+      <button
+        type="button"
+        id="btn-start-mock-test"
+        class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-teal-600 hover:bg-teal-700 text-white font-bold text-sm shadow-sm transition hover:shadow cursor-pointer"
+      >
+        <span>Start Syllabus Mock Test</span>
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- 2. ACTIVE TEST PLAYER SCREEN (Hidden until started) -->
+  <div id="mock-player-view" class="hidden space-y-6">
+    <!-- Sticky Exam Header & Countdown Bar -->
+    <div class="sticky top-2 z-30 bg-slate-900 text-white rounded-2xl p-4 sm:p-5 shadow-lg flex flex-wrap items-center justify-between gap-4 border border-slate-800">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-teal-500/20 text-teal-400 font-black text-sm flex items-center justify-center border border-teal-400/30">
+          <span id="player-current-index-display">1</span>
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-bold text-slate-300">Question</span>
+            <span class="text-xs text-slate-400">of <span id="player-total-questions-display">50</span></span>
+          </div>
+          <p class="text-xs text-teal-300 font-semibold truncate max-w-[200px] sm:max-w-xs" id="player-section-badge">
+            Section Loading...
+          </p>
+        </div>
+      </div>
+
+      <!-- Countdown Timer & Progress -->
+      <div class="flex items-center gap-4">
+        <!-- Timer Badge -->
+        <div class="flex items-center gap-2 bg-slate-800 px-3.5 py-1.5 rounded-xl border border-slate-700 tabular-nums">
+          <svg class="w-4 h-4 text-teal-400 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="10" stroke-width="2"></circle>
+            <path stroke-linecap="round" stroke-width="2" d="M12 6v6l4 2"></path>
+          </svg>
+          <span class="text-sm sm:text-base font-black tracking-wider" id="player-timer-display">50:00</span>
+        </div>
+
+        <!-- Submit Button -->
+        <button
+          type="button"
+          id="btn-finish-test"
+          class="px-4 py-2 rounded-xl bg-rose-600 hover:bg-rose-700 text-white font-bold text-xs transition shadow-xs cursor-pointer"
+        >
+          Submit Exam
+        </button>
+      </div>
+    </div>
+
+    <!-- Question Palette Jump Toolbar -->
+    <div class="bg-white rounded-2xl p-4 border border-slate-200/90 shadow-2xs">
+      <div class="flex items-center justify-between text-xs font-semibold text-slate-600 mb-2.5">
+        <div class="flex items-center gap-2">
+          <span>Jump to Question:</span>
+          <span class="inline-flex items-center gap-1 text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded text-2xs font-bold">
+            <span id="palette-answered-count">0</span> Answered
+          </span>
+          <span class="inline-flex items-center gap-1 text-amber-700 bg-amber-50 px-2 py-0.5 rounded text-2xs font-bold">
+            <span id="palette-flagged-count">0</span> Flagged
+          </span>
+        </div>
+        <button type="button" id="btn-toggle-flag" class="text-2xs font-bold px-2.5 py-1 rounded-lg border border-amber-300 text-amber-700 bg-amber-50 hover:bg-amber-100 transition cursor-pointer">
+          🚩 Flag Current for Review
+        </button>
+      </div>
+
+      <div class="flex flex-wrap gap-1.5 max-h-28 overflow-y-auto p-1 scrollbar-thin" id="player-jump-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+
+    <!-- Question Card Presentation -->
+    <div class="bg-white rounded-2xl border border-slate-200/90 p-5 sm:p-8 shadow-xs">
+      <div class="flex items-start justify-between gap-4 mb-4">
+        <div class="space-y-1">
+          <span class="inline-block px-2.5 py-1 rounded-md text-2xs font-black uppercase tracking-wider bg-teal-50 text-teal-800 border border-teal-200" id="card-section-label">
+            Syllabus Section
+          </span>
+          <span class="text-xs text-slate-400 block font-medium" id="card-tested-label">
+            Exam Context
+          </span>
+        </div>
+      </div>
+
+      <!-- Question Text -->
+      <h3 class="text-base sm:text-lg font-bold text-slate-900 leading-relaxed mb-6" id="card-question-text">
+        Question loading...
+      </h3>
+
+      <!-- 4 Options -->
+      <div class="space-y-3 mb-8" id="card-options-container">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Card Footer Navigation -->
+      <div class="pt-5 border-t border-slate-100 flex items-center justify-between gap-3">
+        <button
+          type="button"
+          id="btn-prev-question"
+          class="px-4 py-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 font-semibold text-xs transition cursor-pointer disabled:opacity-40"
+        >
+          ← Previous
+        </button>
+
+        <button
+          type="button"
+          id="btn-clear-selection"
+          class="text-2xs text-slate-400 hover:text-slate-600 underline font-medium cursor-pointer"
+        >
+          Clear Selection
+        </button>
+
+        <button
+          type="button"
+          id="btn-next-question"
+          class="px-5 py-2 rounded-xl bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs transition shadow-xs cursor-pointer"
+        >
+          Next →
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. COMPREHENSIVE RESULTS & DIAGNOSTIC SCREEN -->
+  <div id="mock-results-view" class="hidden space-y-6">
+    <!-- Top Result Banner -->
+    <div class="bg-gradient-to-br from-slate-900 via-slate-800 to-teal-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg border border-slate-800">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-6">
+        <div>
+          <span class="inline-block px-3 py-1 rounded-full text-xs font-black uppercase tracking-wider mb-2" id="results-status-badge">
+            Passed
+          </span>
+          <h2 class="text-3xl sm:text-4xl font-extrabold tracking-tight">
+            Examination Score: <span class="text-teal-400" id="results-score-display">0 / 50</span>
+          </h2>
+          <p class="text-slate-300 text-sm mt-1">
+            Percentage: <span class="font-bold text-white" id="results-percentage-display">0%</span> • 
+            Time Taken: <span class="font-medium text-slate-200" id="results-time-spent-display">0m</span> • 
+            Official Threshold: <span class="text-teal-300 font-bold">{blueprint.passingPercent}%</span>
+          </p>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-3">
+          <button
+            type="button"
+            id="btn-retake-mock"
+            class="px-5 py-2.5 rounded-xl bg-teal-500 hover:bg-teal-600 text-slate-900 font-bold text-xs transition shadow cursor-pointer"
+          >
+            🔄 Retake with Fresh Questions
+          </button>
+          <button
+            type="button"
+            id="btn-return-lobby"
+            class="px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 text-white font-semibold text-xs transition cursor-pointer"
+          >
+            ← Back to Exam Scheme
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Syllabus Section Diagnostics Breakdown -->
+    <div class="bg-white rounded-2xl p-6 border border-slate-200/90 shadow-xs">
+      <h3 class="text-base font-bold text-slate-900 mb-2">
+        Syllabus Performance Diagnostics
+      </h3>
+      <p class="text-xs text-slate-500 mb-5">
+        Breakdown of your accuracy across the official examination syllabus components:
+      </p>
+
+      <div class="space-y-4" id="results-sections-breakdown">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+
+    <!-- Complete Answer Review Section -->
+    <div class="bg-white rounded-2xl p-6 border border-slate-200/90 shadow-xs">
+      <div class="flex items-center justify-between mb-6 pb-4 border-b border-slate-100">
+        <div>
+          <h3 class="text-base font-bold text-slate-900">
+            Comprehensive Questions Review with Worked Solutions
+          </h3>
+          <p class="text-xs text-slate-500">
+            Study correct answers, key concepts, and detailed academic rationales.
+          </p>
+        </div>
+        <div class="flex items-center gap-2">
+          <button
+            type="button"
+            class="filter-review-btn px-2.5 py-1 rounded-lg text-2xs font-bold bg-teal-600 text-white"
+            data-filter="all"
+          >
+            All Questions
+          </button>
+          <button
+            type="button"
+            class="filter-review-btn px-2.5 py-1 rounded-lg text-2xs font-bold bg-slate-100 text-slate-700 hover:bg-slate-200"
+            data-filter="incorrect"
+          >
+            Mistakes Only
+          </button>
+        </div>
+      </div>
+
+      <div class="space-y-6" id="results-questions-review-list">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function initSyllabusMockEngine() {
+    const root = document.getElementById('mock-test-root');
+    if (!root) return;
+
+    const examSlug = root.dataset.examSlug || '';
+    const passingPercent = parseFloat(root.dataset.passingPercent || '50');
+    const negativeMarking = root.dataset.negativeMarking === 'true';
+    const negativePenalty = parseFloat(root.dataset.negativePenalty || '0');
+
+    // UI Views
+    const lobbyView = document.getElementById('mock-lobby-view')!;
+    const playerView = document.getElementById('mock-player-view')!;
+    const resultsView = document.getElementById('mock-results-view')!;
+
+    // Buttons
+    const startBtn = document.getElementById('btn-start-mock-test') as HTMLButtonElement;
+    const finishBtn = document.getElementById('btn-finish-test') as HTMLButtonElement;
+    const prevBtn = document.getElementById('btn-prev-question') as HTMLButtonElement;
+    const nextBtn = document.getElementById('btn-next-question') as HTMLButtonElement;
+    const clearBtn = document.getElementById('btn-clear-selection') as HTMLButtonElement;
+    const toggleFlagBtn = document.getElementById('btn-toggle-flag') as HTMLButtonElement;
+    const retakeBtn = document.getElementById('btn-retake-mock') as HTMLButtonElement;
+    const returnLobbyBtn = document.getElementById('btn-return-lobby') as HTMLButtonElement;
+
+    // Card Displays
+    const cardSectionLabel = document.getElementById('card-section-label')!;
+    const cardTestedLabel = document.getElementById('card-tested-label')!;
+    const cardQuestionText = document.getElementById('card-question-text')!;
+    const cardOptionsContainer = document.getElementById('card-options-container')!;
+    const currentIndexDisplay = document.getElementById('player-current-index-display')!;
+    const totalQuestionsDisplay = document.getElementById('player-total-questions-display')!;
+    const sectionBadge = document.getElementById('player-section-badge')!;
+    const timerDisplay = document.getElementById('player-timer-display')!;
+    const jumpGrid = document.getElementById('player-jump-grid')!;
+    const answeredCountEl = document.getElementById('palette-answered-count')!;
+    const flaggedCountEl = document.getElementById('palette-flagged-count')!;
+
+    // Test State
+    let testData: any = null;
+    let questions: any[] = [];
+    let currentIndex = 0;
+    let userAnswers: Record<number, number> = {}; // { qIndex: selectedOptionIndex }
+    let flaggedQuestions: Set<number> = new Set();
+    let timerInterval: any = null;
+    let secondsRemaining = 50 * 60;
+    let totalSecondsElapsed = 0;
+    let selectedQuestionCount = 30;
+
+    // Handle length buttons
+    const lengthButtons = document.querySelectorAll('.length-btn');
+    lengthButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        lengthButtons.forEach((b) => {
+          b.classList.remove('bg-white', 'text-teal-700', 'shadow-2xs');
+          b.classList.add('text-slate-600');
+        });
+        btn.classList.add('bg-white', 'text-teal-700', 'shadow-2xs');
+        btn.classList.remove('text-slate-600');
+        selectedQuestionCount = parseInt(btn.getAttribute('data-count') || '30', 10);
+      });
+    });
+
+    // Start Test
+    startBtn?.addEventListener('click', async () => {
+      startBtn.disabled = true;
+      startBtn.innerHTML = 'Generating Official Syllabus Test...';
+
+      try {
+        const resp = await fetch(`/api/mock-test?exam=${encodeURIComponent(examSlug)}&count=${selectedQuestionCount}`);
+        const result = await resp.json();
+
+        if (!result.success || !result.data) {
+          throw new Error(result.error || 'Failed to load test');
+        }
+
+        testData = result.data;
+        questions = testData.questions || [];
+        secondsRemaining = testData.durationMinutes * 60;
+        totalSecondsElapsed = 0;
+        userAnswers = {};
+        flaggedQuestions.clear();
+        currentIndex = 0;
+
+        // Switch to Player view
+        lobbyView.classList.add('hidden');
+        resultsView.classList.add('hidden');
+        playerView.classList.remove('hidden');
+
+        totalQuestionsDisplay.textContent = String(questions.length);
+        initPalette();
+        renderCurrentQuestion();
+        startTimer();
+
+        // Scroll into view
+        playerView.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } catch (err: any) {
+        alert('Could not start mock test: ' + err.message);
+      } finally {
+        startBtn.disabled = false;
+        startBtn.innerHTML = `<span>Start Syllabus Mock Test</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>`;
+      }
+    });
+
+    function startTimer() {
+      if (timerInterval) clearInterval(timerInterval);
+      timerInterval = setInterval(() => {
+        secondsRemaining--;
+        totalSecondsElapsed++;
+
+        const mins = Math.floor(secondsRemaining / 60);
+        const secs = secondsRemaining % 60;
+        timerDisplay.textContent = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+
+        if (secondsRemaining <= 300) {
+          timerDisplay.parentElement?.classList.add('bg-rose-950', 'text-rose-300', 'border-rose-700');
+        }
+
+        if (secondsRemaining <= 0) {
+          clearInterval(timerInterval);
+          finishExam(true);
+        }
+      }, 1000);
+    }
+
+    function initPalette() {
+      jumpGrid.innerHTML = '';
+      questions.forEach((_, idx) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = `w-7 h-7 rounded-lg text-2xs font-bold transition flex items-center justify-center border border-slate-200 bg-slate-50 text-slate-700 hover:border-teal-500`;
+        btn.textContent = String(idx + 1);
+        btn.id = `palette-btn-${idx}`;
+        btn.addEventListener('click', () => {
+          currentIndex = idx;
+          renderCurrentQuestion();
+        });
+        jumpGrid.appendChild(btn);
+      });
+      updatePaletteCounts();
+    }
+
+    function updatePaletteCounts() {
+      const answeredTotal = Object.keys(userAnswers).length;
+      answeredCountEl.textContent = String(answeredTotal);
+      flaggedCountEl.textContent = String(flaggedQuestions.size);
+
+      questions.forEach((_, idx) => {
+        const btn = document.getElementById(`palette-btn-${idx}`);
+        if (!btn) return;
+
+        btn.className = 'w-7 h-7 rounded-lg text-2xs font-bold transition flex items-center justify-center border';
+
+        if (idx === currentIndex) {
+          btn.classList.add('ring-2', 'ring-teal-600', 'ring-offset-1');
+        }
+
+        if (userAnswers[idx] !== undefined) {
+          btn.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
+        } else if (flaggedQuestions.has(idx)) {
+          btn.classList.add('bg-amber-400', 'text-amber-950', 'border-amber-400');
+        } else {
+          btn.classList.add('bg-slate-50', 'text-slate-700', 'border-slate-200');
+        }
+      });
+    }
+
+    function renderCurrentQuestion() {
+      const q = questions[currentIndex];
+      if (!q) return;
+
+      currentIndexDisplay.textContent = String(currentIndex + 1);
+      sectionBadge.textContent = q.sectionName;
+      cardSectionLabel.textContent = `${q.sectionName} (${q.sectionWeightage}%)`;
+      cardTestedLabel.textContent = Array.isArray(q.testedIn) && q.testedIn.length ? q.testedIn.join(' • ') : 'Official Syllabus Pool';
+      cardQuestionText.textContent = q.question;
+
+      // Update flag button
+      if (flaggedQuestions.has(currentIndex)) {
+        toggleFlagBtn.textContent = '🚩 Flagged (Click to remove)';
+        toggleFlagBtn.className = 'text-2xs font-bold px-2.5 py-1 rounded-lg border border-amber-500 text-white bg-amber-500 cursor-pointer';
+      } else {
+        toggleFlagBtn.textContent = '🚩 Flag for Review';
+        toggleFlagBtn.className = 'text-2xs font-bold px-2.5 py-1 rounded-lg border border-amber-300 text-amber-700 bg-amber-50 hover:bg-amber-100 transition cursor-pointer';
+      }
+
+      // Render options
+      cardOptionsContainer.innerHTML = '';
+      const letters = ['A', 'B', 'C', 'D', 'E'];
+      q.options.forEach((optText: string, optIdx: number) => {
+        const isSelected = userAnswers[currentIndex] === optIdx;
+        const optBtn = document.createElement('button');
+        optBtn.type = 'button';
+        optBtn.className = `w-full text-left p-3.5 sm:p-4 rounded-xl border transition flex items-start gap-3 cursor-pointer ${
+          isSelected
+            ? 'border-teal-600 bg-teal-50/80 ring-2 ring-teal-600/30'
+            : 'border-slate-200 hover:border-slate-300 bg-slate-50/50 hover:bg-slate-50'
+        }`;
+
+        optBtn.innerHTML = `
+          <span class="inline-flex items-center justify-center w-6 h-6 rounded-lg text-xs font-black shrink-0 ${
+            isSelected ? 'bg-teal-600 text-white' : 'bg-slate-200 text-slate-700'
+          }">
+            ${letters[optIdx] || optIdx + 1}
+          </span>
+          <span class="text-sm font-medium ${isSelected ? 'text-teal-950 font-semibold' : 'text-slate-800'} pt-0.5">
+            ${optText}
+          </span>
+        `;
+
+        optBtn.addEventListener('click', () => {
+          userAnswers[currentIndex] = optIdx;
+          renderCurrentQuestion();
+          updatePaletteCounts();
+        });
+
+        cardOptionsContainer.appendChild(optBtn);
+      });
+
+      prevBtn.disabled = currentIndex === 0;
+      nextBtn.textContent = currentIndex === questions.length - 1 ? 'Finish →' : 'Next →';
+      updatePaletteCounts();
+    }
+
+    prevBtn?.addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        renderCurrentQuestion();
+      }
+    });
+
+    nextBtn?.addEventListener('click', () => {
+      if (currentIndex < questions.length - 1) {
+        currentIndex++;
+        renderCurrentQuestion();
+      } else {
+        confirmFinish();
+      }
+    });
+
+    clearBtn?.addEventListener('click', () => {
+      delete userAnswers[currentIndex];
+      renderCurrentQuestion();
+      updatePaletteCounts();
+    });
+
+    toggleFlagBtn?.addEventListener('click', () => {
+      if (flaggedQuestions.has(currentIndex)) {
+        flaggedQuestions.delete(currentIndex);
+      } else {
+        flaggedQuestions.add(currentIndex);
+      }
+      renderCurrentQuestion();
+      updatePaletteCounts();
+    });
+
+    finishBtn?.addEventListener('click', () => {
+      confirmFinish();
+    });
+
+    function confirmFinish() {
+      const answered = Object.keys(userAnswers).length;
+      const unanswered = questions.length - answered;
+      const msg = unanswered > 0
+        ? `You have answered ${answered} of ${questions.length} questions (${unanswered} unanswered).\n\nAre you sure you want to finish and submit your exam?`
+        : `You have answered all ${questions.length} questions!\n\nSubmit and view your official syllabus breakdown?`;
+
+      if (confirm(msg)) {
+        finishExam(false);
+      }
+    }
+
+    function finishExam(timedOut: boolean) {
+      if (timerInterval) clearInterval(timerInterval);
+
+      let score = 0;
+      let correctCount = 0;
+      let wrongCount = 0;
+      const sectionPerformance: Record<string, { total: number; correct: number; name: string; weight: number }> = {};
+
+      testData.sections.forEach((sec: any) => {
+        sectionPerformance[sec.id] = {
+          total: 0,
+          correct: 0,
+          name: sec.name,
+          weight: sec.weightagePercent,
+        };
+      });
+
+      questions.forEach((q, idx) => {
+        const secId = q.sectionId;
+        if (sectionPerformance[secId]) {
+          sectionPerformance[secId].total++;
+        }
+
+        const userChoice = userAnswers[idx];
+        if (userChoice !== undefined) {
+          if (userChoice === q.answer) {
+            score++;
+            correctCount++;
+            if (sectionPerformance[secId]) sectionPerformance[secId].correct++;
+          } else {
+            wrongCount++;
+            if (negativeMarking) {
+              score = Math.max(0, score - negativePenalty);
+            }
+          }
+        }
+      });
+
+      const totalPossible = questions.length;
+      const percentage = totalPossible > 0 ? Math.round((score / totalPossible) * 1000) / 10 : 0;
+      const isPassed = percentage >= passingPercent;
+
+      // Populate Results UI
+      document.getElementById('results-score-display')!.textContent = `${score.toFixed(1).replace(/\.0$/, '')} / ${totalPossible}`;
+      document.getElementById('results-percentage-display')!.textContent = `${percentage}%`;
+
+      const minsSpent = Math.floor(totalSecondsElapsed / 60);
+      const secsSpent = totalSecondsElapsed % 60;
+      document.getElementById('results-time-spent-display')!.textContent = `${minsSpent}m ${secsSpent}s`;
+
+      const statusBadge = document.getElementById('results-status-badge')!;
+      if (percentage >= 80) {
+        statusBadge.textContent = '🏆 Distinction - Merit Position Safe';
+        statusBadge.className = 'inline-block px-3.5 py-1 rounded-full text-xs font-black uppercase tracking-wider mb-2 bg-emerald-500 text-slate-900';
+      } else if (isPassed) {
+        statusBadge.textContent = '✓ Passed Examination Threshold';
+        statusBadge.className = 'inline-block px-3.5 py-1 rounded-full text-xs font-black uppercase tracking-wider mb-2 bg-teal-400 text-slate-900';
+      } else {
+        statusBadge.textContent = '✗ Needs Syllabus Revision';
+        statusBadge.className = 'inline-block px-3.5 py-1 rounded-full text-xs font-black uppercase tracking-wider mb-2 bg-rose-500 text-white';
+      }
+
+      // Render Section Diagnostics
+      const breakdownEl = document.getElementById('results-sections-breakdown')!;
+      breakdownEl.innerHTML = '';
+      Object.values(sectionPerformance).forEach((sp) => {
+        const secPct = sp.total > 0 ? Math.round((sp.correct / sp.total) * 100) : 0;
+        let badgeColor = 'bg-rose-50 text-rose-700 border-rose-200';
+        let barColor = 'from-rose-500 to-amber-500';
+        let statusText = 'Needs Work';
+
+        if (secPct >= 75) {
+          badgeColor = 'bg-emerald-50 text-emerald-800 border-emerald-200';
+          barColor = 'from-teal-500 to-emerald-500';
+          statusText = 'Strong';
+        } else if (secPct >= 50) {
+          badgeColor = 'bg-teal-50 text-teal-800 border-teal-200';
+          barColor = 'from-teal-500 to-teal-600';
+          statusText = 'Satisfactory';
+        }
+
+        const row = document.createElement('div');
+        row.className = 'bg-slate-50/70 rounded-xl p-3.5 border border-slate-200/70';
+        row.innerHTML = `
+          <div class="flex items-center justify-between text-xs font-semibold mb-2">
+            <div>
+              <span class="font-bold text-slate-900">${sp.name}</span>
+              <span class="text-2xs text-slate-500 ml-1">(${sp.weight}% syllabus quota)</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="tabular-nums font-bold text-slate-700">${sp.correct} / ${sp.total} (${secPct}%)</span>
+              <span class="px-2 py-0.5 rounded text-2xs font-bold border ${badgeColor}">${statusText}</span>
+            </div>
+          </div>
+          <div class="h-2 w-full bg-slate-200 rounded-full overflow-hidden">
+            <div class="h-full bg-gradient-to-r ${barColor} rounded-full transition-all" style="width: ${secPct}%"></div>
+          </div>
+        `;
+        breakdownEl.appendChild(row);
+      });
+
+      // Render Questions Review
+      renderReviewList('all');
+
+      // Setup Review filter buttons
+      document.querySelectorAll('.filter-review-btn').forEach((b) => {
+        b.addEventListener('click', () => {
+          document.querySelectorAll('.filter-review-btn').forEach((x) => {
+            x.classList.remove('bg-teal-600', 'text-white');
+            x.classList.add('bg-slate-100', 'text-slate-700');
+          });
+          b.classList.add('bg-teal-600', 'text-white');
+          b.classList.remove('bg-slate-100', 'text-slate-700');
+          renderReviewList(b.getAttribute('data-filter') || 'all');
+        });
+      });
+
+      playerView.classList.add('hidden');
+      resultsView.classList.remove('hidden');
+      resultsView.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function renderReviewList(filter: string) {
+      const listEl = document.getElementById('results-questions-review-list')!;
+      listEl.innerHTML = '';
+
+      questions.forEach((q, idx) => {
+        const userChoice = userAnswers[idx];
+        const isCorrect = userChoice !== undefined && userChoice === q.answer;
+
+        if (filter === 'incorrect' && isCorrect) return;
+
+        const card = document.createElement('div');
+        card.className = `rounded-2xl border p-4 sm:p-5 ${
+          isCorrect ? 'border-emerald-200 bg-emerald-50/20' : 'border-rose-200 bg-rose-50/20'
+        }`;
+
+        const letters = ['A', 'B', 'C', 'D'];
+        let optionsHtml = '';
+        q.options.forEach((optText: string, optIdx: number) => {
+          let optStyle = 'border-slate-200 bg-white text-slate-700';
+          let indicator = '';
+
+          if (optIdx === q.answer) {
+            optStyle = 'border-emerald-500 bg-emerald-50 text-emerald-950 font-bold';
+            indicator = '<span class="text-emerald-700 ml-auto text-2xs font-black">✓ Correct Answer</span>';
+          } else if (optIdx === userChoice) {
+            optStyle = 'border-rose-500 bg-rose-50 text-rose-950 font-bold';
+            indicator = '<span class="text-rose-700 ml-auto text-2xs font-black">✗ Your Choice</span>';
+          }
+
+          optionsHtml += `
+            <div class="p-2.5 rounded-lg border text-xs flex items-center gap-2 ${optStyle}">
+              <span class="w-5 h-5 rounded font-black flex items-center justify-center text-2xs ${
+                optIdx === q.answer ? 'bg-emerald-600 text-white' : (optIdx === userChoice ? 'bg-rose-600 text-white' : 'bg-slate-100 text-slate-600')
+              }">
+                ${letters[optIdx] || optIdx + 1}
+              </span>
+              <span>${optText}</span>
+              ${indicator}
+            </div>
+          `;
+        });
+
+        card.innerHTML = `
+          <div class="flex items-center justify-between text-2xs text-slate-500 mb-2">
+            <span class="font-bold text-slate-800">Question ${idx + 1} • ${q.sectionName}</span>
+            <span class="px-2 py-0.5 rounded font-bold ${isCorrect ? 'bg-emerald-100 text-emerald-800' : 'bg-rose-100 text-rose-800'}">
+              ${isCorrect ? '✓ Correct' : (userChoice === undefined ? 'Unanswered' : '✗ Incorrect')}
+            </span>
+          </div>
+          <p class="text-sm font-bold text-slate-900 mb-3">${q.question}</p>
+          <div class="space-y-2 mb-3">
+            ${optionsHtml}
+          </div>
+          <div class="bg-white rounded-xl p-3 border border-slate-200 text-xs">
+            <p class="font-bold text-teal-800 mb-1">💡 Solution & Concept:</p>
+            <p class="text-slate-700 leading-relaxed">${q.explanation}</p>
+            ${q.keyConcept ? `<p class="text-2xs text-slate-500 mt-1.5 font-medium">Topic: <span class="text-slate-700">${q.keyConcept}</span></p>` : ''}
+          </div>
+        `;
+
+        listEl.appendChild(card);
+      });
+    }
+
+    retakeBtn?.addEventListener('click', () => {
+      resultsView.classList.add('hidden');
+      lobbyView.classList.remove('hidden');
+      startBtn.click();
+    });
+
+    returnLobbyBtn?.addEventListener('click', () => {
+      resultsView.classList.add('hidden');
+      playerView.classList.add('hidden');
+      lobbyView.classList.remove('hidden');
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', initSyllabusMockEngine);
+  document.addEventListener('astro:after-swap', initSyllabusMockEngine);
+</script>

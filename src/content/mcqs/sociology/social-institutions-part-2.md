@@ -53,19 +53,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 4
-    question: "In post-Independence India the state was committed to the abolition of:"
-    options:
-      - Illiteracy
-      - Poverty
-      - Wandering cattle
-      - Caste
-    answer: 3
-    explanation: Caste is the correct answer to “In post-Independence India the state was committed to the abolition of:”. This question is standard in competitive examination syllabi for Social Institutions.
-    keyConcept: Social Institutions
-    testedIn:
-      - CSS
-      - PMS
   - id: 5
     question: Which one of the following was not the characteristic of merchant guilds?
     options:

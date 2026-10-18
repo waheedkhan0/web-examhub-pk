@@ -118,19 +118,6 @@ questions:
     testedIn:
       - MDCAT
       - PPSC
-  - id: 9
-    question: "With reference to agriculture in India, how can the technique of 'genome sequencing', often seen in the news, be used in the immediate future? 1. Genome sequencing can be used indentify genetic markers for disease resistance and drought tolerance in various crop plants. 2. This technique helps in reducing the time required to develop new varieties of crop plants. 3. It can be used to decipher the host-pathogen relationship in crops. Select the correct answer:"
-    options:
-      - Only 1
-      - Only 2 and 3
-      - Only 1 and 3
-      - 1, 2 and 3
-    answer: 3
-    explanation: 1, 2 and 3 is the correct answer to “With reference to agriculture in India, how can the technique of 'genome sequencing', often seen in the news, be used in the immediate future? 1. Genome sequencing can be used indentify genetic markers for disease resistance and drought tolerance in various crop plants. 2. This technique helps in reducing the time required to develop new varieties of crop plants. 3. It can be used to decipher the host-pathogen relationship in crops. Select the correct answer:”. This question is standard in competitive examination syllabi for Biotechnology.
-    keyConcept: Biotechnology
-    testedIn:
-      - MDCAT
-      - PPSC
   - id: 10
     question: Which of the following is the first living cloned genetic engineered organism by human?
     options:
@@ -378,19 +365,6 @@ questions:
     testedIn:
       - MDCAT
       - PPSC
-  - id: 29
-    question: Indian farmers are unsatisfied with terminator seed technology because it increases the possibility of
-    options:
-      - Appearance of bad germination
-      - Making little yield inspite of high quality plants
-      - Growing sterile plants (sexually)
-      - Growing of plants which one not capable of producing germinable seeds
-    answer: 3
-    explanation: Growing of plants which one not capable of producing germinable seeds is the correct answer to “Indian farmers are unsatisfied with terminator seed technology because it increases the possibility of”. This question is standard in competitive examination syllabi for Biotechnology.
-    keyConcept: Biotechnology
-    testedIn:
-      - MDCAT
-      - PPSC
   - id: 30
     question: If a rat is created by using human growth gene, which is eight times bigger than normal rat; then this technique will be said as
     options:
@@ -535,5 +509,4 @@ questions:
       - MDCAT
       - PPSC
 ---
-
 

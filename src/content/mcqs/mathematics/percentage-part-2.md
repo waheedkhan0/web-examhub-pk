@@ -220,7 +220,7 @@ questions:
       - CSS
       - NTS
   - id: 16
-    question: "In the Science City, Kolkata the rate of the ticket is increased by 50% to increased the revenue but simultaneously 20% of the visitor decreased. What is percentage change in the revenue. if it is known that the Science city collects one revenue only from the visitors and it has no other financial supports:"
+    question: "In the Science City the rate of the ticket is increased by 50% to increased the revenue but simultaneously 20% of the visitor decreased. What is percentage change in the revenue. if it is known that the Science city collects one revenue only from the visitors and it has no other financial supports:"
     options:
       - +20%
       - "-25%"
@@ -299,7 +299,7 @@ questions:
       - CSS
       - NTS
   - id: 22
-    question: "In the Bombay Stock Exchange there are 45% female employees and thus the number of male employees is exceeded by 72. Hence the total no. of employees in the BSE is:"
+    question: "In the Pakistan Stock Exchange there are 45% female employees and thus the number of male employees is exceeded by 72. Hence the total no. of employees in the PSX is:"
     options:
       - "540"
       - "720"

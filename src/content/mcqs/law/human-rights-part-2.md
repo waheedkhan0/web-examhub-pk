@@ -80,19 +80,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 6
-    question: "The procedure in relation to armed forces has been given in the Protection of Human Rights Act, under Section:"
-    options:
-      - Not given
-      - "19"
-      - "29"
-      - "39"
-    answer: 1
-    explanation: 19 is the correct answer to “The procedure in relation to armed forces has been given in the Protection of Human Rights Act, under Section:”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 7
     question: "The jurisdiction of the International Criminal Court (ICC) is \"rationetemporis\". This means:"
     options:
@@ -119,32 +106,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 9
-    question: "The National Human Rights Commission was established in India on:"
-    options:
-      - 12th October 1993
-      - 22nd November 1993
-      - 25th November 1993
-      - 2nd December 1993
-    answer: 0
-    explanation: 12th October 1993 is the correct answer to “The National Human Rights Commission was established in India on:”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 10
-    question: Vishakha v. State of Rajasthan case dealt with
-    options:
-      - Prevention of Domestic violence against women
-      - Sexual violence against women at work place
-      - Ban on the practice of female infanticide
-      - Promotion of educational and employment opportunities for women
-    answer: 1
-    explanation: Sexual violence against women at work place is the correct answer to “Vishakha v. State of Rajasthan case dealt with”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 11
     question: Which Article of Universal Declaration of Human Rights declares, "Everyone has the right to life, liberty and security of person"?
     options:
@@ -154,71 +115,6 @@ questions:
       - Article 6
     answer: 1
     explanation: Article 3 is the correct answer to “Which Article of Universal Declaration of Human Rights declares, "Everyone has the right to life, liberty and security of person"”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 12
-    question: When did India enact positive law on human rights?
-    options:
-      - "1993"
-      - "1950"
-      - "1919"
-      - "1935"
-    answer: 0
-    explanation: 1993 is the correct answer to “When did India enact positive law on human rights”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 13
-    question: "The Protection of Human Rights Act is divided into how many chapters and sections:"
-    options:
-      - Chapter VII, Sections 40
-      - Chapter VIII, Sections 43
-      - Chapter VIII, Sections 42
-      - Chapter VII, Sections 43
-    answer: 1
-    explanation: Chapter VIII, Sections 43 is the correct answer to “The Protection of Human Rights Act is divided into how many chapters and sections:”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 14
-    question: As per the Protection of Human Rights Act, which court in a district acts as Human Rights Court?
-    options:
-      - Small cause court
-      - Court of appeal
-      - Court of session
-      - Munsiff court
-    answer: 2
-    explanation: Court of session is the correct answer to “As per the Protection of Human Rights Act, which court in a district acts as Human Rights Court”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 15
-    question: According to the Constitution of India, which one of the following rights cannot be taken away during emergency?
-    options:
-      - Right to speak
-      - Right to freedom of movement
-      - Right to life
-      - Right to organize
-    answer: 2
-    explanation: Right to life is the correct answer to “According to the Constitution of India, which one of the following rights cannot be taken away during emergency”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 16
-    question: Human rights are defined in which of the following sections of the Protection of Human Rights Act, 1993?
-    options:
-      - Section 2(a)
-      - Section 2(b)
-      - Section 2(c)
-      - Section 2(d)
-    answer: 3
-    explanation: Section 2(d) is the correct answer to “Human rights are defined in which of the following sections of the Protection of Human Rights Act, 1993”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -301,32 +197,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 23
-    question: "Under the Protection of Human Right Act, 1993, the State Human Rights Commission shall submit an annual report to:"
-    options:
-      - The State Government
-      - The Central Government
-      - The National Human Rights Commission
-      - All of the above
-    answer: 0
-    explanation: The State Government is the correct answer to “Under the Protection of Human Right Act, 1993, the State Human Rights Commission shall submit an annual report to:”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 24
-    question: The Framers of the Indian Constitution borrowed the concept of Fundamental Rights from the Constitution of
-    options:
-      - U. S. A.
-      - U. K.
-      - Ireland
-      - Canada
-    answer: 0
-    explanation: U. S. A. is the correct answer to “The Framers of the Indian Constitution borrowed the concept of Fundamental Rights from the Constitution of”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 25
     question: All Human Rights are inherent in all human beings because
     options:
@@ -349,19 +219,6 @@ questions:
       - "2008"
     answer: 1
     explanation: 1998 is the correct answer to “European Commission on Human Rights is abolished in”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 27
-    question: Which of the following provisions articulate the constitutional vision of Justice in India?
-    options:
-      - Free and Independent Judiciary
-      - Directive Principles of State policy
-      - Fundamental Duties
-      - Special Status to the State of Jammu and Kashmir
-    answer: 1
-    explanation: Directive Principles of State policy is the correct answer to “Which of the following provisions articulate the constitutional vision of Justice in India”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -418,19 +275,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 32
-    question: The National Human Rights Commission is a
-    options:
-      - Constitutional body
-      - Statutory body
-      - Executive body
-      - NGO
-    answer: 1
-    explanation: Statutory body is the correct answer to “The National Human Rights Commission is a”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 33
     question: Crimes against humanity is defined as acts when committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack. Which of the following is an example of crimes against humanity?
     options:
@@ -444,19 +288,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 34
-    question: The Indian tradition of human rights during war is best exemplified in the work of
-    options:
-      - Mahabharata
-      - Ramayana
-      - Emperor Ashoka
-      - Emperor Akbar
-    answer: 2
-    explanation: Emperor Ashoka is the correct answer to “The Indian tradition of human rights during war is best exemplified in the work of”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 35
     question: "Arrange the following instruments in their chronological order of their introduction using codes given below: 1. International Convention on the Elimination of all forms of Racial Discrimination. 2. Bill of Rights. 3. Torture Convention. 4. United Nations Convention on the Rights of the Child."
     options:
@@ -466,19 +297,6 @@ questions:
       - 1, 2, 3, 4
     answer: 1
     explanation: "2, 1, 3, 4 is the correct answer to “Arrange the following instruments in their chronological order of their introduction using codes given below: 1. International Convention on the Elimination of all forms of Racial Discrimination. 2. Bill of Rights. 3. Torture Convention. 4. United Nations Convention on the Rights of the Child.”. This question is standard in competitive examination syllabi for Human Rights."
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 36
-    question: The case that dealt about chakma refugees is
-    options:
-      - National Human Rights Commission v. State of Arunachal Pradesh
-      - Louis De Raedt v. Union of India
-      - Krishna Singh v. State
-      - Indian Express Newspaper v. Union of India
-    answer: 0
-    explanation: National Human Rights Commission v. State of Arunachal Pradesh is the correct answer to “The case that dealt about chakma refugees is”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -505,19 +323,6 @@ questions:
       - Suspension of human rights during a public emergency
     answer: 1
     explanation: The suspension of particular rights (but not fundamental ones) for a specific period of time during a public emergency that threatens the life of a nation is the correct answer to “What is a derogation”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 39
-    question: Article 340 of the Indian Constitution deals with
-    options:
-      - Backward Classes Commission
-      - Election Commission
-      - Union Public Service Commission
-      - Finance Commission
-    answer: 0
-    explanation: Backward Classes Commission is the correct answer to “Article 340 of the Indian Constitution deals with”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge

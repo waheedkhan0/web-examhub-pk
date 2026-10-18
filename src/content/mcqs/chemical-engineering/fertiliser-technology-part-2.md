@@ -118,19 +118,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 9
-    question: Though liquid ammonia itself is a fertiliser (with 82% nitrogen content) yet it is commonly not used as such in a tropical country like India, because it
-    options:
-      - Has a pungent smell
-      - Vaporises at normal temperature
-      - Is toxic and highly corrosive
-      - Is in short supply
-    answer: 1
-    explanation: Vaporises at normal temperature is the correct answer to “Though liquid ammonia itself is a fertiliser (with 82% nitrogen content) yet it is commonly not used as such in a tropical country like India, because it”. This question is standard in competitive examination syllabi for Fertiliser Technology.
-    keyConcept: Fertiliser Technology
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 10
     question: Catalytic ammonia synthesis reaction as in Haber's process is
     options:
@@ -153,19 +140,6 @@ questions:
       - Atmospheric pressure; as the pressure has no effect on conversion
     answer: 1
     explanation: High pressure is the correct answer to “In ammonia synthesis (N 2 + 3H 2 = 2NH 3 ), there is a decrease in total volume, hence to get high equilibrium conversion, the reaction should be carried out at”. This question is standard in competitive examination syllabi for Fertiliser Technology.
-    keyConcept: Fertiliser Technology
-    testedIn:
-      - FPSC
-      - PPSC
-  - id: 12
-    question: Which of the following is the costliest source of hydrogen needed for ammonia manufacture under Indian condition?
-    options:
-      - Electrolysis of water
-      - Cryogenic removal of H2 from coke oven gas
-      - Steam reforming of naphtha
-      - Natural gas cracking
-    answer: 0
-    explanation: Electrolysis of water is the correct answer to “Which of the following is the costliest source of hydrogen needed for ammonia manufacture under Indian condition”. This question is standard in competitive examination syllabi for Fertiliser Technology.
     keyConcept: Fertiliser Technology
     testedIn:
       - FPSC
@@ -535,5 +509,4 @@ questions:
       - FPSC
       - PPSC
 ---
-
 

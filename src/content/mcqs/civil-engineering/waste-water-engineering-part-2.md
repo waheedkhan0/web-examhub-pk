@@ -236,19 +236,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 18
-    question: The maximum spacing of manholes specified by Indian standard in sewers upto 0.3 m diameter is
-    options:
-      - 20 m
-      - 30 m
-      - 45 m
-      - 75 m
-    answer: 2
-    explanation: 45 m is the correct answer to “The maximum spacing of manholes specified by Indian standard in sewers upto 0.3 m diameter is”. This question is standard in competitive examination syllabi for Waste Water Engineering.
-    keyConcept: Waste Water Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 19
     question: If n is the rugosity coefficient, r is the hydraulic depth, s is the bed slope of sewer, the velocity of flow in m/sec may be obtained by the formula $${\text{V}} = \frac{1}{{\text{n}}}{{\text{r}}^{\frac{2}{3}}}{{\text{s}}^{\frac{1}{2}}}$$ evolved by
     options:
@@ -310,19 +297,6 @@ questions:
       - None of these
     answer: 2
     explanation: Storm sewage is the correct answer to “The quantity of liquid waste which flows in sewers during the period of rainfall, is known”. This question is standard in competitive examination syllabi for Waste Water Engineering.
-    keyConcept: Waste Water Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 24
-    question: To prevent settling down of sewage both at the bottom and on the sides of a large sewer, self-cleaning velocity recommended for Indian conditions, is
-    options:
-      - 0.50 m/sec
-      - 0.60 m/sec
-      - 0.70 m/sec
-      - 0.75 m/sec
-    answer: 3
-    explanation: 0.75 m/sec is the correct answer to “To prevent settling down of sewage both at the bottom and on the sides of a large sewer, self-cleaning velocity recommended for Indian conditions, is”. This question is standard in competitive examination syllabi for Waste Water Engineering.
     keyConcept: Waste Water Engineering
     testedIn:
       - PPSC SDO
@@ -536,5 +510,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

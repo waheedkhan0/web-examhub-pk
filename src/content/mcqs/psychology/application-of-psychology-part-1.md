@@ -14,19 +14,6 @@ targetExams:
   - PPSC
   - FPSC
 questions:
-  - id: 1
-    question: What is the step taken by the Government of India for the emotionally deprived children to solve their problems?
-    options:
-      - Constructing new hostels
-      - Appointing psychiatrists
-      - Beginning SOS village scheme
-      - None of the above
-    answer: 2
-    explanation: Beginning SOS village scheme is the correct answer to “What is the step taken by the Government of India for the emotionally deprived children to solve their problems”. This question is standard in competitive examination syllabi for Application Of Psychology.
-    keyConcept: Application Of Psychology
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: The legacy of medically oriented approach to treatment can be seen in today's
     options:
@@ -235,19 +222,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: Which one of the following options is correct?
-    options:
-      - Patanjali compiled and refined various aspects of yoga systematically in his famous treaties known as 'Yoga Sutra'
-      - Patanjali presented eight-fold path of yoga for the overall development of human personality
-      - The eight-fold path of yoga is known as Ashtanga yoga
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Which one of the following options is correct”. This question is standard in competitive examination syllabi for Application Of Psychology.
-    keyConcept: Application Of Psychology
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: In which of the following years the American psychiatric Association published the Diagnostic and statistical manual of mental Disorder (DSM-II) which revised their 1952 standards (DSM-I) for recording and reporting the diagnoses of psychiatric patients?
     options:
@@ -296,19 +270,6 @@ questions:
       - None of the above
     answer: 1
     explanation: Seven goals of his world plan is the correct answer to “Maharishi Mahesh Yogi has given”. This question is standard in competitive examination syllabi for Application Of Psychology.
-    keyConcept: Application Of Psychology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 23
-    question: What is a yoga?
-    options:
-      - It is a system of Hindu philosophy
-      - It is a system of Buddhist philosophy
-      - It is a derived from Carvaka philosophy
-      - None of the above
-    answer: 0
-    explanation: It is a system of Hindu philosophy is the correct answer to “What is a yoga”. This question is standard in competitive examination syllabi for Application Of Psychology.
     keyConcept: Application Of Psychology
     testedIn:
       - CSS

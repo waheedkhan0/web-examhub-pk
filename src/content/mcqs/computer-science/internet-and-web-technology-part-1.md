@@ -15,19 +15,6 @@ targetExams:
   - PMS
   - NTS
 questions:
-  - id: 1
-    question: "Internet was started in India on:"
-    options:
-      - 9th August, 1996
-      - 8th August, 1994
-      - 15th August, 1995
-      - 11th August, 1995
-    answer: 2
-    explanation: The first publicly available internet service in India was launched by state-owned Videsh Sanchar Nigam Limited (VSNL) on 15 August 1995. At the time, VSNL had a monopoly over international communications in the country and private enterprise was not permitted in the sector.
-    keyConcept: Internet And Web Technology
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 2
     question: What is the URL?
     options:
@@ -111,7 +98,7 @@ questions:
     options:
       - a large network of networks
       - an internal communication system for a business
-      - a communication system for the Indian government
+      - a communication system for the Pakistani government
       - All of the above
     answer: 0
     explanation: "The Internet is a large network of networks that connects millions of private, public, academic, business, and government networks worldwide. Key Points: The Internet allows the exchange of information and communication across the globe using standardized protocols such as TCP/IP. It is not limited to internal communication for businesses or specific government systems but is a universal network accessible to anyone with proper access. It includes various services such as email, the World Wide Web (WWW), file sharing, and more. Therefore: The Internet is best described as a large network of networks ."
@@ -541,5 +528,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

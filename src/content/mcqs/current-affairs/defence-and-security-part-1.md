@@ -64,16 +64,6 @@ questions:
     answer: 1
     explanation: Explorers have recently found wreckage of the WWII Navy Ship USS Sameul vin Western Pacific.
     keyConcept: Defence, Security & Military Exercises
-  - id: 6
-    question: Indian Navy has taken delivery of Indigenous Aircraft Carrier ______ from manufacturer Cochin Shipyard Limited in July 2022?
-    options:
-      - Viraat
-      - Vikram
-      - Vikrant
-      - Vijay
-    answer: 2
-    explanation: Indian Navy has taken delivery of Indigenous Aircraft Carrier Vikrant from manufacturer Cochin Shipyard Limited in July 2022.
-    keyConcept: Defence, Security & Military Exercises
   - id: 7
     question: Neptune Missile system’ is associated with which country?
     options:
@@ -254,15 +244,6 @@ questions:
       - Al-Kassah-lll
     answer: 2
     explanation: Al-Kassah-lll is the correct answer to “Which military exercise commenced on Monday 13 December between Pakistan and Saudi Arabia at King Khalid Military City Hafar Al Batin in Saudi Arabia”. Items of this type are drawn from the Defence, Security & Military Exercises — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Defence, Security & Military Exercises
-  - id: 26
-    question: When did Indian CDS (Cheif of Defence Services) die in the Helicopter crash?
-    options:
-      - 6 December, 2021
-      - 8 December, 2021
-      - 7 December, 2021
-    answer: 1
-    explanation: 8 December, 2021 is the correct answer to “When did Indian CDS (Cheif of Defence Services) die in the Helicopter crash”. Items of this type are drawn from the Defence, Security & Military Exercises — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Defence, Security & Military Exercises
   - id: 27
     question: Which countries step up military alert with combat drills?

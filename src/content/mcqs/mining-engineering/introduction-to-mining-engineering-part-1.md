@@ -417,19 +417,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 32
-    question: Water bearance of Indian coal seam is
-    options:
-      - Very high
-      - High
-      - Very less
-      - Moderate
-    answer: 3
-    explanation: Moderate is the correct answer to “Water bearance of Indian coal seam is”. This question is standard in competitive examination syllabi for Introduction To Mining Engineering.
-    keyConcept: Introduction To Mining Engineering
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 33
     question: In any working below ground there should be provided at least two shaft or incline which should be away from each other by a minimum distance
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

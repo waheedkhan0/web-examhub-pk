@@ -41,19 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: As per the Foreign Trade (Development and Regulation) Act, 1992, who advises the Central Government in the formulation of Export and Import Policy?
-    options:
-      - Chief controller of Imports and Exports
-      - Director General of Foreign Trade
-      - Director General of Commercial Intelligence
-      - Chief Controller of Foreign Trade
-    answer: 1
-    explanation: Director General of Foreign Trade is the correct answer to “As per the Foreign Trade (Development and Regulation) Act, 1992, who advises the Central Government in the formulation of Export and Import Policy”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Foreign Direct Investment (FDI) involves
     options:
@@ -275,19 +262,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 21
-    question: For which of the following sectors, the FDI cap/equity is 100%? 1. Mining including exploration and mining of diamonds 2. Defence production 3. Drugs and pharmaceuticals 4. Insurance 5. Banking 6. Power (except atomic energy) Select the correct answer
-    options:
-      - 1, 3, 4 and 6
-      - 1, 3, 4 and 5
-      - 1, 2 and 6
-      - 1, 3 and 6
-    answer: 3
-    explanation: 1, 3 and 6 is the correct answer to “For which of the following sectors, the FDI cap/equity is 100%? 1. Mining including exploration and mining of diamonds 2. Defence production 3. Drugs and pharmaceuticals 4. Insurance 5. Banking 6. Power (except atomic energy) Select the correct answer”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 22
     question: Which industrialisation policy have developing countries used which places emphasise on the comparative advantage principle as a guide to resource allocation?
     options:
@@ -301,19 +275,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 23
-    question: To comply with the requirement of TRIPS agreement and to protect products of Indian origin, which one of the following was enacted?
-    options:
-      - WTO Compliance Act, 1999
-      - Geographical Indication of Goods (Registration and Protection) Act, 1999
-      - The Patents Act
-      - The Copyright Act
-    answer: 1
-    explanation: Geographical Indication of Goods (Registration and Protection) Act, 1999 is the correct answer to “To comply with the requirement of TRIPS agreement and to protect products of Indian origin, which one of the following was enacted”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 24
     question: A tax of 15% per imported item would be an example of a (an)
     options:
@@ -323,32 +284,6 @@ questions:
       - compound tariff
     answer: 0
     explanation: ad valorem tariff is the correct answer to “A tax of 15% per imported item would be an example of a (an)”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 25
-    question: Which of the following are included in the canalised list? 1. Seeds, plants and animals 2. Crude oil 3. Motor spirit 4. Cereals 5. Non-edible oils 6. Nitrogenous and potassic phosphatic fertilisers 7. Communication jamming equipments 8. Animal rennet Select the correct answer
-    options:
-      - 1, 4, 5, 6
-      - 2, 3, 4, 5, 6
-      - 1, 2, 3, 4, 5
-      - 2, 3, 4, 5
-    answer: 3
-    explanation: 2, 3, 4, 5 is the correct answer to “Which of the following are included in the canalised list? 1. Seeds, plants and animals 2. Crude oil 3. Motor spirit 4. Cereals 5. Non-edible oils 6. Nitrogenous and potassic phosphatic fertilisers 7. Communication jamming equipments 8. Animal rennet Select the correct answer”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: Which of the following documents are required in export documentation? 1. Commercial invoice 2. Guaranteed remittance (GR) form 3. Certificate of measurement 4. Certificate of inspection 5. Freight declaration 6. Shipping bill 7. Consular invoice 8. Certificate of origin 9. Bill of lading 10. Mate's receipt Select the correct answer
-    options:
-      - 1, 2, 4, 5, 6, 7, 8, 9, 10
-      - 1, 2, 6, 7, 8, 9, 10
-      - 1, 2, 4, 5, 6, 7, 10
-      - All of the above
-    answer: 1
-    explanation: 1, 2, 6, 7, 8, 9, 10 is the correct answer to “Which of the following documents are required in export documentation? 1. Commercial invoice 2. Guaranteed remittance (GR) form 3. Certificate of measurement 4. Certificate of inspection 5. Freight declaration 6. Shipping bill 7. Consular invoice 8. Certificate of origin 9. Bill of lading 10. Mate's receipt Select the correct answer”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -375,19 +310,6 @@ questions:
       - maintain a discriminatory structure of tariffs
     answer: 2
     explanation: maintain a non-discriminatory structure of tariffs is the correct answer to “The effect of the most favoured nation (normal trade relations) clause is to”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 29
-    question: If a bank in India, SBI, has an account with Citibank, Newyork and another Indian Bank, Allahabad Bank wants to refer to that account while corresponding with Citibank, Newyork, the Allahabad Bank would refer to which one of the following accounts?
-    options:
-      - Loro account
-      - Mirror account
-      - Vostro account
-      - Mix of Nostro and Vostro account
-    answer: 0
-    explanation: Loro account is the correct answer to “If a bank in India, SBI, has an account with Citibank, Newyork and another Indian Bank, Allahabad Bank wants to refer to that account while corresponding with Citibank, Newyork, the Allahabad Bank would refer to which one of the following accounts”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -444,19 +366,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 34
-    question: The Indian Government has classified importers into
-    options:
-      - industrial users
-      - non-industrial users
-      - actual users
-      - all of these
-    answer: 3
-    explanation: all of these is the correct answer to “The Indian Government has classified importers into”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 35
     question: Multilateral Investment Guarantee Agency (MIGA), an affiliate of World Bank, aims to address which one of the following?
     options:
@@ -470,19 +379,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 36
-    question: Which of the following items are not patentable? 1. Frivolous invention or which claims anything which is dearly opposite to the natural laws. 2. Computer hardware. 3. Patent capable of being worked and some commercial utility. 4. Inventions related to method of horticulture or agriculture. 5. Food inventions. 6. Medicines, computer software, biological invention. Select the correct answer
-    options:
-      - 1, 2, 4, 6
-      - 1, 3, 4, 6
-      - Both 1 and 5
-      - Both 1 and 4
-    answer: 2
-    explanation: Both 1 and 5 is the correct answer to “Which of the following items are not patentable? 1. Frivolous invention or which claims anything which is dearly opposite to the natural laws. 2. Computer hardware. 3. Patent capable of being worked and some commercial utility. 4. Inventions related to method of horticulture or agriculture. 5. Food inventions. 6. Medicines, computer software, biological invention. Select the correct answer”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 37
     question: Which of the following statements(s) is/are correct about WTO? 1. Belarus is not a member of WTO. 2. Ministerial Conferenceis highest decision-making body of WTO meets annually.
     options:
@@ -492,19 +388,6 @@ questions:
       - None of the above
     answer: 0
     explanation: Only 1 is the correct answer to “Which of the following statements(s) is/are correct about WTO? 1. Belarus is not a member of WTO. 2. Ministerial Conferenceis highest decision-making body of WTO meets annually.”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: Which of the following statement is not true for FIEO?
-    options:
-      - This is an apex body of several organisations related to export promotions
-      - The federation works as a link between the international organisations and the government
-      - They have been established by the Indian Government to promote some of the traditional commodities that have high export potential in the global market
-      - It facilitates direct communication between the businessmen of the world and India
-    answer: 2
-    explanation: They have been established by the Indian Government to promote some of the traditional commodities that have high export potential in the global market is the correct answer to “Which of the following statement is not true for FIEO”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -536,5 +419,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

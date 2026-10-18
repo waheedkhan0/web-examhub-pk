@@ -53,19 +53,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 4
-    question: "Jyotiba Phule recalled the glory of pre-Aryan age while Bal Gangadhar Tilak emphasised the glory of:"
-    options:
-      - Modern period
-      - Aryan period
-      - Colonial period
-      - Medieval period
-    answer: 1
-    explanation: Aryan period is the correct answer to “Jyotiba Phule recalled the glory of pre-Aryan age while Bal Gangadhar Tilak emphasised the glory of:”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 5
     question: How do symbols function in a society?
     options:
@@ -75,32 +62,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “How do symbols function in a society”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 6
-    question: "Match List-I with List-II and select the correct answer: List I List II a. Communalism 1. Religious Equality b. Secularism 2. Ayodhya Controversy c. Religious Organisation 3. Benefit of a particular section d. Religious Movement 4. Bajrang Dal"
-    options:
-      - a-3, b-1, c-4, d-2
-      - a-1, b-4, c-2, d-3
-      - a-2, b-3, c-1, d-4
-      - a-1, b-2, c-3, d-4
-    answer: 0
-    explanation: "a-3, b-1, c-4, d-2 is the correct answer to “Match List-I with List-II and select the correct answer: List I List II a. Communalism 1. Religious Equality b. Secularism 2. Ayodhya Controversy c. Religious Organisation 3. Benefit of a particular section d. Religious Movement 4. Bajrang Dal”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology."
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: Consider the following statements 1. The Indian Constitution establishes a Secular state. 2. The state treats all religions equally i.e. freedom of faith and worship is allowed to all the people. 3. Educational institutions, without exception are free to impart religious instruction. 4. The state makes no discrimination on the basis of the religion in matters of employment. Choose the correct answer
-    options:
-      - 1 and 2
-      - 1, 2, 3 and 4
-      - 2, 3 and 4
-      - 1, 2 and 4
-    answer: 1
-    explanation: 1, 2, 3 and 4 is the correct answer to “Consider the following statements 1. The Indian Constitution establishes a Secular state. 2. The state treats all religions equally i.e. freedom of faith and worship is allowed to all the people. 3. Educational institutions, without exception are free to impart religious instruction. 4. The state makes no discrimination on the basis of the religion in matters of employment. Choose the correct answer”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
     keyConcept: Culture And Symbolic Transformation In Sociology
     testedIn:
       - CSS
@@ -153,19 +114,6 @@ questions:
       - None of the above
     answer: 0
     explanation: It refers to the change in wealth and social status of individuals or families is the correct answer to “Which of the following statement best defines the term social mobility”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 12
-    question: "The Indian Constitution declares the state to be a:"
-    options:
-      - Religion-based state
-      - Secular state
-      - Minority welfare state
-      - Religion-less state
-    answer: 1
-    explanation: Secular state is the correct answer to “The Indian Constitution declares the state to be a:”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
     keyConcept: Culture And Symbolic Transformation In Sociology
     testedIn:
       - CSS
@@ -261,19 +209,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 20
-    question: Match an item in List-I with an item in List-II . List I (Books) List II (Authors) a. Caste in Modern India 1. A Beiteille b. Caste, Class, Power 2. L. Dumont c. Homo Hierarchies 3. Indra Deva d. Folk Culture and peasant Societies in India 4. M. N. Srinivas 5. J. H. Hutton
-    options:
-      - a-4, b-1, c-2, d-3
-      - a-3, b-2, c-1, d-5
-      - a-1, b-2, c-4, d-3
-      - a-5, b-2, c-3, d-1
-    answer: 0
-    explanation: a-4, b-1, c-2, d-3 is the correct answer to “Match an item in List-I with an item in List-II . List I (Books) List II (Authors) a. Caste in Modern India 1. A Beiteille b. Caste, Class, Power 2. L. Dumont c. Homo Hierarchies 3. Indra Deva d. Folk Culture and peasant Societies in India 4. M. N. Srinivas 5. J. H. Hutton”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 21
     question: Which of the following can be considered as importance of Pilgrimage?
     options:
@@ -352,19 +287,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 27
-    question: Which Article of the Constitution prohibits the state from discriminating between citizens on the grounds of religion?
-    options:
-      - Article 16
-      - Article 15
-      - Article 17
-      - Article 19
-    answer: 1
-    explanation: Article 15 is the correct answer to “Which Article of the Constitution prohibits the state from discriminating between citizens on the grounds of religion”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 28
     question: Culture is not -
     options:
@@ -387,19 +309,6 @@ questions:
       - None of these
     answer: 1
     explanation: Morality is the correct answer to “A system of principles and values concerning people's behaviour which is generally accepted by a society is called”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 30
-    question: "Christian missionaries reached remote comers of present day:"
-    options:
-      - Nagaland
-      - Mizoram
-      - Meghalaya
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Christian missionaries reached remote comers of present day:”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
     keyConcept: Culture And Symbolic Transformation In Sociology
     testedIn:
       - CSS
@@ -430,19 +339,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 33
-    question: Gandhi was extremely religious
-    options:
-      - He think religion can solve any problem
-      - For him religion was a way of life, which guide human behaviour in the right direction if correctly followed
-      - He want separation of religion from politics
-      - It can lead to welfare of society
-    answer: 3
-    explanation: It can lead to welfare of society is the correct answer to “Gandhi was extremely religious”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 34
     question: Which of the following property is basically not included in education?
     options:
@@ -452,19 +348,6 @@ questions:
       - Personality
     answer: 3
     explanation: Personality is the correct answer to “Which of the following property is basically not included in education”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: "The Report of the State Reorganisation Commission was inplemented on:"
-    options:
-      - 30th October, 1956
-      - 1st November, 1956
-      - 2nd December, 1956
-      - 30th December, 1956
-    answer: 1
-    explanation: 1st November, 1956 is the correct answer to “The Report of the State Reorganisation Commission was inplemented on:”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
     keyConcept: Culture And Symbolic Transformation In Sociology
     testedIn:
       - CSS

@@ -73,7 +73,7 @@ questions:
       - NTS
       - CSS
   - id: 5
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : Prime age school-going children in urban India have now become avid as well as more regular viewers of television, even in households without a TV. As a result there has been an alarming decline in the extent of readership of newspapers. Conclusions : I. Method of increasing the readership of newspapers should be devised. II. A team of experts should be sent to other countries to study the impact of TV. on the readership of newspapers."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : Prime age school-going children in urban Pakistan have now become avid as well as more regular viewers of television, even in households without a TV. As a result there has been an alarming decline in the extent of readership of newspapers. Conclusions : I. Method of increasing the readership of newspapers should be devised. II. A team of experts should be sent to other countries to study the impact of TV. on the readership of newspapers."
     options:
       - Only conclusion I follows
       - Only conclusion II follows
@@ -143,7 +143,7 @@ questions:
       - NTS
       - CSS
   - id: 10
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : The distance of 900 km by road between Bombay and Jafra will be reduced to 280 km by sea. This will lead to a saving of Rs. 7.92 crores per annum on fuel. Conclusions : I. Transportation by sea is cheaper than that by road. II. Fuel must be saved to the greatest extent"
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : The distance of 900 km by road between Karachi and Jafra will be reduced to 280 km by sea. This will lead to a saving of Rs. 7.92 crores per annum on fuel. Conclusions : I. Transportation by sea is cheaper than that by road. II. Fuel must be saved to the greatest extent"
     options:
       - Only conclusion I follows
       - Only conclusion II follows
@@ -151,7 +151,7 @@ questions:
       - Neither I nor II follows
       - Both I and II follow
     answer: 1
-    explanation: According to the statement, sea transport is cheaper than road transport in the case of route from Bombay to Jafra, not in all the cases. So, conclusion I does not follow. The statement stresses on the saving of fuel. So, conclusion II follows.
+    explanation: According to the statement, sea transport is cheaper than road transport in the case of route from Karachi to Jafra, not in all the cases. So, conclusion I does not follow. The statement stresses on the saving of fuel. So, conclusion II follows.
     keyConcept: Statement And Conclusion
     testedIn:
       - NTS
@@ -166,20 +166,6 @@ questions:
       - Both I and II follow
     answer: 3
     explanation: The manager might have humiliated Sachin not because of his dislike but on account of certain negligence or mistake on his part. So, I does not follow. Also, nothing about Sachin's rapport with his colleagues can be deduced from the statement. So, II also does not follow.
-    keyConcept: Statement And Conclusion
-    testedIn:
-      - NTS
-      - CSS
-  - id: 12
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : Women's organisations in India have welcomed the amendment of the Industrial Employment Rules 1946 to curb sexual harassment at the work place. Conclusions : I. Sexual harassment of women at work place is more prevalent in India as compared to other developed countries. II. Many organisations in India will stop recruiting women to avoid such problems."
-    options:
-      - Only conclusion I follows
-      - Only conclusion II follows
-      - Either I or II follows
-      - Neither I nor II follows
-      - Both I and II follow
-    answer: 3
-    explanation: The fact that a certain rule has been more welcomed in a certain country does not imply that the problem is more prevalent there. So, I does not follow. Also, the amendment seeks to discourage only sexual harassment of women and shall in no way discourage employment of women. So, II also does not follow.
     keyConcept: Statement And Conclusion
     testedIn:
       - NTS
@@ -208,20 +194,6 @@ questions:
       - Both I and II follow
     answer: 0
     explanation: According to the statement, even senior cabinet ministers are always ready to conform to the Prime Minister's views. So, I follows. However, II contradicts the given statement and so does not follow.
-    keyConcept: Statement And Conclusion
-    testedIn:
-      - NTS
-      - CSS
-  - id: 15
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : National Aluminium Company has moved India from a position of shortage to self-sufficiency in the metal. Conclusions : I. Previously, India had to import aluminium. II. With this speed, it can soon become a foreign exchange earner."
-    options:
-      - Only conclusion I follows
-      - Only conclusion II follows
-      - Either I or II follows
-      - Neither I nor II follows
-      - Both I and II follow
-    answer: 4
-    explanation: According to the statement, National Aluminium Company has moved India from a position of shortage in the past to self-sufficiency in the present. This means that previously, India had to import aluminium. So, I follows. Also, it can be deduced that if production increases at the same rate, India can export it in future. So, II also follows.
     keyConcept: Statement And Conclusion
     testedIn:
       - NTS
@@ -534,20 +506,6 @@ questions:
     testedIn:
       - NTS
       - CSS
-  - id: 38
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : The percentage of the national income shared by the top 10 per cent of households in India is 35. Conclusions : I. When an economy grows fast, concentration of wealth in certain pockets of population takes place. II. The national income is unevenly distributed in India."
-    options:
-      - Only conclusion I follows
-      - Only conclusion II follows
-      - Either I or II follows
-      - Neither I nor II follows
-      - Both I and II follow
-    answer: 1
-    explanation: Nothing about the growth of economy is mentioned in the statement. So, I does not follow. Also, it is given that 35 per cent of national income is shared by 10 per cent of households. This indicates unequal distribution. So, II follows.
-    keyConcept: Statement And Conclusion
-    testedIn:
-      - NTS
-      - CSS
   - id: 39
     question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : Players who break various records in a fair way get special prizes. Player X broke the world record but was found to be under the influence of a prohibited drug. Conclusions : I. X will get the special prize. II. X will not get the special prize."
     options:
@@ -577,5 +535,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

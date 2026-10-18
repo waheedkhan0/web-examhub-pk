@@ -14,19 +14,6 @@ targetExams:
   - FPSC
   - BPSC
 questions:
-  - id: 1
-    question: Which of the indigenous firm do manufacture SDL& LHD in India?
-    options:
-      - Joy mining machinery company
-      - Atlas Copco
-      - Eimco Elecon
-      - Tractors India limited
-    answer: 2
-    explanation: Eimco Elecon is the correct answer to “Which of the indigenous firm do manufacture SDL& LHD in India”. This question is standard in competitive examination syllabi for Mining Machinery.
-    keyConcept: Mining Machinery
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 2
     question: The mass of a rope depends upon the . . . . . . . . of steel.
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

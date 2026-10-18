@@ -158,19 +158,6 @@ questions:
     testedIn:
       - PAEC
       - NESCOM
-  - id: 12
-    question: According to Indian standard specifications, 100 H6/g5 means that
-    options:
-      - Tolerance grade for the hole is 6 and for the shaft is 5
-      - Tolerance grade for the shaft is 6 and for the hole is 5
-      - Tolerance grade for the shaft is 4 to 8 and for the hole is 3 to 7
-      - Tolerance grade for the hole is 4 to 8 and for the shaft is 3 to 7
-    answer: 0
-    explanation: Tolerance grade for the hole is 6 and for the shaft is 5 is the correct answer to “According to Indian standard specifications, 100 H6/g5 means that”. This question is standard in competitive examination syllabi for Machine Design.
-    keyConcept: Machine Design
-    testedIn:
-      - PAEC
-      - NESCOM
   - id: 13
     question: The usual proportion for the width of key is (where d = Diameter of shaft or diameter of hole in the hub)
     options:
@@ -258,19 +245,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Stress concentration is caused due to”. This question is standard in competitive examination syllabi for Machine Design.
-    keyConcept: Machine Design
-    testedIn:
-      - PAEC
-      - NESCOM
-  - id: 20
-    question: According to Indian standards, a bolt thread of 6 mm size of coarse pitch and with allowance on the threads and normal tolerance grade is designated as
-    options:
-      - M6
-      - M8
-      - M6 - 8d
-      - M8 - 6d
-    answer: 2
-    explanation: M6 - 8d is the correct answer to “According to Indian standards, a bolt thread of 6 mm size of coarse pitch and with allowance on the threads and normal tolerance grade is designated as”. This question is standard in competitive examination syllabi for Machine Design.
     keyConcept: Machine Design
     testedIn:
       - PAEC
@@ -536,5 +510,4 @@ questions:
       - PAEC
       - NESCOM
 ---
-
 

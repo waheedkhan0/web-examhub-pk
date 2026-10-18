@@ -14,19 +14,6 @@ targetExams:
   - PPSC
   - FPSC
 questions:
-  - id: 1
-    question: "\"Young India\" was later renamed as"
-    options:
-      - Kalyan
-      - Navjivan
-      - Harijan
-      - None of the above
-    answer: 2
-    explanation: Harijan is the correct answer to “"Young India" was later renamed as”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: The New World Information and communication Order (NWLCO), which has been mentioned in the ten clauses of the Inter-nation Principles of Professional Ethics in Journalism (UNESCO) lays stress on
     options:
@@ -49,19 +36,6 @@ questions:
       - Behram Malabari
     answer: 1
     explanation: Ranade is the correct answer to “Who helped the "Sarvjanik Sabha" of Poona to organize the conference of journalists working on language papers”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 4
-    question: Radio broadcasting commenced in India in
-    options:
-      - "1934"
-      - "1927"
-      - "1930"
-      - "1936"
-    answer: 1
-    explanation: 1927 is the correct answer to “Radio broadcasting commenced in India in”. This question is standard in competitive examination syllabi for Media Role In Society.
     keyConcept: Media Role In Society
     testedIn:
       - CSS
@@ -235,19 +209,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: What is the major problem of the Press in India?
-    options:
-      - To check invasion into individual's privacy by the Press
-      - To check communal writings by the Press
-      - To check political writings by the Press
-      - Both A and B
-    answer: 1
-    explanation: To check communal writings by the Press is the correct answer to “What is the major problem of the Press in India”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: The Kashrniri women participate in the Rauf dance to welcome
     options:
@@ -326,19 +287,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 25
-    question: Who owns the newspaper 'The Times of India'?
-    options:
-      - Tatas
-      - Nehrus
-      - Benett and Coleman Co. Ltd.
-      - Kasturi & Sons
-    answer: 2
-    explanation: Benett and Coleman Co. Ltd. is the correct answer to “Who owns the newspaper 'The Times of India'”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
   - id: 26
     question: The total number of Puranas is . . . . . . . . and the total number of the Vedas is . . . . . . . .
     options:
@@ -361,19 +309,6 @@ questions:
       - B. Behram Malabari
     answer: 3
     explanation: B. Behram Malabari is the correct answer to “Who was the great social reformer between 1884 and 1891”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 28
-    question: "Assertion (A): Now-a-days, caste is no bar to the choice of occupations. Reason (R): Indian democracy guarantees its people freedom in the choice of occupations. In the context of the above two statements, which one of the following is correct?"
-    options:
-      - Both A and R are true and R is the correct explanation of A
-      - Both A and R are true but R is not a correct explanation of A
-      - A is true but R is false
-      - A is false but R is true
-    answer: 3
-    explanation: "A is false but R is true is the correct answer to “Assertion (A): Now-a-days, caste is no bar to the choice of occupations. Reason (R): Indian democracy guarantees its people freedom in the choice of occupations. In the context of the above two statements, which one of the following is correct”. This question is standard in competitive examination syllabi for Media Role In Society."
     keyConcept: Media Role In Society
     testedIn:
       - CSS
@@ -426,19 +361,6 @@ questions:
       - Agency France Presse
     answer: 3
     explanation: Agency France Presse is the correct answer to “Which news-agency is a post war successor to the Agency Havas”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 33
-    question: In India the first news bulletin was introduced in
-    options:
-      - "1932"
-      - "1942"
-      - "1938"
-      - "1936"
-    answer: 3
-    explanation: 1936 is the correct answer to “In India the first news bulletin was introduced in”. This question is standard in competitive examination syllabi for Media Role In Society.
     keyConcept: Media Role In Society
     testedIn:
       - CSS
@@ -535,5 +457,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

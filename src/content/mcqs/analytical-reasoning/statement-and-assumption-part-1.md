@@ -59,7 +59,7 @@ questions:
       - NTS
       - CSS
   - id: 4
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Unemployment allowance should be given to all unemployed Indian youth above 18 years of age. Assumptions : I. There are unemployed youth in India who needs monetary support. II. The government has sufficient funds to provide allowance to all unemployed youth."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Unemployment allowance should be given to all unemployed Pakistani youth above 18 years of age. Assumptions : I. There are unemployed youth in Pakistan who needs monetary support. II. The government has sufficient funds to provide allowance to all unemployed youth."
     options:
       - Only assumption I is implicit
       - Only assumption II is implicit
@@ -325,7 +325,7 @@ questions:
       - NTS
       - CSS
   - id: 23
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Of all the newspapers published in Mumbai, readership of the \"Times\" is the largest in the Metropolis. Assumptions : I. 'Times' is not popular in mofussil areas. II. 'Times' has the popular feature of cartoons on burning social and political issues."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Of all the newspapers published in Karachi, readership of the \"Times\" is the largest in the Metropolis. Assumptions : I. 'Times' is not popular in mofussil areas. II. 'Times' has the popular feature of cartoons on burning social and political issues."
     options:
       - Only assumption I is implicit
       - Only assumption II is implicit
@@ -507,7 +507,7 @@ questions:
       - NTS
       - CSS
   - id: 36
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Of all the radio sets manufactured in India, the 'X' brand has the largest sale. Assumptions : I. The sale of all the radio sets manufactured in India is known. II. The manufacturing of no other radio set in India is as large as 'X' brand radio."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Of all the radio sets manufactured in Pakistan, the 'X' brand has the largest sale. Assumptions : I. The sale of all the radio sets manufactured in Pakistan is known. II. The manufacturing of no other radio set in Pakistan is as large as 'X' brand radio."
     options:
       - Only assumption I is implicit
       - Only assumption II is implicit

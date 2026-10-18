@@ -485,7 +485,7 @@ questions:
   - id: 37
     question: After the formulary is published, two copies of it are sent to the . . . . . . . .
     options:
-      - Indian Hospital Pharmacist Association
+      - Pakistani Hospital Pharmacist Association
       - American Society of Hospital Pharmacist
       - World Health Organisation
       - American Society of Health System Pharmacists

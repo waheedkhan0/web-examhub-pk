@@ -163,16 +163,6 @@ questions:
     answer: 2
     explanation: Australia is the correct answer to “Sturt Stony desert is located in which country”. Items of this type are drawn from the World Geography & Capitals — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: World Geography & Capitals
-  - id: 16
-    question: Gersoppa waterfall is located in which country?
-    options:
-      - Uganda
-      - Tanzania
-      - India
-      - Guyana
-    answer: 2
-    explanation: India is the correct answer to “Gersoppa waterfall is located in which country”. Items of this type are drawn from the World Geography & Capitals — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: World Geography & Capitals
   - id: 17
     question: Urmia lake is located in which country?
     options:

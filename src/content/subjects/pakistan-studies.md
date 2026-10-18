@@ -99,7 +99,7 @@ subtopics:
     questionCount: 40
   - name: Government & Politics — Part 3
     slug: government-and-politics-part-3
-    questionCount: 40
+    questionCount: 38
   - name: Government & Politics — Part 4
     slug: government-and-politics-part-4
     questionCount: 1

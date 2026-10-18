@@ -28,19 +28,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 2
-    question: "After the commencement of the Wild Life (Protection) Amendment Act, 2002, a zoo shall not be established without obtaining the prior approval of:"
-    options:
-      - The Central Government
-      - The State Government
-      - The Central Zoo Authority
-      - The Conservation Reserve Management Committee
-    answer: 2
-    explanation: The Central Zoo Authority is the correct answer to “After the commencement of the Wild Life (Protection) Amendment Act, 2002, a zoo shall not be established without obtaining the prior approval of:”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 3
     question: The idea of Ombudsman was first suggested by who among the following?
     options:
@@ -50,32 +37,6 @@ questions:
       - MotHal Chimanlal Setalvad
     answer: 3
     explanation: MotHal Chimanlal Setalvad is the correct answer to “The idea of Ombudsman was first suggested by who among the following”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 4
-    question: "Under the Narcotic Drugs and Psychotrophic Substances Act, 1985 the provisions relating to prohibition, control and regulation of operations or activities connected with narcotic drugs and psychotrophic substances, are contained in:"
-    options:
-      - Section 8 to 14
-      - Section 15 to 21
-      - Section 21 to 40
-      - None of the above
-    answer: 0
-    explanation: Section 8 to 14 is the correct answer to “Under the Narcotic Drugs and Psychotrophic Substances Act, 1985 the provisions relating to prohibition, control and regulation of operations or activities connected with narcotic drugs and psychotrophic substances, are contained in:”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 5
-    question: The appointment of Chairperson of Lokpal shall be made by the President after obtaining the recommendation of a selection committee consisting of (Lokpal & Lokayakal Act, 2013).
-    options:
-      - The Prime Minister; The Speaker of the House of the People and the Chief Justice of India
-      - The Prime Minister; The Speaker of the House of the People; The leader of opposition in the House of the people
-      - The Prime Minister; The Leader of opposition in the House of the People and one eminent jurist to be nominated by the President
-      - The Prime Minister, The Speaker of the House of the People, The Leader of opposition in the House of the People, The Chief Justice of India or a Judge of the Supreme Court nominated by him and one eminent jurist to be nominated by the President
-    answer: 3
-    explanation: The Prime Minister, The Speaker of the House of the People, The Leader of opposition in the House of the People, The Chief Justice of India or a Judge of the Supreme Court nominated by him and one eminent jurist to be nominated by the President is the correct answer to “The appointment of Chairperson of Lokpal shall be made by the President after obtaining the recommendation of a selection committee consisting of (Lokpal & Lokayakal Act, 2013).”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
     keyConcept: Miscellaneous In Law
     testedIn:
       - Civil Judge
@@ -106,19 +67,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 8
-    question: How much punishment is prescribed for offence under section 3(2)(v) SC & ST (Prevention of Atrocities) Act, 1989?
-    options:
-      - Death or imprisonment for life and fine
-      - Imprisonment for life and fine
-      - Imprisonment up to ten years and fine
-      - Imprisonment for a term which shall not be less than six months but which may extend to five years and with fine
-    answer: 1
-    explanation: Imprisonment for life and fine is the correct answer to “How much punishment is prescribed for offence under section 3(2)(v) SC & ST (Prevention of Atrocities) Act, 1989”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 9
     question: "Choose the wrong statement: Under the KBLR Act"
     options:
@@ -141,32 +89,6 @@ questions:
       - Imprisonment for 10 years or more
     answer: 0
     explanation: Imprisonment for a term of more than 3 years is the correct answer to “Those cases would be triable by Special Court under NDPS Act, which are punishable with . . . . . . . .”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 11
-    question: Who among the following shall be Vice-Chairperson of the National Board for Wildlife?
-    options:
-      - The Minister-in-charge of Forest and Wildlife
-      - The Chief Minister of any State
-      - The Prime Minister
-      - The President
-    answer: 0
-    explanation: The Minister-in-charge of Forest and Wildlife is the correct answer to “Who among the following shall be Vice-Chairperson of the National Board for Wildlife”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 12
-    question: "Probate of a Will is compulsory in Delhi:"
-    options:
-      - If the Will is executed in Delhi for immovable properties situated outside Mumbai or Kolkata or Chennai
-      - If the Will is executed in Delhi and properties are located in National Capital Region of Delhi
-      - If the Will is executed in Delhi and the Will appoints an executor under Section 222 of the Indian Succession Act
-      - Is not a correct statement
-    answer: 3
-    explanation: Is not a correct statement is the correct answer to “Probate of a Will is compulsory in Delhi:”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
     keyConcept: Miscellaneous In Law
     testedIn:
       - Civil Judge
@@ -236,19 +158,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 18
-    question: "\"Intoxicating Drugs\" is defined under Section . . . . . . . . . of the Tamil Nadu Prohibition Act 1937"
-    options:
-      - Section 3(7)A
-      - Section 3(7)
-      - Section 3(8)
-      - Section 3(8)A
-    answer: 2
-    explanation: Section 3(8) is the correct answer to “"Intoxicating Drugs" is defined under Section . . . . . . . . . of the Tamil Nadu Prohibition Act 1937”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 19
     question: A Magistrate convicts an accused of theft for one year imprisonment and one thousand fine. Maximum punishment for which accused can be sentenced to imprisonment in default of payment of fine shall be-
     options:
@@ -301,32 +210,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 23
-    question: When did India enact Indian Maritime Zone Act?
-    options:
-      - "1976"
-      - "1994"
-      - "1982"
-      - "1979"
-    answer: 0
-    explanation: 1976 is the correct answer to “When did India enact Indian Maritime Zone Act”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 24
-    question: "According to the Indian Forest Act, 1927, the term \"Cattle\" does not include:"
-    options:
-      - Elephants
-      - Colts
-      - Pigs
-      - Cows
-    answer: 3
-    explanation: Cows is the correct answer to “According to the Indian Forest Act, 1927, the term "Cattle" does not include:”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 25
     question: "Given below are two statements, one labeled as Assertion (A) and the other labeled as Reason (R) . Read the statements and choose the correct answer: Assertion (A): The Government could not control pollution, in spite of the Continuous Environmental Monitoring System (CEMS) introduced in 2014. Reason (R): Environment related data, especially on the performance of polluters, has always been both limited in scope and invisible to the public."
     options:
@@ -336,32 +219,6 @@ questions:
       - A and R are incorrect
     answer: 0
     explanation: "Both A and R are true and R is the correct explanation of A is the correct answer to “Given below are two statements, one labeled as Assertion (A) and the other labeled as Reason (R) . Read the statements and choose the correct answer: Assertion (A): The Government could not control pollution, in spite of the Continuous Environmental Monitoring System (CEMS) introduced in 2014. Reason (R): Environment related data, especially on the performance of polluters, has always been both limited in scope and invisible to the public.”. This question is standard in competitive examination syllabi for Miscellaneous In Law."
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 26
-    question: Under Section 23 of the SC and ST (Prevention of Atrocities) Act, 1989 who is authorised to make Rules for the execution of the provisions of the same Act?
-    options:
-      - State Government
-      - Central Government
-      - Both (A) and (B)
-      - Supreme Court
-    answer: 1
-    explanation: Central Government is the correct answer to “Under Section 23 of the SC and ST (Prevention of Atrocities) Act, 1989 who is authorised to make Rules for the execution of the provisions of the same Act”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 27
-    question: "\"Opium\" is defined under N. D. P. S. Act, 1985 in:"
-    options:
-      - Section 2(vi)
-      - Section 2(xvii)
-      - Section 2(xv)
-      - Section 2(xviii)
-    answer: 2
-    explanation: Section 2(xv) is the correct answer to “"Opium" is defined under N. D. P. S. Act, 1985 in:”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
     keyConcept: Miscellaneous In Law
     testedIn:
       - Civil Judge
@@ -379,19 +236,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 29
-    question: Which Article of the Constitution provides for the formation of new states?
-    options:
-      - Article 3
-      - Article 39
-      - Article 2
-      - Article 13
-    answer: 0
-    explanation: Article 3 is the correct answer to “Which Article of the Constitution provides for the formation of new states”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 30
     question: "If a person is dispossessed without his consent of immovable property otherwise than in due course of law, he may file a suit to recover possession under section 6 of the Specific Relief Act within:"
     options:
@@ -405,19 +249,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 31
-    question: "According to Notification issued by the Central Government under Section 2 of the Narcotic Drugs and Psychotropic Act, 1985, what is small and commercial quantity of opium:"
-    options:
-      - 25 grams and 2.5 kilograms respectively
-      - 1 kilogram and 25 kilograms respectively
-      - 50 gram and 5 kilograms respectively
-      - 100 gram and 10 kilograms respectively
-    answer: 1
-    explanation: 1 kilogram and 25 kilograms respectively is the correct answer to “According to Notification issued by the Central Government under Section 2 of the Narcotic Drugs and Psychotropic Act, 1985, what is small and commercial quantity of opium:”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 32
     question: The action of Administrative Tribunal is considered as
     options:
@@ -427,32 +258,6 @@ questions:
       - All of the above
     answer: 2
     explanation: Quasi-judicial is the correct answer to “The action of Administrative Tribunal is considered as”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 33
-    question: Which of the following authority is empowered to impose collective fine on the inhabitants of an area concerned under Section 10A of the Protection of Civil Rights Act, 1955?
-    options:
-      - Central Government
-      - State Government
-      - High Court
-      - Judicial Magistrate 1st Class
-    answer: 1
-    explanation: State Government is the correct answer to “Which of the following authority is empowered to impose collective fine on the inhabitants of an area concerned under Section 10A of the Protection of Civil Rights Act, 1955”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 34
-    question: Probate or Letters of Administration granted by the District Judge in one State will have operation throughout the country with respect to all properties wherever situated.
-    options:
-      - Yes, provided the judgment of the District Judge is upheld by the High Court in an appeal
-      - Yes, if the value of the properties/estate outside the territorial jurisdiction of the District Judge do not exceed a sum of Rs. 2 crores
-      - Yes, if the value of the properties outside the territorial jurisdiction of the District Judge granting probate do not exceed a sum of Rs. 10,000
-      - Yes, provided there is a notification by the Central Government that the judgment of the District Judge will apply throughout the territories of India
-    answer: 2
-    explanation: Yes, if the value of the properties outside the territorial jurisdiction of the District Judge granting probate do not exceed a sum of Rs. 10,000 is the correct answer to “Probate or Letters of Administration granted by the District Judge in one State will have operation throughout the country with respect to all properties wherever situated.”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
     keyConcept: Miscellaneous In Law
     testedIn:
       - Civil Judge
@@ -492,19 +297,6 @@ questions:
       - With imprisonment which may extend to six months and fine or with both
     answer: 1
     explanation: With imprisonment for a term which may extend to three years or with fine which may extend to twenty five thousand rupees, or with both is the correct answer to “Any person who contravenes any provision of the Wildlife (Protection) Act, 1972 or Rules or orders made under it, he on conviction, be punishable”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
-    keyConcept: Miscellaneous In Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 38
-    question: The Wildlife Protection (Amendment) Act, 1991 brought the following change in the law:-
-    options:
-      - Provided greater protection to wildlife
-      - Enhanced the punishment for violating of the 1972 Act
-      - Complete prohibition of hunting of specified wildlife
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “The Wildlife Protection (Amendment) Act, 1991 brought the following change in the law:-”. This question is standard in competitive examination syllabi for Miscellaneous In Law.
     keyConcept: Miscellaneous In Law
     testedIn:
       - Civil Judge

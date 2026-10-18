@@ -482,19 +482,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 37
-    question: In India, the rainfall for 24 hours is recorded at . . . . . . . .
-    options:
-      - 8:30 am
-      - 8:30 pm
-      - 5:00 am
-      - 5:00 pm
-    answer: 0
-    explanation: 8:30 am is the correct answer to “In India, the rainfall for 24 hours is recorded at . . . . . . . .”. This question is standard in competitive examination syllabi for Agricultural Engineering.
-    keyConcept: Agricultural Engineering
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 38
     question: What is the average threshing outturn of a paddy in Kgs/hr?
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

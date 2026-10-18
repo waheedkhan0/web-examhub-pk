@@ -144,19 +144,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 11
-    question: Indian Planning Commission was constituted in-
-    options:
-      - "1948"
-      - "1949"
-      - "1950"
-      - "1951"
-    answer: 2
-    explanation: 1950 is the correct answer to “Indian Planning Commission was constituted in-”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 12
     question: Kniffin system of training in grape was developed by Mr. William Kniffin in
     options:
@@ -296,19 +283,6 @@ questions:
       - a-1, b-2, c-3, d-4
     answer: 3
     explanation: "a-1, b-2, c-3, d-4 is the correct answer to “Match the following columns: Column I Column II a. Tangore 1. reticultata × C. sinensis b. Tangelo 2. Mandrin × C. paradise c. Citranges 3. Poncirus trifoliate × C. sinensis d. Citrumelo 4. Poncirus trifoliate × C. grandis”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous."
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 23
-    question: Panchayati Raj was first time started on 2 nd October, 1959 in
-    options:
-      - Bombay (Maharashtra)
-      - Nagpur (Rajasthan)
-      - Lucknow (Uttar Pradesh)
-      - Patna (Bihar)
-    answer: 1
-    explanation: Nagpur (Rajasthan) is the correct answer to “Panchayati Raj was first time started on 2 nd October, 1959 in”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
     keyConcept: Agricultural Miscellaneous
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +509,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

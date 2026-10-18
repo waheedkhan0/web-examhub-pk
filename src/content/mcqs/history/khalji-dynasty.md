@@ -67,19 +67,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 5
-    question: The 'Kirti Stambha' (Tower of Victory) at Chittor was built by
-    options:
-      - Rana Pratap
-      - Rana Kumbha
-      - Rana Sanga
-      - Bappa Raval
-    answer: 1
-    explanation: Kirti Stambha (Chittorgarh, Rajasthan) was built by Rana Kumbha to commemorate his victory against Mahmmud Khalji of Malwa.
-    keyConcept: Khalji Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 6
     question: Who was the ruler of Chittor, when Alauddin Khalji attacked and conquered it in 1303 AD?
     options:
@@ -193,19 +180,6 @@ questions:
       - IV, II, III, I
     answer: 1
     explanation: The correct chronological sequence of the following Sayyid rulers of Delhi was Khizr Khan, Mubarak Shah, Muhammad Shah, Alauddin Alam Shah. Sayyid Khizr Khan ibn Malik Sulaiman (reigned 28 May 1414 – 20 May 1421) was the founder of the Sayyid dynasty, the ruling dynasty of the Delhi sultanate, in northern India soon after the invasion of Timur and the fall of the Tughlaq dynasty. Qutb-ud-din Mubarak Shah Khalji (r. 1316–1320) was a ruler of the Delhi Sultanate of present-day India. A member of the Khalji dynasty, he was a son of Alauddin Khalji. Nasir-ud-Din Muḥammad Shah was Mughal emperor from 1719 to 1748. He was son of Khujista Akhtar, the fourth son of Bahadur Shah I. With the help of the Sayyid brothers, he ascended the throne at the young age of 17. Alam Shah (r. 1445–1451) was the fourth and last ruler of the Sayyid dynasty which ruled the Delhi Sultanate. Born Ala al-Din, he succeeded his father, Muhammad Shah to the throne and took on the regnal name of Alam Shah ("world king").
-    keyConcept: Khalji Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 15
-    question: The capital of the Yadava rulers was
-    options:
-      - Dwarasamudra
-      - Warangal
-      - Kalyani
-      - Devagiri
-    answer: 3
-    explanation: The Seuna, Sevuna or Yadavas of Devagiri (c. 850–1334) was an Indian dynasty, which at its peak ruled a kingdom stretching from the Tungabhadra to the Narmada rivers, including present-day Maharashtra, north Karnataka and parts of Madhya Pradesh, from its capital at Devagiri (present-day Daulatabad in modern Maharashtra).
     keyConcept: Khalji Dynasty
     testedIn:
       - CSS

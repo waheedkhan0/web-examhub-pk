@@ -53,19 +53,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 4
-    question: As per DGMS Circular which of the following factors is responsible most for causing the accidents due to Dumpers, trucks/tippers in opencast coal mines?
-    options:
-      - Lack of adequate training
-      - Poor qualification of operators
-      - Inadequate light
-      - Huge fleet of machines
-    answer: 0
-    explanation: Lack of adequate training is the correct answer to “As per DGMS Circular which of the following factors is responsible most for causing the accidents due to Dumpers, trucks/tippers in opencast coal mines”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 5
     question: A blasting hole shall not be charged when temperature inside the hole exceeds . . . . . . . . . °C as per circular. Fill in the blank?
     options:
@@ -75,19 +62,6 @@ questions:
       - 80°C
     answer: 3
     explanation: 80°C is the correct answer to “A blasting hole shall not be charged when temperature inside the hole exceeds . . . . . . . . . °C as per circular. Fill in the blank”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 6
-    question: Annual inspection of CHP must be carried out as per which DGMS Circular?
-    options:
-      - 2/1999
-      - 3/1999
-      - 2/2005
-      - 3/2005
-    answer: 0
-    explanation: 2/1999 is the correct answer to “Annual inspection of CHP must be carried out as per which DGMS Circular”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
     keyConcept: Mine Rules And Regulations
     testedIn:
       - PPSC Mines
@@ -131,19 +105,5 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 10
-    question: As per DGMS circular 7/1966, size of the Bord & Pillar panel is governed by 2 issues. If one issue is system of mechanization and what is the other?
-    options:
-      - coal pillar size
-      - incubation period
-      - lag on ignition
-      - gallery width
-    answer: 1
-    explanation: incubation period is the correct answer to “As per DGMS circular 7/1966, size of the Bord & Pillar panel is governed by 2 issues. If one issue is system of mechanization and what is the other”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
 ---
-
 

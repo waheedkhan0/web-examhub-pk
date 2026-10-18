@@ -184,15 +184,6 @@ questions:
     answer: 3
     explanation: "Former PM Hussain Shaheed Suhrawardy’s son Rashid Suhrawardy was known as: Robert Ashby ."
     keyConcept: Current Affairs — Mixed Practice
-  - id: 19
-    question: Indian Veteran actor Dilip Kumar passed away at the age of 98, his real name was______________?
-    options:
-      - Muhammad Yusaf Sarwar Khan
-      - Muhammad Salim Khan
-      - Firoz Khan
-    answer: 0
-    explanation: Indian Veteran actor Dilip Kumar passed away at the age of 98, his real name was Muhammad Yusaf Sarwar Khan .
-    keyConcept: Current Affairs — Mixed Practice
   - id: 20
     question: What was the real name of legendry actor Dilip Kumar?
     options:
@@ -212,16 +203,6 @@ questions:
       - March 2024
     answer: 3
     explanation: March 2024 is the correct answer to “Justice Muhammad Ameer Bhatti will retire as chief justice in the following year”. Items of this type are drawn from the Current Affairs — Mixed Practice — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Current Affairs — Mixed Practice
-  - id: 22
-    question: Indian Actor Dilip Kumar died at the age of_________?
-    options:
-      - "93"
-      - "98"
-      - "90"
-      - "97"
-    answer: 1
-    explanation: Indian Actor Dilip Kumar died at the age of 98 .
     keyConcept: Current Affairs — Mixed Practice
   - id: 23
     question: Justice Muhammad Ameer Bhatti was appointed the LHC’s additional judge in which of the following year?

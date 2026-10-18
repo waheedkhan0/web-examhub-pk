@@ -405,19 +405,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 31
-    question: For a country like India, where rainfall is mainly confined to one season, the suitable sewerage system will be
-    options:
-      - Separate system
-      - Combined system
-      - Partially combined system
-      - Partially separate system
-    answer: 0
-    explanation: Separate system is the correct answer to “For a country like India, where rainfall is mainly confined to one season, the suitable sewerage system will be”. This question is standard in competitive examination syllabi for Environmental Engineering.
-    keyConcept: Environmental Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 32
     question: If the time of concentration is 9 minutes, then the intensity of rainfall according to British Ministry of Health formula will be
     options:
@@ -427,19 +414,6 @@ questions:
       - 40 mm/hr
     answer: 3
     explanation: 40 mm/hr is the correct answer to “If the time of concentration is 9 minutes, then the intensity of rainfall according to British Ministry of Health formula will be”. This question is standard in competitive examination syllabi for Environmental Engineering.
-    keyConcept: Environmental Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 33
-    question: For normal sludge, the value of sludge index for Indian conditions is
-    options:
-      - 0 to 50
-      - 50 to 150
-      - 150 to 350
-      - 350 to 500
-    answer: 2
-    explanation: 150 to 350 is the correct answer to “For normal sludge, the value of sludge index for Indian conditions is”. This question is standard in competitive examination syllabi for Environmental Engineering.
     keyConcept: Environmental Engineering
     testedIn:
       - PPSC SDO
@@ -536,5 +510,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

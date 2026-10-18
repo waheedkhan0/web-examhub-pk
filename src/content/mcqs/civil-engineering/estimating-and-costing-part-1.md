@@ -145,45 +145,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 11
-    question: "The value of 'A' of Indian type W.C. shown in the given figure is:"
-    options:
-      - 25 cm
-      - 30 cm
-      - 40 cm
-      - 45 cm
-    answer: 1
-    explanation: 30 cm is the correct answer to “The value of 'A' of Indian type W.C. shown in the given figure is:”. This question is standard in competitive examination syllabi for Estimating And Costing.
-    keyConcept: Estimating And Costing
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 12
-    question: "The value of 'C' of Indian type W.C. shown in the given figure is:"
-    options:
-      - 400 mm
-      - 450 mm
-      - 500 mm
-      - 550 mm
-    answer: 2
-    explanation: 500 mm is the correct answer to “The value of 'C' of Indian type W.C. shown in the given figure is:”. This question is standard in competitive examination syllabi for Estimating And Costing.
-    keyConcept: Estimating And Costing
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 13
-    question: "The value of 'B' of Indian type W.C. shown in the given figure is:"
-    options:
-      - 45 cm
-      - 50 cm
-      - 30 cm
-      - 25 cm
-    answer: 0
-    explanation: 45 cm is the correct answer to “The value of 'B' of Indian type W.C. shown in the given figure is:”. This question is standard in competitive examination syllabi for Estimating And Costing.
-    keyConcept: Estimating And Costing
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 14
     question: The area of the cross-section of a road fully in banking shown in the given figure, is
     options:
@@ -258,19 +219,6 @@ questions:
       - (A) and (B) of the above
     answer: 3
     explanation: (A) and (B) of the above is the correct answer to “The measurement is made for stone work in square metre in case of”. This question is standard in competitive examination syllabi for Estimating And Costing.
-    keyConcept: Estimating And Costing
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 20
-    question: As per Indian Standard Specifications, the peak discharge for domestic purposes per capita per minute, is taken
-    options:
-      - 1.80 liters for 5 to 10 users
-      - 1.20 liters for 15 users
-      - 1.35 for 20 users
-      - All the above
-    answer: 3
-    explanation: All the above is the correct answer to “As per Indian Standard Specifications, the peak discharge for domestic purposes per capita per minute, is taken”. This question is standard in competitive examination syllabi for Estimating And Costing.
     keyConcept: Estimating And Costing
     testedIn:
       - PPSC SDO
@@ -536,5 +484,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

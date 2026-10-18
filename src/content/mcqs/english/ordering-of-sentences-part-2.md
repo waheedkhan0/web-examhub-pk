@@ -15,19 +15,6 @@ targetExams:
   - PMS
   - NTS
 questions:
-  - id: 1
-    question: "S 1 : Jawaharlal Nehru was the greatest plan-enthusiast. P : Under Nehru's advice, the pre-Independent congress set up National Planning Commission in 1938. Q : But he forgot that what could be achieved by force under the communist dictatorship of Russia was not possible under the democratic set up of India. R : He took the idea from Russia where Five year plans transformed a very backward country into a top power of the world. S : No free government can call for compulsory sacrifice and suffering from the whole people. S 6 : Nehru himself became the chairman of the commission. The Proper sequence should be:"
-    options:
-      - PSQR
-      - SRQP
-      - QPRS
-      - RQSP
-    answer: 3
-    explanation: He took the idea from Russia where Five year plans transformed very backward country into a top power of the world. But he forgot that what could be achieved by force under the communist dictatorship of Russia was not possible under the democratic set up of India. No free government can call for compulsory sacrifice and suffering from the whole people. Under Nehru’s advice, the pre-Independent congress set up National Planning Commission in 1938.
-    keyConcept: Ordering Of Sentences
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 2
     question: "S 1 : Duryodhana was a wicked prince. P : one day Bhima made Duryodhana fall from a tree from which Duryodhana was stealing fruits. Q : He did not like that Pandavas should be loved and respected by the people of Hastinapur R : Duryodhana specially hated Bhima. S : Among the Pandavas, Bhima was extraordinary strong and powerful. S 6 : This enraged Duryodhana so much that he began to think of removing Bhima from his way. The Proper sequence should be:"
     options:
@@ -37,19 +24,6 @@ questions:
       - PSRQ
     answer: 2
     explanation: He did not like that Pandavas should be and respected by the people of Hastinapur. Among the Pandavas, Bhima was extraordinary strong and powerful. One day Bhima made Duryodhana fall from a tree from which Duryodhana was stealing fruits. Duryodhana specially hated Bhima.
-    keyConcept: Ordering Of Sentences
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 3
-    question: "S 1 : Jawaharlal Nehru was born in Allahabad on 14 Nov 1889. P : Nehru meet Mahatma Gandhi in February 1920. Q : In 1905 he was sent to London to study at a school called Haroow. R : He became the first Prime Minister of Independent India on 15 August 1947. S : He married Kamla Kaul in 1915. S 6 : He died on 27 May 1964. The Proper sequence should be:"
-    options:
-      - QRPS
-      - QSPR
-      - RPQS
-      - SQRP
-    answer: 1
-    explanation: In 1905 he was sent to London to study at a school called Haroow. He married Kamla Kaul in 1915. Nehru meet Mahatma Gandhi in February 1920. He became the Prime Minister of Independent India on 15 August 1947.
     keyConcept: Ordering Of Sentences
     testedIn:
       - PPSC
@@ -120,7 +94,7 @@ questions:
       - PPSC
       - FPSC
   - id: 9
-    question: "S 1 : Metals are today being replaced by polymers in many applications. P : Above all, they are cheaper and easier to process making them a viable alternative to metals. Q : Polymers are essentially a long chains of hydrocarbon molecules. R : Today polymers as strong as metals have been developed. S : These have replaced the traditional chromium-plated metallic bumpers in cars. S 6 : Many Indian Institutes of science and Technology run special programmes on polymer science. The Proper sequence should be:"
+    question: "S 1 : Metals are today being replaced by polymers in many applications. P : Above all, they are cheaper and easier to process making them a viable alternative to metals. Q : Polymers are essentially a long chains of hydrocarbon molecules. R : Today polymers as strong as metals have been developed. S : These have replaced the traditional chromium-plated metallic bumpers in cars. S 6 : Many Pakistani Institutes of science and Technology run special programmes on polymer science. The Proper sequence should be:"
     options:
       - QRSP
       - RSQP
@@ -302,7 +276,7 @@ questions:
       - PPSC
       - FPSC
   - id: 23
-    question: "S 1 : In India marriages are usually arranged by parents. P : Sometimes boys and girls do not like th idea of arranged marriages. Q : Most young people accepts the state of affairs. R : Shanta was like that. S : They assume their parents can make good choices. S 6 : She felt she was a modern girl and not subject for bargaining. The Proper sequence should be:"
+    question: "S 1 : In Pakistan marriages are usually arranged by parents. P : Sometimes boys and girls do not like th idea of arranged marriages. Q : Most young people accepts the state of affairs. R : Shanta was like that. S : They assume their parents can make good choices. S 6 : She felt she was a modern girl and not subject for bargaining. The Proper sequence should be:"
     options:
       - SPRQ
       - PSRQ
@@ -367,7 +341,7 @@ questions:
       - PPSC
       - FPSC
   - id: 28
-    question: "S 1 : Ms. Parasuram started a Petrol Pump in Madras. P : A total to 12 girls now work at the pump. Q : She advertised in newspapers for women staff. R : They operate in 2 shifts. S : The response was good. S 6 : Thus she has shown the way for many others. The Proper sequence should be:"
+    question: "S 1 : Ms. Parasuram started a Petrol Pump in Karachi. P : A total to 12 girls now work at the pump. Q : She advertised in newspapers for women staff. R : They operate in 2 shifts. S : The response was good. S 6 : Thus she has shown the way for many others. The Proper sequence should be:"
     options:
       - PQSR
       - SQPR
@@ -380,7 +354,7 @@ questions:
       - PPSC
       - FPSC
   - id: 29
-    question: "S 1 : Sun birds are among the smallest of Indian birds. P : Though they are functionally similar to the humming birds of the New World, they are totally unrelated. Q : They do eat insects too. R : They are also some of the most brilliantly coloured birds. S : sun birds feed on nectar mostly and helped in pollination. S 6 : Our common sun birds are the purple sun bird, the glossy black species and purple rumped sun bird, the yellow and maroon species. The Proper sequence should be:"
+    question: "S 1 : Sun birds are among the smallest of Pakistani birds. P : Though they are functionally similar to the humming birds of the New World, they are totally unrelated. Q : They do eat insects too. R : They are also some of the most brilliantly coloured birds. S : sun birds feed on nectar mostly and helped in pollination. S 6 : Our common sun birds are the purple sun bird, the glossy black species and purple rumped sun bird, the yellow and maroon species. The Proper sequence should be:"
     options:
       - SQPR
       - RPSQ
@@ -431,19 +405,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 33
-    question: "S 1 : As a dramatist Rabindranath was not what might be called a success. P : His dramas were moulded on the lines of the traditional Indian village dramas than the dramas of modern world. Q : His plays were more a catalogue of ideas than a vehicle of the expression of action. R : Actually the drama has always been the life of Indian people, as it deals with legends of gods and goddesses. S : Although in his short stories and novels he was able to create living and well defined characters, he did not seem to be able to do so in dramas. S 6 : Therefor, drama forms the essential part of the traditional Indian Culture. The Proper sequence should be:"
-    options:
-      - SRQP
-      - QPSR
-      - QSPR
-      - RSQP
-    answer: 2
-    explanation: His plays were more a catalogue of ideas than a vehicle of the expression of action. Although in his short stories and novels he was able to create living and well defined characters, he did not seem to be able to do so in dramas. His dramas were moulded on the lines of the traditional Indian village dramas than the dramas of modern world. Actually the drama has always been the life of Indian people, as it deals with legends of gods and goddesses.
-    keyConcept: Ordering Of Sentences
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 34
     question: "S 1 : It is regrettable that there is widespread corruption in the country at all levels. P : So there is hardly anything that the government can do about it now. Q : And there are graft and other malpractices too. R : The impression that corruption is universal phenomenon persists and the people not cooperate in checking this evil. S : Recently several offenders were brought to book, but they were not given deterrent punishment. S 6 : This is indeed a tragedy of great magnitude. The Proper sequence should be:"
     options:
@@ -479,19 +440,6 @@ questions:
       - RSPQ
     answer: 2
     explanation: You hadn't written for over a month. How did your exams go? I am sure you will come out with flying colours. After results, you must come here for a week.
-    keyConcept: Ordering Of Sentences
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 37
-    question: "S 1 : Rammohan Roy was associated with several newspapers. P: Many educationists protested vigorously against these measures. Q: But this came to grief soon after the enactment in 1823, of new measures for the control of the press. R: He brought out a bilingual, Bengali-English magazine. S: Later, desiring an all-India circulation, he published a weekly in Persian, which was recognised then as the language of the cultured classes all over India. S 6 : Rammohan Roy even addressed a petition to the King-in-Council in England. The Proper sequence should be:"
-    options:
-      - QPRS
-      - RQPS
-      - RSPQ
-      - RSQP
-    answer: 3
-    explanation: He brought out a bilingual, Bengali-English magazine. Later, desiring an all-India circulation, he published a weekly in Persian, which was recognised then as the language of the cultured classes all over India. But this came to grief soon after the enactment in 1823, of new measures for the control of the press. Many educationists protested vigorously against these measures.
     keyConcept: Ordering Of Sentences
     testedIn:
       - PPSC
@@ -536,5 +484,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

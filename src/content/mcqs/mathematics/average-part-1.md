@@ -365,7 +365,7 @@ questions:
       - CSS
       - NTS
   - id: 27
-    question: "A man started his journey from Lucknow to Kolkata, which is 200 km, at the speed of 40 kmph then he went to Banglore which is 300 km, at the speed of 20 kmph. Further he went to Ahmedabad which is 500 km, at the speed of 10 kmph. The average speed of the man is :"
+    question: "A man started his journey from Lahore to Islamabad, which is 200 km, at the speed of 40 kmph then he went to Peshawar which is 300 km, at the speed of 20 kmph. Further he went to Quetta which is 500 km, at the speed of 10 kmph. The average speed of the man is :"
     options:
       - 14$${\frac{2}{7}}$$ kmph
       - 14$${\frac{5}{7}}$$ Kmph
@@ -444,7 +444,7 @@ questions:
       - CSS
       - NTS
   - id: 33
-    question: A passenger travels from Delhi to Merut at a speed of 30 kmph and return with a speed of 60 kmph. What is the average speed?
+    question: A passenger travels from Lahore to Rawalpindi at a speed of 30 kmph and return with a speed of 60 kmph. What is the average speed?
     options:
       - "40"
       - "45"

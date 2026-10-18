@@ -196,19 +196,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 15
-    question: Paddy transplanter is being manufactured in India by
-    options:
-      - M/s Escorts Ltd.
-      - M/s Mitsubishi Ltd.
-      - M/s Eicher Tractors Ltd.
-      - M/s H.M.T.
-    answer: 1
-    explanation: M/s Mitsubishi Ltd. is the correct answer to “Paddy transplanter is being manufactured in India by”. This question is standard in competitive examination syllabi for Agricultural Engineering.
-    keyConcept: Agricultural Engineering
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 16
     question: Work is expressed by the formula as
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

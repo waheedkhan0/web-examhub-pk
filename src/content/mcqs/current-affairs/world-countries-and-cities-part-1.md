@@ -111,16 +111,6 @@ questions:
     answer: 2
     explanation: Sweden is the correct answer to “Turkey summons which country’s diplomat over Kurdish militants”. Items of this type are drawn from the World Countries, Cities & Capitals — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: World Countries, Cities & Capitals
-  - id: 11
-    question: Droupadi Murmu newly appointed President of India defeated Opposition leader on 21 July 2022 by a total vote value of 64.03%, his/her name is ____________?
-    options:
-      - Yashwant Sinha
-      - Nupur Sharma
-      - Rahul Gandhi
-      - Ram Nath Kovind
-    answer: 0
-    explanation: Droupadi Murmu newly appointed President of India defeated Opposition leader on 21 July 2022 by a total vote value of 64.03%, his/her name is Yashwant Sinha .
-    keyConcept: World Countries, Cities & Capitals
   - id: 12
     question: In which city of Japan, Former Prime Minister Shinzo Abe was assassinated?
     options:

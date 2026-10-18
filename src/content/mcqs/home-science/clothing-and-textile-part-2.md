@@ -391,19 +391,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 30
-    question: Which of the following methods of printing are currently practised largely in the Indian textile industry? 1. Screen printing 2. Digital printing 3. Roller printing 4. Block printing
-    options:
-      - 2, 3 and 4
-      - 1, 2 and 3
-      - 1, 3 and 4
-      - 1, 2 and 4
-    answer: 0
-    explanation: 2, 3 and 4 is the correct answer to “Which of the following methods of printing are currently practised largely in the Indian textile industry? 1. Screen printing 2. Digital printing 3. Roller printing 4. Block printing”. This question is standard in competitive examination syllabi for Clothing And Textile.
-    keyConcept: Clothing And Textile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 31
     question: Assertion (A) Textured yarns are not prone to snagging. Reason (R) Lesser surface area is available to contact rough or sharp objects.
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

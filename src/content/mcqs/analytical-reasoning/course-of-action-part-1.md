@@ -58,20 +58,6 @@ questions:
     testedIn:
       - NTS
       - CSS
-  - id: 4
-    question: "Statement : Exporters in the capital are alleging that commercial banks are violating a Reserve Bank of India directive to operate a post shipment export credit denominated in foreign currency at international rates from January this year. Courses of Action : I. The officers concerned in the commercial banks are to be suspended. II. The RBI should be asked to stop giving such directives to commercial banks."
-    options:
-      - Only I follows
-      - Only II follows
-      - Either I or II follows
-      - Neither I nor II follows
-      - Both I and II follow
-    answer: 3
-    explanation: The statement mentions that the commercial banks violate a directive issued by the RBI. The remedy is only to make the banks implement the Act. So, none of the courses follows.
-    keyConcept: Course Of Action
-    testedIn:
-      - NTS
-      - CSS
   - id: 5
     question: "Statement : A large number of people die every year due to drinking polluted water during the summer. Courses of Action : I. The government should make adequate arrangements to provide safe drinking water to all its citizens. II. The people should be educated about the dangers of drinking polluted water."
     options:
@@ -87,7 +73,7 @@ questions:
       - NTS
       - CSS
   - id: 6
-    question: "Statement : Most of those who study in premier engineering colleges in India migrate to developed nations for better prospects in their professional pursuits. Courses of Action : I. All the students joining these colleges should be asked to sign a bond at the time of admission to the effect that they will remain in India at least for ten years after they complete education. II. All those students who desire to settle in the developed nations should be asked to pay entire cost of their education which the government subsidises."
+    question: "Statement : Most of those who study in premier engineering colleges in Pakistan migrate to developed nations for better prospects in their professional pursuits. Courses of Action : I. All the students joining these colleges should be asked to sign a bond at the time of admission to the effect that they will remain in Pakistan at least for ten years after they complete education. II. All those students who desire to settle in the developed nations should be asked to pay entire cost of their education which the government subsidises."
     options:
       - Only I follows
       - Only II follows
@@ -166,20 +152,6 @@ questions:
       - Both I and II follow
     answer: 0
     explanation: Clearly, a study of rival products in the market will help assess the cause for the lowering down of sales and then a suitable action can be taken. Thus, only I follow.
-    keyConcept: Course Of Action
-    testedIn:
-      - NTS
-      - CSS
-  - id: 12
-    question: "Statement : The Asian Development Bank has approved a $285 million loan to finance a project to construct coal ports by Paradip and Madras Port Trusts. Courses of Action : I. India should use financial assistance from other international financial organisations to develop such ports in other places. II. India should not seek such financial assistance from the international financial agencies."
-    options:
-      - Only I follows
-      - Only II follows
-      - Either I or II follows
-      - Neither I nor II follows
-      - Both I and II follow
-    answer: 0
-    explanation: Clearly, such projects shall be an asset and a source of income to the country later on. So, course I shall follow.
     keyConcept: Course Of Action
     testedIn:
       - NTS
@@ -297,7 +269,7 @@ questions:
       - NTS
       - CSS
   - id: 21
-    question: "Statement : The Indian electronic component industry venturing into the West European markets faces tough competition from the Japanese. Courses of Action : I. India should search for other international markets for its products. II. India should improve the quality of the electronic components to compete with the Japanese in capturing these markets."
+    question: "Statement : The Pakistani electronic component industry venturing into the West European markets faces tough competition from the Japanese. Courses of Action : I. Pakistan should search for other international markets for its products. II. Pakistan should improve the quality of the electronic components to compete with the Japanese in capturing these markets."
     options:
       - Only I follows
       - Only II follows
@@ -507,7 +479,7 @@ questions:
       - NTS
       - CSS
   - id: 36
-    question: "Statement : A large number of people visiting India from country X have been tested positive for carrying viruses of a killer disease. Courses of Action : I. The government of India should immediately put a complete ban on people coming to India from country X including those Indians who are settled in country X. II. The government of India should immediately set up detection centres at all its airports and seaports to identify and quarantine those who are tested positive."
+    question: "Statement : A large number of people visiting Pakistan from country X have been tested positive for carrying viruses of a killer disease. Courses of Action : I. The government of Pakistan should immediately put a complete ban on people coming to Pakistan from country X including those Pakistanis who are settled in country X. II. The government of Pakistan should immediately set up detection centres at all its airports and seaports to identify and quarantine those who are tested positive."
     options:
       - Only I follows
       - Only II follows
@@ -515,7 +487,7 @@ questions:
       - Neither I nor II follows
       - Both I and II follow
     answer: 1
-    explanation: Clearly, the non-infected persons should not be debarred from visiting India. So, only course II follows.
+    explanation: Clearly, the non-infected persons should not be debarred from visiting Pakistan. So, only course II follows.
     keyConcept: Course Of Action
     testedIn:
       - NTS
@@ -577,5 +549,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

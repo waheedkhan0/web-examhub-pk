@@ -27,19 +27,6 @@ questions:
     testedIn:
       - PAEC
       - NESCOM
-  - id: 2
-    question: Basicity [defined as (%CaO + %MgO)/%SiO 2 ] of the slag in the indian blast furnaces is in the range of
-    options:
-      - 0.7 - 1.0
-      - 1.1 - 1.4
-      - 1.5 - 1.8
-      - 2.0 - 2.5
-    answer: 0
-    explanation: "In the context of iron making in metallurgy, basicity is defined as the ratio of the percentage of calcium oxide (%CaO) and magnesium oxide (%MgO) to the percentage of silicon dioxide (%SiO 2 ) in the slag. The basicity of the slag is an important factor in the blast furnace process as it affects the melting point and fluidity of the slag, which, in turn, influences the efficiency of the iron-making process. In Indian blast furnaces, the typical range of basicity is 0.7 to 1.0. This range ensures that the slag composition is suitable for the efficient extraction of iron from iron ore. The other options do not accurately represent the typical basicity range for slag in Indian blast furnaces. Therefore, the correct answer is Option A: 0.7 - 1.0 ."
-    keyConcept: Iron Making In Metallurgy
-    testedIn:
-      - PAEC
-      - NESCOM
   - id: 3
     question: Desulfurisation of hot metal is favoured by
     options:
@@ -535,5 +522,4 @@ questions:
       - PAEC
       - NESCOM
 ---
-
 

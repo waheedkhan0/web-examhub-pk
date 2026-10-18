@@ -68,7 +68,7 @@ subtopics:
     questionCount: 40
   - name: Articles — Part 2
     slug: articles-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Common Error Detection — Part 1
     slug: common-error-detection-part-1
     questionCount: 40
@@ -98,10 +98,10 @@ subtopics:
     questionCount: 40
   - name: Ordering Of Sentences — Part 1
     slug: ordering-of-sentences-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Ordering Of Sentences — Part 2
     slug: ordering-of-sentences-part-2
-    questionCount: 40
+    questionCount: 36
   - name: Ordering Of Words — Part 1
     slug: ordering-of-words-part-1
     questionCount: 40
@@ -128,7 +128,7 @@ subtopics:
     questionCount: 40
   - name: Sentence Correction — Part 1
     slug: sentence-correction-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Sentence Correction — Part 2
     slug: sentence-correction-part-2
     questionCount: 40
@@ -137,7 +137,7 @@ subtopics:
     questionCount: 40
   - name: Sentence Formation — Part 2
     slug: sentence-formation-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Sentence Improvement — Part 1
     slug: sentence-improvement-part-1
     questionCount: 40

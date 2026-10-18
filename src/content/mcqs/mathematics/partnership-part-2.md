@@ -349,7 +349,7 @@ questions:
       - CSS
       - NTS
   - id: 26
-    question: Jhon, Mona and Gordon, three US based business partners, jointly invested in a business project to supply nuclear fuel to India. As per their share in the investment, Gordon will receive $$\frac{2}{3}$$ of the profits whereas Jhon and Mona divided the remainder equally. It is estimated that the income of Jhon will increase by $ 60 million when the rate of profit rises from 4% to 7%. What is Mona's capital ?
+    question: Jhon, Mona and Gordon, three US based business partners, jointly invested in a business project to supply nuclear fuel to Pakistan. As per their share in the investment, Gordon will receive $$\frac{2}{3}$$ of the profits whereas Jhon and Mona divided the remainder equally. It is estimated that the income of Jhon will increase by $ 60 million when the rate of profit rises from 4% to 7%. What is Mona's capital ?
     options:
       - $ 2000 million
       - $ 3000 million

@@ -19,34 +19,28 @@ subtopics:
     questionCount: 40
   - name: Auditing — Part 1
     slug: auditing-part-1
-    questionCount: 40
+    questionCount: 34
   - name: Auditing — Part 2
     slug: auditing-part-2
-    questionCount: 40
-  - name: Banking And Financial Institutions — Part 1
-    slug: banking-and-financial-institutions-part-1
-    questionCount: 40
-  - name: Banking And Financial Institutions — Part 2
-    slug: banking-and-financial-institutions-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Business And Commerce — Part 1
     slug: business-and-commerce-part-1
-    questionCount: 40
+    questionCount: 35
   - name: Business And Commerce — Part 2
     slug: business-and-commerce-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Business Environment And International Business — Part 1
     slug: business-environment-and-international-business-part-1
-    questionCount: 40
+    questionCount: 28
   - name: Business Environment And International Business — Part 2
     slug: business-environment-and-international-business-part-2
-    questionCount: 40
+    questionCount: 33
   - name: Business Finance — Part 1
     slug: business-finance-part-1
     questionCount: 40
   - name: Business Finance — Part 2
     slug: business-finance-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Business Management — Part 1
     slug: business-management-part-1
     questionCount: 40
@@ -73,7 +67,7 @@ subtopics:
     questionCount: 40
   - name: Economics — Part 1
     slug: economics-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Economics — Part 2
     slug: economics-part-2
     questionCount: 40
@@ -83,48 +77,36 @@ subtopics:
   - name: Financial Management — Part 2
     slug: financial-management-part-2
     questionCount: 40
-  - name: Gst — Part 1
-    slug: gst-part-1
-    questionCount: 40
   - name: Gst — Part 2
     slug: gst-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Hrm In Commerce — Part 1
     slug: hrm-in-commerce-part-1
     questionCount: 40
   - name: Hrm In Commerce — Part 2
     slug: hrm-in-commerce-part-2
     questionCount: 40
-  - name: Income Tax And Corporate Tax — Part 1
-    slug: income-tax-and-corporate-tax-part-1
-    questionCount: 40
-  - name: Income Tax And Corporate Tax — Part 2
-    slug: income-tax-and-corporate-tax-part-2
-    questionCount: 40
-  - name: Insurance — Part 1
-    slug: insurance-part-1
-    questionCount: 40
   - name: Insurance — Part 2
     slug: insurance-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Legal Aspects Of Business — Part 1
     slug: legal-aspects-of-business-part-1
-    questionCount: 40
+    questionCount: 25
   - name: Legal Aspects Of Business — Part 2
     slug: legal-aspects-of-business-part-2
-    questionCount: 40
+    questionCount: 29
   - name: Marketing Management — Part 1
     slug: marketing-management-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Marketing Management — Part 2
     slug: marketing-management-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Miscellaneous In Commerce — Part 1
     slug: miscellaneous-in-commerce-part-1
     questionCount: 40
   - name: Miscellaneous In Commerce — Part 2
     slug: miscellaneous-in-commerce-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Accounting & Auditing — Past Papers — Part 1
     slug: accounting-past-papers-part-1
     questionCount: 40

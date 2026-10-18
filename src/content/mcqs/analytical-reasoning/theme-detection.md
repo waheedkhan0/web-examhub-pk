@@ -30,20 +30,6 @@ questions:
     testedIn:
       - NTS
       - CSS
-  - id: 2
-    question: "Due to enormous profits involved in smuggling, hundreds of persons have been attracted towards this anti-national activity. Some of them became millionaires overnight. India has a vast coastline both on the Eastern and Western Coast. It has been a heaven for smugglers who have been carrying on their activities with great impunity. There is no doubt, that from time to time certain seizures were made by the enforcement authorities, during raids and ambush but even allowing these losses the smugglers made huge profits. The passage best supports the statement that:"
-    options:
-      - smuggling hampers the economic development of a nation.
-      - smuggling ought to be curbed.
-      - authorities are taking strict measures to curb smuggling.
-      - smuggling is fast increasing in our country owing to the quick profit it entails.
-      - industrial society is a great leveller of men.
-    answer: 3
-    explanation: smuggling is fast increasing in our country owing to the quick profit it entails.
-    keyConcept: Theme Detection
-    testedIn:
-      - NTS
-      - CSS
   - id: 3
     question: "Though the waste of time or the expenditure on fashions is very large, yet fashions have come to stay. They will not go, come what may. However, what is now required is that strong efforts should be made to displace the excessive craze for fashion from the minds of these youngsters. The passage best supports the statement that:"
     options:
@@ -73,9 +59,9 @@ questions:
       - NTS
       - CSS
   - id: 5
-    question: "The future of women in India is quite bright and let us hope that they will justify their abilities by rising to the occasion. Napoleon was right when he declared that by educating the women we can educate the whole nation. Because a country can never rise without the contribution of 50% of their population. The passage best supports the statement that:"
+    question: "The future of women in Pakistan is quite bright and let us hope that they will justify their abilities by rising to the occasion. Napoleon was right when he declared that by educating the women we can educate the whole nation. Because a country can never rise without the contribution of 50% of their population. The passage best supports the statement that:"
     options:
-      - India is striving hard for the emancipation of women.
+      - Pakistan is striving hard for the emancipation of women.
       - all women should be well educated.
       - a nation can progress only when women are given equal rights and opportunities as men.
       - women ought to be imparted full freedom to prove their worth and contribute to the progress of the nation.
@@ -114,7 +100,7 @@ questions:
       - NTS
       - CSS
   - id: 8
-    question: "Industrial exhibitions play a major role in a country's economy. Such exhibitions, now regularly held in Delhi, enable us to measure the extent of our own less advanced industrial progress and the mighty industrial power and progress of countries like the U.K., U.S.A. and Russia whose pavilions are the centres of the greatest attention and attractions. The passage best supports the statement that industrial exhibitions:"
+    question: "Industrial exhibitions play a major role in a country's economy. Such exhibitions, now regularly held in Karachi, enable us to measure the extent of our own less advanced industrial progress and the mighty industrial power and progress of countries like the U.K., U.S.A. and Russia whose pavilions are the centres of the greatest attention and attractions. The passage best supports the statement that industrial exhibitions:"
     options:
       - greatly tax the poor economies.
       - are more useful for the developed countries like U.S.A. whose products stand out superior to those of the developing countries.
@@ -158,12 +144,12 @@ questions:
     question: "It is up to our government and planners to devise ways and means for the mobilisation of about ten crore workers whose families total up about forty crore men, women and children. Our agriculture is over-manned. A lesser number of agriculturists would mean more purchasing or spending power to every agriculturist. This will result in the shortage of man-power for many commodities to be produced for which there will be a new demand from a prosperous agrarian class. This shortage will be removed by surplus man-power released from agriculture as suggested above. The passage best supports the statement that:"
     options:
       - employment in production is more fruitful than employment in agriculture.
-      - Indian economy is in a poor shape basically due to improper mobilisation of man-power.
+      - Pakistani economy is in a poor shape basically due to improper mobilisation of man-power.
       - a shift of labour from agricultural sector to the industrial sector would uplift the living standard.
       - the industrial sector is labour-deficient while the agricultural sector is over-manned in our country.
       - high performance is essential for organisational effectiveness.
     answer: 1
-    explanation: Indian economy is in a poor shape basically due to improper mobilisation of man-power.
+    explanation: Pakistani economy is in a poor shape basically due to improper mobilisation of man-power.
     keyConcept: Theme Detection
     testedIn:
       - NTS
@@ -267,5 +253,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

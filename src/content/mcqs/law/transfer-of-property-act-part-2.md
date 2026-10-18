@@ -29,14 +29,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 2
-    question: "The mortgagor in Indian law is the owner who had parted with some rights of ownership and the rights of redemption is a right which he exercises by virtue of his:"
+    question: "The mortgagor under the Transfer of Property Act is the owner who had parted with some rights of ownership and the rights of redemption is a right which he exercises by virtue of his:"
     options:
       - Pecuniary ownership
       - Residuary ownership
       - Conditional ownership
       - None of the above
     answer: 1
-    explanation: Residuary ownership is the correct answer to “The mortgagor in Indian law is the owner who had parted with some rights of ownership and the rights of redemption is a right which he exercises by virtue of his:”. This question is standard in competitive examination syllabi for Transfer Of Property Act.
+    explanation: Residuary ownership is the correct answer to “The mortgagor under the Transfer of Property Act is the owner who had parted with some rights of ownership and the rights of redemption is a right which he exercises by virtue of his:”. This question is standard in competitive examination syllabi for Transfer Of Property Act.
     keyConcept: Transfer Of Property Act
     testedIn:
       - Civil Judge
@@ -362,19 +362,6 @@ questions:
       - Immovable property
     answer: 2
     explanation: Right to future maintenance is the correct answer to “Which of the following properties cannot be transferred”. This question is standard in competitive examination syllabi for Transfer Of Property Act.
-    keyConcept: Transfer Of Property Act
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 28
-    question: "The rule of election under the Transfer of Property Act, 1882, as applied to Will is enacted in sections 180 and 192 of the:"
-    options:
-      - Indian Succession Act, 1925
-      - Indian Registration Act, 1908
-      - Sale of Goods Act, 1930
-      - General Clauses Act, 1897
-    answer: 0
-    explanation: Indian Succession Act, 1925 is the correct answer to “The rule of election under the Transfer of Property Act, 1882, as applied to Will is enacted in sections 180 and 192 of the:”. This question is standard in competitive examination syllabi for Transfer Of Property Act.
     keyConcept: Transfer Of Property Act
     testedIn:
       - Civil Judge

@@ -235,19 +235,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: Who has done a famous research on gender discrimination in Indian context?
-    options:
-      - Ved Prakash
-      - Anand Lakshmi
-      - Heerabai
-      - Girishwar Mishra
-    answer: 1
-    explanation: Anand Lakshmi is the correct answer to “Who has done a famous research on gender discrimination in Indian context”. This question is standard in competitive examination syllabi for Emerging Areas In Psychology.
-    keyConcept: Emerging Areas In Psychology
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: What of the following is required for maintenance of big cities?
     options:

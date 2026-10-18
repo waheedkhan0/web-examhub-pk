@@ -41,19 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: According to the rightist view in India, globalisation tends to
-    options:
-      - Benefits the weaker section of the society
-      - Divides the State into rich and poor
-      - Weakens the State
-      - Reduces political party competition
-    answer: 2
-    explanation: Weakens the State is the correct answer to “According to the rightist view in India, globalisation tends to”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Where was the first WSF meeting held?
     options:
@@ -119,19 +106,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 9
-    question: Cargill Foods, a very large . . . . . . . . MNC, is the largest producer of edible oil in India, with a capacity to make 5 million pouches daily.
-    options:
-      - Dutch
-      - French
-      - British
-      - American
-    answer: 3
-    explanation: American is the correct answer to “Cargill Foods, a very large . . . . . . . . MNC, is the largest producer of edible oil in India, with a capacity to make 5 million pouches daily.”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 10
     question: The process of cultural homogenisation can also make cultures distinct and more different. This is called . . . . . . . .
     options:
@@ -167,32 +141,6 @@ questions:
       - New York, January 2007
     answer: 1
     explanation: Nairobi, January 2007 is the correct answer to “The seventh WSF meeting was held in:”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 13
-    question: In India, protest against Globalisation has taken place through?
-    options:
-      - Trade unions
-      - Political parties
-      - Indian Social Forums
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “In India, protest against Globalisation has taken place through”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 14
-    question: Which one of the following has benefited least because of globalisation in India?
-    options:
-      - Agriculture Sector
-      - Industrial Sector
-      - Service Sector
-      - Secondary Sector
-    answer: 0
-    explanation: Agriculture Sector is the correct answer to “Which one of the following has benefited least because of globalisation in India”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS
@@ -301,19 +249,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 23
-    question: Which Indian industries have been hit by globalisation?
-    options:
-      - Cement
-      - Jute
-      - Toy making
-      - Information technology (IT)
-    answer: 0
-    explanation: Cement is the correct answer to “Which Indian industries have been hit by globalisation”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 24
     question: With the globalisation of markets, the tastes and preferences of consumers world-wide are
     options:
@@ -323,19 +258,6 @@ questions:
       - Converging upon a global norm
     answer: 3
     explanation: Converging upon a global norm is the correct answer to “With the globalisation of markets, the tastes and preferences of consumers world-wide are”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 25
-    question: The right-wing parties in India mostly object against . . . . . . . . Globalisation.
-    options:
-      - Economic
-      - Political
-      - Social
-      - Cultural
-    answer: 3
-    explanation: Cultural is the correct answer to “The right-wing parties in India mostly object against . . . . . . . . Globalisation.”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS
@@ -366,19 +288,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: In 1986-87, the overall fiscal deficit of India touched an all-time high of
-    options:
-      - 5% of GDP
-      - 7% of GDP
-      - 9% of GDP
-      - 10% of GDP
-    answer: 2
-    explanation: 9% of GDP is the correct answer to “In 1986-87, the overall fiscal deficit of India touched an all-time high of”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: During the colonial period, India became an
     options:
@@ -401,19 +310,6 @@ questions:
       - 3 and 2
     answer: 1
     explanation: 1, 2 and 3 is the correct answer to “Which statement about Economic Globalisation is not correct? 1. People do not need Visa to travel to other countries 2. The consequence of economic globalisation is same across all countries 3. It has brought the entire world all together, without any divisions 4. Developed countries have opened up their borders for people from other countries”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: India implemented the New Economic Policy in the year
-    options:
-      - "1980"
-      - "1981"
-      - "1990"
-      - "1991"
-    answer: 3
-    explanation: 1991 is the correct answer to “India implemented the New Economic Policy in the year”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS
@@ -492,19 +388,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Which statement is not true about globalisation”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: In which year did the government decide to remove barriers on foreign trade and investment in India?
-    options:
-      - "1993"
-      - "1992"
-      - "1991"
-      - "1990"
-    answer: 2
-    explanation: 1991 is the correct answer to “In which year did the government decide to remove barriers on foreign trade and investment in India”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS

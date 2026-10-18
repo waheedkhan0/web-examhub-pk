@@ -179,16 +179,6 @@ questions:
     answer: 0
     explanation: Bab el-Mandeb is the correct answer to “Which strait is called tear gate”. Items of this type are drawn from the General Knowledge — Mixed Practice — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: General Knowledge — Mixed Practice
-  - id: 18
-    question: Indian Navigation System is officially known as _____ and launched by:________?
-    options:
-      - GPS, USA
-      - NavIC, ISRO
-      - ISS, NASA
-      - IRSS, ISRO
-    answer: 1
-    explanation: Indian Navigation System is officially known as NavIC, ISRO and launched by:________.
-    keyConcept: General Knowledge — Mixed Practice
   - id: 19
     question: Rawanda joined commonwealth in __________?
     options:

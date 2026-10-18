@@ -537,9 +537,9 @@ questions:
       - PPSC
       - FPSC
   - id: 39
-    question: Indian scientists are no way / inferior than / any other scientists in the world.
+    question: Pakistani scientists are no way / inferior than / any other scientists in the world.
     options:
-      - Indian scientists are no way
+      - Pakistani scientists are no way
       - inferior than
       - any other scientists in the world
       - No error

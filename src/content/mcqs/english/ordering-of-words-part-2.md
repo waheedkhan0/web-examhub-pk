@@ -354,14 +354,14 @@ questions:
       - PPSC
       - FPSC
   - id: 27
-    question: "1 : Though Indian sportsmen P : who accompanied them Q : the large number of R : did not set many records in Seoul Asiad, S : officials and politicians 6 : did set a record of sorts. The Proper sequence should be:"
+    question: "1 : Though Pakistani sportsmen P : who accompanied them Q : the large number of R : did not set many records in Seoul Asiad, S : officials and politicians 6 : did set a record of sorts. The Proper sequence should be:"
     options:
       - RQSP
       - QSRP
       - PRQS
       - SPRQ
     answer: 2
-    explanation: Though Indian sportsmen who accompanied them did not set many records in Seoul Asiad, the large number of officials and politicians did set a record of sorts.
+    explanation: Though Pakistani sportsmen who accompanied them did not set many records in Seoul Asiad, the large number of officials and politicians did set a record of sorts.
     keyConcept: Ordering Of Words
     testedIn:
       - PPSC
@@ -497,14 +497,14 @@ questions:
       - PPSC
       - FPSC
   - id: 38
-    question: "I was P : and stay for a few days in Delhi Q : when my father told me R : very excited S : that I could go with him The Proper sequence should be:"
+    question: "I was P : and stay for a few days in Lahore Q : when my father told me R : very excited S : that I could go with him The Proper sequence should be:"
     options:
       - PQRS
       - QRSP
       - RQSP
       - SPQR
     answer: 2
-    explanation: I was very excited when my father told me that I could go with him and stay for a few days in Delhi.
+    explanation: I was very excited when my father told me that I could go with him and stay for a few days in Lahore.
     keyConcept: Ordering Of Words
     testedIn:
       - PPSC
@@ -523,14 +523,14 @@ questions:
       - PPSC
       - FPSC
   - id: 40
-    question: "I have never met P : a friendliness and hospitality Q : in your city, R : like the one S : I have met 6 : Calcutta. The Proper sequence should be:"
+    question: "I have never met P : a friendliness and hospitality Q : in your city, R : like the one S : I have met 6 : Karachi. The Proper sequence should be:"
     options:
       - PQRS
       - PRSQ
       - PSRQ
       - QPRS
     answer: 1
-    explanation: I have never met a friendliness and hospitality like the one I have met in your city, Calcutta.
+    explanation: I have never met a friendliness and hospitality like the one I have met in your city, Karachi.
     keyConcept: Ordering Of Words
     testedIn:
       - PPSC

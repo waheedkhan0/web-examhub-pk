@@ -93,32 +93,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 7
-    question: In India, tropical evergreen forests occur in
-    options:
-      - Himachal Pradesh
-      - Madhya Pradesh
-      - Assam
-      - Tamil Nadu
-    answer: 2
-    explanation: Small remnants of evergreen forest are found in Odisha state.[D] Semi-evergreen forest is more extensive than the evergreen formation partly because evergreen forests tend to degrade to semi-evergreen with human interference.
-    keyConcept: Environmental Science
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 8
-    question: The state which constituted green bench
-    options:
-      - Kerala
-      - Tamilnadu
-      - Assam
-      - Madhya Pradesh
-    answer: 1
-    explanation: The constitution of the Calcutta bench was followed by another in Chennai. On September 2,1996, while passing an interim order in the Tamil Nadu tanneries case, a full bench of the SC comprising Justices Kuldip Singh, Falzan-uddin and K Venkataswami asked the chief justice of the Chennai High Court to constitute a special green bench to deal with environmenal matters - including the tanneries case - in that state.
-    keyConcept: Environmental Science
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 9
     question: The one-horned Rhinoceros is now restricted to which state?
     options:
@@ -330,32 +304,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 25
-    question: The first protected area in India is ____________
-    options:
-      - Silent valley
-      - Corbett National Park
-      - Bandipur sanctuary
-      - Nagar-Hole
-    answer: 1
-    explanation: The first wildlife reserve of India, Jim Corbett National Park or 'Corbett Tiger Reserve' is situated in the Nainital district of Uttarakhand. It covers 1318 sq km of area, in which 500 sq. km is the core area and rest part is the buffer zone.
-    keyConcept: Environmental Science
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 26
-    question: Centre of Modern nuclear technology in India
-    options:
-      - CRAS
-      - SARC
-      - BARC
-      - None of these
-    answer: 2
-    explanation: The Bhabha Atomic Research Centre (BARC) is India's premier nuclear research facility, headquartered in Trombay, Mumbai, Maharashtra. BARC is a multi-disciplinary research centre with extensive infrastructure for advanced research and development covering the entire spectrum of nuclear science, engineering and related areas. BARC's core mandate is to sustain peaceful applications of nuclear energy, primarily for power generation.
-    keyConcept: Environmental Science
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 27
     question: "The north-facing side of a hill in a mountainous region in the US tends to:"
     options:
@@ -405,32 +353,6 @@ questions:
       - phosphates
     answer: 2
     explanation: Benzene is also a natural part of crude oil and gasoline (and therefore motor vehicle exhaust), as well as cigarette smoke. Benzene is among the 20 most widely used chemicals in the United States. It is used mainly as a starting material in making other chemicals, including plastics, lubricants, rubbers, dyes, detergents, drugs, and pesticides. In the past it was also commonly used as an industrial solvent (a substance that can dissolve or extract other substances) and as a gasoline additive, but these uses have been greatly reduced in recent decades. The link between benzene and cancer has largely focused on leukemia and other cancers of blood cells.
-    keyConcept: Environmental Science
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 31
-    question: The controversial dam across the river Narmada?
-    options:
-      - Sardar Sarovar
-      - Hirakud
-      - Bhakranangal
-      - Sutlej.
-    answer: 0
-    explanation: The Sardar Sarovar Dam is a gravity dam on the Narmada river near Navagam, Gujarat in India. Four Indian states, Gujarat, Madhya Pradesh, Maharastra and Rajasthan, receive water and electricity supplied from the dam. The foundation stone of the project was laid out by Prime Minister Jawaharlal Nehru on 5 April 1961.
-    keyConcept: Environmental Science
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 32
-    question: Snow leopard is found in which National Park?
-    options:
-      - Kaziranga
-      - The Great Himalayan
-      - Bharatpur
-      - Nagarhole
-    answer: 1
-    explanation: The park is home to a number of species of endangered mammals, including the snow leopard. Hemis National Park is India's protected area inside the Palearctic ecozone, outside the Changthang Wildlife Sanctuary northeast of Hemis, and the proposed Tso Lhamo Cold Desert Conservation Area in North Sikkim.
     keyConcept: Environmental Science
     testedIn:
       - PPSC

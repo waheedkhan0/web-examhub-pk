@@ -132,19 +132,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 10
-    question: In India, which pricing practice is not permissible?
-    options:
-      - Penetrating pricing
-      - Skimming pricing
-      - Predatory pricing
-      - None of the above
-    answer: 2
-    explanation: Predatory pricing is the correct answer to “In India, which pricing practice is not permissible”. This question is standard in competitive examination syllabi for Marketing Management.
-    keyConcept: Marketing Management
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 11
     question: Which one of the following stages of the marketing research process is most expensive?
     options:
@@ -219,19 +206,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Which is the basic form of innovation”. This question is standard in competitive examination syllabi for Marketing Management.
-    keyConcept: Marketing Management
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 17
-    question: "Assertion (A): The electronic media has a strong impact on consumer behaviour in India. Reason (R): Most of the Indian consumers make their decision with the help of electronic media."
-    options:
-      - (A) is correct, but (R) is incorrect
-      - (R) is correct, but (A) is incorrect
-      - Both (A) and (R) are incorrect
-      - Both (A) and (R) are correct
-    answer: 3
-    explanation: "Both (A) and (R) are correct is the correct answer to “Assertion (A): The electronic media has a strong impact on consumer behaviour in India. Reason (R): Most of the Indian consumers make their decision with the help of electronic media.”. This question is standard in competitive examination syllabi for Marketing Management."
     keyConcept: Marketing Management
     testedIn:
       - FPSC Senior Auditor
@@ -453,19 +427,6 @@ questions:
       - None of the above
     answer: 1
     explanation: Lead time is the correct answer to “Which of the following is the time element elapsing between issuing replenishment order and receiving the material in stores”. This question is standard in competitive examination syllabi for Marketing Management.
-    keyConcept: Marketing Management
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 35
-    question: "Statement I: Sales promotion has a strong impact on consumer behaviour in rural India. Statement II: Rural people in India give utmost significance to sales promotion schemes."
-    options:
-      - Statement I is correct, but Statement II is incorrect
-      - Statement I is incorrect, but Statement II is correct
-      - Both statements are correct
-      - Both statements are incorrect
-    answer: 0
-    explanation: "Statement I is correct, but Statement II is incorrect is the correct answer to “Statement I: Sales promotion has a strong impact on consumer behaviour in rural India. Statement II: Rural people in India give utmost significance to sales promotion schemes.”. This question is standard in competitive examination syllabi for Marketing Management."
     keyConcept: Marketing Management
     testedIn:
       - FPSC Senior Auditor

@@ -435,20 +435,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 31
-    question: For many centuries in Indian History there was no city so famous like the city of Ujjain.
-    options:
-      - as
-      - such as
-      - likewise
-      - so like
-      - No correction required
-    answer: 0
-    explanation: For many centuries in Indian History there was no city so famous as the city of Ujjain.
-    keyConcept: Sentence Correction
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 32
     question: We don't know how did the thief made an escape.
     options:
@@ -576,5 +562,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

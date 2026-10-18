@@ -131,19 +131,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 10
-    question: According to 2012 survey, what percentage of population lives below poverty line in India?
-    options:
-      - 14%
-      - 15%
-      - 12%
-      - 10%
-    answer: 2
-    explanation: 12% is the correct answer to “According to 2012 survey, what percentage of population lives below poverty line in India”. This question is standard in competitive examination syllabi for Emerging Areas In Psychology.
-    keyConcept: Emerging Areas In Psychology
-    testedIn:
-      - CSS
-      - PMS
   - id: 11
     question: What are the secondary problems related to poverty?
     options:
@@ -205,19 +192,6 @@ questions:
       - It affects people of a particular religion
     answer: 1
     explanation: It affects considerable number of individuals in a society is the correct answer to “What is the main characteristic of a social issue”. This question is standard in competitive examination syllabi for Emerging Areas In Psychology.
-    keyConcept: Emerging Areas In Psychology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 16
-    question: Who proposed a psychological analysis of poverty in Indian context?
-    options:
-      - Pareek
-      - Ajit K Dalal
-      - Anand Lakshmi
-      - Dr. Girishwar Mishra
-    answer: 0
-    explanation: Pareek is the correct answer to “Who proposed a psychological analysis of poverty in Indian context”. This question is standard in competitive examination syllabi for Emerging Areas In Psychology.
     keyConcept: Emerging Areas In Psychology
     testedIn:
       - CSS

@@ -236,19 +236,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 18
-    question: The most extensive, commercially useful source of thorium as monazite sand occurs in India at
-    options:
-      - Orissa coast
-      - Travancore coast
-      - West Bengal coast
-      - Gujarat coast
-    answer: 1
-    explanation: The most extensive, commercially useful source of thorium as monazite sand occurs in India at Travancore coast.
-    keyConcept: Chemistry
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 19
     question: The main active constituent of tea and coffee is
     options:
@@ -401,19 +388,6 @@ questions:
       - 4.6 gram of C2H5OH
     answer: 1
     explanation: The number of atoms present in 21.6 gram of silver (atomic weight = 108) are same as the molecules in 12 moles of KMnO 4 .
-    keyConcept: Chemistry
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 31
-    question: The National Chemical Laboratory is situated in
-    options:
-      - New Delhi
-      - Bangalore
-      - Pune
-      - Patna
-    answer: 2
-    explanation: National Chemical Laboratory (CSIR-NCL), Pune, established in 1950, is a constituent laboratory of Council of Scientific and Industrial Research (CSIR).
     keyConcept: Chemistry
     testedIn:
       - PPSC

@@ -67,32 +67,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 5
-    question: Equivalent factor of passenger car unit (PCU) for a passenger car as per IRC is
-    options:
-      - "1.0"
-      - "2.0"
-      - "0.5"
-      - "10"
-    answer: 0
-    explanation: 1.0 is the correct answer to “Equivalent factor of passenger car unit (PCU) for a passenger car as per IRC is”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 6
-    question: When two equally important roads cross roughly at right angles, the suitable shape of central island is
-    options:
-      - circular
-      - elliptical
-      - tangent
-      - turbine
-    answer: 0
-    explanation: circular is the correct answer to “When two equally important roads cross roughly at right angles, the suitable shape of central island is”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 7
     question: Which of the following is considered to be the highest quality construction in the group of black top pavements?
     options:
@@ -206,19 +180,6 @@ questions:
       - does not change the vertical alignment of road
     answer: 2
     explanation: avoids the drainage problem in flat terrain is the correct answer to “The attainment of super elevation by rotation of pavement about the inner edge of the pavement”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 16
-    question: The transition curve used in the horizontal alignment of highways as per IRC recommendations is
-    options:
-      - spiral
-      - lemniscate
-      - cubic parabola
-      - any of the above
-    answer: 0
-    explanation: spiral is the correct answer to “The transition curve used in the horizontal alignment of highways as per IRC recommendations is”. This question is standard in competitive examination syllabi for Highway Engineering.
     keyConcept: Highway Engineering
     testedIn:
       - PPSC SDO
@@ -392,19 +353,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 30
-    question: As per IRC recommendations, the average level of illumination on important roads carrying fast traffic is
-    options:
-      - 10 lux
-      - 15 lux
-      - 20 lux
-      - 30 lux
-    answer: 3
-    explanation: 30 lux is the correct answer to “As per IRC recommendations, the average level of illumination on important roads carrying fast traffic is”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 31
     question: Which of the following methods is preferred for collecting origin and destination data for a small area like a mass business center or a large intersection ?
     options:
@@ -427,32 +375,6 @@ questions:
       - upper edge towards the lower edge
     answer: 2
     explanation: lower edge towards the upper edge is the correct answer to “In highway construction on super elevated curves, the rolling shall proceed from”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 33
-    question: When a number of roads are meeting at a point and only one of the roads is important, then the suitable shape of rotary is
-    options:
-      - circular
-      - tangent
-      - elliptical
-      - turbine
-    answer: 1
-    explanation: tangent is the correct answer to “When a number of roads are meeting at a point and only one of the roads is important, then the suitable shape of rotary is”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 34
-    question: When the path travelled along the road surface is more than the circumferential movement of the wheels due to rotation, then it results in
-    options:
-      - slipping
-      - skidding
-      - turning
-      - revolving
-    answer: 1
-    explanation: skidding is the correct answer to “When the path travelled along the road surface is more than the circumferential movement of the wheels due to rotation, then it results in”. This question is standard in competitive examination syllabi for Highway Engineering.
     keyConcept: Highway Engineering
     testedIn:
       - PPSC SDO
@@ -536,5 +458,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

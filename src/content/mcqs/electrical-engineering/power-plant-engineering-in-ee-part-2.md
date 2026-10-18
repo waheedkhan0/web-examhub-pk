@@ -172,19 +172,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 13
-    question: Thorium Breeder Reactors are most suitable for India because
-    options:
-      - these develop more power
-      - its technology is simple
-      - abundance of thorium deposits are available in India
-      - these can be easily designed
-    answer: 2
-    explanation: abundance of thorium deposits are available in India is the correct answer to “Thorium Breeder Reactors are most suitable for India because”. This question is standard in competitive examination syllabi for Power Plant Engineering In Ee.
-    keyConcept: Power Plant Engineering In Ee
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 14
     question: The ratio of exit pressure to inlet pressure for maximum mass flow rate per unit area of steam through a nozzle when steam is initially dry saturated is
     options:
@@ -537,5 +524,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

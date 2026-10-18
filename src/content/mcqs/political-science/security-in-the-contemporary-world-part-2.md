@@ -15,19 +15,6 @@ targetExams:
   - PPSC
   - KPPSC
 questions:
-  - id: 1
-    question: The first component was strengthening India's military capabilities because India has been involved in conflicts with its neighbours - Pakistan in . . . . . . . . and China in 1962.
-    options:
-      - 1947-49, 1965, 1971 and 1999
-      - 1947-48, 1966, 1971 and 1999
-      - 1947-48, 1965, 1971 and 1999
-      - 1947-48, 1965, 1972 and 1999
-    answer: 2
-    explanation: 1947-48, 1965, 1971 and 1999 is the correct answer to “The first component was strengthening India's military capabilities because India has been involved in conflicts with its neighbours - Pakistan in . . . . . . . . and China in 1962.”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: Which of the following is a source of insecurity?
     options:
@@ -93,19 +80,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 7
-    question: What is tenure of the chairman of the National Human Rights Commission?
-    options:
-      - 3 years or upto 70 years of age
-      - 5 years or upto 65 years of age
-      - 6 years or upto 65 years of age
-      - 5 years or upto 70 years of age
-    answer: 0
-    explanation: 3 years or upto 70 years of age is the correct answer to “What is tenure of the chairman of the National Human Rights Commission”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
   - id: 8
     question: New and poorly understood diseases such as . . . . . . . . virus, hantavirus, and hepatitis C, have emerged, while old diseases like tuberculosis, malaria, dengue fever and . . . . . . . . have mutated into drug resistant forms that are difficult to treat.
     options:
@@ -141,19 +115,6 @@ questions:
       - India
     answer: 2
     explanation: Britain is the correct answer to “Since the late 1990s, . . . . . . . . has lost billions of dollars of income during an outbreak of the mad-cow disease, and bird flu shut down supplies of poultry exports from several Asian countries.”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
-  - id: 11
-    question: Which of the following statements is not correct about the National Human Rights Commission?
-    options:
-      - It was established in 1993
-      - In the cases of human rights violation, the Commission has no right to punish the culprit
-      - The Chairman and members of this Commission are appointed by the Supreme Court of India
-      - The Commission sends its annual report to the Central Government and State Governments
-    answer: 2
-    explanation: The Chairman and members of this Commission are appointed by the Supreme Court of India is the correct answer to “Which of the following statements is not correct about the National Human Rights Commission”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
     keyConcept: Security In The Contemporary World
     testedIn:
       - CSS

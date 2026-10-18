@@ -66,19 +66,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 5
-    question: The state exists and should aim at "the greatest good of all." Who is the author of these words?
-    options:
-      - Socrates
-      - Gandhi
-      - Laski
-      - Sophists
-    answer: 1
-    explanation: Gandhi is the correct answer to “The state exists and should aim at "the greatest good of all." Who is the author of these words”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
   - id: 6
     question: "Match List-I with List-II and select the correct answer: List I (Thinker) List II (Conflict) a. Durkheim 1. As pathological b. Marx 2. As essential and complementary aspect of harmony c. Simmel 3. As vehicle of social change d. Ibne Khaldun 4. Fundamental to the evolution of civilisation"
     options:

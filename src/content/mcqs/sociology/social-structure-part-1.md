@@ -183,19 +183,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 14
-    question: "Choose the correct option: Assertion (A): There are villages in which a sizeable number of people have sought employment in far-off cities. Reason (R): They live these leaving behind the members of their families in their natal villages. In Madhopur, a village in North Central India, 77 out of 298 households have migrants. These migrants work in two cities of Bombay and Calcutta."
-    options:
-      - Both 'A' and 'R' are correct and 'R' is the correct explanation of 'A'
-      - Both 'A' and 'R' are correct but 'R' is not the correct explanation of 'A'
-      - A' is correct but 'R' is incorrect
-      - A' is incorrect but 'R' is correct
-    answer: 0
-    explanation: "Both 'A' and 'R' are correct and 'R' is the correct explanation of 'A' is the correct answer to “Choose the correct option: Assertion (A): There are villages in which a sizeable number of people have sought employment in far-off cities. Reason (R): They live these leaving behind the members of their families in their natal villages. In Madhopur, a village in North Central India, 77 out of 298 households have migrants. These migrants work in two cities of Bombay and Calcutta.”. This question is standard in competitive examination syllabi for Social Structure."
-    keyConcept: Social Structure
-    testedIn:
-      - CSS
-      - PMS
   - id: 15
     question: The concepts of aristocracy and ethnic superiority are found in . . . . . . . . type of social structure.
     options:
@@ -244,19 +231,6 @@ questions:
       - Need disposition system
     answer: 1
     explanation: Social system is the correct answer to “. . . . . . . . must motivate the actors adequately to the performances, necessary for the social system to develop or persist”. This question is standard in competitive examination syllabi for Social Structure.
-    keyConcept: Social Structure
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: "In the twenty-first century India is witnessing fast pace of urbanisation with the ambitious scheme of:"
-    options:
-      - Industrial towns
-      - Infrastructure
-      - Smart City
-      - Unique township
-    answer: 2
-    explanation: Smart City is the correct answer to “In the twenty-first century India is witnessing fast pace of urbanisation with the ambitious scheme of:”. This question is standard in competitive examination syllabi for Social Structure.
     keyConcept: Social Structure
     testedIn:
       - CSS

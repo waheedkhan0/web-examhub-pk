@@ -92,19 +92,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 7
-    question: Migrants leaving India to settledown in the United States are . . . . . . . . to the United States and . . . . . . . . from India
-    options:
-      - Immigrants, emigrants
-      - Emigrants, immigrants
-      - Emigrants, migrants
-      - None of the above
-    answer: 0
-    explanation: Immigrants, emigrants is the correct answer to “Migrants leaving India to settledown in the United States are . . . . . . . . to the United States and . . . . . . . . from India”. This question is standard in competitive examination syllabi for Social Demography.
-    keyConcept: Social Demography
-    testedIn:
-      - CSS
-      - PMS
   - id: 8
     question: Who of the following usually migrate in less numbers?
     options:

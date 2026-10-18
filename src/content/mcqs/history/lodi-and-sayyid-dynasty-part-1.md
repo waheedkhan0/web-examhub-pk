@@ -41,19 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: Which battle led to the downfall of the Vijayanagar empire?
-    options:
-      - Battle of Takkolam
-      - Battle of Talikota
-      - Battle of Khanwa
-      - Battle of Panipat
-    answer: 1
-    explanation: The Battle of Talikota (23 January 1565) was a watershed battle fought between the Vijayanagara Empire and the Deccan sultanates. The Deccan Sultanates had better artillery, better cavalry and the betrayal by Gilani Brothers (key commanders of Vijaynagar Kingdom) led to the downfall of vijaynagar kingdom.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: The Mongols under__________ invaded Transoxiana in north-east Iran in 1219
     options:
@@ -171,19 +158,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 13
-    question: Krishnadevaraya maintained friendly relations with the
-    options:
-      - French
-      - British
-      - Protuguese
-      - Dutch
-    answer: 2
-    explanation: Krishnadevaraya established friendly relations with the Portuguese, who set up the Portuguese Dominion of India in Goa in 1510.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 14
     question: Who was the founder of the city of Agra?
     options:
@@ -206,32 +180,6 @@ questions:
       - 1600 A.D.
     answer: 1
     explanation: Under the Lodi (Afghan) dynasty (1451–1526), however, with large-scale immigration from Afghanistan, the Delhi sultanate partly recovered its hegemony, until the Mughal leader Babur destroyed it at the First Battle of Panipat on April 21, 1526.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 16
-    question: Who has built the Vijay Stambha (Tower of Victory) in Chittorgarh?
-    options:
-      - Maharana Pratap
-      - Rana Kumbha
-      - Rana Sanga
-      - Kunwar Durjan Singh
-    answer: 1
-    explanation: The Vijaya Stambha is an imposing victory monument located within Chittor Fort in Chittorgarh, Rajasthan, India. The tower was constructed by the Mewar king, Rana Kumbha, in 1448 to commemorate his victory over the combined armies of Malwa and Gujarat led by Mahmud Khilji. The tower is dedicated to Vishnu.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 17
-    question: Krishna Deva Raya was a contemporary of
-    options:
-      - Shershah
-      - Humayun
-      - Babur
-      - Akbar
-    answer: 2
-    explanation: Krishnadeva Raya the (1509-1529) Vijaynagar emperor was contemporary of Mughal Emperor Babur (1526-1530). Babur tells him as a power full king in his auto biography. When the Mughal Emperor Babur was taking stock of the potentates of north India, Krishnadevaraya was rated the most powerful and had the most extensive empire in the subcontinent.
     keyConcept: Lodi And Sayyid Dynasty
     testedIn:
       - CSS
@@ -314,19 +262,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 24
-    question: What was the capital of Pallava Dynasty?
-    options:
-      - Kanchipuram
-      - Tiruchirapalli
-      - Tanjore
-      - Chennai
-    answer: 0
-    explanation: Kanchipuram was the capital of Pallava dynasty. Bappadev was the founder of Pallava dynasty, the famous ruler of the dynasty was Narsihman Verman 1st.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 25
     question: Who was the last ruler of Lodi Dynasty?
     options:
@@ -349,19 +284,6 @@ questions:
       - Berar
     answer: 2
     explanation: Chand Bibi (1550–1599 CE), was an Indian Muslim regent and warrior. She acted as the Regent of Bijapur (1580–90) and Regent of Ahmednagar (in current day Maharashtra) (1596–99). Chand Bibi is best known for defending Ahmednagar against the Mughal forces of Emperor Akbar in 1595.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 27
-    question: Which dynasty was ruling in Vijaynagar empire at the time of the Battle of Talikota?
-    options:
-      - Sangam
-      - Aravidu
-      - Tuluva
-      - Saluva
-    answer: 2
-    explanation: Tuluva Dynasty was the third dynasty to rule Vijaynagar Empire. The Battle of Talikota was fought between the Deccan Sultanates and Vijaynagar Kingdom. Sadasiva Raya of Tuluva dynasty was the emperor of Vijaynagar at the time of the Battle of Talikota.
     keyConcept: Lodi And Sayyid Dynasty
     testedIn:
       - CSS
@@ -405,19 +327,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 31
-    question: Group of Monuments at Hampi was built by?
-    options:
-      - Harihara and Bukka
-      - Udayin and Shishunaga
-      - Devavarman and Vainya
-      - Mahendraverman and Sirmara
-    answer: 0
-    explanation: Hampi, a village and a temple town in Karnataka is one of the most historically rich places. And because Hampi was the capital, it flourished in trade. We have listed down the four different dynasties with small information about each one of them. Sangama Dynasty was founded by Bukka Raya 1 and Harihara 1. The monuments at Hampi was built by the founder of Vijay Nagar dynasty i.e. Harihar and Bukka.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 32
     question: Who is considered as the greatest of all the Vijayanagar rulers?
     options:
@@ -427,19 +336,6 @@ questions:
       - Rama Raya
     answer: 0
     explanation: Krishna Deva Raya (1509-29) is considered as the greatest of all the Vijayanagar rulers for his military as well as literary and other achievements. Krishnadeva Raya was the third ruler of Tuluva dynasty. He ruled from Vijaynagar Empire from 1509-1529. He was given the titles of 'Andhra Bhoja' Mooru Rayara Ganda (King of three Kings) and Kannada Rajya Rama Ramana.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 33
-    question: The medieval city of Vijayanagar is now known as
-    options:
-      - Chandragiri
-      - Aravidu
-      - Hampi
-      - Kondavidu
-    answer: 2
-    explanation: Hampi, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in east-central Karnataka, India. It became the centre of the Hindu Vijayanagara Empire capital in the 14th century.
     keyConcept: Lodi And Sayyid Dynasty
     testedIn:
       - CSS
@@ -483,19 +379,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 37
-    question: The rulers of Vijayanagar promoted
-    options:
-      - Hindi, Marathi and Sanskrit
-      - Malayalam, Tamil and Sanskrit
-      - Tamil, Telugu and Sanskrit
-      - Telugu, Urdu and Sanskrit
-    answer: 2
-    explanation: The ruler of Vijaynagar Empire patronised Kannada, Tamil, Telugu and Sanskrit Scholars.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 38
     question: The Sayyid dynasty of the Delhi Sultanate is called so because__________?
     options:
@@ -518,19 +401,6 @@ questions:
       - Ibrahim Lodi
     answer: 2
     explanation: The Lodi dynasty (or Lodhi) was an Afghan dynasty that ruled the Delhi Sultanate from 1451 to 1526. It was the last dynasty of the Delhi Sultanate, and was founded by Bahlul Khan Lodi when he replaced the Sayyid dynasty.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 40
-    question: How many Mahajanapadas were there in ancient India?
-    options:
-      - "20"
-      - "16"
-      - "18"
-      - "10"
-    answer: 1
-    explanation: In ancient India 16 Mahajanapadas were mentioned in Anguttar Nakaya.
     keyConcept: Lodi And Sayyid Dynasty
     testedIn:
       - CSS

@@ -42,19 +42,6 @@ questions:
     testedIn:
       - NTS
       - CSS
-  - id: 3
-    question: Arrange the words given below in a meaningful sequence. 1. Andhra Pradesh 2. Universe 3. Tirupati 4. World 5. India
-    options:
-      - 1, 5, 3, 2, 4
-      - 2, 1, 3, 5, 4
-      - 3, 1, 5, 4, 2
-      - 5, 4, 2, 1, 3
-    answer: 2
-    explanation: "The correct order is : Tirupati 3 Andhra Pradesh 1 India 5 World 4 Universe 2"
-    keyConcept: Logical Sequence Of Words
-    testedIn:
-      - NTS
-      - CSS
   - id: 4
     question: Arrange the words given below in a meaningful sequence. 1. Study 2. Job 3. Examination 4. Earn 5. Apply
     options:
@@ -160,5 +147,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

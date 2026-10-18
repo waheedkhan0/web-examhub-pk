@@ -34,26 +34,6 @@ questions:
     answer: 3
     explanation: When Wrestling Introduced In Olympics Games 1904 .
     keyConcept: Sports & Games
-  - id: 3
-    question: How many double centuries Rohit Sharma made in one day international cricket?
-    options:
-      - "2"
-      - "3"
-      - "5"
-      - "4"
-    answer: 1
-    explanation: 3 is the correct answer to “How many double centuries Rohit Sharma made in one day international cricket”. Items of this type are drawn from the Sports & Games — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
-  - id: 4
-    question: Who secured Three ODI double hundreds and the highest score in ODI cricket?
-    options:
-      - Virat Kholi
-      - Rohit Sharma
-      - Shahid Afridi
-      - MS Dhoni
-    answer: 1
-    explanation: Rohit Sharma is the correct answer to “Who secured Three ODI double hundreds and the highest score in ODI cricket”. Items of this type are drawn from the Sports & Games — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
   - id: 5
     question: The First ever edition of the T10 Cricket League 2017 will be played in ___________?
     options:

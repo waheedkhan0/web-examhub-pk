@@ -262,19 +262,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 20
-    question: Most common disease of poultry in India is
-    options:
-      - fowl pox
-      - tick fever
-      - ranikhet
-      - coryza
-    answer: 2
-    explanation: Most common disease of poultry in India is ranikhet.
-    keyConcept: Biology
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 21
     question: Most abundant tissues of our body are
     options:

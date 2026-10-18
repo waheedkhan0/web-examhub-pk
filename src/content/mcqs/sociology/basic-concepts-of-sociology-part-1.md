@@ -79,19 +79,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: "Consider the following statements: The dangers of ethnocentrism are very grave in India. Efforts of bringing unity among people of India are defeated because ethnocentrism: 1. Involves a double moral standard-one for in-group and another for out-group. 2. Distorts self and originality of every individual. 3. Makes individuals to look at the culture of out-groups with hatred and even contempt. Which of these statements are correct?"
-    options:
-      - 1, 2 and 3
-      - 1 and 2
-      - 2 and 3
-      - 1 and 3
-    answer: 3
-    explanation: "1 and 3 is the correct answer to “Consider the following statements: The dangers of ethnocentrism are very grave in India. Efforts of bringing unity among people of India are defeated because ethnocentrism: 1. Involves a double moral standard-one for in-group and another for out-group. 2. Distorts self and originality of every individual. 3. Makes individuals to look at the culture of out-groups with hatred and even contempt. Which of these statements are correct”. This question is standard in competitive examination syllabi for Basic Concepts Of Sociology."
-    keyConcept: Basic Concepts Of Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 7
     question: "Which of the following characteristics are used by Maclver for defining a community? 1. Common religion. 2. We feeling. 3. Common language. 4. Common territory. Select the correct answer:"
     options:

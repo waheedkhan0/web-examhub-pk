@@ -14,19 +14,6 @@ targetExams:
   - PPSC
   - KPPSC
 questions:
-  - id: 1
-    question: Chipko Movement was in which area of India?
-    options:
-      - North-Eastern region
-      - Gangetic plains
-      - Himalayan region
-      - Southern region
-    answer: 2
-    explanation: Himalayan region is the correct answer to “Chipko Movement was in which area of India”. This question is standard in competitive examination syllabi for State_ Politics And Development In Sociology.
-    keyConcept: State_ Politics And Development In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: Match the following in the term of Theories of Gender relations and Thickers. List I (Theories of Gender relations) List II (Thickers) a. Liberal 1. Cixous and Irigaray b. Radical 2. Clara Zetkin, Juliet Mitchell c. Socialist 3. Kate Millett, Mary Dely d. Post-modernist 4. Mary Wollstonecraft, Betty Friedan
     options:
@@ -62,19 +49,6 @@ questions:
       - Polygamy
     answer: 1
     explanation: Matriarchal is the correct answer to “A type of society where authority is in hands of female”. This question is standard in competitive examination syllabi for State_ Politics And Development In Sociology.
-    keyConcept: State_ Politics And Development In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 5
-    question: A women magazine 'Bamabodhini Patrika' was started by
-    options:
-      - Brahmo Samaj
-      - Arya Samaj
-      - Prarthna Samaj
-      - None of these
-    answer: 0
-    explanation: Brahmo Samaj is the correct answer to “A women magazine 'Bamabodhini Patrika' was started by”. This question is standard in competitive examination syllabi for State_ Politics And Development In Sociology.
     keyConcept: State_ Politics And Development In Sociology
     testedIn:
       - CSS

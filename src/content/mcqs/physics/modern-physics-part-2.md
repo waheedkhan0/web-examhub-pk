@@ -15,32 +15,6 @@ targetExams:
   - PPSC
   - FPSC
 questions:
-  - id: 1
-    question: The Nuclear doctrine of India contains
-    options:
-      - No first use
-      - Unilateral moratorium
-      - Minimum Credible deterrence
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “The Nuclear doctrine of India contains”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
-  - id: 2
-    question: The Nuclear Fuel Complex is situated at . . . . . . . .
-    options:
-      - Hyderabad
-      - Thumba
-      - Kalpakkam
-      - Mumbai
-    answer: 0
-    explanation: Hyderabad is the correct answer to “The Nuclear Fuel Complex is situated at . . . . . . . .”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 3
     question: In a nuclear reactor, . . . . . . . . is used to control the rate of fission reaction which itself absorbs neutrons without fission.
     options:
@@ -119,19 +93,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 9
-    question: As of November 2020, how many nuclear power reactors are operating in India?
-    options:
-      - "20"
-      - "23"
-      - "22"
-      - "21"
-    answer: 2
-    explanation: 22 is the correct answer to “As of November 2020, how many nuclear power reactors are operating in India”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 10
     question: What is the source of electrical energy in an artificial satellite?
     options:
@@ -197,19 +158,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 15
-    question: In which state is Pokhran, the site of India's first nuclear explosion, located?
-    options:
-      - Punjab
-      - Andhra Pradesh
-      - Rajasthan
-      - Odisha
-    answer: 2
-    explanation: Rajasthan is the correct answer to “In which state is Pokhran, the site of India's first nuclear explosion, located”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 16
     question: Why was the Thomson's model of an atom failed?
     options:
@@ -219,19 +167,6 @@ questions:
       - None of the above
     answer: 0
     explanation: It did not give an idea about the discrete energy level is the correct answer to “Why was the Thomson's model of an atom failed”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
-  - id: 17
-    question: The Newton-Bhabha Fund Program was a joint initiative of
-    options:
-      - America and Pakistan
-      - India and Britain
-      - India and America
-      - America and Britain
-    answer: 1
-    explanation: India and Britain is the correct answer to “The Newton-Bhabha Fund Program was a joint initiative of”. This question is standard in competitive examination syllabi for Modern Physics.
     keyConcept: Modern Physics
     testedIn:
       - MDCAT
@@ -271,19 +206,6 @@ questions:
       - Molar cells
     answer: 0
     explanation: Solar cells is the correct answer to “Photovoltaic cells are”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
-  - id: 21
-    question: Where is the Nuclear Fuel Complex of India situated?
-    options:
-      - Hyderabad
-      - Hubli
-      - Chennai
-      - Visakhapatnam
-    answer: 0
-    explanation: Hyderabad is the correct answer to “Where is the Nuclear Fuel Complex of India situated”. This question is standard in competitive examination syllabi for Modern Physics.
     keyConcept: Modern Physics
     testedIn:
       - MDCAT
@@ -336,32 +258,6 @@ questions:
       - 810 million K
     answer: 0
     explanation: 100 million K is the correct answer to “Nuclear Fusion' is the process of combining of two or more light nuclei. What is the required temperature (approximately) for nuclear fusion”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
-  - id: 26
-    question: The Atomic Energy Institute in Mumbai was renamed in honor of which Indian nuclear physicist?
-    options:
-      - C.V. Raman
-      - Ramakrishna Ramanathan
-      - Homi Jehangir Bhabha
-      - King Ramanna
-    answer: 2
-    explanation: Homi Jehangir Bhabha is the correct answer to “The Atomic Energy Institute in Mumbai was renamed in honor of which Indian nuclear physicist”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
-  - id: 27
-    question: Which one of the following is India's first nuclear plant?
-    options:
-      - Narora
-      - Kalpakkam
-      - Tarapur
-      - Kota
-    answer: 2
-    explanation: Tarapur is the correct answer to “Which one of the following is India's first nuclear plant”. This question is standard in competitive examination syllabi for Modern Physics.
     keyConcept: Modern Physics
     testedIn:
       - MDCAT
@@ -457,19 +353,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 35
-    question: The important nuclear fuel available in India in abundance is
-    options:
-      - Uranium
-      - Thorium
-      - Iridium
-      - Plutonium
-    answer: 1
-    explanation: Thorium is the correct answer to “The important nuclear fuel available in India in abundance is”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 36
     question: Positive rays are very identical to
     options:
@@ -536,5 +419,4 @@ questions:
       - MDCAT
       - CSS
 ---
-
 

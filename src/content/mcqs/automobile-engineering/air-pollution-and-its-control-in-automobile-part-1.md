@@ -104,19 +104,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 8
-    question: Pune-based organisation . . . . . . . . conducted a study using a 15% M - 15 methanol blend in vehicles and tested them for 3,000 km to evaluate emissions in real-world conditions as well as to check the performance of the vehicles.
-    options:
-      - Automotive Research Association of India (ARAI)
-      - Research Association of India (RAI)
-      - Automotive Organisation (AO)
-      - Vehicle Organisation of India (VOI)
-    answer: 0
-    explanation: Automotive Research Association of India (ARAI) is the correct answer to “Pune-based organisation . . . . . . . . conducted a study using a 15% M - 15 methanol blend in vehicles and tested them for 3,000 km to evaluate emissions in real-world conditions as well as to check the performance of the vehicles.”. This question is standard in competitive examination syllabi for Air Pollution And Its Control In Automobile.
-    keyConcept: Air Pollution And Its Control In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 9
     question: Idling co-emission for all two and three wheeled petrol vehicles should not exceed . . . . . . . . by volume.
     options:
@@ -524,5 +511,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

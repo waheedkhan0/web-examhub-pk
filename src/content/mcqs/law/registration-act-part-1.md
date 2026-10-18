@@ -23,7 +23,7 @@ questions:
       - Section 17
       - Section 20
     answer: 0
-    explanation: "Definition of Registration under the Registration Act: The Registration Act governs the registration of documents in India, providing a legal framework for recording documents and ensuring their authenticity. It is designed to create a public record for certain types of transactions, which helps in establishing the validity of documents in legal matters. Correct Answer: Option A - Section 18 Section 18 of the Registration Act provides for documents of which registration is optional. This section lists documents that, while they can be registered, are not legally required to be registered. These documents remain valid and enforceable even if not registered, though registration can provide stronger evidentiary value in case of a dispute. Why Other Options are Incorrect: Option C: Section 17 - Section 17 of the Registration Act deals with compulsory registration and outlines the documents that must be registered to be legally valid. It does not address optional registration. Option B: Section 19 - Section 19 pertains to the registration of documents executed by several persons at different times and does not specify documents optional for registration. Option D: Section 20 - Section 20 deals with the language of presented documents and other related procedural provisions but does not specify optional registration of documents. Conclusion: The correct answer is Section 18 (Option A) , which provides for documents whose registration is optional. The other sections deal with different aspects of the registration process, including compulsory registration and procedural requirements."
+    explanation: "Definition of Registration under the Registration Act: The Registration Act governs the registration of documents in Pakistan, providing a legal framework for recording documents and ensuring their authenticity. It is designed to create a public record for certain types of transactions, which helps in establishing the validity of documents in legal matters. Correct Answer: Option A - Section 18 Section 18 of the Registration Act provides for documents of which registration is optional. This section lists documents that, while they can be registered, are not legally required to be registered. These documents remain valid and enforceable even if not registered, though registration can provide stronger evidentiary value in case of a dispute. Why Other Options are Incorrect: Option C: Section 17 - Section 17 of the Registration Act deals with compulsory registration and outlines the documents that must be registered to be legally valid. It does not address optional registration. Option B: Section 19 - Section 19 pertains to the registration of documents executed by several persons at different times and does not specify documents optional for registration. Option D: Section 20 - Section 20 deals with the language of presented documents and other related procedural provisions but does not specify optional registration of documents. Conclusion: The correct answer is Section 18 (Option A) , which provides for documents whose registration is optional. The other sections deal with different aspects of the registration process, including compulsory registration and procedural requirements."
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -42,27 +42,27 @@ questions:
       - Civil Judge
       - ADPP
   - id: 3
-    question: Right of taking or running water from a river, under the Indian Registration Act, 1908 is
+    question: Right of taking or running water from a river, under the Registration Act, 1908 is
     options:
       - An immovable property
       - A lease
       - Movable property
       - Either (B) or (C)
     answer: 2
-    explanation: "Under the Indian Registration Act, 1908 , the right of taking or running water from a river is categorized as movable property for the purpose of registration. Movable property refers to assets or rights that are not attached to a specific immovable location and can be easily transferred. While a right to take water from a river is connected to a specific geographical location, it is considered movable property due to its inherent nature and the ease with which it can be transferred from one person to another. This categorization is essential for the proper registration of such rights and their transfer. Option A: An immovable property is not accurate because the right to take water from a river is not classified as immovable property under the Indian Registration Act. Option B: A lease is not the correct classification for the right to take water from a river. Leases typically involve granting the use of immovable property for a specified period. Option D: Either (B) or (C) is not accurate because the right to take water from a river falls under the category of movable property, as explained above. Given the options provided, the correct answer is Option C: Movable property."
+    explanation: "Under the Registration Act, 1908 , the right of taking or running water from a river is categorized as movable property for the purpose of registration. Movable property refers to assets or rights that are not attached to a specific immovable location and can be easily transferred. While a right to take water from a river is connected to a specific geographical location, it is considered movable property due to its inherent nature and the ease with which it can be transferred from one person to another. This categorization is essential for the proper registration of such rights and their transfer. Option A: An immovable property is not accurate because the right to take water from a river is not classified as immovable property under the Registration Act. Option B: A lease is not the correct classification for the right to take water from a river. Leases typically involve granting the use of immovable property for a specified period. Option D: Either (B) or (C) is not accurate because the right to take water from a river falls under the category of movable property, as explained above. Given the options provided, the correct answer is Option C: Movable property."
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
       - ADPP
   - id: 4
-    question: The share of a partner in the partnership property which includes movable and immovable assets, for the purposes of the Indian Registration Act, 1908, is
+    question: The share of a partner in the partnership property which includes movable and immovable assets, for the purposes of the Registration Act, 1908, is
     options:
       - A movable property
       - An immovable property
       - A movable property in respect of movable assets and an immovable property in respect of immovable assets
       - Either (B) or (C)
     answer: 0
-    explanation: A movable property is the correct answer to “The share of a partner in the partnership property which includes movable and immovable assets, for the purposes of the Indian Registration Act, 1908, is”. This question is standard in competitive examination syllabi for Registration Act.
+    explanation: A movable property is the correct answer to “The share of a partner in the partnership property which includes movable and immovable assets, for the purposes of the Registration Act, 1908, is”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -237,14 +237,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 18
-    question: Which section of Indian Registration Act, 1908 provides with compulsory registration of Instrument of Gifts and Immovable Properties
+    question: Which section of Registration Act, 1908 provides with compulsory registration of Instrument of Gifts and Immovable Properties
     options:
       - Section 11
       - Section 13
       - Section 17
       - None of the above
     answer: 2
-    explanation: Section 17 is the correct answer to “Which section of Indian Registration Act, 1908 provides with compulsory registration of Instrument of Gifts and Immovable Properties”. This question is standard in competitive examination syllabi for Registration Act.
+    explanation: Section 17 is the correct answer to “Which section of Registration Act, 1908 provides with compulsory registration of Instrument of Gifts and Immovable Properties”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -432,14 +432,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 33
-    question: Under section 2(9) of the Indian Registration Act, 1908, defines movable property as
+    question: Under section 2(9) of the Registration Act, 1908, defines movable property as
     options:
       - Property of every description except immovable property
       - Movable property' includes standing timber, growing crops and grass, fruit upon and juices in trees and property of every description except immovable property
       - "'Movable property' includes standing trees, growing crops and grass, and property of every other description, except immovable property"
       - Movable property' includes fruit upon and juice in trees and property of every other description, except immovable property
     answer: 1
-    explanation: Movable property' includes standing timber, growing crops and grass, fruit upon and juices in trees and property of every description except immovable property is the correct answer to “Under section 2(9) of the Indian Registration Act, 1908, defines movable property as”. This question is standard in competitive examination syllabi for Registration Act.
+    explanation: Movable property' includes standing timber, growing crops and grass, fruit upon and juices in trees and property of every description except immovable property is the correct answer to “Under section 2(9) of the Registration Act, 1908, defines movable property as”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -458,14 +458,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 35
-    question: Lease' has been defined in the Indian Registration Act, 1908, under
+    question: Lease' has been defined in the Registration Act, 1908, under
     options:
       - Section 2(3)
       - Section 2(5)
       - Section 2(7)
       - Section 2(8)
     answer: 2
-    explanation: Section 2(7) is the correct answer to “Lease' has been defined in the Indian Registration Act, 1908, under”. This question is standard in competitive examination syllabi for Registration Act.
+    explanation: Section 2(7) is the correct answer to “Lease' has been defined in the Registration Act, 1908, under”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -505,32 +505,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “As per Section 17 of Registration Act, which of the following documents is to be registered compulsorily”. This question is standard in competitive examination syllabi for Registration Act.
-    keyConcept: Registration Act
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 39
-    question: India' has been defined in the Indian Registration Act, 1908, under
-    options:
-      - Section 2(6)
-      - Section 2(6A)
-      - Section 2(10)
-      - Section 3
-    answer: 1
-    explanation: Section 2(6A) is the correct answer to “India' has been defined in the Indian Registration Act, 1908, under”. This question is standard in competitive examination syllabi for Registration Act.
-    keyConcept: Registration Act
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 40
-    question: A document executed out of India can be registered if presented within
-    options:
-      - Two months of its arrival in India
-      - Four months of its arrival in India
-      - One month of its arrival in India
-      - Six months of its arrival in India
-    answer: 1
-    explanation: Four months of its arrival in India is the correct answer to “A document executed out of India can be registered if presented within”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge

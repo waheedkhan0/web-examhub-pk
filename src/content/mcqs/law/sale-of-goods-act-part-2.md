@@ -434,9 +434,9 @@ questions:
   - id: 33
     question: A person is said to be 'insolvent' who has ceased to pay his debts in the ordinary course of business, or cannot pay his debts as they become due whether he has committed an act of insolvency or not', is the definition of insolvency given in
     options:
-      - The Indian Partnership Act, 1932
+      - The Partnership Act, 1932
       - The Sale of Goods Act, 1930
-      - The Indian Contract Act, 1872
+      - The Contract Act, 1872
       - All the above
     answer: 1
     explanation: The Sale of Goods Act, 1930 is the correct answer to “A person is said to be 'insolvent' who has ceased to pay his debts in the ordinary course of business, or cannot pay his debts as they become due whether he has committed an act of insolvency or not', is the definition of insolvency given in”. This question is standard in competitive examination syllabi for Sale Of Goods Act.
@@ -445,14 +445,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 34
-    question: In the Sale of Goods Act, several provisions of the Indian Contract Act have been retained to meet
+    question: In the Sale of Goods Act, several provisions of the Contract Act have been retained to meet
     options:
       - The need of buyers
       - The need of sellers
       - The need of both the buyers and sellers
-      - Special conditions existing in India regarding sale of goods
+      - Special conditions existing in Pakistan regarding sale of goods
     answer: 3
-    explanation: Special conditions existing in India regarding sale of goods is the correct answer to “In the Sale of Goods Act, several provisions of the Indian Contract Act have been retained to meet”. This question is standard in competitive examination syllabi for Sale Of Goods Act.
+    explanation: Special conditions existing in Pakistan regarding sale of goods is the correct answer to “In the Sale of Goods Act, several provisions of the Contract Act have been retained to meet”. This question is standard in competitive examination syllabi for Sale Of Goods Act.
     keyConcept: Sale Of Goods Act
     testedIn:
       - Civil Judge

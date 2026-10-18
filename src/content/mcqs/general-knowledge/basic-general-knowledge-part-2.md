@@ -15,45 +15,6 @@ targetExams:
   - NTS
   - SPSC
 questions:
-  - id: 1
-    question: Goa Shipyard Limited (GSL) was established in
-    options:
-      - "1955"
-      - "1956"
-      - "1957"
-      - "1958"
-    answer: 2
-    explanation: Goa Shipyard Limited (GSL) was established in 1957. It is a leading ISO 9001-2015 certified shipyard on the West Coast of India, functioning under the administrative control of Ministry of Defence, Govt. of India.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 2
-    question: DRDL stands for
-    options:
-      - Defence Research and Development Laboratary
-      - Differential Research and Documentation Laboratary
-      - Department of Research and Development Laboratory
-      - None of the above
-    answer: 0
-    explanation: DRDL stands for Defence Research and Development Laboratary, under the Defence Research and Development Organisation (DRDO) - with thrust on design, development and flight evaluation of various types of Missile Systems for the Indian armed forces.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 3
-    question: Who was the first Indian Chief of Army Staff of the Indian Army ?
-    options:
-      - Gen. K.M. Cariappa
-      - Gen. Maharaja Rajendra Singhji
-      - Vice-Admiral R.D. Katari
-      - None of the above
-    answer: 1
-    explanation: Gen. Maharaja Rajendra Singhji was the first Indian Chief of Army Staff of the Indian Army. General Maharaj Shri Rajendrasinhji Jadeja, DSO (15 June 1899 – 1 January 1964), also known as K.S. Rajendrasinhji, was the first Chief of Army Staff of the Indian army, and the second Indian, after Field Marshal K. M.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 4
     question: FRS stands for
     options:
@@ -93,19 +54,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 7
-    question: Coral reefs in India can be found in
-    options:
-      - Waltair
-      - Trivandrum
-      - the coast of Orissa
-      - Rameshwaram
-    answer: 3
-    explanation: Coral reefs in India can be found in Rameshwaram. Coral reefs on the Tamil Nadu coast are located in Palk Bay near Rameswaram and in the Gulf of Mannar.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 8
     question: For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having
     options:
@@ -115,19 +63,6 @@ questions:
       - low melting point
     answer: 3
     explanation: For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having low melting point.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 9
-    question: Golden Temple, Amritsar is India's
-    options:
-      - largest Gurdwara
-      - oldest Gurudwara
-      - Both option A and B are correct
-      - None of the above
-    answer: 0
-    explanation: Golden Temple, Amritsar is India's largest Gurdwara. The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC
@@ -145,19 +80,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 11
-    question: Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of
-    options:
-      - Orissa
-      - Kerala
-      - Tamil nadu
-      - Andhra Pradesh
-    answer: 0
-    explanation: Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of Orissa.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 12
     question: Hamid Karzai was chosen president of Afghanistan in
     options:
@@ -167,19 +89,6 @@ questions:
       - "2003"
     answer: 2
     explanation: Hamid Karzai was chosen president of Afghanistan in 2002. The Karzai administration was the government of Afghanistan under President Hamid Karzai, who became the head of state of Afghanistan in December 2001 after the Taliban government was overthrown. Karzai was appointed at the 2002 Loya Jirga as the Interim President of the Afghan Transitional Administration.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 13
-    question: Durand Cup is associated with the game of
-    options:
-      - Volleyball
-      - Football
-      - Cricket
-      - Hockey
-    answer: 1
-    explanation: The Durand Cup is an association football (soccer) tournament held annually in India. It is the oldest football tournament in Asia and the third oldest in the world, after the English FA Cup and the Scottish Cup. The Durand Cup has a rich history and tradition in Indian football, making it a significant event in the sport. Therefore, the correct option is B, which associates the Durand Cup with the game of football.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC
@@ -219,19 +128,6 @@ questions:
       - spectroscope
     answer: 0
     explanation: For seeing objects at the surface of water from a submarine under water, the instrument used is periscope. It can be through or around the object that made it visible. In addition to this, it avoids any sort of direct sight line from the point of observation to the object being observed.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 17
-    question: Dr. Zakir Hussain was
-    options:
-      - first vice president of India
-      - first speaker of Lok Sabha
-      - the first Muslim president of India
-      - first president of Indian National Congress
-    answer: 2
-    explanation: Dr. Zakir Hussain was the first Muslim president of India. He was the co-founder of Jamia Millia Islamia University. Born on February 8, 1897, in Hyderabad, he was the country's first Muslim president, from May 13, 1967, until his death on May 3, 1969.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC
@@ -340,19 +236,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 26
-    question: Himalayan Mountaineering Institute is at
-    options:
-      - Dispur
-      - Marmago
-      - Dehradun
-      - Darjeeling
-    answer: 3
-    explanation: Himalayan Mountaineering Institute is at Darjeeling. It is recognized as one of the best mountaineering institutes in the world.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 27
     question: Gabriel Daniel Fahrenheit was
     options:
@@ -431,32 +314,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 33
-    question: Gopal Krishna Gokhale
-    options:
-      - founded the servants of India Society
-      - served as President of the Indian National Congress in 1907
-      - started as a maths teacher and rose to the position of the principal of Ferguson College, Pune
-      - All of the above
-    answer: 3
-    explanation: Gopal Krishna Gokhale founded the servants of India Society, served as President of the Indian National Congress in 1907 and started as a maths teacher and rose to the position of the principal of Ferguson College, Pune. Gopal Krishna Gokhale, social reformer who founded a sectarian organization to work for relief of the underprivileged of India.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 34
-    question: GNLF stands for
-    options:
-      - Gross National Liberation Form
-      - Gorkha National Liberation Front
-      - Both option A and B
-      - None of the above
-    answer: 1
-    explanation: GNLF stands for Gorkha National Liberation Front. Gorkha National Liberation Front (GNLF) is a political party in the Darjeeling District of West Bengal, India.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 35
     question: Excessive secretion from the pituitary gland in the children results in
     options:
@@ -466,19 +323,6 @@ questions:
       - None of the above
     answer: 0
     explanation: Excessive secretion from the pituitary gland in the children results in increased height. In children and adolescents, excessive levels of growth hormone can result in a condition called gigantism. Children with this condition may have unusually long arms and legs and may grow to heights of 7 to 8 feet or more.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 36
-    question: Fa-Hien was
-    options:
-      - the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya
-      - the discoverer of Puerto Rico and Jamaica
-      - the first Buddhist pilgrim of India to visit China
-      - None of the above
-    answer: 0
-    explanation: Fa-Hien was the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya. He is also renowned for his pilgrimage to Lumbini, the birthplace of Gautama Buddha (modern Nepal).
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC
@@ -505,32 +349,6 @@ questions:
       - None of the above
     answer: 2
     explanation: ICAO stands for International Civil Aviation Organization. The International Civil Aviation Organization (ICAO) is a UN specialized agency, established by States in 1944 to manage the administration and governance of the Convention on International Civil Aviation (Chicago Convention).
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 39
-    question: India's first Technicolor film ____ in the early 1950s was produced by ____
-    options:
-      - "'Mirza Ghalib', Sohrab Modi"
-      - "'Mirza Ghalib', Munshi Premchand"
-      - "'Jhansi Ki Rani', Sir Syed Ahmed"
-      - "'Jhansi Ki Rani', Sohrab Modi"
-    answer: 3
-    explanation: India's first Technicolor film Jhansi Ki Rani in the early 1950s was produced by Sohrab Modi.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 40
-    question: India has largest deposits of ____ in the world.
-    options:
-      - copper
-      - gold
-      - mica
-      - None of the above
-    answer: 2
-    explanation: The British Geological Survey reports that as of 2005, Kodarma district in Jharkhand state in India had the largest deposits of mica in the world.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC

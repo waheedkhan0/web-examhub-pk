@@ -52,6 +52,9 @@ subtopics:
   - name: Nursing & Patient Care — Past Papers — Part 8
     slug: nursing-past-papers-part-8
     questionCount: 20
+  - name: Charge Nurse (BS-16/17) Past Papers — Part 1
+    slug: charge-nurse-past-papers-part-1
+    questionCount: 15
 ---
 
 ## Nursing & Health Sciences: Exam Syllabus & Strategy

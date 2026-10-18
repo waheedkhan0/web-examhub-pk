@@ -15,32 +15,6 @@ targetExams:
   - NTS
   - SPSC
 questions:
-  - id: 1
-    question: What is the full form of "IIT"?
-    options:
-      - Indian Information Technology
-      - Indian Institute of Taxation
-      - Indian Institute of Tamil
-      - Indian Institute of Technology
-    answer: 3
-    explanation: The Indian Institutes of Technology (IITs) are autonomous public technical universities located across India. It is under the jurisdiction of Ministry of Education , Government of India. They are governed by the Institutes of Technology Act, 1961, which has declared them as Institutes of National Importance and lays down their powers, duties, and framework for governance. The Institutes of Technology Act, 1961 lists twenty-three institutes. Each IIT is autonomous, linked to the others through a common council (IIT Council), which oversees their administration. The Minister of Education is the ex officio Chairperson of the IIT Council. As of 2020, the total number of seats for undergraduate programs in all IITs is 16,053.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 2
-    question: What is the full form of "ILA"?
-    options:
-      - Indian Law Assembly
-      - Indian Language Association
-      - Indian Library Association
-      - Indian Linguistic Academy
-    answer: 2
-    explanation: The Indian Library Association (ILA) was established on September 13, 1933 Registered under the societies Registration Act (XXI of 1860), on the occasion of the First All India Library Conference held at Calcutta (now Kolkata). The ILA is the largest and renowned professional body in the field of Library and Information Science in India with a membership of more than 7000. The headquarters of ILA situated in Delhi, India.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 3
     question: What is the full form of "IFLA"?
     options:
@@ -67,19 +41,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 5
-    question: What is the full form of "MCI"?
-    options:
-      - Medical Coding Institutes
-      - Medical Council of India
-      - Master Chef India
-      - Multi Cultural Institutes
-    answer: 1
-    explanation: The Medical Council of India (MCI) was a statutory body for establishing uniform and high standards of medical education in India until 25 September 2020. On 25 September 2020 it was replaced by National Medical Commission. The Council grants recognition of medical qualifications, gives accreditation to medical schools, grants registration to medical practitioners, and monitors medical practice in India.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 6
     question: What is the full form of "MSLQ"?
     options:
@@ -93,19 +54,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 7
-    question: What is the full form of "NAAC"?
-    options:
-      - National Academic Association Council
-      - National Assessment and Accreditation Council
-      - National Architecture Association Center
-      - National Alumin Association Constitution
-    answer: 1
-    explanation: The National Assessment and Accreditation Council is a government organization in India that assesses and accredits Higher Education Institutions. It is an autonomous body funded by the University Grants Commission and headquartered in Bangalore.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 8
     question: What is the full form of "NRC"?
     options:
@@ -115,19 +63,6 @@ questions:
       - National Reading Conference
     answer: 3
     explanation: The National Reading Conference (NRC), a non-profit professional organization, is composed of individuals who share an interest in advancing literacy research and practices. NRC sponsors a conference each year in late November, or early December.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 9
-    question: What is the full form of "UGC"?
-    options:
-      - University Grants Commission
-      - University Grade Council
-      - University Games Corporation
-      - University Gateway Channel
-    answer: 0
-    explanation: The University Grants Commission of India (UGC India) is a statutory body set up by the Department of Higher Education, Ministry of Education, Government of India in accordance to the UGC Act 1956 and is charged with coordination, determination and maintenance of standards of higher education. It provides recognition to universities in India, and disbursements of funds to such recognized universities and colleges. The headquarters are in New Delhi, and it has six regional centres in Pune, Bhopal, Kolkata, Hyderabad, Guwahati and Bangalore.
     keyConcept: Education Abbreviations
     testedIn:
       - PPSC

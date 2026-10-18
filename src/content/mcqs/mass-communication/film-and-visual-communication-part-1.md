@@ -40,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: Television came into India in . . . . . . . .
-    options:
-      - "1958"
-      - "1959"
-      - "1969"
-      - "1949"
-    answer: 1
-    explanation: 1959 is the correct answer to “Television came into India in . . . . . . . .”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Documentaries are mostly . . . . . . . . in nature.
     options:
@@ -105,19 +92,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 8
-    question: The Indian cinema became a . . . . . . . . enterprises.
-    options:
-      - Regional
-      - National
-      - Global
-      - All of these
-    answer: 2
-    explanation: Global is the correct answer to “The Indian cinema became a . . . . . . . . enterprises.”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 9
     question: The aim of the non-commercial movies are
     options:
@@ -140,19 +114,6 @@ questions:
       - None of these
     answer: 2
     explanation: Both A and B is the correct answer to “Linguistically Bollywood songs tend to use a colloquial dialect of”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 11
-    question: Who is known as the father of Indian language journalism in India?
-    options:
-      - Raja Ram Mohan Roy
-      - Bhupendra Nath Dutta
-      - Vivekananda
-      - V. D. Savarkar
-    answer: 0
-    explanation: Raja Ram Mohan Roy is the correct answer to “Who is known as the father of Indian language journalism in India”. This question is standard in competitive examination syllabi for Film And Visual Communication.
     keyConcept: Film And Visual Communication
     testedIn:
       - CSS
@@ -209,19 +170,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 16
-    question: Besides Hindi, which Indian languages has also used in Indian Hindi film songs?
-    options:
-      - Braj
-      - Avadhi
-      - Bhojpuri
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Besides Hindi, which Indian languages has also used in Indian Hindi film songs”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 17
     question: Which cinema is produced for the business purpose?
     options:
@@ -244,19 +192,6 @@ questions:
       - none of these
     answer: 1
     explanation: use the background to show the damage done due tothe disaster, but he should include the TV journo upto his chest in the coverage is the correct answer to “While covering a disaster event like earthquake, the TV cameraman should”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: Match the following. List-I (Film) List-II (Director) a. Kaaghaz Ke Phool 1. Bimal Roy b. Do Bigha Zameen 2. Muzaffar Ali c. Mother India 3. Guru Dutt d. Umrao Jaan 4. Mehboob Khan
-    options:
-      - a-1, b-2, c-3, d-4
-      - a-3, b-1, c-4, d-2
-      - a-4, b-3, c-2, d-1
-      - a-1, b-4, c-3, d-2
-    answer: 1
-    explanation: a-3, b-1, c-4, d-2 is the correct answer to “Match the following. List-I (Film) List-II (Director) a. Kaaghaz Ke Phool 1. Bimal Roy b. Do Bigha Zameen 2. Muzaffar Ali c. Mother India 3. Guru Dutt d. Umrao Jaan 4. Mehboob Khan”. This question is standard in competitive examination syllabi for Film And Visual Communication.
     keyConcept: Film And Visual Communication
     testedIn:
       - CSS
@@ -365,19 +300,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: Currently, people meters have been installed in
-    options:
-      - twenty cities of India
-      - only four metropolitan cities of India
-      - all the major and minor cities of India
-      - none of these
-    answer: 1
-    explanation: only four metropolitan cities of India is the correct answer to “Currently, people meters have been installed in”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: What is channel surfing?
     options:
@@ -430,32 +352,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 33
-    question: When was the television service at the Delhi Kendra inaugurated?
-    options:
-      - 20th Sept. 1958
-      - 15th Sept. 1959
-      - 15th Aug. 1959
-      - 25th Nov. 1958
-    answer: 1
-    explanation: 15th Sept. 1959 is the correct answer to “When was the television service at the Delhi Kendra inaugurated”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 34
-    question: The Dadasaheb Phalke Award was instituted by the Government of India in . . . . . . . .
-    options:
-      - "1969"
-      - "1960"
-      - "1935"
-      - "1958"
-    answer: 0
-    explanation: 1969 is the correct answer to “The Dadasaheb Phalke Award was instituted by the Government of India in . . . . . . . .”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 35
     question: An italicised paragraph is
     options:
@@ -495,32 +391,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 38
-    question: Consider the following statements and choose the correct answer given below. 1. The 1986 film 'Naam' was Mahesh Bhatt first piece of commercial cinema. 2. Bahubali movie is directed by Aditya Chopra. 3. The first Indian movie released in India was Pather Panchali.
-    options:
-      - Only 1
-      - Only 2
-      - Both 2 and 3
-      - All of the above
-    answer: 0
-    explanation: Only 1 is the correct answer to “Consider the following statements and choose the correct answer given below. 1. The 1986 film 'Naam' was Mahesh Bhatt first piece of commercial cinema. 2. Bahubali movie is directed by Aditya Chopra. 3. The first Indian movie released in India was Pather Panchali.”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 39
-    question: Match the following. List-I List-II a. First full length motion picture 1. Raja Harishchandra b. Jamshedji Framji Madan 2. Oadasaheb Phalke c. Scholar on Indian languages and culture 3. Largest institution of imagination d. Indian Film Industry 4. The first India series of cinema theaters
-    options:
-      - a-1, b-2, c-3, d-4
-      - a-2, b-1, c-4, d-3
-      - a-4, b-1, c-3, d-2
-      - a-1, b-4, c-2, d-3
-    answer: 0
-    explanation: a-1, b-2, c-3, d-4 is the correct answer to “Match the following. List-I List-II a. First full length motion picture 1. Raja Harishchandra b. Jamshedji Framji Madan 2. Oadasaheb Phalke c. Scholar on Indian languages and culture 3. Largest institution of imagination d. Indian Film Industry 4. The first India series of cinema theaters”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 40
     question: In which of the following languages NANAP news is not exchanged?
     options:
@@ -535,5 +405,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

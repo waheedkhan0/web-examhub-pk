@@ -13,19 +13,6 @@ targetExams:
   - FPSC
   - Transport Dept
 questions:
-  - id: 1
-    question: Which company made hard moped?
-    options:
-      - Tamil Nadu Moped
-      - Moped India
-      - Sain and Pandit
-      - Hero Majestic
-    answer: 2
-    explanation: Sain and Pandit is the correct answer to “Which company made hard moped”. This question is standard in competitive examination syllabi for Introduction Of Automobile.
-    keyConcept: Introduction Of Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 2
     question: The purpose of adding pigment to the paint is that it
     options:
@@ -78,19 +65,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 6
-    question: Which of the following is the Indian manufacturer of moped?
-    options:
-      - Enfield India
-      - Indian Automotives
-      - Moped India
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Which of the following is the Indian manufacturer of moped”. This question is standard in competitive examination syllabi for Introduction Of Automobile.
-    keyConcept: Introduction Of Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 7
     question: Vijay Super 150 CC is a . . . . . . . .
     options:
@@ -113,19 +87,6 @@ questions:
       - Power output
     answer: 0
     explanation: Mass of flywheel is the correct answer to “The fluctuation of engine speed during a cycle depends upon”. This question is standard in competitive examination syllabi for Introduction Of Automobile.
-    keyConcept: Introduction Of Automobile
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 9
-    question: Which one of the following is not a trade name of tractor in India
-    options:
-      - Kirloskar
-      - Escort
-      - Standard
-      - HMT
-    answer: 2
-    explanation: Standard is the correct answer to “Which one of the following is not a trade name of tractor in India”. This question is standard in competitive examination syllabi for Introduction Of Automobile.
     keyConcept: Introduction Of Automobile
     testedIn:
       - PPSC
@@ -532,5 +493,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

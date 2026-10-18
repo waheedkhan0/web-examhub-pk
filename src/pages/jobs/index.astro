@@ -70,7 +70,7 @@ const categories = [
       </p>
 
       <!-- Live Search Box -->
-      <div class="max-w-2xl bg-white/10 backdrop-blur-md p-2 rounded-2xl border border-white/20 shadow-lg">
+      <div class="max-w-2xl bg-white/10 backdrop-blur-md p-2 rounded-2xl border border-white/20 shadow-lg mb-6">
         <div class="relative flex items-center">
           <span class="absolute left-4 text-slate-400 text-lg">🔍</span>
           <input
@@ -80,6 +80,14 @@ const categories = [
             class="w-full pl-11 pr-4 py-3 bg-white text-slate-900 rounded-xl text-sm sm:text-base font-medium placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-teal-500 shadow-inner"
           />
         </div>
+      </div>
+
+      <div class="flex flex-wrap gap-3 mb-6">
+        <a href="/practice" class="btn btn-primary inline-flex items-center gap-2">
+          <span>⚡ Take Syllabus Mock Tests</span>
+        </a>
+        <a href="#jobs-grid" class="btn btn-secondary">Browse Advertised Posts</a>
+        <a href="/mcqs" class="btn btn-secondary">Subject MCQs</a>
       </div>
 
       <!-- Quick Metrics -->
@@ -150,44 +158,36 @@ const categories = [
                 <span class="inline-flex items-center gap-1 px-2.5 py-1 text-[11px] font-black uppercase tracking-wider rounded-md bg-teal-50 text-teal-800 border border-teal-200">
                   🏛️ {commissionName}
                 </span>
-
-                <div class="flex items-center gap-1.5">
-                  {job.data.scale && (
-                    <span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-sky-50 text-sky-800 border border-sky-200">
-                      {job.data.scale}
-                    </span>
-                  )}
-                  {job.data.caseNo && (
-                    <span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-amber-50 text-amber-800 border border-amber-200">
-                      {job.data.caseNo.split('(')[0].trim()}
-                    </span>
-                  )}
-                </div>
+                {job.data.scale && (
+                  <span class="px-2 py-0.5 text-xs font-bold rounded-md bg-sky-50 text-sky-800 border border-sky-200">
+                    {job.data.scale}
+                  </span>
+                )}
               </div>
 
-              <!-- Title & Department -->
-              <h2 class="text-lg font-bold text-slate-900 group-hover:text-teal-600 transition mb-1 leading-snug">
+              <!-- Case Number if available -->
+              {job.data.caseNo && (
+                <div class="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded border border-amber-200 mb-2 inline-block">
+                  Case: {job.data.caseNo}
+                </div>
+              )}
+
+              <h2 class="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-teal-600 transition mb-2">
                 <a href={`/exams/${job.slug}`}>
                   {job.data.title}
                 </a>
               </h2>
               
-              {job.data.department ? (
-                <p class="text-xs font-semibold text-slate-500 mb-2">
-                  🏢 {job.data.department}
-                </p>
-              ) : (
-                <p class="text-xs font-medium text-slate-500 mb-2 line-clamp-1">
-                  {job.data.fullName}
-                </p>
-              )}
-
+              <p class="text-xs text-slate-500 font-semibold mb-2 line-clamp-1">
+                {job.data.department || job.data.fullName}
+              </p>
+              
               <p class="text-xs text-slate-600 mb-4 line-clamp-2 leading-relaxed">
                 {job.data.description}
               </p>
 
-              <!-- Eligibility snippet -->
-              <div class="mb-4 bg-slate-50 p-2.5 rounded-xl border border-slate-100">
+              <!-- Eligibility / Qualification excerpt -->
+              <div class="bg-slate-50 p-2.5 rounded-lg border border-slate-100 mb-4">
                 <div class="text-[10px] uppercase font-bold text-slate-400 mb-0.5">Qualification</div>
                 <div class="text-xs text-slate-700 line-clamp-2 font-medium">
                   {job.data.eligibility}
@@ -208,21 +208,27 @@ const categories = [
               )}
 
               <!-- Action buttons -->
-              <div class="flex items-center justify-between pt-3 border-t border-slate-100 gap-2">
-                <a
-                  href={`/exams/${job.slug}`}
-                  class="text-xs font-bold text-slate-700 hover:text-teal-600 transition"
-                >
-                  Syllabus Breakdown
-                </a>
-
-                <a
-                  href={`/exams/${job.slug}#mock-tests-hub`}
-                  class="text-xs font-bold px-3 py-1.5 rounded-lg bg-teal-600 hover:bg-teal-700 text-white transition shadow-xs inline-flex items-center gap-1"
-                >
-                  <span>Mock Tests</span>
-                  <span>→</span>
-                </a>
+              <div class="pt-3 border-t border-slate-100 space-y-2.5">
+                <div class="flex items-center justify-between text-xs text-slate-500">
+                  <span class="font-medium">{job.data.featuredSubjects ? job.data.featuredSubjects.length : 0} Core Subjects</span>
+                  <a href={`/exams/${job.slug}`} class="text-teal-600 font-semibold hover:underline">
+                    Syllabus & Pattern →
+                  </a>
+                </div>
+                <div class="grid grid-cols-2 gap-2">
+                  <a
+                    href={`/exams/${job.slug}#mock-test-section`}
+                    class="text-center px-3 py-1.5 rounded-lg bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs transition shadow-2xs"
+                  >
+                    ⚡ Mock Test
+                  </a>
+                  <a
+                    href={`/exams/${job.slug}#past-papers-section`}
+                    class="text-center px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-800 font-semibold text-xs transition"
+                  >
+                    📚 Past Papers
+                  </a>
+                </div>
               </div>
             </div>
           </div>

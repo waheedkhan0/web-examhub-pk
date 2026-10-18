@@ -145,19 +145,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 11
-    question: The idea of basic education is propounded by
-    options:
-      - Dr. Zakir Hussain
-      - Dr. Rajendra Prasad
-      - Mahatma Gandhi
-      - Rabindranath Tagore
-    answer: 2
-    explanation: The idea of basic education is propounded by Mahatma Gandhi.
-    keyConcept: Teaching And Research
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 12
     question: The most important indicator of quality of education in a school is
     options:

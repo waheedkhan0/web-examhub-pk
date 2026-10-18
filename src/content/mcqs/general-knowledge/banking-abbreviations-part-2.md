@@ -28,32 +28,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 2
-    question: What is the full form of "BBR"?
-    options:
-      - Bank Base Rate
-      - Banking Base Ratio
-      - Bureau of Regional Banking
-      - Bankers Broadcast Resource
-    answer: 0
-    explanation: BBR stands for Bank Base rate. Base rate is the minimum rate set by the Reserve Bank of India below which banks are not allowed to lend to its customers.
-    keyConcept: Banking Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 3
-    question: What is the full form of "BOI"?
-    options:
-      - Board of Investments
-      - Board of Investigation
-      - Business Object Interface
-      - Bank of India
-    answer: 3
-    explanation: Bank of India (BOI) is an Indian nationalised bank. It is under the ownership of Ministry of Finance, Government of India with headquarters in Bandra Kurla Complex, Mumbai. Founded in 1906, it has been government-owned since nationalisation in 1969. BoI is a founder member of SWIFT (Society for Worldwide Inter Bank Financial Telecommunications), which facilitates provision of cost-effective financial processing and communication services.
-    keyConcept: Banking Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 4
     question: What is the full form of "ADTV"?
     options:
@@ -115,19 +89,6 @@ questions:
       - Policy with Equity Portfolio
     answer: 2
     explanation: A personal equity plan (PEP) was an investment plan introduced in the United Kingdom that encouraged people over the age of 18 to invest in British companies. Participants could invest in shares, authorized unit trusts, or investment trusts and receive both income and capital gains free of tax.
-    keyConcept: Banking Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 9
-    question: What is the full form of "LBD"?
-    options:
-      - Live Broadcasting Dealer
-      - Land Development Bank
-      - Loan by Divulge
-      - Lease by Deduction
-    answer: 1
-    explanation: A land development bank abbreviated LDB, is a special kind of bank in India, and is of quasi-commercial type that provides services such as accepting deposits, making business loans, and offering basic investment products. The main objective of the LDB is to promote the development of land, agriculture and increase the agricultural production. The LDB provides long-term finance to members directly through its branches.
     keyConcept: Banking Abbreviations
     testedIn:
       - PPSC
@@ -223,19 +184,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 17
-    question: What is the full form of "CBI"?
-    options:
-      - Culinary bank of India
-      - Central Board for Industrialisation
-      - Credit Based Investment
-      - Common Bank of India
-    answer: 3
-    explanation: Common Bank of India is the correct answer to “What is the full form of "CBI"”. This question is standard in competitive examination syllabi for Banking Abbreviations.
-    keyConcept: Banking Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 18
     question: What is the full form of "STD"?
     options:
@@ -284,32 +232,6 @@ questions:
       - Undivided Commission of Naqer
     answer: 0
     explanation: Uniform Code Number is the correct answer to “What is the full form of "UCN"”. This question is standard in competitive examination syllabi for Banking Abbreviations.
-    keyConcept: Banking Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 22
-    question: What is the full form of "IIP"?
-    options:
-      - Index of Industrial Production
-      - Industrial Production in India
-      - Insurance and Investment Profit
-      - Interest for Investor Property
-    answer: 1
-    explanation: Industrial Production in India is the correct answer to “What is the full form of "IIP"”. This question is standard in competitive examination syllabi for Banking Abbreviations.
-    keyConcept: Banking Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 23
-    question: What is the full form of "NDSAP"?
-    options:
-      - National Data Sharing and Accessibility Policy
-      - National Deposit and Surcharge Profit
-      - Native Scheme for Deposit Policy
-      - National Data Sharing and Active Policy
-    answer: 0
-    explanation: National Data Sharing and Accessibility Policy is the correct answer to “What is the full form of "NDSAP"”. This question is standard in competitive examination syllabi for Banking Abbreviations.
     keyConcept: Banking Abbreviations
     testedIn:
       - PPSC

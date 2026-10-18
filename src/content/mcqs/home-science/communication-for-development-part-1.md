@@ -366,14 +366,14 @@ questions:
       - PPSC
       - FPSC
   - id: 28
-    question: The Indian folk forms have a generous mix of 1. dialogue and dance 2. song and clowning 3. moralising 4. prayer Select the correct answer
+    question: The Pakistani folk forms have a generous mix of 1. dialogue and dance 2. song and clowning 3. moralising 4. prayer Select the correct answer
     options:
       - 1, 2, 3 and 4
       - 1, 2 and 3
       - 2 and 3
       - 3 and 4
     answer: 0
-    explanation: 1, 2, 3 and 4 is the correct answer to “The Indian folk forms have a generous mix of 1. dialogue and dance 2. song and clowning 3. moralising 4. prayer Select the correct answer”. This question is standard in competitive examination syllabi for Communication For Development.
+    explanation: 1, 2, 3 and 4 is the correct answer to “The Pakistani folk forms have a generous mix of 1. dialogue and dance 2. song and clowning 3. moralising 4. prayer Select the correct answer”. This question is standard in competitive examination syllabi for Communication For Development.
     keyConcept: Communication For Development
     testedIn:
       - PPSC

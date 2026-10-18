@@ -145,19 +145,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 11
-    question: What is the full form of "MoF"?
-    options:
-      - Minimal of Funding
-      - Minimum Operating Facility
-      - Mutual on Funds
-      - Ministry of Finance
-    answer: 3
-    explanation: The Ministry of Finance is a ministry within the Government of India concerned with the economy of India, serving as the Indian Treasury Department. In particular, it concerns itself with taxation, financial legislation, financial institutions, capital markets, centre and state finances, and the Union Budget.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 12
     question: What is the full form of "ISO"?
     options:
@@ -184,32 +171,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 14
-    question: What is the full form of "FEMA"?
-    options:
-      - Financial Exchange Management Act
-      - Foreign Exchange Management Act
-      - Foreign Exchange Monetary Analyst
-      - Financial Exchange Marketing Act
-    answer: 1
-    explanation: The Foreign Exchange Management Act (FEMA), 1999, is an Act of the Parliament of India "to consolidate and amend the law relating to foreign exchange with the objective of facilitating external trade and payments and for promoting the orderly development and maintenance of foreign exchange market in India".
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 15
-    question: What is the full form of "FICCI"?
-    options:
-      - Federation of Indian Chambers of Commerce and Industry
-      - Financial of Indian Chambers of Commerce and Industry
-      - International Fiscal Investor Credit and Community
-      - Foreign Currency Convertible Bond
-    answer: 0
-    explanation: The Federation of Indian Chambers of Commerce & Industry (FICCI) is a non-governmental trade association and advocacy group based in India. Established in 1927, on the advice of Mahatma Gandhi by Indian businessman Mr. G.D. Birla and Purshottamdas Thakurdas. It is the largest, oldest and the apex business organisation in India. It is a non-government, not-for-profit organisation. FICCI draws its membership from the corporate sector, both private and public, including SMEs and MNCs.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 16
     question: What is the full form of "FRB"?
     options:
@@ -232,19 +193,6 @@ questions:
       - Federal Deposit Insurance Corporation
     answer: 3
     explanation: The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stability and public confidence in the nation’s financial system. The FDIC insures deposits; examines and supervises financial institutions for safety, soundness, and consumer protection; makes large and complex financial institutions resolvable; and manages receivership.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 18
-    question: What is the full form of "CAG"?
-    options:
-      - Consolidated Audit General
-      - Commercial Auditor General
-      - Controller and Auditor General of India
-      - Commercial Account Growth
-    answer: 2
-    explanation: The Comptroller and Auditor General (CAG) of India is the Constitutional Authority in India, established under Article 148 of the Constitution of India. He is empowered to Audit all receipts and expenditure of the Government of India and the State Governments, including those of autonomous bodies and corporations substantially financed by the Government. The CAG is also the statutory auditor of Government-owned corporations and conducts supplementary audit of government companies in which the Government has an equity share of at least 51 per cent or subsidiary companies of existing government companies.
     keyConcept: Finance Abbreviations
     testedIn:
       - PPSC
@@ -392,19 +340,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 30
-    question: What is the full form of "NHB"?
-    options:
-      - National Housing and Buliding Association
-      - Non Hiring Business
-      - Native Hidden Brokerage
-      - National Housing Bank
-    answer: 3
-    explanation: National Housing Bank (NHB), is the apex regulatory body for overall regulation and licensing of housing finance companies in India. It is under the jurisdiction of Ministry of Finance , Government of India. It was set up on 9 July 1988 under the National Housing Bank Act, 1987. NHB is the apex financial institution for housing. NHB has been established with an objective to operate as a principal agency to promote housing finance institutions both at local and regional levels and to provide financial and other support incidental to such institutions and for matters connected therewith.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 31
     question: What is the full form of "MTD"?
     options:
@@ -414,19 +349,6 @@ questions:
       - Month To Date
     answer: 3
     explanation: Month-to-date (MTD) is a period starting at the beginning of the current calendar month and ending at the current date. Month-to-date is used in many contexts, mainly for recording results of an activity in the time between a date (exclusive, since this day may not yet be "complete") and the beginning of the current month.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 32
-    question: What is the full form of "IFCI"?
-    options:
-      - Indian Financial Council for Investment
-      - Institute for Finance and Credit Inc.
-      - Investing and Forecasting Information
-      - Industrial Finance Corporation of India
-    answer: 3
-    explanation: IFCI, previously Industrial Finance Corporation of India, is a development finance institution under the jurisdiction of Ministry of Finance, Government of India . Established in 1948 as a statutory corporation, IFCI is currently a company listed on BSE and NSE. IFCI has seven subsidiaries and one associate.
     keyConcept: Finance Abbreviations
     testedIn:
       - PPSC
@@ -457,19 +379,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 35
-    question: What is the full form of "FIMMDA"?
-    options:
-      - Fixed Income Money Market and Derivatives Association of India
-      - Flat Investment on Market and Mutual Fund Deficit
-      - Functional Investment on Market and Deficit Asset
-      - Abbreviation is wrong
-    answer: 0
-    explanation: Fixed Income Money Market and Derivatives Association of India (FIMMDA) is an association of Scheduled Commercial Banks, Public Financial Institutions, Primary Dealers and Insurance Companies in India representing the Market for the Bond, Money and Derivatives Products. It functions as the principal interface and works closely with the regulators, RBI, SEBI, Ministry of Finance, IRDA and other important domestic and International associations. It has 120 members as on date.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 36
     question: What is the full form of "FISIM"?
     options:
@@ -479,19 +388,6 @@ questions:
       - Fiscal Intermediate Solution on Investing in Mutual Fund
     answer: 2
     explanation: FISIM stands for Financial Intermediation Services Indirectly Measured. In the System of National Accounts it is an estimate of the value of the services provided by financial intermediaries, such as banks, for which no explicit charges are made; instead these services are paid for as part of the margin between rates applied to savers and borrowers. The supposition is that savers would receive a lower interest rate and borrowers pay a higher interest rate if all financial services had explicit charges.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 37
-    question: What is the full form of "FSDC"?
-    options:
-      - Federation Stability Development Council
-      - Financial Stability and Development Council
-      - Foreign Stock Dividend Committee
-      - Federal Stock Development Committee
-    answer: 1
-    explanation: Financial Stability and Development Council (FSDC) is an apex-level body constituted by the government of India. The idea to create such a super regulatory body was first mooted by the Raghuram Rajan Committee in 2008. Finally in 2010, the then Finance Minister of India, Pranab Mukherjee, decided to set up such an autonomous body dealing with macro prudential and financial regularities in the entire financial sector of India.
     keyConcept: Finance Abbreviations
     testedIn:
       - PPSC

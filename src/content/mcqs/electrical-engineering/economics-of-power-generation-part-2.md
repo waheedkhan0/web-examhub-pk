@@ -29,19 +29,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 2
-    question: Which of the following place is not associated with nuclear power plants in India ?
-    options:
-      - Narora
-      - Tarapur
-      - Kota
-      - Benglore
-    answer: 3
-    explanation: Benglore is the correct answer to “Which of the following place is not associated with nuclear power plants in India”. This question is standard in competitive examination syllabi for Economics Of Power Generation.
-    keyConcept: Economics Of Power Generation
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 3
     question: The expected useful life of an hydroelectric power station is around
     options:
@@ -345,19 +332,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 26
-    question: The least share of power is provided in India, by which of the following power plants?
-    options:
-      - Diesel power plants
-      - Thermal power plants
-      - Hydro-electric power plants
-      - Nuclear power plants
-    answer: 0
-    explanation: Diesel power plants is the correct answer to “The least share of power is provided in India, by which of the following power plants”. This question is standard in competitive examination syllabi for Economics Of Power Generation.
-    keyConcept: Economics Of Power Generation
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 27
     question: Which of the following component, in a steam power plant, needs maximum maintenance attention?
     options:
@@ -433,20 +407,6 @@ questions:
       - alternator
     answer: 0
     explanation: synchronous condenser is the correct answer to “An over excited synchronous motor on noload is known as”. This question is standard in competitive examination syllabi for Economics Of Power Generation.
-    keyConcept: Economics Of Power Generation
-    testedIn:
-      - WAPDA
-      - NTDC
-  - id: 33
-    question: In India production and distribution of electrical energy is confined to
-    options:
-      - private sector
-      - public sector
-      - government sectors
-      - joint sector
-      - none of the above
-    answer: 1
-    explanation: public sector is the correct answer to “In India production and distribution of electrical energy is confined to”. This question is standard in competitive examination syllabi for Economics Of Power Generation.
     keyConcept: Economics Of Power Generation
     testedIn:
       - WAPDA
@@ -544,5 +504,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

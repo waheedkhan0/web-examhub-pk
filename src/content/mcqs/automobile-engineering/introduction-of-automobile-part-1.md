@@ -156,19 +156,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 12
-    question: The first motor car appeared in India in
-    options:
-      - "1870"
-      - "1898"
-      - "1753"
-      - "1947"
-    answer: 1
-    explanation: 1898 is the correct answer to “The first motor car appeared in India in”. This question is standard in competitive examination syllabi for Introduction Of Automobile.
-    keyConcept: Introduction Of Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 13
     question: Car engines are usually
     options:
@@ -351,19 +338,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 27
-    question: Which is the Indian manufacturer of trucks?
-    options:
-      - Ashok leyland
-      - Hindustan motors
-      - Premier automobile
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Which is the Indian manufacturer of trucks”. This question is standard in competitive examination syllabi for Introduction Of Automobile.
-    keyConcept: Introduction Of Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 28
     question: The camshaft controls
     options:
@@ -534,5 +508,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

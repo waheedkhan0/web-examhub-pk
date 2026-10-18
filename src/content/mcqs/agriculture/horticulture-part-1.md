@@ -53,19 +53,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 4
-    question: In 1900, potato moth came in to India from
-    options:
-      - Italy
-      - Ireland
-      - U.S.A
-      - New Zealand
-    answer: 0
-    explanation: In 1900, the potato moth came into India (Bombay) from Italy. By the mid 1900s, potato moths became widely distributed in all potato regions in India. A potato moth is scientifically known as Phthorimaea opercula. It is an oligophagous insect that feeds on the plant family Solanaceae. Potato tuber moth larvae are known for feeding on the tubers, roots and foliage of potato plants.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 5
     question: Treatment to get rid of fruit flies in mango is
     options:
@@ -75,19 +62,6 @@ questions:
       - Pasteurization
     answer: 2
     explanation: Treatment to get rid of fruit flies in mango is VHT. VHT is the vapour heat treatment system for steadily killing eggs and larvae of fruit flies parasite inside the fruit with vapour and heat without injuring fresh fruits. This machine is capable of sterilization of a large volume of fresh fruit per use.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 6
-    question: In India the black soil is mostly found in . . . . . . . . State.
-    options:
-      - Maharashtra
-      - Tamil Nadu
-      - Kerala
-      - Karnataka
-    answer: 0
-    explanation: In India, the black soil is mostly found in Maharashtra state. Black soil is the black coloured soil containing a high percentage of humus (4% - 16%) and high percentages of phosphoric acids, phosphorus and ammonia. These are very fertile soil and can produce high agricultural yields with their high moisture storage capacity.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -144,19 +118,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 11
-    question: Which of the following tomato variety are resistant to fruit borer?
-    options:
-      - Pusa Uphar
-      - BT-10
-      - BT-1
-      - None of the above
-    answer: 0
-    explanation: Pusa Uphar is the variety of tomato among the given options that are resistant to fruit borer. The variety developed at IARI, plants are indeterminate, erect thick-stemmed with dark green foliage. Fruit borer is a serious pest of tomato as it reduces yield by up to 40%. The young are greenish to brown, with dark lines about the size of half of the finger. Adult females are yellow moths with dark brown spots on their wings. Larvae feed on the leaves and later make holes in the fruit which can be up to the size of a pea.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 12
     question: Marigold originated in
     options:
@@ -209,32 +170,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 16
-    question: Pragati is the variety of brinjal developed crossing between
-    options:
-      - Vaishali and Manjari Gota
-      - Arka Kushumkar and Manjari Gota
-      - PPC and Pusa Kranti
-      - Jamuni Gole and Pant Rituraj
-    answer: 0
-    explanation: Pragati is the variety of brinjal developed crossing between Vaishali and Manjari Gota released in 1988. It is an improved version of Vaishali. Plant type is semi-erect and bushy, fruit colour is purple and shape oval. Plants are hardy and resistant to lodging. Duration is 180 - 190 days and the average yield is 350 quintals per hectare.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 17
-    question: Gerbera variety suitable for cultivation under open conditions is
-    options:
-      - YCD-1
-      - Sunset
-      - Arka Krishika
-      - Arka Gold
-    answer: 2
-    explanation: Gerbera variety suitable for cultivation under open conditions is Arka Krishika. It has a stalk length of 39 cm and produces yellow colored double types, 3 - 6 flowers per plant. It is suited for open-grown conditions and used for cut flowers and flower decoration. Gerbera flowers are extensively distributed at heights of 1300 to 3200 meters. They grow well in states like Himachal Pradesh, Jammu & Kashmir and other Himalayan regions.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 18
     question: The yellow colour in onion is due to the pigment
     options:
@@ -270,19 +205,6 @@ questions:
       - Providing adequate irrigation
     answer: 2
     explanation: Panama disease of bananas is prevented by the application of lime to the soil. Panama disease is a wilting disease caused by the fungus Fusarium oxysporum . The pathogen is resistant to fungicides and its control is limited to phytosanitary measures. Panama disease is one of the most destructive plant diseases of modern times.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 21
-    question: Pant Anupama, Arka Komal and Blue Lake are the varieties of
-    options:
-      - Indian bean
-      - French bean
-      - Moth bean
-      - None of these
-    answer: 1
-    explanation: Plant Anupama, Arka Komal and Blue Lake are the varieties of French beans. French bean is one of the most popular and widely grown vegetables in India. The green immature pods are cooked and eaten as a vegetable. The French bean varieties are classified into two groups that are, Dwarf or bush types and climbing or pole types. Arka Komal is the variety mostly grown in hilly as well as the plain region of Tamil Nadu. Plants are erect and bushy. Plant Anupama was obtained through selection in germplasm lines maintained at GBPUAT, Pantnagar. The plants are dwarf with dark green foliage.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -326,19 +248,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 25
-    question: Which state is highest producer of fenugreek in India
-    options:
-      - Rajasthan
-      - Haryana
-      - U. P.
-      - Bihar
-    answer: 0
-    explanation: India is the prime producer of fenugreek in the world. The production of fenugreek in India is marked by its dominant position in world production and export. Rajasthan alone produces more than 80% fenugreek of the country followed by Gujarat, Madhya Pradesh, and Uttaranchal. In Rajasthan, which accounts for a significant majority of India's output, the crop is mainly grown during the winter season. It is cultivated in more than 1.57 lakh hectares area with a production of 1.9 lac tonnes.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 26
     question: Cleavage type of polyembryony is seen in
     options:
@@ -352,45 +261,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 27
-    question: Pusa Phalguni, Pusa Barsati, Pusa-do fasli and Pusa Rituraj are the improved varieties of
-    options:
-      - Brinjal
-      - Pea
-      - French bean
-      - Cowpea
-    answer: 3
-    explanation: Pusa Phalguni, Pusa Barsati, Pusa-do fasli and Pusa Rituraj are the improved varieties of Cowpea . It is an annual herbaceous legume and is an important crop in semi-arid regions. The crop is mainly grown for its seeds, which are high in protein and also for forage. Pusa phalguni is the Dwarf variety that matures in 60 days. It is suitable for February- March sowing. Its yield is 5-10 t/ha. Pusa barsati is suitable to grow in the rainy season and the yield is 9 - 9.5 t/ha. Pusa Dofaslu is photosensitive and its yield is 7.5 - 8 t/ha. Pusa Rituraj is a Bushy variety with 22 - 25 cm long and thin pods. Its yield is 8 - 10 t/ha.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 28
-    question: Variety of gladiolus developed by irradiation mutation is
-    options:
-      - Kum Kum
-      - Pusa Manmohak
-      - Shobha
-      - Arka gold
-    answer: 2
-    explanation: A variety of gladiolus developed by Irradiation mutation is Shobha . This variety is released by IIHR, Bangalore. It is an induced mutant of var. 'Wild Rose'. It is an early flowering variety, which flowers 60 days after planting. The effect of gamma irradiation on growth and floral characters of gladiolus varieties during winters.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 29
-    question: Which of the following cultivar belongs to bottlegourd?
-    options:
-      - Pusa Meghdoot
-      - CO-1
-      - Australian Green
-      - Straight Eight
-    answer: 0
-    explanation: Pusa Meghdoot is the cultivar among the following that belongs to bottle gourd. This variety of Bottle gourd can be grown in a wide range of soils. But it thrives well in sandy loam soils. The land or main field should be prepared thoroughly by six to seven ploughings and the pH range in soil should be from 6.5 to 7.5 in bottle gourd cultivation. It requires good drainage with a hot and moist climate for its cultivation.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 30
     question: Pyrethrin is extracted from which part of Chrysanthemum cinerariifolium?
     options:
@@ -400,19 +270,6 @@ questions:
       - Leaves
     answer: 2
     explanation: Pyrethrin is extracted from flowers of Chrysanthemum cinerarifolium . The pyrethrins are a class of organic compounds normally derived from Chrysanthemum cinerariifolium that have potent insecticidal activity by targeting the nervous systems of insects. Pyrethrin naturally occurs in chrysanthemum flowers and is often considered an organic insecticide when it is not combined with piperonyl butoxide or other synthetic adjuvants.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 31
-    question: Jobner Green is a high yielding variety of
-    options:
-      - Indian spinach (beet leaf)
-      - Spinach
-      - Brinjal
-      - Garlic
-    answer: 0
-    explanation: Jobner Green is a high-yielding variety of Indian Spinach (beet leaf). This was developed at the Jobner campus of the University of Udaipur by selection from a spontaneous mutation detected in a local collection. It produces green, large, thick and tender leaves with a strong flavour having an entire margin. It is a high yielder and gives an average yield of 30 tonnes/ha.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -456,32 +313,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 35
-    question: Which variety is an edible podded variety of pea
-    options:
-      - Sylvia
-      - Khapar Kheda
-      - Rachna
-      - None of these
-    answer: 0
-    explanation: Sylvia is a variety of an edible-podded variety of Pea. It is an introduced variety from Sweden. Plants are tall; the first blossom appears at the 14 th to 16 th node after 60 days of sowing. Pods are borne singly, yellowish in colour, long (12 cm) and curved without parchment-type pericarp. Pods are sweet and have the general appearance of a medium-sized French bean pod.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 36
-    question: Pusa Urmi and Pusa Shreya are the latest varieties of
-    options:
-      - Ash gourd
-      - Pumpkin
-      - Cucumber
-      - Little gourd
-    answer: 0
-    explanation: Pusa Urmi and Pusa Shreya are the latest varieties of Ash gourd grown for commercial cultivation. Both of these varieties are developed at IARI, New Delhi and are tolerant to cucumber mosaic virus and watermelon mosaic virus. The fruits of Pusa Urmi are oblong-ellipsoid with greenish-white rind and white flesh. The average fruit weight is 10 kg and the average number of fruits per plant is 4.6 with an average yield of 47.5 tonnes/ha. The fruits of Pusa Shreyali are elliptical-oval with green rind and the average fruit weight is 9 kg and 4.10 fruits per plant with an average yield of 41.6 tonnes/ha.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 37
     question: Which country ranked 1 st in export of floricultural products in the world
     options:
@@ -508,32 +339,5 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 39
-    question: Which of the following is not a variety of pea?
-    options:
-      - Azad P-1
-      - Azad P-3
-      - Madhu
-      - Chanchal
-    answer: 2
-    explanation: Azad P-1, Azad P-3 and Chanchal are varieties of pea whereas Madhu is the variety of musk melon. Peas are a good source of vitamin C, vitamin E and protein. It requires a cool season that cannot survive in a hot climate in India. Azad P-3 is one of the best varieties of peas. Azad P-1 is highly susceptible to powdery mildew, it shows desirable pod characteristics like medium, long and lush-green.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 40
-    question: In 1883 late blight of potato was inadvertently introduced in India from
-    options:
-      - Europe
-      - USA
-      - Mexico
-      - Peru
-    answer: 0
-    explanation: In 1883 late blight of potato was advertently introduced in India from Europe. Irish famine also known as the Great Irish famine, occurred in Ireland in 1845 - 49 when the potato crop failed in successive years. The crop failures were caused by late blight, a disease that destroys both the leaves and the edible roots, or tubers, of the potato plant. The causative agent of late blight is the water mold Phytophthora infestans .
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
 ---
-
 

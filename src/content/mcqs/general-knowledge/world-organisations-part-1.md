@@ -67,19 +67,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 5
-    question: The Indian delegation to the first World Conference on Human Rights was led by -
-    options:
-      - Dr. Manmohan Singh
-      - Farooq Abdullah
-      - Dinesh Singh
-      - Alam Khan
-    answer: 0
-    explanation: Dr. Manmohan Singh is the first Indian delegation that attended the first World Conference. The whole conference was on Human Rights.
-    keyConcept: World Organisations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 6
     question: The year 1995 is the Golden Jubilee year of which of the following international organisations?
     options:
@@ -340,19 +327,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 26
-    question: Who was the first Indian to be President of UN General Assembly?
-    options:
-      - Mrs. Vijaya Lakshmi Pandit
-      - Ramesh Bhandari
-      - Natwar Singh
-      - Krishna Menon
-    answer: 0
-    explanation: Vijaya Lakshmi Pandit (18 August 1900 - 1 December 1990) was an Indian diplomat and politician who was the first female elected to 6 th Governor of Maharashtra and 8 th President of the United Nations General Assembly.
-    keyConcept: World Organisations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 27
     question: How many former republics of USSR have become members of the Commonwealth of Independent States?
     options:
@@ -401,19 +375,6 @@ questions:
       - Paris
     answer: 1
     explanation: The headquarters of World Trade Organisation (WTO) is located at Geneva, Switzerland.
-    keyConcept: World Organisations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 31
-    question: The international township built near Pondicherry in India in coloration with UNESCO is called -
-    options:
-      - Elbaville
-      - Auroville
-      - Gayaville
-      - Broadway
-    answer: 1
-    explanation: Auroville is an international township built near Pondicherry in India in coloration with UNESCO.
     keyConcept: World Organisations
     testedIn:
       - PPSC

@@ -43,7 +43,7 @@ subtopics:
     questionCount: 40
   - name: Concrete Technology And Design Of Concrete Structures — Part 1
     slug: concrete-technology-and-design-of-concrete-structures-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Concrete Technology And Design Of Concrete Structures — Part 2
     slug: concrete-technology-and-design-of-concrete-structures-part-2
     questionCount: 40
@@ -67,7 +67,7 @@ subtopics:
     questionCount: 36
   - name: Elements Of Remote Sensing — Part 1
     slug: elements-of-remote-sensing-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Elements Of Remote Sensing — Part 2
     slug: elements-of-remote-sensing-part-2
     questionCount: 39
@@ -79,22 +79,22 @@ subtopics:
     questionCount: 40
   - name: Environmental Engineering — Part 1
     slug: environmental-engineering-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Environmental Engineering — Part 2
     slug: environmental-engineering-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Estimating And Costing — Part 1
     slug: estimating-and-costing-part-1
-    questionCount: 40
+    questionCount: 36
   - name: Estimating And Costing — Part 2
     slug: estimating-and-costing-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Highway Engineering — Part 1
     slug: highway-engineering-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Highway Engineering — Part 2
     slug: highway-engineering-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Hydraulics And Fluid Mechanics — Part 1
     slug: hydraulics-and-fluid-mechanics-part-1
     questionCount: 40
@@ -109,10 +109,10 @@ subtopics:
     questionCount: 40
   - name: Railway Engineering — Part 1
     slug: railway-engineering-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Railway Engineering — Part 2
     slug: railway-engineering-part-2
-    questionCount: 40
+    questionCount: 36
   - name: Rcc Structures Design — Part 1
     slug: rcc-structures-design-part-1
     questionCount: 40
@@ -160,10 +160,13 @@ subtopics:
     questionCount: 40
   - name: Waste Water Engineering — Part 2
     slug: waste-water-engineering-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Water Supply Engineering
     slug: water-supply-engineering
     questionCount: 38
+  - name: Civil Engineer (BS-17) Past Papers — Part 1
+    slug: civil-engineering-past-papers-part-1
+    questionCount: 15
 ---
 
 ## Civil Engineering: Exam Syllabus & Strategy

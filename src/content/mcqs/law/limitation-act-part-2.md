@@ -186,14 +186,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 14
-    question: What is the period of limitation for criminal cases in India?
+    question: What is the period of limitation for criminal cases in Pakistan?
     options:
       - For bailable offences 5 years for non-bailable offences 20 years
       - No period of limitation
       - Different states have different period of limitation
       - Some states have limitation period others do not have
     answer: 1
-    explanation: No period of limitation is the correct answer to “What is the period of limitation for criminal cases in India”. This question is standard in competitive examination syllabi for Limitation Act.
+    explanation: No period of limitation is the correct answer to “What is the period of limitation for criminal cases in Pakistan”. This question is standard in competitive examination syllabi for Limitation Act.
     keyConcept: Limitation Act
     testedIn:
       - Civil Judge

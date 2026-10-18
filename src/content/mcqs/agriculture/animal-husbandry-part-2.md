@@ -53,19 +53,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 4
-    question: National Research Centre on camel is located at
-    options:
-      - Bikaner
-      - Bengaluru
-      - Hyderabad
-      - Karnal
-    answer: 0
-    explanation: National Research Centre on camel is located at Bikaner. ICAR-National Research Centre on Camel, Bikaner, is a Premier Research Centre located in Bikaner city of Rajasthan. The Government of India established a Project Directorate on Camel at Bikaner (India) on 5 th July 1984 under aegis of Indian Council of Agricultural Research (ICAR) which was upgraded to National Research Centre on Camel (NRCC) on 20 th September 1995. It is located in the Jorbeer area of Bikaner city which is about 8 km from Bikaner main city. The key objectives of NRCC are camel breeding and health, utilisation of camel milk and its byproducts like ice-cream made of it, which makes it a one-of-a-kind institute in India.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 5
     question: The world's highly prised yielding 'Pashmina' breed is
     options:
@@ -74,7 +61,7 @@ questions:
       - Goat-sheep cross
       - Kashmiri sheep-Afghan sheep cross
     answer: 1
-    explanation: The world's highly prized yielding 'Pashmina' breed is Goat. It is closely associated with the nomadic Changpa people of the Changthang plateau. It may also be known as the Ladakh Pashmina or Kashmiri. It is a small goat, standing about 50 cm at the withers, and weighing on average approximately 20 kg. Both sexes are horned; the horns are large and twisted, and may reach a length of 55 cm. Pashmina is the finest quality of wool obtained from a special variety of goat Pashmina living in high altitude regions of India. This goat is mainly native to Tibet, Nepal, and Ladakh in Jammu Kashmir, India.
+    explanation: The world's highly prized yielding 'Pashmina' breed is Goat. It is closely associated with the nomadic Changpa people of the Changthang plateau. It may also be known as the Ladakh Pashmina or Kashmiri. It is a small goat, standing about 50 cm at the withers, and weighing on average approximately 20 kg. Both sexes are horned; the horns are large and twisted, and may reach a length of 55 cm. Pashmina is the finest quality of wool obtained from a special variety of goat Pashmina living in the high altitude regions of the Himalayas. This goat is mainly native to the Tibetan plateau and its adjoining highland regions, including parts of Gilgit-Baltistan in Pakistan.
     keyConcept: Animal Husbandry
     testedIn:
       - PPSC Agriculture Officer
@@ -153,19 +140,6 @@ questions:
       - Listeria
     answer: 0
     explanation: Pallisade arrangement is characteristic of Corynebacterium. The corynebacteria are gram-positive bacilli that are nonspore forming club-shaped rods. The name is derived from the Greek koryne, which stands for club. Bacteria are small, pleomorphic, aerobic, non-spore forming bacilli. They are Gram positive and slightly club shaped. In a typical Gram stain these bacteria appear as V-in Y-shaped arrangements or a palisade arrangement of the cells.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 12
-    question: Per capita availability of eggs in India is
-    options:
-      - 10 - 15 eggs/year
-      - 10 - 12 eggs/year
-      - 18 - 20 eggs/year
-      - 20 - 50 eggs/year
-    answer: 2
-    explanation: Per capita availability of eggs in India is 18 - 20 eggs/year. The Per Capita Availability is estimated by dividing the annual average availability by the population. Per capita availability data is updated every year, on an average it is 20 units/ annum from March 1951 to 2021, with various observations.
     keyConcept: Animal Husbandry
     testedIn:
       - PPSC Agriculture Officer
@@ -335,19 +309,6 @@ questions:
       - Kidding
     answer: 1
     explanation: Parturition in ewe known as Lambing. In sheep, the process of parturition is called “lambing,” and it is referred to as "kidding" in goats. The gestation period in sheep and goats is very similar, with sheep giving birth after 144 - 150 days, and goats kidding at around 150 days. Lambing is the time in the spring when female sheep give birth to lambs. Lambing is the climax of the sheep farmer's year.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 26
-    question: The native of Marwari goat is
-    options:
-      - Rajasthan
-      - Haryana
-      - Kerala
-      - Gujarat
-    answer: 0
-    explanation: The native Marwari goat is from Rajasthan. Marwari, an important dual-purpose (meat and milk) goat breed, is found in the great Thar Desert in Northwestern region of Rajasthan (India). The breed derived its name from 'Marwar' region of Rajasthan, which is the natural habitat of the breed. The breed is also known as Barmeri or Black Desert goat of Rajasthan.
     keyConcept: Animal Husbandry
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +496,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

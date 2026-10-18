@@ -106,19 +106,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 8
-    question: What is the full form of "BEL"?
-    options:
-      - Bharat Electronics Limited
-      - Bureau of Energy Limited
-      - Bank Equity Leasing
-      - Business on Energy Linked
-    answer: 0
-    explanation: Bharat Electronics Limited (BEL) is an Indian Government-owned aerospace and defence electronics company. It primarily manufactures advanced electronic products for ground and aerospace applications. BEL is one of nine PSUs under the Ministry of Defence of India.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 9
     question: What is the full form of "Bcc"?
     options:
@@ -141,19 +128,6 @@ questions:
       - Build on Actual Equity
     answer: 1
     explanation: British Aerospace plc (BAE) was a British aircraft, munitions and defence-systems manufacturer. Its head office was at Warwick House in the Farnborough Aerospace Centre in Farnborough, Hampshire. Formed in 1977, in 1999 it purchased Marconi Electronic Systems, the defence electronics and naval shipbuilding subsidiary of the General Electric Company plc, to form BAE Systems.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 11
-    question: What is the full form of "CAT"?
-    options:
-      - Common Application Test
-      - Common Admission Test
-      - Code of Admission Test
-      - Code of Authentication Technic
-    answer: 1
-    explanation: CAT exam or the Common Admission Test is a computer-based MBA entrance test for admissions into the IIMs and several other prestigious B-Schools in the country.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC
@@ -210,19 +184,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 16
-    question: What is the full form of "DVC"?
-    options:
-      - Delta Valley Corporation
-      - Device Viewer Capability
-      - Dynamic Viscosity Conversion
-      - Damodar Valley Corporation
-    answer: 3
-    explanation: Damodar Valley Corporation (DVC) is an Indian governmental organization which operates in the Damodar River area of West Bengal and Jharkhand states of India. The corporation operates both thermal power stations and hydel power stations under the Ministry of Power, Govt of India.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 17
     question: What is the full form of "DC"?
     options:
@@ -232,19 +193,6 @@ questions:
       - Direct Condenser
     answer: 0
     explanation: Direct current (DC) is one-directional flow of electric charge. An electrochemical cell is a prime example of DC power. Direct current may flow through a conductor such as a wire, but can also flow through semiconductors, insulators, or even through a vacuum as in electron or ion beams.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 18
-    question: What is the full form of "DTH"?
-    options:
-      - Device to Home
-      - Direct to Home
-      - Device to Hear
-      - Direct Thermal Hang
-    answer: 1
-    explanation: Direct-to-Home (DTH) television is a method of receiving satellite television by means of signals transmitted from direct-broadcast satellites. The Government of India permitted the reception and distribution of satellite television signals in November 2000.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC
@@ -366,32 +314,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 28
-    question: What is the full form of "NTPC"?
-    options:
-      - National Travel Pass Scheme
-      - National Textile Policy Scheme
-      - National Thermal Power Council
-      - National Thermal Power Corporation
-    answer: 3
-    explanation: NTPC Limited, formerly known as National Thermal Power Corporation Limited, is an Indian statutory corporation. It engaged in generation of electricity and allied activities. It is a statutory corporation incorporated under the Companies Act 1956 and is under the jurisdiction of Ministry of Power , Government of India. The headquarters of the company is situated at New Delhi.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 29
-    question: What is the full form of "SAIL"?
-    options:
-      - Silicon Authority of India Limited
-      - Steel Authority of India Limited
-      - System Analysis in Logistics
-      - Sales Analyst Income Level
-    answer: 1
-    explanation: Steel Authority of India Limited (SAIL) is a government owned steel producer based in New Delhi, India. It is under the ownership of Ministry of Steel, Government of India with an annual turnover of INR 66,267 Crore (US$9.32 billion) for fiscal year 2018-19. Incorporated on 24 January 1973, SAIL has 64,628 employees (as of 01-June-2021).
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 30
     question: What is the full form of "TOEFL"?
     options:
@@ -414,32 +336,6 @@ questions:
       - Least Count Method
     answer: 0
     explanation: The abbreviation LCM stands for Least Common Multiple. The least common multiple of a number is the smallest number that is the product of two or more numbers. The least common multiple can be calculated for two or more integers as well as two or more fractions. The least common multiple of two numbers is the lowest possible number that can be divisible by both numbers.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 32
-    question: What is the full form of "AIIMS"?
-    options:
-      - All Indian Institute for Medical Science
-      - American Institute for Innovation and Material Science
-      - All India Institute of Medical Science
-      - Asian Institute for Information and Medical Science
-    answer: 2
-    explanation: The All India Institutes of Medical Sciences (AIIMS) are a group of autonomous government public medical universities of higher education under the jurisdiction of Ministry of Health and Family Welfare , Government of India. These institutes have been declared by an Act of Parliament as Institutes of National Importance. AIIMS New Delhi, the forerunner institute, was established in 1956 under the All India Institute of Medical Sciences Act, 2012.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 33
-    question: What is the full form of "AITUC"?
-    options:
-      - Asian Institute for Technological University
-      - American Institute Of Technology University
-      - All India Trade Union Congress
-      - All India Trading Union Committee
-    answer: 2
-    explanation: The All India Trade Union Congress (AITUC) is the oldest trade union federation in India. It is associated with the Communist Party of India. According to provisional statistics from the Ministry of Labour, AITUC had a membership of 14.2 million in 2013. It was founded on 31 October 1920 with Lala Lajpat Rai as its first president.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC
@@ -496,19 +392,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 38
-    question: What is the full form of "CBSE"?
-    options:
-      - Common Board for Secondary Education
-      - Central Board of Secondary Education
-      - Code for Business and Statistical Education
-      - Center for Business and Statistical Environment
-    answer: 1
-    explanation: The Central Board of Secondary Education is a national level board of education in India for public and private schools, controlled and managed by Union Government of India. There are approximately 21,271 schools in India and 220 schools in 28 foreign countries affiliated to the CBSE.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 39
     question: What is the full form of "CTBT"?
     options:
@@ -518,19 +401,6 @@ questions:
       - Common Trading and Business Terminal
     answer: 0
     explanation: "The Comprehensive Test Ban Treaty (CTBT) prohibits \"any nuclear weapon test explosion or any other nuclear explosion\" anywhere in the world. The treaty was opened for signature in September 1996, and has been signed by 185 nations and ratified by 170. The treaty cannot enter into force until it is ratified by 44 specific nations, eight of which have yet to do so: China, India, Pakistan, North Korea, Israel, Iran, Egypt, and the United States."
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 40
-    question: What is the full form of "ERNET"?
-    options:
-      - Enterprise Resource Network
-      - EtherNet
-      - Educational and Research Network
-      - Energy Resource Nuclear Transfer
-    answer: 2
-    explanation: The Education and Research Network (ERNET) is an autonomous scientific society of the Ministry of Electronics and Information Technology, Government of India. ERNET has made a significant contribution to the emergence of networking in the country. It practically brought the Internet to India and has built up national capabilities in the area of net-working, especially in protocol software engineering.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC

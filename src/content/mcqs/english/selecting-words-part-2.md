@@ -523,14 +523,14 @@ questions:
       - PPSC
       - FPSC
   - id: 40
-    question: Like any other country India has its ...... share of superstitions.
+    question: Like any other country Pakistan has its ...... share of superstitions.
     options:
       - proper
       - abundant
       - fair
       - peculiar
     answer: 2
-    explanation: fair is the correct answer to “Like any other country India has its ...... share of superstitions.”. This question is standard in competitive examination syllabi for Selecting Words.
+    explanation: fair is the correct answer to “Like any other country Pakistan has its ...... share of superstitions.”. This question is standard in competitive examination syllabi for Selecting Words.
     keyConcept: Selecting Words
     testedIn:
       - PPSC

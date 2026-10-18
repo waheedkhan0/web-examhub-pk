@@ -145,19 +145,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 11
-    question: Can a registered person opt for composition scheme only for one out of his 5 business different units having same Permanent Account Number?
-    options:
-      - "Yes"
-      - "No"
-      - Yes, with prior approval of the Central Government
-      - Yes, subject to prior approval of the GST Council
-    answer: 1
-    explanation: No is the correct answer to “Can a registered person opt for composition scheme only for one out of his 5 business different units having same Permanent Account Number”. This question is standard in competitive examination syllabi for Gst.
-    keyConcept: Gst
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 12
     question: When does liability to pay GST arise in case of supply of goods?
     options:

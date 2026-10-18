@@ -80,19 +80,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 6
-    question: Deferred shares can be issued by ________.
-    options:
-      - public company
-      - private company
-      - private company which is deemed to be a public
-      - government company
-    answer: 1
-    explanation: According to Companies Act 1956, no public limited company or which is a subsidiary of a public company can issue deferred shares.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 7
     question: Which of the following companies may issue share warrants?
     options:
@@ -145,19 +132,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 11
-    question: Which of the following are components of organized sector of stock exchange?
-    options:
-      - Commercial banks
-      - Investors in securities
-      - Financial institutions like LFC, IDBI
-      - Other financial institutions
-    answer: 1
-    explanation: Investors in securities are components of organized sector of stock exchange. The organised sector of the capital market comprises all the term-lend­ing financial institutions (or development banks or non-banking financial institutions, like 1DB1, ICICI, etc.), banks with their me­dium-term and their merchant banking divi­sions or subsidiaries, LIC, GIC, UTI and the stock exchanges (an essential component of the capital market).
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 12
     question: Which of the following methods is not used for raising capital through the sale of new securities?
     options:
@@ -184,32 +158,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 14
-    question: The first stock exchange was set up in India in __________.
-    options:
-      - Calcutta
-      - Bombay
-      - New Delhi
-      - Chennai
-    answer: 1
-    explanation: The first stock exchange was set up in India in Bombay. The Bombay Stock Exchange (BSE) is the first and largest securities market in India and was established in 1875 as the Native Share and Stock Brokers' Association.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 15
-    question: Stock Exchanges in India are under the control of ____________.
-    options:
-      - SEBI
-      - SEC
-      - RBI
-      - financial Institution
-    answer: 0
-    explanation: "The stock market in each country now is governed/controlled by the corresponding governing bodies in that country. Ex: SEC (Securities Exchange Commission) for USA , SEBI (Securities & Exchanges Board of India) for India. Earlier Stock Exchanges in India were continued to be regulated directly by the Government of India. In the year 1988 the Government of India constituted SEBI to act as the independent regulator of Stock exchanges, the primary market, Mutual Funds etc. Securities Scam of 1990-91 mastered by the stockbroker Harshad Mehta, exposed by journalist Sucheta Dalal, prompted Government to make SEBI a statutory and autonomous regulatory board with responsibilities, to cover both development & regulation of the market."
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 16
     question: A speculator who applies for new share is ________.
     options:
@@ -232,19 +180,6 @@ questions:
       - only by corporate houses
     answer: 2
     explanation: Dealings in stock exchanges can be done by public only through brokers. A stockbroker is a professional who executes buy and sell orders for stocks and other securities on behalf of clients. A stockbroker may also be known as a registered representative, investment adviser or simply, broker.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 18
-    question: Members of Bombay stock exchange are unofficially classified into ___________.
-    options:
-      - brokers and jobbers
-      - brokers and tarawaniwalas
-      - jobbers and tarawaniwalas
-      - there is no such classification of members of stock exchange
-    answer: 1
-    explanation: Members of Bombay stock exchange are unofficially classified into brokers and tarawaniwalas. In India there are two types of members in the Mumbai stock exchange. They are called Brokers and Tarawaniwalas. All this is done unofficially. The Tarawaniwalas act both as jobbers and brokers. A tarawaniwala makes transactions on his behalf like a jobber but he may also act as a broker on behalf of the public.
     keyConcept: Business And Commerce
     testedIn:
       - FPSC Senior Auditor
@@ -349,19 +284,6 @@ questions:
       - it includes interest
     answer: 0
     explanation: The price of a share quoted in the stock exchange is cum, dividend when it is inclusive of dividend declared.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 27
-    question: When SEBI came into force?
-    options:
-      - "1992"
-      - "1991"
-      - "1990"
-      - "1993"
-    answer: 0
-    explanation: SEBI came into force in 1992. Securities and exchange Board of India (SEBI) was first established in the year 1988 as a non-statutory body for regulating the securities market. It became an autonomous body by The Government of India on 12 May 1992 and given statutory powers in 1992 with SEBI Act 1992 being passed by the Indian Parliament.
     keyConcept: Business And Commerce
     testedIn:
       - FPSC Senior Auditor

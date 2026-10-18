@@ -176,7 +176,7 @@ questions:
   - id: 13
     question: "A suit filed on the day next to the last date of limitation for filing thereof will not be barred by time:"
     options:
-      - If the plaintiff was outside India on the last date of limitation
+      - If the plaintiff was outside Pakistan on the last date of limitation
       - If the plaintiff was unwell and suffering from viral fever on the last date of limitation
       - If the court was closed for half an hour on the last date of limitation
       - If the advocate for the plaintiff forgot to file plaint on the last date of limitation
@@ -455,19 +455,6 @@ questions:
       - Article 227
     answer: 3
     explanation: Article 227 is the correct answer to “An erroneous decision refusing to apply Section 12, Limitation Act, 1963 can be corrected under which of the following articles of the Constitution”. This question is standard in competitive examination syllabi for Limitation Act.
-    keyConcept: Limitation Act
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 35
-    question: Law of Limitation as considered in Limitation Act does not bar the remedy, if the suit has instituted under
-    options:
-      - Code of Civil Procedure
-      - Transfer of Property Act
-      - Indian Divorce Act
-      - All of these
-    answer: 2
-    explanation: Indian Divorce Act is the correct answer to “Law of Limitation as considered in Limitation Act does not bar the remedy, if the suit has instituted under”. This question is standard in competitive examination syllabi for Limitation Act.
     keyConcept: Limitation Act
     testedIn:
       - Civil Judge

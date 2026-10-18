@@ -15,19 +15,6 @@ targetExams:
   - PPSC
   - NTS
 questions:
-  - id: 1
-    question: The first Indian company raised the fund by issuing Bond in US dollar in United States
-    options:
-      - Airtel
-      - TATA
-      - Reliance
-      - Aircel
-    answer: 2
-    explanation: Reliance is the first Indian company raised the fund by issuing Bond in US dollar in United States. It is first corporation in Asia to issue 50- and 100-year bonds in the United States.
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: Purchasing-power parity (PPP) refers to__________
     options:
@@ -89,32 +76,6 @@ questions:
       - The Multilateral Investment Agency
     answer: 1
     explanation: The International Development Association of the World Bank Group deals with matters related to the development of the poorest countries in the world. The International Development Association (IDA) is the part of the World Bank that helps the world’s poorest countries. Overseen by 173 shareholder nations, IDA aims to reduce poverty by providing loans (called “credits”) and grants for programs that boost economic growth, reduce inequalities, and improve people’s living conditions.
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: India s foreign exchange rate system is?
-    options:
-      - Fixed target
-      - Managed float
-      - Free float
-      - Fixed and Float
-    answer: 1
-    explanation: In India, the exchange rate system is managed floating (from 1994 onwards) and hence the relevant currency movements are appreciation and depreciation. Here, the exchange rate is determined in the open market through the pressure of buying and selling of foreign currencies.
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
-  - id: 8
-    question: The index of Financial Inclusion has been launched for the first time in 2008
-    options:
-      - Confederation of Indian Industries (CII)
-      - Federation of Indian Chamber of Commerce and Industry (FICCI)
-      - National Council of Applied Economic Research (NCAER)
-      - Indian Council for Research on International Economic Relations (ICRIER)
-    answer: 3
-    explanation: The index of Financial Inclusion, Indian Council for Research on International Economic Relations (ICRIER) has been launched for the first time in 2008. The IFI developed here incorporates information on various dimensions of an inclusive financial system and it is easy to compute. This study is part of a major research project on “Financial Inclusion” under the auspices of the Financial Sector Research Programme (FSRP) at ICRIER.
     keyConcept: International Finance And Treasury
     testedIn:
       - CSS
@@ -245,19 +206,6 @@ questions:
       - World Bank
     answer: 2
     explanation: A bank located usually in another country that provides service for another bank is Correspondent bank. A correspondent bank is a bank that provides services on behalf of another, equal or unequal, financial institution. It can facilitate wire transfers, conduct business transactions, accept deposits, and gather documents on behalf of another financial institution.
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: The maximum amount that an Indian company can issue as ADR/GDR in a year is
-    options:
-      - USD 500 million
-      - USD 30 million
-      - USD 20 million
-      - No monetary ceiling
-    answer: 3
-    explanation: The maximum amount that an Indian company can issue as ADR/GDR in a year is No monetary ceiling. The Monetary Ceiling is the maximum amount for which a Member can be held liable (ie. the cap) where a Court determines that the Member is compliant with all relevant obligations.
     keyConcept: International Finance And Treasury
     testedIn:
       - CSS
@@ -426,20 +374,7 @@ questions:
       - minimum two
       - no such limit
     answer: 3
-    explanation: The number of nostro accounts that can be maintained by a bank in a particular currency is no such limit. Nostro account is maintained by Indian banks in foreign countries where they have operations for facilitating easy clearing of their transactions. These accounts are maintained with their correspondent banks overseas who in turn act as their clearing bank in the foreign country where the Indian bank has its base.
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
-  - id: 33
-    question: Non-resident bank accounts are maintained in
-    options:
-      - the permitted currencies
-      - the currency of the country of the bank maintaining the account
-      - the currencies in which FCNR accounts are permitted to be maintained
-      - Indian rupee
-    answer: 3
-    explanation: Non-resident bank accounts are maintained in Indian rupee. Non-Resident bank accounts are those, which are maintained by Indian nationals and Persons of Indian origin resident abroad, foreign nationals and foreign companies in India. Bank branches can open ordinary non-resident accounts in the names of private individuals provided initial deposits for opening the accounts are received from abroad in an approved manner or the initial amount is tendered in foreign currency while on a visit to India or transfer of funds from the existing non-resident account of the same person.
+    explanation: The number of nostro accounts that can be maintained by a bank in a particular currency is no such limit. Nostro account is maintained by Pakistani banks in foreign countries where they have operations for facilitating easy clearing of their transactions. These accounts are maintained with their correspondent banks overseas who in turn act as their clearing bank in the foreign country where the Pakistani bank has its base.
     keyConcept: International Finance And Treasury
     testedIn:
       - CSS
@@ -452,20 +387,7 @@ questions:
       - all types of foreign exchange transactions
       - purchase and sale of foreign currency notes, coins and travellers cheques
     answer: 3
-    explanation: "Full fledged money changers are authorized to undertake purchase and sale of foreign currency notes, coins and travellers cheques. The Full Fledged Money Changers are liable to carry on the following activities: FFMCs can go into franchise agreement at their convenience for undertaking the Restricted Money Changing business which comprises the conversion of coins or traveler's cheques, foreign currency notes into (INR) Indian Rupees."
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: According to classification by IMF, the currency system of India falls under
-    options:
-      - managed floating
-      - independently floating
-      - crawling peg
-      - pegged to basket of currencies
-    answer: 0
-    explanation: According to classification by IMF, the currency system of India falls under managed floating. Managed float regime is the current international financial environment in which exchange rates fluctuate from day to day, but central banks attempt to influence their countries' exchange rates by buying and selling currencies to maintain a certain range.
+    explanation: "Full fledged money changers are authorized to undertake purchase and sale of foreign currency notes, coins and travellers cheques. The Full Fledged Money Changers are liable to carry on the following activities: FFMCs can go into franchise agreement at their convenience for undertaking the Restricted Money Changing business which comprises the conversion of coins or traveler's cheques, foreign currency notes into (PKR) Pakistani Rupees."
     keyConcept: International Finance And Treasury
     testedIn:
       - CSS
@@ -536,5 +458,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

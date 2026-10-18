@@ -157,19 +157,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 12
-    question: Wheat varieties KML 7404, MLKS-11 are
-    options:
-      - Pure line cultivars
-      - Multiline cultivars
-      - Mass selected cultivars
-      - Exotic cultivars
-    answer: 1
-    explanation: Wheat varieties KML 7404, and MLKS-11 are Multiline cultivars . Multiline crop cultivars are phenotypically similar (height, grain type) but genetically different against insect pests and diseases (Browning and Frey 1981; Wolfe 1985). Multiline cultivars have been developed for commercial cultivation in oats, wheat, soybean, and peanut. KML 7404 and MLKS-11 are wheat multiline varieties for the northern and northwestern plains of India. MLKS-11 is a mixture of eight components derived from Kalyan Sona.
-    keyConcept: Genetics And Plant Breeding
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 13
     question: The term chromosome was given by
     options:
@@ -482,19 +469,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 37
-    question: The first sorghum hybrid was released in
-    options:
-      - "1965"
-      - "1963"
-      - "1964"
-      - "1966"
-    answer: 2
-    explanation: The first sorghum hybrid was released in 1964 . Sorghum hybrid development involves the development of parental lines based on a cytoplasmic male sterile system including the pollen parent (R-line) and seed parents (A- and B-lines). The spread of modern hybrids and varieties of sorghum in India began in the late 1960s, with the release in 1964 of the first high-yielding hybrid CSH-1 developed by Dr. N. Ganga Prasada Rao, and the equally high-yielding variety Swarna in 1968, also developed by him.
-    keyConcept: Genetics And Plant Breeding
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 38
     question: The maize inbreeds are maintained by
     options:
@@ -535,5 +509,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

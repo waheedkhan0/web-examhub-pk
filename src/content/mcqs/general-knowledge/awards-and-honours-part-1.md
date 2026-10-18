@@ -92,26 +92,6 @@ questions:
     answer: 1
     explanation: International Committee for Red Cross (ICRC) is the correct answer to “Which International Organization has been honored Noble Prize 3 times”. Items of this type are drawn from the Awards & Honours — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Awards & Honours
-  - id: 9
-    question: “Bharat Ratna” is the __________ award of India?
-    options:
-      - Political
-      - Military
-      - Civilian
-      - Academic
-    answer: 2
-    explanation: “Bharat Ratna” is the Civilian award of India.
-    keyConcept: Awards & Honours
-  - id: 10
-    question: “Param Vir Chakra” is the highest ____________ award of India?
-    options:
-      - Civilian
-      - Political
-      - Military
-      - Academic
-    answer: 2
-    explanation: “Param Vir Chakra” is the highest Military award of India.
-    keyConcept: Awards & Honours
   - id: 11
     question: “Victoria Cross” is the highest _________ award of UK?
     options:
@@ -405,19 +385,6 @@ questions:
     answer: 2
     explanation: Legion of Honor is the correct answer to “Which is the highest military award of france”. Items of this type are drawn from the Awards & Honours — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Awards & Honours
-  - id: 41
-    question: B. C. Roy Award is given in the field of -
-    options:
-      - Music
-      - Journalism
-      - Medicine
-      - Environment
-    answer: 2
-    explanation: B. C. Roy National Award Fund registered under the Societies Registration Act of 1860, has decided to give award in recognition of the outstanding service in the field of Socio - Medical Relief and in the establishment of the Medical organisations and Medical institutions.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 42
     question: In which year was Pulitzer Prize established?
     options:
@@ -427,58 +394,6 @@ questions:
       - "1928"
     answer: 0
     explanation: Pulitzer Prize was established in 1917 by provisions in the will of American publisher Joseph Pulitzer, and is administered by Columbia University in New York City. Prizes are awarded yearly in twenty - one categories.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 43
-    question: Gandhi Peace Prize for the year 2000 was awarded to the former President of South Africa along with -
-    options:
-      - Sathish Dawan
-      - C. Subramanian
-      - Grameen Bank of Bangladesh
-      - World Health Organisation
-    answer: 2
-    explanation: The Gandhi Peace Prize for the year 2000 was split between the South African President and peace representative Nelson Mandela and the microfinance organisation and community development bank Grameen Bank.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 44
-    question: The prestigious Ramon Magsaysay Award was conferred upon Ms. Kiran Bedi for her excellent contribution to which of the following fields?
-    options:
-      - Literature
-      - Community Welfare
-      - Government Service
-      - Journalism
-    answer: 2
-    explanation: The prestigious Ramon Magsaysay award was conferred upon Ms. Kiran Bedi for her excellent contribution to government service.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 45
-    question: Which is the highest gallantry award in India?
-    options:
-      - Param Vishishtat Seva Medal
-      - Param Vir Chakra
-      - Kirti Chakra
-      - Vir Chakra
-    answer: 1
-    explanation: The Param Vir Chakra (PVC) is India's highest military decoration awarded for the highest degree of valour or self - sacrifice in the presence of the enemy, similar to the British Victoria Cross, US Medal of Honor, Pakistani Nishan - e - Haider, or French Legion of Honour or Russian Cross of St. George.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 46
-    question: Which state gives Mewar Award?
-    options:
-      - Haryana
-      - Delhi
-      - Punjab
-      - Rajasthan
-    answer: 3
-    explanation: Maharana Mewar Award is a State Award of Rajasthan. This award has been instituted to honour work of permanent value to those who consider it their duty, like the Diwan of Shree Eklingnath ji, to serve society through services in the field of education, literature, social services, philanthropy and character building activities.
     keyConcept: Awards And Honours
     testedIn:
       - PPSC
@@ -496,32 +411,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 48
-    question: Who was the first Indian to receive Nobel Prize in Literature?
-    options:
-      - Mother Teresa
-      - C. V. Raman
-      - Rabindranath Tagore
-      - Sarojini Naidu
-    answer: 2
-    explanation: Rabindranath Tagore was the first Indian to receive Nobel Prize in Literature.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 49
-    question: The first recipient of Rajiv Gandhi's 'Khel Ratna' award is -
-    options:
-      - Vishwanathan Anand
-      - Leander Peas
-      - Kapil Dev
-      - Limba Ram
-    answer: 0
-    explanation: The first recipient of the Rajiv Gandhi's 'Khel Ratna' award was Chess Grandmaster Viswanathan Anand, who was honoured for the performance in the year 1991 – 92.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 50
     question: Pulitzer prize is awarded for outstanding work in the field of -
     options:
@@ -535,19 +424,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 51
-    question: Saraswathi Samman is given annually for outstanding contribution to -
-    options:
-      - classical music
-      - education
-      - literature
-      - fine arts
-    answer: 2
-    explanation: The Saraswati Samman is an annual award for outstanding prose or poetry literary works in any of the 22 languages of India listed in Schedule VIII of the Constitution of India.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 52
     question: Who among the following has received a Nobel Prize in literature 1953?
     options:
@@ -557,45 +433,6 @@ questions:
       - Winston Churchill
     answer: 3
     explanation: The Nobel Prize in Literature 1953 was awarded to Sir Winston Leonard Spencer Churchill for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 53
-    question: The Arjuna Awards were instituted in the year -
-    options:
-      - "1965"
-      - "1961"
-      - "1963"
-      - "1957"
-    answer: 1
-    explanation: The Arjuna Awards are given by the Ministry of Youth Affairs and Sports, government of India to recognize outstanding achievement in National sports. Instituted in 1961, the award carries a cash prize of Rs 500000, a bronze statue of Arjuna and a scroll.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 54
-    question: "'Ashoka Chakra' is awarded for -"
-    options:
-      - acts of gallantry in the presence of enemy
-      - gallantry by children
-      - outstanding contribution to literature
-      - the most conspicuous bravery or self sacrifice on land, air or sea but not in the presence of the enemy
-    answer: 3
-    explanation: "'Ashoka Chakra' is awarded for most conspicuous bravery or some act of daring or act of valour or self - sacrifice otherwise than in the face of the enemy. The decoration may be awarded posthumously."
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 55
-    question: Who among the following is the recipient of the first Dayawati Modi Award for art, culture and education?
-    options:
-      - Dharmavir Bharti
-      - Amitabh Bachchan
-      - B. V. Karanth
-      - Ashok Vajpeyi
-    answer: 1
-    explanation: Amitabh Bachchan, acclaimed actor and son of well - known poet Harivansh Rai Bachchan, was presented the Dayawati Modi Award in 2002 for his contribution to the field of Art, Culture and Education.
     keyConcept: Awards And Honours
     testedIn:
       - PPSC
@@ -639,19 +476,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 59
-    question: The journalist who refused to accept 'Padma Bhushan' was?
-    options:
-      - Shekaran Nair
-      - Khushwant Singh
-      - Ratan Thiyam
-      - Arun Shourie
-    answer: 1
-    explanation: Khushwant Singh (Journalist) returned his Padma Bhushan in protest against Operation Blue Star (1984). He was awarded Padma Vibhushan in 2007.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 60
     question: The Nobel peace prize is awarded in which city?
     options:
@@ -661,58 +485,6 @@ questions:
       - Geneva
     answer: 0
     explanation: As stipulated in the will of the Swedish born inventor and international industrialist Alfred Nobel, which was opened after his death in 1896, the Nobel Prizes in Physics, Chemistry, Physiology or Medicine and Literature are awarded in Stockholm, Sweden, while the Nobel Peace Prize is awarded in Oslo, Norway.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 61
-    question: Arjuna Award is given for -
-    options:
-      - Exceptional service in emergency
-      - Bravery on battlefield
-      - Outstanding performance in sports
-      - Exceptional service in slum dwellers
-    answer: 2
-    explanation: Arjuna award is given for outstanding performance in sports and games. This was the highest honour for sportspersons before Khel Ratna came up in 1991.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 62
-    question: Who among the following is not a recipient of the Bharatiya Jnanpith Award?
-    options:
-      - Ashaparna Devi
-      - M. F. Hussain
-      - Raghupathi Sahai
-      - V. K. Gokak
-    answer: 1
-    explanation: M. F. Hussain is not a recipient of the Bharatiya Jnanpith Award.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 63
-    question: Who among the following is not a recipient of 'Dada Saheb Phalke' Award?
-    options:
-      - Ramanand Sagar
-      - Raj Kapoor
-      - Shantaram Rajaram Vankudre
-      - Ashok Kumar
-    answer: 0
-    explanation: Ramanand Sagar is not a recipient of 'Dada Saheb Phalke' Award.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 64
-    question: Sharad Joshi Samman is awarded for -
-    options:
-      - Cartoon
-      - Satire and essay
-      - Trade Union Activity
-      - Social Service
-    answer: 1
-    explanation: Madhya Pradesh government has instituted an award in memory of Sharad Joshi titled "Sharad Joshi Samman", given each year to individuals for outstanding achievement in the field of writing.
     keyConcept: Awards And Honours
     testedIn:
       - PPSC
@@ -730,110 +502,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 66
-    question: The highest civilian award of India 'Bharat Ratna' has been awarded to only two foreigners so far. One of them is Nelson Mandela. The other is
-    options:
-      - Abdul Ghaffar khan
-      - Mikhail Gorbachev
-      - Marshal Tito
-      - Abdul Wali Khan
-    answer: 0
-    explanation: The highest civilian award of India 'Bharat Ratna' has been awarded to only two foreigners so far. One of them is Nelson Mandela. The other is Abdul Ghaffar Khan.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 67
-    question: The first recipient of Nehru Award was -
-    options:
-      - Martin Luther King
-      - Khan Abdul Ghaffar Khan
-      - Mother Teresa
-      - U Thant
-    answer: 3
-    explanation: Thant known honorifically as U Thant was a Burmese diplomat and the third secretary - general of the United Nations from 1961 to 1971. He was the first recipient of Nehru Award.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 68
-    question: Shanti Swarup Bhatnagar awards are given for -
-    options:
-      - exploring new dimensions in creative writing in Indian languages
-      - outstanding contribution to science
-      - creating mass awareness on environmental issues
-      - excellence in film direction
-    answer: 1
-    explanation: The Shanti Swarup Bhatnagar Prize for Science and Technology (SSB) is a science award in India given annually by the Council of Scientific and Industrial Research (CSIR) for notable and outstanding research, applied or fundamental, in biology, chemistry, environmental science, engineering, mathematics, medicine, and Physics.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 69
-    question: The Shanti Swarup Bhatnagar Award is given by which of the following organisations?
-    options:
-      - Council for Scientific and Industrial Research
-      - Indian Council for Agricultural Research
-      - Indian National Science Academy
-      - Indian Space Research Organisation
-    answer: 0
-    explanation: The Shanti Swarup Bhatnagar Prize for Science and Technology (SSB) is a science award in India given annually by the Council of Scientific and Industrial Research (CSIR) for notable and outstanding research, applied or fundamental, in biology, chemistry, environmental science, engineering, mathematics, medicine, and physics.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 70
-    question: On whose name is the highest award for services to the development of cinema given?
-    options:
-      - Raj Kapoor
-      - Dada Saheb
-      - Meena Kumari
-      - Amitabh Bachchan
-    answer: 1
-    explanation: Dadasaheb Phalke Award is India's highest award in cinema. It is given for the "outstanding contribution to the growth and development of Indian cinema.”
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 71
-    question: Tansen Samman has been instituted by the Government of?
-    options:
-      - Gujarat
-      - Maharashtra
-      - Uttar Pradesh
-      - Madhya Pradesh
-    answer: 3
-    explanation: Instituted by the Government of Madhya Pradesh in 1980, Tansen award is presented every year for excellence in Hindustani classical music. It is presented during the Tansen Samaroh at Gwalior.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 72
-    question: The only Indian to win the Nobel prize in physics is -
-    options:
-      - Dr. J. C. Bose
-      - Dr. C. V. Raman
-      - Dr. Vikram Sarabhai
-      - Dr. H. J. Bhabha
-    answer: 1
-    explanation: Dr. C. V. Raman is India's first and only physicist to win a Nobel Physics Prize in 1930 "for his work on the scattering of light and for the discovery of the effect named after him.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 73
-    question: Who among the following is a winner of the Indira Gandhi Award for National integration?
-    options:
-      - Aruna Asaf Ali
-      - Ashok Kumar
-      - Sundarlal Bahuguna
-      - M. G. K. Menon
-    answer: 0
-    explanation: The Indira Gandhi Award for National Integration is a prestigious award accorded by the Indian National Congress, after former Prime Minister of India, Indira Gandhi. Aruna Asaf Ali is a winner of the Indira Gandhi Award for National integration.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 74
     question: The first black American to win the Nobel Prize for literature is -
     options:
@@ -843,32 +511,6 @@ questions:
       - Nelson Mandela
     answer: 2
     explanation: The Nobel Prize in Literature 1993 was awarded to Toni Morrison who is the first black American to win the Nobel Prize for literature.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 75
-    question: Who among the following got the 'Bharat Ratna' award, before becoming the President of India?
-    options:
-      - R. Venkatramanan
-      - Dr. Zakir Hussain
-      - V. V. Giri
-      - Dr. Rajendra Prasad
-    answer: 1
-    explanation: Zakir Hussain was the third president of India. Before becoming the President he won the Bharat Ratna Award in the year 1963.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 76
-    question: Manav Seva Award has been instituted in the memory of -
-    options:
-      - Rajiv Gandhi
-      - Dr. Rajendra Prasad
-      - Indira Gandhi
-      - Acharya Vinoba Bhave
-    answer: 0
-    explanation: The Rajiv Gandhi Manav Seva Award is given for service to children. Under this Scheme, every year the National Selection Committee selects three individuals who are presented the award on August 20 (the birthday of Rajiv Gandhi).
     keyConcept: Awards And Honours
     testedIn:
       - PPSC
@@ -895,32 +537,6 @@ questions:
       - Amadeus
     answer: 1
     explanation: "'The Last Emperor' won 9 Oscars and was named Best Film of 1987."
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 79
-    question: Which of the following awards was conferred on Mrs. Kiran Bedi?
-    options:
-      - Golden Globe
-      - Rani Lakshmi
-      - Ramon Magsaysay
-      - Saraswati
-    answer: 2
-    explanation: The prestigious Ramon Magsaysay award was conferred upon Mrs. Kiran Bedi for her excellent contribution to government service.
-    keyConcept: Awards And Honours
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 80
-    question: Who was awarded the first Rajiv Gandhi National Sadbhavna Award?
-    options:
-      - Archarya Tulsi
-      - Dr. J. Rengaswamy
-      - J. R. D Tata
-      - Mother Teresa
-    answer: 3
-    explanation: The first Rajiv Gandhi National Sadbhavna award was conferred on Mother Teresa in 1992. The award was instituted by All India Congress Committee of the Indian National Congress Party in 1992 to commemorate the lasting contribution made by the former Prime Minister Rajiv Gandhi.
     keyConcept: Awards And Honours
     testedIn:
       - PPSC

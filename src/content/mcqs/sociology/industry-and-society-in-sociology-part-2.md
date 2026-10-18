@@ -40,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: "The first modern industries in India were:"
-    options:
-      - Cotton-jute
-      - Coal mines
-      - Railway
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “The first modern industries in India were:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Which two items were reserved for the small-scale sector?
     options:

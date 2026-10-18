@@ -249,19 +249,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 19
-    question: Who is the 'lender of the last resort' in the banking structure of India?
-    options:
-      - State bank of India
-      - Reserve bank of India
-      - EXIM bank of India
-      - Union bank of India
-    answer: 1
-    explanation: Reserve bank of India is the 'lender of the last resort' in the banking structure of India. A lender of last resort is an institution, usually a country's central bank, that offers loans to banks or other eligible institutions that are experiencing financial difficulty or are considered highly risky or near collapse.
-    keyConcept: Economics
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 20
     question: ____ is the official minimum rate at which the Central Bank of a country is prepared to rediscount approved bills held by the commercial banks
     options:
@@ -271,32 +258,6 @@ questions:
       - Reverse repo rate
     answer: 1
     explanation: Bank rate is the official minimum rate at which the Central Bank of a country is prepared to rediscount approved bills held by the commercial banks.
-    keyConcept: Economics
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 21
-    question: In order to control credit, Reserve Bank of India should
-    options:
-      - Increase CRR and decrease Bank rate
-      - Decrease CRR and reduce Bank rate
-      - Increase CRR and increase Bank rate
-      - Reduce CRR and increase Bank rate
-    answer: 2
-    explanation: In order to control credit, Reserve Bank of India should Increase CRR and increase Bank rate. During high inflation in the economy, RBI raises the CRR to lower the bank's loanable funds.
-    keyConcept: Economics
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 22
-    question: Which among the following is a function of the Reserve Bank of India?
-    options:
-      - Bank issues the letters of credit to their customers certifying their credibility
-      - Collecting and compilation of statistical information relating to banking & other financial sector
-      - Banks underwrite the securities issued by public or private organizations
-      - Accepting deposits from the public
-    answer: 1
-    explanation: Collecting and compilation of statistical information relating to banking & other financial sector is a function of the Reserve Bank of India.
     keyConcept: Economics
     testedIn:
       - FPSC Senior Auditor

@@ -209,19 +209,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 16
-    question: Match the following. List-I List-II a. Kashmir 1. Mahakavyas b. Ujjaini 2. Gita govinda c. Bengal 3. Sangam literature d. South Indian region 4. Rajatarangni
-    options:
-      - a-1, b-2, c-4, d-3
-      - a-3, b-2, c-1, d-4
-      - a-4, b-3, c-1, d-3
-      - a-2, b-3, c-4, d-1
-    answer: 0
-    explanation: a-1, b-2, c-4, d-3 is the correct answer to “Match the following. List-I List-II a. Kashmir 1. Mahakavyas b. Ujjaini 2. Gita govinda c. Bengal 3. Sangam literature d. South Indian region 4. Rajatarangni”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
   - id: 17
     question: According to which theory of media "the media area means of mental production of the ideology"?
     options:
@@ -365,19 +352,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: India's first museum of Radio and Television located at
-    options:
-      - New Delhi
-      - Mumbai
-      - Kolkata
-      - Bangalore
-    answer: 0
-    explanation: New Delhi is the correct answer to “India's first museum of Radio and Television located at”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: In which journal did Raja Rammohun Roy write articles against evil practices?
     options:
@@ -387,19 +361,6 @@ questions:
       - None of these
     answer: 2
     explanation: Sambad Kaumudi is the correct answer to “In which journal did Raja Rammohun Roy write articles against evil practices”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
-  - id: 30
-    question: Several researchers have insisted that India re-adopt the old traditional media and folk art forms to retain her cultural identity. How can that be possible, given that the western media and software are ruling the TV and cinema worlds?
-    options:
-      - Shut out the western media and software from India
-      - Sprinkle traditional folk art software in the western media to attract the attention of the masses
-      - Promote traditional media channels so that only traditional folk art forms are highlighted through them
-      - Ask the western media to give support to our folk art forms
-    answer: 2
-    explanation: Promote traditional media channels so that only traditional folk art forms are highlighted through them is the correct answer to “Several researchers have insisted that India re-adopt the old traditional media and folk art forms to retain her cultural identity. How can that be possible, given that the western media and software are ruling the TV and cinema worlds”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
     keyConcept: Communication For Development And Social Change
     testedIn:
       - CSS
@@ -439,32 +400,6 @@ questions:
       - socialism
     answer: 1
     explanation: humanism is the correct answer to “Deen Dayal Upadhyay propagated”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
-  - id: 34
-    question: First Indian Company to raise money in global markets with GDR issues is
-    options:
-      - ONGC
-      - Infosy
-      - Reliance
-      - Hindujas
-    answer: 2
-    explanation: Reliance is the correct answer to “First Indian Company to raise money in global markets with GDR issues is”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: The author of "Communication and Social Development of India" was
-    options:
-      - Prof. B.C. Roy
-      - B. Kuppuswamy
-      - H. Sinha
-      - Keshav Mukherjee
-    answer: 1
-    explanation: B. Kuppuswamy is the correct answer to “The author of "Communication and Social Development of India" was”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
     keyConcept: Communication For Development And Social Change
     testedIn:
       - CSS
@@ -535,5 +470,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

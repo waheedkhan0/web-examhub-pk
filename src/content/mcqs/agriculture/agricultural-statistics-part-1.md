@@ -313,19 +313,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 24
-    question: The scheme of Regional Rural Banks was launched in India on
-    options:
-      - 1st October, 1975
-      - 15th August, 1978
-      - 2nd October, 1975
-      - 1st January, 1970
-    answer: 1
-    explanation: 15th August, 1978 is the correct answer to “The scheme of Regional Rural Banks was launched in India on”. This question is standard in competitive examination syllabi for Agricultural Statistics.
-    keyConcept: Agricultural Statistics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 25
     question: The arithmetic mean of the Poisson distribution is
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

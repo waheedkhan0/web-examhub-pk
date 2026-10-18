@@ -54,16 +54,6 @@ questions:
     answer: 3
     explanation: Pathway to the Future is the correct answer to “What was the theme of the International Day of Human Fraternity 2021”. Items of this type are drawn from the Important Days & Themes — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Important Days & Themes
-  - id: 5
-    question: India celebrated which of the following day on 26th January 2021?
-    options:
-      - Gandhi Jayanti
-      - Farmers Day
-      - Democracy day
-      - Republic Day
-    answer: 3
-    explanation: Republic Day is the correct answer to “India celebrated which of the following day on 26th January 2021”. Items of this type are drawn from the Important Days & Themes — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Important Days & Themes
   - id: 6
     question: Renowned philanthropist and humanitarian _________ has been selected as the ‘Person of the Decade’ by international web-based organization Impact Hallmarks.
     options:

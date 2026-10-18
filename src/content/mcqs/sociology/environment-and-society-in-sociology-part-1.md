@@ -170,19 +170,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 13
-    question: Which one of the following is not an unfavourable factor for caste system in India?
-    options:
-      - Abolition of Jagirdari System
-      - Spread of Industrialisation
-      - Influence of the west
-      - All of the above
-    answer: 0
-    explanation: Abolition of Jagirdari System is the correct answer to “Which one of the following is not an unfavourable factor for caste system in India”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 14
     question: "Match List-I with List-II and select the correct answer: List I List II a. Mixing of harmful chemicals in water 1. Air Pollution b. Presence of undesirable solid or gaseous, Particulate matter in air 2. Noise Pollution c. Noise upto 120 decibel 3. Water Pollution d. Ultraviolet Rays 4. Radioactive Pollution"
     options:
@@ -300,32 +287,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 23
-    question: When did India launched its first Air Quality Index?
-    options:
-      - "2014"
-      - "2015"
-      - "2016"
-      - "2017"
-    answer: 1
-    explanation: 2015 is the correct answer to “When did India launched its first Air Quality Index”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 24
-    question: Which of the following is an example of ecofeminist movement in India?
-    options:
-      - Chipko Movemet
-      - Bishnoi Movement
-      - Appiko Movement
-      - Both A and B
-    answer: 3
-    explanation: Both A and B is the correct answer to “Which of the following is an example of ecofeminist movement in India”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 25
     question: Which of the following is the distinct features of social exclusion?
     options:
@@ -335,19 +296,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Which of the following is the distinct features of social exclusion”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: Which of the following sector is considered as the backbone of Indian economy?
-    options:
-      - Service sector
-      - Financial sector
-      - Tourism sector
-      - Agriculture sector
-    answer: 3
-    explanation: Agriculture sector is the correct answer to “Which of the following sector is considered as the backbone of Indian economy”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
     keyConcept: Environment And Society In Sociology
     testedIn:
       - CSS
@@ -413,19 +361,6 @@ questions:
       - Risk
     answer: 1
     explanation: Physical is the correct answer to “Hazard is considered . . . . . . . . agent in disaster.”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 32
-    question: What are the aims of National Forest Policy of India. 1. Conservation of natural heritage. 2. Increasing productivity of forests to meet the national needs. 3. Maintenance of Environmental stability. 4. Checking soil erosion and denudation.
-    options:
-      - 1 and 2
-      - Only 2
-      - 2 and 3
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “What are the aims of National Forest Policy of India. 1. Conservation of natural heritage. 2. Increasing productivity of forests to meet the national needs. 3. Maintenance of Environmental stability. 4. Checking soil erosion and denudation.”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
     keyConcept: Environment And Society In Sociology
     testedIn:
       - CSS

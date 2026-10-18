@@ -40,19 +40,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 3
-    question: Liquid ammonia is not used as such a fertiliser in tropical countries like India, because
-    options:
-      - Its N₂ content is very low
-      - It is very costly
-      - It will evaporate on spraying
-      - It is not available
-    answer: 2
-    explanation: It will evaporate on spraying is the correct answer to “Liquid ammonia is not used as such a fertiliser in tropical countries like India, because”. This question is standard in competitive examination syllabi for Fertiliser Technology.
-    keyConcept: Fertiliser Technology
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 4
     question: Which one of the following is used as a nitrogenous fertiliser, as a weed killer in the onion fields and for correcting acidic soils?
     options:
@@ -365,19 +352,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 28
-    question: Largest capacity nitrogenous fertiliser plants (2700 tons of NH 3 per day) (2 Nos) in India are located at
-    options:
-      - Thal-Vaishet (under RCF in Maharashtra) and Hazira (under IFFCO in Gujarat)
-      - Talchar (Orissa) and Ramagundam (A.P.) both under FCI
-      - Korba (M.P.) and Talchar (Orissa) both under FCI
-      - Haldia (W.B) and Namrup (Assam) both under HFC
-    answer: 0
-    explanation: Thal-Vaishet (under RCF in Maharashtra) and Hazira (under IFFCO in Gujarat) is the correct answer to “Largest capacity nitrogenous fertiliser plants (2700 tons of NH 3 per day) (2 Nos) in India are located at”. This question is standard in competitive examination syllabi for Fertiliser Technology.
-    keyConcept: Fertiliser Technology
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 29
     question: CaH 4 (PO 4 ) 2 is the chemical formula of
     options:
@@ -535,5 +509,4 @@ questions:
       - FPSC
       - PPSC
 ---
-
 

@@ -71,15 +71,15 @@ questions:
       - PPSC
       - FPSC
   - id: 5
-    question: This Project which is funded / by the united nations / has helped over four / lakh Indians overcome poverty.
+    question: This Project which is funded / by the united nations / has helped over four / lakh Pakistanis overcome poverty.
     options:
       - This Project which is funded
       - by the united nations
       - has helped over four
-      - lakh Indians overcome poverty
+      - lakh Pakistanis overcome poverty
       - No error
     answer: 3
-    explanation: lakh Indians to overcome poverty
+    explanation: lakh Pakistanis to overcome poverty
     keyConcept: Common Error Detection
     testedIn:
       - PPSC
@@ -527,9 +527,9 @@ questions:
       - PPSC
       - FPSC
   - id: 38
-    question: Find out whether there is any grammatical error in below sentence. An Indian ship / laden with merchandise / got drowned in the Pacific Ocean.
+    question: Find out whether there is any grammatical error in below sentence. An Pakistani ship / laden with merchandise / got drowned in the Pacific Ocean.
     options:
-      - An Indian ship
+      - An Pakistani ship
       - laden with merchandise
       - got drowned in the Pacific Ocean
       - No error
@@ -553,9 +553,9 @@ questions:
       - PPSC
       - FPSC
   - id: 40
-    question: Find out whether there is any grammatical error in below sentence. The Indian radio / which was previously controlled by the British rulers / is free now from the narrow vested interests.
+    question: Find out whether there is any grammatical error in below sentence. The Pakistani radio / which was previously controlled by the British rulers / is free now from the narrow vested interests.
     options:
-      - The Indian radio
+      - The Pakistani radio
       - which was previously controlled by the British rulers
       - is free now from the narrow vested interests
       - No error

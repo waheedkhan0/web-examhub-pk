@@ -27,19 +27,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 2
-    question: What action would be taken as per DGMS Circular for immediate support of slips and weak planes?
-    options:
-      - put props as required at the place
-      - set roof bolts at 3 × 3 mesh
-      - place shall be temporarily supported followed by permanent supports
-      - place shall be supported permanent supports before engaging persons to work
-    answer: 2
-    explanation: place shall be temporarily supported followed by permanent supports is the correct answer to “What action would be taken as per DGMS Circular for immediate support of slips and weak planes”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 3
     question: While choosing mutually exclusive projects which type of project gets priority for selection?
     options:
@@ -49,19 +36,6 @@ questions:
       - project with cumulative cash flow with negative and positive number
     answer: 1
     explanation: project with largest positive value is the correct answer to “While choosing mutually exclusive projects which type of project gets priority for selection”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 4
-    question: As per DGMS Circular 5/2014, what percentage of methane in inflammable gas should be used for conducting incendivity tests?
-    options:
-      - 3 + 0.25%
-      - 5 + 0.25%
-      - 7 + 0.25%
-      - 9 + 0.25%
-    answer: 3
-    explanation: 9 + 0.25% is the correct answer to “As per DGMS Circular 5/2014, what percentage of methane in inflammable gas should be used for conducting incendivity tests”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
     keyConcept: Mine Rules And Regulations
     testedIn:
       - PPSC Mines
@@ -79,19 +53,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 6
-    question: How many types of Circulars are issued from time to time by DGMS In our country?
-    options:
-      - "2"
-      - "4"
-      - "6"
-      - "10"
-    answer: 2
-    explanation: 6 is the correct answer to “How many types of Circulars are issued from time to time by DGMS In our country”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 7
     question: In such area prone to airblast what adequate numbers of convergence recorders are installed in the vicinity of pillar extraction?
     options:
@@ -101,45 +62,6 @@ questions:
       - "15"
     answer: 3
     explanation: 15 is the correct answer to “In such area prone to airblast what adequate numbers of convergence recorders are installed in the vicinity of pillar extraction”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 8
-    question: As per which DGMS Circular the extant provision is given about all persons in the vicinity should have taken proper shelter?
-    options:
-      - 7/2001
-      - 7/2002
-      - 5/2002
-      - 11/1977
-    answer: 0
-    explanation: 7/2001 is the correct answer to “As per which DGMS Circular the extant provision is given about all persons in the vicinity should have taken proper shelter”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 9
-    question: Accidents due to failure of slope in an opencast mine is described in which DGMS Circular?
-    options:
-      - 2/2001
-      - 3/2001
-      - 2/2002
-      - 3/2002
-    answer: 0
-    explanation: 2/2001 is the correct answer to “Accidents due to failure of slope in an opencast mine is described in which DGMS Circular”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 10
-    question: Which DGMS Cir states about anchorage strength of roof bolt?
-    options:
-      - 3/1996
-      - 6/1993
-      - 6/1994
-      - 3/1993
-    answer: 0
-    explanation: 3/1996 is the correct answer to “Which DGMS Cir states about anchorage strength of roof bolt”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
     keyConcept: Mine Rules And Regulations
     testedIn:
       - PPSC Mines
@@ -166,58 +88,6 @@ questions:
       - The depth of such excavation measured from its highest to its lowest point should not be less than 30m
     answer: 0
     explanation: The depth of such excavation measured from its highest to its lowest point should not be less than 15m is the correct answer to “What is the depth to be achieved for an excavation to be called a coal mine”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 13
-    question: What is the periodicity of joint survey by user and manufacturer of cage suspension gear stipulated in DGMS Circular 1/2015?
-    options:
-      - 3 months
-      - 6 months
-      - 12 months
-      - 24 months
-    answer: 2
-    explanation: 12 months is the correct answer to “What is the periodicity of joint survey by user and manufacturer of cage suspension gear stipulated in DGMS Circular 1/2015”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 14
-    question: As per DGMS Circular 6/2013, mining companies should engage CMPDIL or any educational institution for keeping active surveillance for longer period of time for which of the below mentioned technology?
-    options:
-      - Longwall
-      - Highwall
-      - Sublevel
-      - Blasting gallery
-    answer: 1
-    explanation: Highwall is the correct answer to “As per DGMS Circular 6/2013, mining companies should engage CMPDIL or any educational institution for keeping active surveillance for longer period of time for which of the below mentioned technology”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 15
-    question: In order to support freshly exposed roof and sides in coal mines full column grouted roof bolts preferably be used as support as per which DGMS circular?
-    options:
-      - 2/1997
-      - 7/1977
-      - 4/2002
-      - 5/2002
-    answer: 0
-    explanation: 2/1997 is the correct answer to “In order to support freshly exposed roof and sides in coal mines full column grouted roof bolts preferably be used as support as per which DGMS circular”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 16
-    question: As per DGMS stipulation on freshly exposed roof which of the following statement is true in the context of minimum damage due to blasting?
-    options:
-      - first row of supports should contain at least one strategically placed cog
-      - two rows of vertical props
-      - two rows of cross-bars
-      - bolts of lrn × lm mesh
-    answer: 0
-    explanation: first row of supports should contain at least one strategically placed cog is the correct answer to “As per DGMS stipulation on freshly exposed roof which of the following statement is true in the context of minimum damage due to blasting”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
     keyConcept: Mine Rules And Regulations
     testedIn:
       - PPSC Mines
@@ -326,32 +196,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 25
-    question: For impact sensitivity test with discontinuous NG based explosives in India, Hammer test as per IS 6609 does not appear necessary with which explosives?
-    options:
-      - Slurry and emulsion explosive
-      - soligex
-      - powerflo
-      - Nonel based solimax explosive
-    answer: 0
-    explanation: Slurry and emulsion explosive is the correct answer to “For impact sensitivity test with discontinuous NG based explosives in India, Hammer test as per IS 6609 does not appear necessary with which explosives”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 26
-    question: This can be taken as one of the precautions as stipulated in DGMS Circular 12/199 in respect of reversing vehicles?
-    options:
-      - A good hom is required to be in use
-      - Operator should see the back while reversing
-      - Driver should blow hom before reversing vehicle
-      - A separate hom with a sound different from normal hom of the vehicle is provided
-    answer: 3
-    explanation: A separate hom with a sound different from normal hom of the vehicle is provided is the correct answer to “This can be taken as one of the precautions as stipulated in DGMS Circular 12/199 in respect of reversing vehicles”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 27
     question: As per circular 8/2014, a test is to be conducted for friction stabilizers in acidic water condition for 20 days during which no deterioration should occur on its assembly. What is the name of that test?
     options:
@@ -400,19 +244,6 @@ questions:
       - IS 9097
     answer: 0
     explanation: "IS 7895 : 1975 is the correct answer to “Testing of fire resistant hydraulic fluid can only be done following which standards”. This question is standard in competitive examination syllabi for Mine Rules And Regulations."
-    keyConcept: Mine Rules And Regulations
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 31
-    question: DGMS specification for deciding length of bolts is-
-    options:
-      - at least $$\frac{1}{2}$$ of gallery width
-      - at least $$\frac{1}{3}$$ of gallery width
-      - less than 1.5m
-      - equal to gallery width
-    answer: 1
-    explanation: at least $$\frac{1}{3}$$ of gallery width is the correct answer to “DGMS specification for deciding length of bolts is-”. This question is standard in competitive examination syllabi for Mine Rules And Regulations.
     keyConcept: Mine Rules And Regulations
     testedIn:
       - PPSC Mines
@@ -535,5 +366,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

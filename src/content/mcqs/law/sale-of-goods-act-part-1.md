@@ -60,7 +60,7 @@ questions:
       - The English Bill of Exchange Act, 1882
       - The Transfer of Property Act, 1882
       - The English Sale of Goods Act, 1893
-      - The Indian Contract Act, 1872
+      - The Contract Act, 1872
     answer: 2
     explanation: The English Sale of Goods Act, 1893 is the correct answer to “The Sale of Goods Act, 1930 is based on:”. This question is standard in competitive examination syllabi for Sale Of Goods Act.
     keyConcept: Sale Of Goods Act
@@ -83,12 +83,12 @@ questions:
   - id: 6
     question: "Before the enactment of Sale of Goods Act, the provisions regarding Sale of Goods were contained in:"
     options:
-      - Indian Contract Act, 1872
-      - Indian Registration Act, 1908
+      - Contract Act, 1872
+      - Registration Act, 1908
       - Transfer of Property Act, 1882
-      - Indian Partnership Act, 1932
+      - Partnership Act, 1932
     answer: 0
-    explanation: Indian Contract Act, 1872 is the correct answer to “Before the enactment of Sale of Goods Act, the provisions regarding Sale of Goods were contained in:”. This question is standard in competitive examination syllabi for Sale Of Goods Act.
+    explanation: Contract Act, 1872 is the correct answer to “Before the enactment of Sale of Goods Act, the provisions regarding Sale of Goods were contained in:”. This question is standard in competitive examination syllabi for Sale Of Goods Act.
     keyConcept: Sale Of Goods Act
     testedIn:
       - Civil Judge

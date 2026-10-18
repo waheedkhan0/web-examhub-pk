@@ -243,16 +243,6 @@ questions:
     answer: 2
     explanation: The world’s first nuclear power plant was built by Russia .
     keyConcept: Inventions & Discoveries
-  - id: 24
-    question: Which is india’s first artificial settalitte?
-    options:
-      - Aryabhata
-      - INSAT
-      - Rohini
-      - Bashkara
-    answer: 0
-    explanation: Aryabhata is the correct answer to “Which is india’s first artificial settalitte”. Items of this type are drawn from the Inventions & Discoveries — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Inventions & Discoveries
   - id: 25
     question: Rome’s first code of laws; _____________ adopted in 450 B.C.
     options:
@@ -361,16 +351,6 @@ questions:
       - Holfamn
     answer: 0
     explanation: Anaximander is the correct answer to “Who created the first Map of the World”. Items of this type are drawn from the Inventions & Discoveries — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Inventions & Discoveries
-  - id: 36
-    question: On 18th May 1974 India exploded first nuclear devise under the code name of___________?
-    options:
-      - Operation Gibraltar
-      - Operation India Big
-      - Operation Smiling Buddha
-      - Operation Blue Star Rakshak
-    answer: 2
-    explanation: On 18th May 1974 India exploded first nuclear devise under the code name of Operation Smiling Buddha .
     keyConcept: Inventions & Discoveries
   - id: 37
     question: Which of the following countries becomes first in Africa to launch high speed train 320Km/h?

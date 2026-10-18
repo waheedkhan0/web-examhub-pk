@@ -457,19 +457,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 35
-    question: Match the following. List-I (Food Standards) List-II (Descriptions) a. The PFA standard 1. Concerned with physical and chemical characteristics of food, both natural and acquired during processing b. The FPO standard 2. Lay down the minimum standards for all types of foods c. The AGMARK standards 3. Indicates confermity to laid down standards d. Indian standards 4. Concerned with the standards required for maintaining quality of fruits, vegetables and any products manufactured from them
-    options:
-      - a-3, b-2, c-4, d-1
-      - a-1, b-2, c-3, d-4
-      - a-2, b-4, c-1, d-3
-      - a-4, b-3, c-2, d-1
-    answer: 1
-    explanation: a-1, b-2, c-3, d-4 is the correct answer to “Match the following. List-I (Food Standards) List-II (Descriptions) a. The PFA standard 1. Concerned with physical and chemical characteristics of food, both natural and acquired during processing b. The FPO standard 2. Lay down the minimum standards for all types of foods c. The AGMARK standards 3. Indicates confermity to laid down standards d. Indian standards 4. Concerned with the standards required for maintaining quality of fruits, vegetables and any products manufactured from them”. This question is standard in competitive examination syllabi for Food Science And Food Service Management.
-    keyConcept: Food Science And Food Service Management
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 36
     question: 1 nanometre = . . . . . . . . cm.
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

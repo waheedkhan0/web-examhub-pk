@@ -15,32 +15,6 @@ targetExams:
   - PMS
   - CSS
 questions:
-  - id: 1
-    question: Which of the legislation do not from part of the legal environment of business in India?
-    options:
-      - The Drugs and Cosmetics Act, 1940
-      - The prevention of Food Adulteration Act, 1954
-      - The Monopolies and Restrictive Trade Practices Act, 1969
-      - Both B and C
-    answer: 3
-    explanation: Legal environment of business refers to the laws, regulations, and acts that directly influence and regulate business operations in a country. These laws are specifically framed to guide and control business practices. The Drugs and Cosmetics Act, 1940 forms part of the legal environment of business because it directly regulates the production, distribution, and quality of drugs and cosmetics, ensuring business practices meet health and safety standards. The Prevention of Food Adulteration Act, 1954 mainly deals with consumer protection and public health rather than regulating business operations in general. The Monopolies and Restrictive Trade Practices Act, 1969 (MRTP) was replaced by the Competition Act, 2002 . Therefore, MRTP Act no longer forms part of the current legal environment of business in India. Thus, the legislations that do not form part of the legal environment of business in India are both B and C .
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 2
-    question: "\"Repo Rate\" refers to the rate at which"
-    options:
-      - RBI borrows short-term money from the market
-      - Banks keeps the money with RBI
-      - Banks take money from RBI after offering some securities
-      - Forex is purchased by RBI
-    answer: 2
-    explanation: "The correct answer is Option C: Banks take money from RBI after offering some securities. The Repo Rate is a crucial tool used by the Reserve Bank of India (RBI), which is India's central bank, to manage the money supply in the economy. Imagine it like this: Banks sometimes need money for a short period. Think of the RBI as a 'banker to banks'. What Happens at the Repo Rate? * Banks need funds: When banks are short on funds, they can borrow money from the RBI. * Securities as Collateral: To borrow this money, banks have to offer the RBI some form of security, like government bonds. * Repurchase Agreement (Repo): It's called a \"repo\" because the banks agree to repurchase these securities from the RBI at a slightly higher price at a later date. * The Repo Rate is the Interest: The difference between the selling and repurchase price represents the interest the bank pays to the RBI for the loan. This interest rate is the Repo Rate. Why are the other options incorrect? * Option A (RBI borrows short-term money from the market): This describes the Reverse Repo Rate, not the Repo Rate. In the reverse repo, RBI borrows money from banks. * Option B (Banks keeps the money with RBI): This describes when banks deposit money with RBI, and it is related to reserve requirements or the reverse repo rate (mentioned above). * Option D (Forex is purchased by RBI): While the RBI does deal with foreign exchange, the Repo Rate is specifically about short-term lending to banks against securities."
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 3
     question: Which of the following in true?
     options:
@@ -63,19 +37,6 @@ questions:
       - Open Market Operations
     answer: 0
     explanation: "The correct answer is A: Deficit Financing. Here's why: Monetary Policy is all about how a central bank (like the Reserve Bank of India) manages the money supply and credit conditions to influence the economy. Let's look at each option: * A: Deficit Financing: This is when the government spends more money than it collects in revenue, creating a shortfall (deficit). The government finances this deficit by borrowing money. This is a fiscal policy tool, not a monetary policy tool. * B: Statutory Liquidity Ratio (SLR): This is the percentage of deposits that commercial banks are required to maintain in the form of liquid assets (like gold, government securities). The central bank uses SLR to control the amount of credit available in the economy. This is a monetary policy tool. * C: Cash Reserve Ratio (CRR): This is the percentage of a bank's total deposits that it must keep with the central bank. Changing the CRR affects the amount of money banks have available to lend. This is a monetary policy tool. * D: Open Market Operations (OMO): This involves the buying and selling of government securities by the central bank in the open market. Buying securities injects money into the economy, while selling securities withdraws money. This is a key monetary policy tool. Therefore, Deficit Financing stands out as the only option that is not a direct tool used by the central bank to control the money supply or credit conditions."
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 5
-    question: Indicate the ground on which a complaint under the Consumer Protection Act, 1986 shall be invalid?
-    options:
-      - A product having short weight
-      - A service provided free of cost
-      - A misleading advertisement given in newspaper
-      - None of the above
-    answer: 1
-    explanation: "The correct answer is Option B: A service provided free of cost . Let's break down why: The Consumer Protection Act is designed to protect consumers who purchase goods or services for a price . Option A: A product having short weight is a valid ground for complaint because you paid for a certain amount and didn't receive it. Option C: A misleading advertisement given in newspaper is also a valid ground because it influenced your decision to purchase, and the product didn't live up to the claims. Option B: A service provided free of cost , however, is generally not covered. The Act usually applies when there's a transaction involving payment. If you didn't pay for the service, you typically can't file a complaint under this Act. Option D: None of the above is incorrect because options A and C *are* valid grounds."
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor
@@ -158,19 +119,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 12
-    question: Which of the following is not the objective of the Competition Act, 2002?
-    options:
-      - Prohibition of restrictive trade practices
-      - Prohibition of dominant position
-      - Prohibition of anti-competitive agreements
-      - Regulation of combinations
-    answer: 0
-    explanation: Prohibition of restrictive trade practices is the correct answer to “Which of the following is not the objective of the Competition Act, 2002”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 13
     question: The comparative cost advantage theory was given by
     options:
@@ -219,19 +167,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “The companies globalize their operations through different means”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 17
-    question: Which of the following is not a forum of Consumer Dispute Redressal System?
-    options:
-      - Local forum
-      - District forum
-      - State forum (State commission)
-      - National commission
-    answer: 0
-    explanation: Local forum is the correct answer to “Which of the following is not a forum of Consumer Dispute Redressal System”. This question is standard in competitive examination syllabi for Business Environment And International Business.
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor
@@ -288,19 +223,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 22
-    question: Possible impact of WTO on various aspects of the Indian economy. 1. Quantitative restriction will be allowed. 2. Secondhand cars will be imported. 3. There will be dumping of Chinese goods. 4. Increase in population. 5. Child labour exploitation. 6. Unemployment will increase. Which of the combination is correct?
-    options:
-      - 1, 2 and 3
-      - 3, 4 and 5
-      - 2, 3 and 6
-      - 4, 5 and 6
-    answer: 3
-    explanation: 4, 5 and 6 is the correct answer to “Possible impact of WTO on various aspects of the Indian economy. 1. Quantitative restriction will be allowed. 2. Secondhand cars will be imported. 3. There will be dumping of Chinese goods. 4. Increase in population. 5. Child labour exploitation. 6. Unemployment will increase. Which of the combination is correct”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 23
     question: Which combination of the following is correct with regard to World Trade Organisation (WTO)? 1. WTO initiates peace process among the member countries to enhance international trade. 2. WTO avoids the task of 'Settlement of Disputes' among the member countries. 3. WTO administers the 'Trade Review Mechanism'. 4. WTO cooperates in an appropriate manner with the IMF and the World Bank.
     options:
@@ -327,19 +249,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 25
-    question: The Competition Act, 2002 seeks to regulate
-    options:
-      - Anti-competitive agreements
-      - Mergers and amalgamation
-      - Unfair trade practices
-      - Both A and B
-    answer: 3
-    explanation: Both A and B is the correct answer to “The Competition Act, 2002 seeks to regulate”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 26
     question: Which one is not an international organisation?
     options:
@@ -349,32 +258,6 @@ questions:
       - CBDT
     answer: 3
     explanation: CBDT is the correct answer to “Which one is not an international organisation”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 27
-    question: "Statement I: WTO is only international organisation which deals with the rules of trade between organisations. Statement II: The limit of holding by individual foreign institutional investors in a company has been raised from 5 to 10% of company's share while the aggregate limit has been increased from 24 to 34%."
-    options:
-      - Statement I is correct, but Statement II is incorrect
-      - Statement II is correct, but Statement I is incorrect
-      - Both the Statements I and II are correct
-      - Both the Statements I and II are incorrect
-    answer: 2
-    explanation: "Both the Statements I and II are correct is the correct answer to “Statement I: WTO is only international organisation which deals with the rules of trade between organisations. Statement II: The limit of holding by individual foreign institutional investors in a company has been raised from 5 to 10% of company's share while the aggregate limit has been increased from 24 to 34%.”. This question is standard in competitive examination syllabi for Business Environment And International Business."
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 28
-    question: The highest percentage of export from India went to which of the following regions in 2013-14?
-    options:
-      - OECD countries
-      - USA
-      - SAARC
-      - Latin America
-    answer: 0
-    explanation: OECD countries is the correct answer to “The highest percentage of export from India went to which of the following regions in 2013-14”. This question is standard in competitive examination syllabi for Business Environment And International Business.
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor
@@ -457,32 +340,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 35
-    question: "Assertion (A): In 1991, government decided to allow all foreign investments to any industry without any restrictions. Reason (R): Government has enhanced the investment limit of small scale industrial units."
-    options:
-      - Both (A) and (R) are true and (R) is the correct explanation of (A)
-      - Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-      - (A) is true, but (R) is false
-      - (A) is false, but (R) is true
-    answer: 3
-    explanation: "(A) is false, but (R) is true is the correct answer to “Assertion (A): In 1991, government decided to allow all foreign investments to any industry without any restrictions. Reason (R): Government has enhanced the investment limit of small scale industrial units.”. This question is standard in competitive examination syllabi for Business Environment And International Business."
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 36
-    question: Indicate what is incorrect in respect of the Consumer Protection Act, 1986?
-    options:
-      - No complaint can be entertained in respect of a product purchased more than 2 years back
-      - A complaint against medical negligence can be filed by legal heir or representative of the deceased
-      - A complaint involving a claim of Rs. 15 lakh is to be filed before the state commission
-      - Both A and C
-    answer: 2
-    explanation: A complaint involving a claim of Rs. 15 lakh is to be filed before the state commission is the correct answer to “Indicate what is incorrect in respect of the Consumer Protection Act, 1986”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 37
     question: Which among the following is not an international economic institution?
     options:
@@ -492,19 +349,6 @@ questions:
       - IFRS
     answer: 3
     explanation: IFRS is the correct answer to “Which among the following is not an international economic institution”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 38
-    question: The Foreign Investment Promotion Board (FIPB) revamps the rules and regulations pertaining to
-    options:
-      - Accounting of foreign investment
-      - Investment by NRIs
-      - Foreign investments
-      - All of the above
-    answer: 2
-    explanation: Foreign investments is the correct answer to “The Foreign Investment Promotion Board (FIPB) revamps the rules and regulations pertaining to”. This question is standard in competitive examination syllabi for Business Environment And International Business.
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor

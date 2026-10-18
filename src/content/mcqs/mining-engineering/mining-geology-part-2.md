@@ -14,19 +14,6 @@ targetExams:
   - FPSC
   - BPSC
 questions:
-  - id: 1
-    question: Most of the Indian diamond comes from
-    options:
-      - Rakha area
-      - Panna area
-      - Hatti area
-      - Malanjkhand
-    answer: 1
-    explanation: Panna area is the correct answer to “Most of the Indian diamond comes from”. This question is standard in competitive examination syllabi for Mining Geology.
-    keyConcept: Mining Geology
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 2
     question: The mineral deposit in solid rock is called
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

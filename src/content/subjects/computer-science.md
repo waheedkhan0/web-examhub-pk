@@ -342,10 +342,10 @@ subtopics:
     questionCount: 40
   - name: Internet And Web Technology — Part 1
     slug: internet-and-web-technology-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Internet And Web Technology — Part 2
     slug: internet-and-web-technology-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Internet Of Things _Iot — Part 1
     slug: internet-of-things-iot-part-1
     questionCount: 40
@@ -642,7 +642,7 @@ subtopics:
     questionCount: 40
   - name: Tally — Part 1
     slug: tally-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Tally — Part 2
     slug: tally-part-2
     questionCount: 40

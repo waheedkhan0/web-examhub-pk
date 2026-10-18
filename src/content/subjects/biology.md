@@ -114,7 +114,7 @@ subtopics:
     questionCount: 40
   - name: Biotechnology — Part 1
     slug: biotechnology-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Biotechnology — Part 2
     slug: biotechnology-part-2
     questionCount: 40
@@ -123,7 +123,7 @@ subtopics:
     questionCount: 40
   - name: Economic Biology — Part 2
     slug: economic-biology-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Gentics And Evoloution — Part 1
     slug: gentics-and-evoloution-part-1
     questionCount: 40
@@ -138,7 +138,7 @@ subtopics:
     questionCount: 40
   - name: Human Diseases — Part 1
     slug: human-diseases-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Human Diseases — Part 2
     slug: human-diseases-part-2
     questionCount: 40
@@ -154,6 +154,9 @@ subtopics:
   - name: Plant Kindom — Part 2
     slug: plant-kindom-part-2
     questionCount: 40
+  - name: Medical Officer (BS-17) Past Papers — Part 1
+    slug: medical-officer-past-papers-part-1
+    questionCount: 15
 ---
 
 ## Biology: The Highest-Yield Section in MDCAT

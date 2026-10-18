@@ -53,19 +53,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 4
-    question: Dudhwa National Park is located in
-    options:
-      - Gujarat
-      - Uttar Pradesh
-      - Rajasthan
-      - Madhya Pradesh
-    answer: 1
-    explanation: Dudhwa National Park is located in Uttar Pradesh. The Dudhwa National Park is a national park in the Terai belt of marshy grasslands in northern Uttar Pradesh, India. It stretches over an area of 490.3 km 2 , with a buffer zone of 190 km 2 . It is part of the Dudhwa Tiger Reserve in the Kheri and Lakhimpur districts. The park is located on the Indo-Nepali border in the Lakhimpur Kheri District and has buffers of reserved forest areas on the northern and southern sides.
-    keyConcept: Environmental Science In Agricultural
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 5
     question: Hypothesis is
     options:
@@ -283,32 +270,6 @@ questions:
       - Pond
     answer: 2
     explanation: Cave habitats are most unsuitable for primary productivity. It is damp, cool, and lacks light but temperature and humidity vary widely. This is the area that has the greatest abundance and diversity of life. Cave habitats can be divided into three zones. Its relatively small amount of food, which all comes from outside of the caves and is brought in by sinking rivers and percolating water, by different animals (e.g. bats), as well as by falling in the caves.
-    keyConcept: Environmental Science In Agricultural
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 22
-    question: The gas release in Bhopal tragedy was
-    options:
-      - MIC
-      - COCl2
-      - Phosgene
-      - None of the above
-    answer: 0
-    explanation: The gas released in Bhopal tragedy was MIC. The Bhopal disaster or Bhopal gas tragedy was a chemical accident on the night of 2 nd - 3 rd December 1984 at the Union Carbide India Limited (UCIL) pesticide plant in Bhopal, Madhya Pradesh, India. In the world's worst industrial disaster, over 5,00,000 people in the small towns around the plant were exposed to the highly toxic gas methyl isocyanate (MIC).
-    keyConcept: Environmental Science In Agricultural
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 23
-    question: Forests and Pasture land in India is
-    options:
-      - 183 million
-      - 18 million
-      - 83 million
-      - 143 million
-    answer: 0
-    explanation: Forests and Pasture land in India is 183 million. In India, about 51.09% of the land is under cultivation, 21.81% under forest and 3.92% under pasture. In 2021, the total forest and tree cover in India is 80.9 million hectares, which is 24.62% of the geographical area of the country. Encouraging to note that 17 states/UTs have above 33% of the geographical area under forest cover.
     keyConcept: Environmental Science In Agricultural
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +496,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

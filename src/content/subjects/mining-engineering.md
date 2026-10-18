@@ -15,31 +15,25 @@ subtopics:
     questionCount: 40
   - name: Coal Mining — Part 2
     slug: coal-mining-part-2
-    questionCount: 40
-  - name: Coal Mining Regulation In India — Part 1
-    slug: coal-mining-regulation-in-india-part-1
-    questionCount: 40
-  - name: Coal Mining Regulation In India — Part 2
-    slug: coal-mining-regulation-in-india-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Drilling And Blasting — Part 1
     slug: drilling-and-blasting-part-1
     questionCount: 40
   - name: Drilling And Blasting — Part 2
     slug: drilling-and-blasting-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Introduction To Mining Engineering — Part 1
     slug: introduction-to-mining-engineering-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Introduction To Mining Engineering — Part 2
     slug: introduction-to-mining-engineering-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Metal Mining — Part 1
     slug: metal-mining-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Metal Mining — Part 2
     slug: metal-mining-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Mine Development And Mining Methods — Part 1
     slug: mine-development-and-mining-methods-part-1
     questionCount: 40
@@ -57,7 +51,7 @@ subtopics:
     questionCount: 40
   - name: Mine Environment — Part 2
     slug: mine-environment-part-2
-    questionCount: 10
+    questionCount: 9
   - name: Mine Legislation And General Safety — Part 1
     slug: mine-legislation-and-general-safety-part-1
     questionCount: 40
@@ -66,13 +60,13 @@ subtopics:
     questionCount: 40
   - name: Mine Rules And Regulations — Part 1
     slug: mine-rules-and-regulations-part-1
-    questionCount: 40
+    questionCount: 27
   - name: Mine Rules And Regulations — Part 2
     slug: mine-rules-and-regulations-part-2
-    questionCount: 10
+    questionCount: 7
   - name: Mine Supports And Strata Control — Part 1
     slug: mine-supports-and-strata-control-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Mine Supports And Strata Control — Part 2
     slug: mine-supports-and-strata-control-part-2
     questionCount: 40
@@ -93,7 +87,7 @@ subtopics:
     questionCount: 40
   - name: Mine Ventilation — Part 2
     slug: mine-ventilation-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Mineral Dressing In Mining — Part 1
     slug: mineral-dressing-in-mining-part-1
     questionCount: 40
@@ -102,16 +96,16 @@ subtopics:
     questionCount: 10
   - name: Mining Geology — Part 1
     slug: mining-geology-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Mining Geology — Part 2
     slug: mining-geology-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Mining Machinery — Part 1
     slug: mining-machinery-part-1
     questionCount: 40
   - name: Mining Machinery — Part 2
     slug: mining-machinery-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Mining Management — Part 1
     slug: mining-management-part-1
     questionCount: 40
@@ -120,7 +114,7 @@ subtopics:
     questionCount: 10
   - name: Miscellaneous In Mining — Part 1
     slug: miscellaneous-in-mining-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Miscellaneous In Mining — Part 2
     slug: miscellaneous-in-mining-part-2
     questionCount: 40
@@ -129,10 +123,10 @@ subtopics:
     questionCount: 40
   - name: Opencast Mining — Part 2
     slug: opencast-mining-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Rock Mechanics And Roof Supporting — Part 1
     slug: rock-mechanics-and-roof-supporting-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Rock Mechanics And Roof Supporting — Part 2
     slug: rock-mechanics-and-roof-supporting-part-2
     questionCount: 16

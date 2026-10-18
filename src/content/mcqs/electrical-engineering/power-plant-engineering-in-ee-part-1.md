@@ -81,20 +81,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 6
-    question: In India largest thermal power station is located at
-    options:
-      - Kota
-      - Sarni
-      - Chandrapur
-      - Neyveli
-      - Vindhyachal
-    answer: 4
-    explanation: "The correct answer is E: Vindhyachal . Let's break down why: * Thermal power stations generate electricity by burning fuel, usually coal, to produce steam. This steam then drives turbines connected to generators. * The size of a thermal power station is typically measured by its installed capacity (how much power it can produce at its maximum). * Vindhyachal Thermal Power Station , located in Madhya Pradesh, India, has the largest installed capacity among all thermal power plants in India. Therefore, it is the largest. * The other options are also thermal power stations, but they have smaller capacities than Vindhyachal. * Kota is in Rajasthan. * Sarni is in Madhya Pradesh. * Chandrapur is in Maharashtra. * Neyveli is in Tamil Nadu, but it's primarily known for its lignite-based power generation (a type of coal). So, remember that when we talk about the \"largest\" thermal power station in India, we mean the one with the highest electricity generating capacity, which is Vindhyachal."
-    keyConcept: Power Plant Engineering In Ee
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 7
     question: The artificial draught normally is designed to produce
     options:
@@ -264,19 +250,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 20
-    question: India's first nuclear power plant was installed at
-    options:
-      - Tarapore
-      - kota
-      - Kalpakkam
-      - none of the above
-    answer: 0
-    explanation: Tarapore is the correct answer to “India's first nuclear power plant was installed at”. This question is standard in competitive examination syllabi for Power Plant Engineering In Ee.
-    keyConcept: Power Plant Engineering In Ee
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 21
     question: Belt conveyer can be used to transport coal at inclinations upto
     options:
@@ -407,19 +380,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 31
-    question: The average ash content in Indian co als is about
-    options:
-      - 5%
-      - 10%
-      - 15%
-      - 20%
-    answer: 3
-    explanation: 20% is the correct answer to “The average ash content in Indian co als is about”. This question is standard in competitive examination syllabi for Power Plant Engineering In Ee.
-    keyConcept: Power Plant Engineering In Ee
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 32
     question: The main source of production of biogas is
     options:
@@ -538,5 +498,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

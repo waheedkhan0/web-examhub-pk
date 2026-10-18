@@ -105,19 +105,6 @@ questions:
     testedIn:
       - MDCAT
       - PPSC
-  - id: 8
-    question: Against which of the following diseases has Government of India decided to given Bivalent ORV in place of Trivalent?
-    options:
-      - Diphtheria
-      - Malaria
-      - Typhoid
-      - Polio
-    answer: 3
-    explanation: Polio is the correct answer to “Against which of the following diseases has Government of India decided to given Bivalent ORV in place of Trivalent”. This question is standard in competitive examination syllabi for Human Diseases.
-    keyConcept: Human Diseases
-    testedIn:
-      - MDCAT
-      - PPSC
   - id: 9
     question: If the lens in eye becomes opaque, the disease is called
     options:
@@ -535,5 +522,4 @@ questions:
       - MDCAT
       - PPSC
 ---
-
 

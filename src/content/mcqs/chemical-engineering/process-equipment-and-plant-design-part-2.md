@@ -339,19 +339,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 26
-    question: The testing pressure of storage tanks and pressure vessels designed as per Indian standard codes should be about __________ times.the design pressure.
-    options:
-      - 1.5 to 2
-      - 3 to 4
-      - 4 to 5
-      - ">5"
-    answer: 0
-    explanation: 1.5 to 2 is the correct answer to “The testing pressure of storage tanks and pressure vessels designed as per Indian standard codes should be about __________ times.the design pressure.”. This question is standard in competitive examination syllabi for Process Equipment And Plant Design.
-    keyConcept: Process Equipment And Plant Design
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 27
     question: Maximum size of the raschig rings used in a packed tower is about __________ of the coloumn diameter.
     options:
@@ -535,5 +522,4 @@ questions:
       - FPSC
       - PPSC
 ---
-
 

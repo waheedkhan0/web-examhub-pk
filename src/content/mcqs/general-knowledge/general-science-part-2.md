@@ -158,19 +158,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 12
-    question: Production of chlorofluorocarbons (CFC) gas which is proposed to be banned in India, is used in which of the following domestic products?
-    options:
-      - Television
-      - Refrigerator
-      - Tube light
-      - Cooking gas
-    answer: 1
-    explanation: Production of chlorofluorocarbons (CFC) gas which is proposed to be banned in India, is used in refrigerator.
-    keyConcept: General Science
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 13
     question: Balloons are filled with
     options:

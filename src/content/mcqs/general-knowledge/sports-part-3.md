@@ -273,16 +273,6 @@ questions:
     answer: 3
     explanation: 7 Sports is the correct answer to “How many Sports were in Winter Olympic 2018”. Items of this type are drawn from the Sports & Games — Part 3 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
-  - id: 27
-    question: India is the most successful team in the Asia Cup tournament having won the cup ______times?
-    options:
-      - Five
-      - Six
-      - Four
-      - Seven
-    answer: 3
-    explanation: India is the most successful team in the Asia Cup tournament having won the cup Seven times.
-    keyConcept: Sports & Games
   - id: 28
     question: The International Olympic Committee (IOC) was founded in 1894 at___________?
     options:

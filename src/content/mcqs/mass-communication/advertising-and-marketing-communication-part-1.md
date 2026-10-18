@@ -157,19 +157,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 12
-    question: Registrar of News Papers for India (RNI) started functioning in
-    options:
-      - October, 1954
-      - August, 1960
-      - July, 1956
-      - September, 1956
-    answer: 1
-    explanation: August, 1960 is the correct answer to “Registrar of News Papers for India (RNI) started functioning in”. This question is standard in competitive examination syllabi for Advertising And Marketing Communication.
-    keyConcept: Advertising And Marketing Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 13
     question: Advertising for . . . . . . . . is not allowed.
     options:
@@ -309,19 +296,6 @@ questions:
       - a-3, b-1, c-4, d-2
     answer: 3
     explanation: a-3, b-1, c-4, d-2 is the correct answer to “Match the following function of an advertising agency with their departments. List-I (Functions) List-II (Departments) a. Preparing an attractive copy for its clients and customers 1. Art Department b. Preparing layouts and visuals for the clients 2. Research Department c. Producing final advertisements for the markets 3. Copy Department d. Carrying out research and applying in different ways 4. Production Department”. This question is standard in competitive examination syllabi for Advertising And Marketing Communication.
-    keyConcept: Advertising And Marketing Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 24
-    question: When was the Film & Television Institute of india set-up in Pune?
-    options:
-      - "1960"
-      - "1961"
-      - "1962"
-      - "1963"
-    answer: 1
-    explanation: 1961 is the correct answer to “When was the Film & Television Institute of india set-up in Pune”. This question is standard in competitive examination syllabi for Advertising And Marketing Communication.
     keyConcept: Advertising And Marketing Communication
     testedIn:
       - CSS
@@ -482,19 +456,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 37
-    question: With which film ended the silent era of Indian cinema?
-    options:
-      - Jhansi Ki Rani
-      - Pather Panchali
-      - Alam Ara
-      - Kisan Kanya
-    answer: 2
-    explanation: Alam Ara is the correct answer to “With which film ended the silent era of Indian cinema”. This question is standard in competitive examination syllabi for Advertising And Marketing Communication.
-    keyConcept: Advertising And Marketing Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 38
     question: Match the following descriptions of advertising campaigns with relevant terms. List-I (Descriptions) List-II (Terms) a. Finding out product demand, competitors, etc. 1. Research b. Knowledge of prospect buyers 2. Know the target audience c. Evaluation of expenses on factors like media presentations, paper work etc. 3. Setting the budget d. Planning of colours, graphics etc to be used in advertisement 4. Deciding a proper theme
     options:
@@ -535,5 +496,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

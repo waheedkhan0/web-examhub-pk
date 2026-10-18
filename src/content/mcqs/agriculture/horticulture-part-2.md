@@ -27,19 +27,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 2
-    question: All India Coordinated Vegetable Improvement Project (AICVIP) was started in . . . . . . . . and under this, India is divided into 8 operational zones.
-    options:
-      - 1951 - 52
-      - 1970 - 71
-      - 1968 - 69
-      - 1976 - 77
-    answer: 1
-    explanation: All India Coordinated Vegetable Improvement Project (AICVIP) was started in 1970 - 71 and under this, India is divided into 8 operational zones. The headquarter of the project was at the Division of vegetable Science, ICAR, New Delhi. It aims to provide a national network for multi-location testing of vegetable technologies developed by various research institutes and state agricultural universities.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 3
     question: First variety of Hybrid Teas (H. T.) class of rose is
     options:
@@ -75,19 +62,6 @@ questions:
       - IAA
     answer: 2
     explanation: Granulation can be reduced by the spraying of Lead arsenate in dilution of 200 - 500 ppm. Granulation is drying up, becoming hard with greyish colour and enlargement of the juice vesicles with an increase in pectin, lignin, etc. resulting in a reduction of the juice content. It is a common physiological disorder of postharvest citrus fruit. It results in the rapid deterioration of sugars and organic acids of fruit, disordered juice sacs become hard and even lose their edible value. Thus, granulation was emerging as a heavy threat to the citrus industry development.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 6
-    question: Tip-top variety related to
-    options:
-      - Chilli
-      - Tomato
-      - Brinjal
-      - Cabbage
-    answer: 1
-    explanation: Tip-top variety is related to Tomato . Tip Top is shaped like a spinning top. They are medium-sized plum-shaped tomatoes and are pretty much determined with limited production after the main flush of fruit. It takes 70 - 80 days to mature. The fruits are tasty and not dry. The walls are pulpy and great for salads, salsas and canning.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -144,19 +118,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 11
-    question: Pusa Srijan is a rootstock of
-    options:
-      - Mango
-      - Lemon
-      - Apple
-      - Guava
-    answer: 3
-    explanation: Pusa Srijan is a rootstock of Guava released in 2004. It is a potentially dwarf rootstock for guava and has been recommended for the Allahabad Safeda variety for establishing a high-density orchard. A complete set of trisomics was identified in the progeny of triploid guava for the first time in fruit crops. It has helped in the development of trisomics and tetrasomics in guava. It is proven to have filed tolerance to wilt.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 12
     question: Almost gynoecious variety of coconut is
     options:
@@ -192,32 +153,6 @@ questions:
       - Conditioning
     answer: 1
     explanation: A rapid removal of field heat from harvested produce is called Pre-cooling . It is done to slow down the metabolism and reduce deterioration before transport or storage. Because temperature is one of the most important factors that affect the post-harvest life and quality of fruits and vegetables. It should be removed from commodities as quickly as possible after harvest & maintained at its lowest safe temperature.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 15
-    question: Which one of the following is not a variety of mango
-    options:
-      - Arka Aruna
-      - Arka Puneet
-      - Arka Anmol
-      - Arka Hans
-    answer: 3
-    explanation: Arka Aruna, Arka Puneet and Arka Anmol are varieties of mango whereas Arka Hans is not a variety of mango, it is a hybrid variety of grapes developed by the cross between Bangalore Blue and Anab-e-Shahi. Arka Aruna is a hybrid between Banganapalli and Alphonso. it is dwarf, regular bearing and precocious. Arka Puneet is the progeny from the cross Alphonso and Banganapalli. It is a mid-season variety. Arka Anmol is derived from the parentage Alphonso and Janardhan pasand. It is a semi-vigorous type, regular bearing.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 16
-    question: Minimum content of juice in a RTS beverage as per FPO recommendations is
-    options:
-      - 5%
-      - 10%
-      - 15%
-      - 20%
-    answer: 1
-    explanation: The minimum content of juice in an RTS beverage as per FPO recommendations is 10%. RTS is Ready to Serve drink and this is a type of fruit beverage that contains at least 10% fruit juice (for lime drink 5% juice) and not less than 10% total soluble solids. The acidity in these drinks shall not exceed 3.5% citric acid. The RTS beverage was prepared by using freshly prepared juices, water, and sugar as per FPO specifications. FPO is a farmer produce organization to ensure better income for the producers through an organization of their own.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -326,32 +261,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 25
-    question: Bajrang and Swarna are the cultivars of
-    options:
-      - Cabbage
-      - Cauliflower
-      - Chilli
-      - Kale
-    answer: 0
-    explanation: "Bajrang and Swarna are the cultivars of Cabbage. Bajrang: heads are dark green, smooth, highly compact, outer leaves are upright, mature in 65 days but can stand on the field for 45 days after maturity, and tolerate high temperatures up to 36 degrees Celcius. It is resistant to Fusarium wilt. Swarna: the head is round, head weight 3 kg, strong smooth outer leaves, matures in 110 days."
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 26
-    question: Tag colour of foundation seed is
-    options:
-      - Golden yellow
-      - Azure blue
-      - White
-      - Opal green
-    answer: 2
-    explanation: Tag colour of the foundation seed is White, which means a white colour certificate is issued for the foundation seed by seed certification agencies. Foundation seed stocks grew by or under the supervision of a public agency for use in the production of registered and certified seeds. And the tag is the assurance that the seeds were analyzed and went through laboratory procedures for certification.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 27
     question: Edible portion in knol-kohl is
     options:
@@ -365,19 +274,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 28
-    question: AGMARK (grading and marketing) act was passed in . . . . . . . . year.
-    options:
-      - "1930"
-      - "1935"
-      - "1937"
-      - "1947"
-    answer: 2
-    explanation: AGMARK (Grading and Marketing) act was passed in the 1937 year. AGMARK is a certification mark employed on agricultural products in India, assuring that they conform to a set of standards approved by the Directorate of Marketing and Inspection. The term AGMARK was coined by joining the words 'Ag' for agriculture and 'mark' for a certification mark. The head office is situated in Faridabad, Haryana. The present AGMARK standards cover quality guidelines for 224 different commodities spanning a variety of pulses, cereals, essential oils, vegetable oils, fruits and vegetables and semi-processed products like vermicelli.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 29
     question: Granulation is a physiological disorder of
     options:
@@ -387,19 +283,6 @@ questions:
       - Loquat
     answer: 1
     explanation: Granulation is drying up, becoming hard with greyish colour and enlargement of the juice vesicles with an increase in pectin, lignin, etc. resulting in a reduction of the juice content. It is a common physiological disorder of postharvest citrus fruit . It results in the rapid deterioration of sugars and organic acids of fruit, disordered juice sacs become hard and even lose their edible value. Thus, granulation was emerging as a heavy threat to the citrus industry development.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 30
-    question: Which of the following fruits are indigenous to India
-    options:
-      - Mango, Banana
-      - Bael, Jack fruit
-      - Aonla, Phalsa
-      - All of these
-    answer: 3
-    explanation: All the given options are Mango, Banana, Bael, Jackfruit, Aonla, Phalsa, etc. are indigenous fruits to India. These fruits are locally produced, socially and culturally accepted as local foods and eaten by previous generations or introduced for a very long time. Indigenous foods are plant and animal-based foods that are naturally existing and produced in specific locations and consumed as part of traditional diets.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -426,32 +309,6 @@ questions:
       - None of these
     answer: 2
     explanation: The upper stem of a banana is called Pseudostem . The pseudostem is the part of the banana plant that looks like a trunk. It is formed by tightly packed overlapping leaf sheaths. The pseudostem is very fleshy and consists mostly of water, it is quite sturdy and can support a bunch that weighs 50 kg or more.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 33
-    question: French Breakfast, Pusa Chetki, Arka Nishant and Bombay Red are the varieties of
-    options:
-      - Carrot
-      - Radish
-      - Beet root
-      - Turnip
-    answer: 1
-    explanation: French Breakfast, Pusa Chetki, Arka Nishant and Bombay Red are the varieties of Radish . The radish is an edible root vegetable of the family Brassicaceae that was domesticated in Asia. As these are easy to grow and quick to harvest, radishes are often planted by novice gardeners. Pusa Chetki is developed by IARI, New Delhi through selection from the germplasm of Denmark.
-    keyConcept: Horticulture
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 34
-    question: Arka Pink star is a variety of
-    options:
-      - Chrysanthemum
-      - Gladiolus
-      - China aster
-      - Rose
-    answer: 0
-    explanation: Arka Pink star is a variety of Chrysanthemum . It is the flowering plant of the genus chrysanthemum in the family Asteraceae. Flowers are semi-double with pink colour, yield 135.26 flowers/plant. It is a dwarf with an early flowering character.
     keyConcept: Horticulture
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +392,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

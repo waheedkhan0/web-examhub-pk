@@ -131,19 +131,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 10
-    question: Which of the following is/are included in 'Digital India' program?
-    options:
-      - E-governance
-      - Wi-Fi in all universities
-      - Broadband connectivity at village level
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Which of the following is/are included in 'Digital India' program”. This question is standard in competitive examination syllabi for Media Management And Production.
-    keyConcept: Media Management And Production
-    testedIn:
-      - CSS
-      - PMS
   - id: 11
     question: Arrange the following principles of media management in correct chronological order. 1. Maintenance of media plan 2. All media involvement 3. Innovation 4. Advertising effective
     options:
@@ -508,19 +495,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 39
-    question: The Advertising Agencies Association of India was founded in
-    options:
-      - "1945"
-      - "1940"
-      - "1950"
-      - "1954"
-    answer: 0
-    explanation: 1945 is the correct answer to “The Advertising Agencies Association of India was founded in”. This question is standard in competitive examination syllabi for Media Management And Production.
-    keyConcept: Media Management And Production
-    testedIn:
-      - CSS
-      - PMS
   - id: 40
     question: Which of these is not an example of an organisation's general environment?
     options:
@@ -535,5 +509,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

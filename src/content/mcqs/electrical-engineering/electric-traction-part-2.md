@@ -133,19 +133,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 10
-    question: Which of the following state capitals (in India) is not on broad gauge track?
-    options:
-      - Lucknow
-      - Bhopal
-      - Jaipur
-      - Chandigarh
-    answer: 2
-    explanation: Jaipur is the correct answer to “Which of the following state capitals (in India) is not on broad gauge track”. This question is standard in competitive examination syllabi for Electric Traction.
-    keyConcept: Electric Traction
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 11
     question: The air resistance to the movement of the train is proportional to
     options:
@@ -380,19 +367,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 29
-    question: _______ was the first city in India to adopt electric traction.
-    options:
-      - Delhi
-      - Madras (Chennai)
-      - Calcutta (kolkata)
-      - Bombay (Mumbai)
-    answer: 3
-    explanation: Bombay (Mumbai) is the correct answer to “_______ was the first city in India to adopt electric traction.”. This question is standard in competitive examination syllabi for Electric Traction.
-    keyConcept: Electric Traction
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 30
     question: The rate of acceleration on sub-urban or urban services is restricted by the consideration of
     options:
@@ -402,19 +376,6 @@ questions:
       - Track size
     answer: 2
     explanation: Passenger Discomfort is the correct answer to “The rate of acceleration on sub-urban or urban services is restricted by the consideration of”. This question is standard in competitive examination syllabi for Electric Traction.
-    keyConcept: Electric Traction
-    testedIn:
-      - WAPDA
-      - NTDC
-  - id: 31
-    question: In India, electrification of railway track was done for the first time in which of the following years?
-    options:
-      - 1820 - 1825
-      - 1880 - 1885
-      - 1925 - 1932
-      - 1947 - 1954
-    answer: 2
-    explanation: 1925 - 1932 is the correct answer to “In India, electrification of railway track was done for the first time in which of the following years”. This question is standard in competitive examination syllabi for Electric Traction.
     keyConcept: Electric Traction
     testedIn:
       - WAPDA
@@ -524,5 +485,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

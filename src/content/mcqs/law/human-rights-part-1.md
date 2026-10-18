@@ -41,19 +41,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 3
-    question: In which case Supreme Court held that Parliament has no power to amend the Fundamental Rights?
-    options:
-      - Golak Nath Case
-      - Sajjan Singh Case
-      - Shankari Prasad Case
-      - None of these
-    answer: 0
-    explanation: Golak Nath Case is the correct answer to “In which case Supreme Court held that Parliament has no power to amend the Fundamental Rights”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 4
     question: The content of the principle of respect for human rights in international law may be expressed in which of the following propositions as expounded by G. Tunkin in Theory of International Law?
     options:
@@ -76,19 +63,6 @@ questions:
       - "1998"
     answer: 2
     explanation: 2006 is the correct answer to “The United Nations Commission on Human Rights was replaced with the United Nations Human Rights Council for the enforcement of international human rights law in the year:”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 6
-    question: "The Protection of Human Rights Act came into force on:"
-    options:
-      - 10th July, 1993
-      - 29th September, 1993
-      - 12nd September, 1993
-      - 10th October, 1993
-    answer: 1
-    explanation: 29th September, 1993 is the correct answer to “The Protection of Human Rights Act came into force on:”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -171,19 +145,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 13
-    question: "Under which Sections of the Protection of Human Rights Act, 1993,the functions and powers of National Human Resource Commission (NHRC) are given:"
-    options:
-      - 12, 14
-      - 11, 12 and 13
-      - 12, 13
-      - 11, 12
-    answer: 2
-    explanation: 12, 13 is the correct answer to “Under which Sections of the Protection of Human Rights Act, 1993,the functions and powers of National Human Resource Commission (NHRC) are given:”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 14
     question: "Human Rights Treaty Bodies:"
     options:
@@ -197,19 +158,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 15
-    question: The case, State of Arunachal Pradesh V. Khudiram Chakma, 1994 is concerned with
-    options:
-      - Minorities
-      - SCs and STs
-      - Torture
-      - Refugees
-    answer: 3
-    explanation: Refugees is the correct answer to “The case, State of Arunachal Pradesh V. Khudiram Chakma, 1994 is concerned with”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 16
     question: Universal Declaration of Human Rights was adopted in the year
     options:
@@ -219,19 +167,6 @@ questions:
       - "1950"
     answer: 0
     explanation: 1948 is the correct answer to “Universal Declaration of Human Rights was adopted in the year”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 17
-    question: Arrange in sequence the adoption of following Acts in India 1. The protection of women from Domestic Violence Act. 2. The Dowry Prohibition Act. 3. The Child Labour (Prohibition and Regulation) Act 4. Protection of Civil Rights Act
-    options:
-      - 2, 4, 3, 1
-      - 4, 2, 1, 3
-      - 1, 2, 3, 4
-      - 3, 4, 2, 1
-    answer: 0
-    explanation: 2, 4, 3, 1 is the correct answer to “Arrange in sequence the adoption of following Acts in India 1. The protection of women from Domestic Violence Act. 2. The Dowry Prohibition Act. 3. The Child Labour (Prohibition and Regulation) Act 4. Protection of Civil Rights Act”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -258,32 +193,6 @@ questions:
       - Morgan v. Aylen.
     answer: 1
     explanation: Bernina Mills v. Armstrong is the correct answer to “The doctrine of Identification was expressly over ruled in the case by the House of Lords in”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 20
-    question: "Match List-I with List-II and give the correct answer: List I (Provisions of Protection of Human Rights Act, 1993) List II (Relevant Sections) a. Removal of a Member of the Commission 1. Section 5 b. Functions of the Commission 2. Section 4 c. Procedure with respect to Armed Forces 3. Section 19 d. Appointment of Chairperson and other 4. Section 12 Members"
-    options:
-      - a-2, b-4, c-1, d-3
-      - a-1, b-2, c-3, d-4
-      - a-3, b-1, c-2, d-4
-      - a-4, b-3, c-1, d-2
-    answer: 0
-    explanation: "a-2, b-4, c-1, d-3 is the correct answer to “Match List-I with List-II and give the correct answer: List I (Provisions of Protection of Human Rights Act, 1993) List II (Relevant Sections) a. Removal of a Member of the Commission 1. Section 5 b. Functions of the Commission 2. Section 4 c. Procedure with respect to Armed Forces 3. Section 19 d. Appointment of Chairperson and other 4. Section 12 Members”. This question is standard in competitive examination syllabi for Human Rights."
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 21
-    question: President can remove the chairman of Human Rights Commission for the reasons provided under . . . . . . . . of Protection of Human Right (Amendment) Act 2006.
-    options:
-      - Section 5(3)
-      - Section 6(3)
-      - Section 12
-      - Section 18
-    answer: 0
-    explanation: Section 5(3) is the correct answer to “President can remove the chairman of Human Rights Commission for the reasons provided under . . . . . . . . of Protection of Human Right (Amendment) Act 2006.”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -336,19 +245,6 @@ questions:
       - Poverty as reason of being outside the country
     answer: 3
     explanation: Poverty as reason of being outside the country is the correct answer to “Which one of the following statements is not correct about the Refugees”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 26
-    question: The Directive Principles of State Policy have been given in the Indian Constitution
-    options:
-      - Part - III
-      - Part - II
-      - Part - XIII
-      - Part - IV
-    answer: 3
-    explanation: Part - IV is the correct answer to “The Directive Principles of State Policy have been given in the Indian Constitution”. This question is standard in competitive examination syllabi for Human Rights.
     keyConcept: Human Rights
     testedIn:
       - Civil Judge
@@ -431,19 +327,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 33
-    question: The United Nations convention on the right of persons with disabilities came into force in
-    options:
-      - "2007"
-      - "2008"
-      - "2009"
-      - "2010"
-    answer: 2
-    explanation: 2009 is the correct answer to “The United Nations convention on the right of persons with disabilities came into force in”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 34
     question: Which of the following cases determined by the Human Rights Committee does not deal with the protection of minority rights under Article 27 of the International Convenant on Civil and Political Rights (ICCPR)?
     options:
@@ -453,45 +336,6 @@ questions:
       - The Lubicon Lake Band case
     answer: 2
     explanation: The Sawhoyamaxa Indigenous Community case is the correct answer to “Which of the following cases determined by the Human Rights Committee does not deal with the protection of minority rights under Article 27 of the International Convenant on Civil and Political Rights (ICCPR)”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 35
-    question: Which of the following statements is true about the Protection of Human Rights Act, 1993?
-    options:
-      - The National Human Resource Commission (NHRC) consists of 5 appointed members
-      - The Headquarter of the National Human Resource Commission (NHRC) will beat Mumbai
-      - Members of National Human Resource Commission (NHRC) are appointed by the Chief Justice of India
-      - The commission submits its annual reports to the President of India
-    answer: 0
-    explanation: The National Human Resource Commission (NHRC) consists of 5 appointed members is the correct answer to “Which of the following statements is true about the Protection of Human Rights Act, 1993”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 36
-    question: Who cannot be appointed as member of the National Human Rights Commission?
-    options:
-      - District Judge
-      - Chief Justice of any High Court
-      - Eminent Scholar having expertise in the field of human rights
-      - Judge of the Supreme Court of India
-    answer: 0
-    explanation: District Judge is the correct answer to “Who cannot be appointed as member of the National Human Rights Commission”. This question is standard in competitive examination syllabi for Human Rights.
-    keyConcept: Human Rights
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 37
-    question: Which one of the following pairs is correctly matched with regard to National Human Rights Commission of India, under the Protection of Human Rights Act, 1993
-    options:
-      - "Section 3: Appointment of chairperson and other members"
-      - "Section 4: Removal of a member of the commission"
-      - "Section 5: Member to act as chairperson in certain times"
-      - "Section 6: Terms of office of members"
-    answer: 3
-    explanation: "Section 6: Terms of office of members is the correct answer to “Which one of the following pairs is correctly matched with regard to National Human Rights Commission of India, under the Protection of Human Rights Act, 1993”. This question is standard in competitive examination syllabi for Human Rights."
     keyConcept: Human Rights
     testedIn:
       - Civil Judge

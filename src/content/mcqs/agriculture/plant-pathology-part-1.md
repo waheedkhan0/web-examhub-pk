@@ -157,19 +157,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 12
-    question: The share of urea in the N production pattern is
-    options:
-      - 100%
-      - 85%
-      - 50%
-      - 2%
-    answer: 1
-    explanation: The share of urea in the N production pattern is 85%. While India uses many types of fertilizers, urea accounts for most of the consumption of N and DAP for most of that of P 2 O 5 . Urea accounts for 85 percent of the total consumption of straight N fertilizers.
-    keyConcept: Plant Pathology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 13
     question: The formula for chlorophyll a is
     options:
@@ -443,19 +430,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 34
-    question: Who is regarded as father of Indian Phytopathology?
-    options:
-      - Whattman
-      - Stackman
-      - Butler
-      - Anton de Bary
-    answer: 2
-    explanation: Sir Edwin John Butler is regarded as the father of Indian Phytopathology. Plant pathology or phytopathology is the scientific study of diseases in plants caused by pathogens and environmental conditions. He was an Irish mycologist and plant pathologist. He became the Imperial Mycologist in India and later the first director of the Imperial Bureau of Mycology in England. He has been called the Father of Mycology and Plant Pathology in India.
-    keyConcept: Plant Pathology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 35
     question: Tundu disease (yellow ear rot) of wheat caused by Clavibacter tritici is usually associated with
     options:
@@ -535,5 +509,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

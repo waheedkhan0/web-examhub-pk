@@ -27,7 +27,7 @@ subtopics:
     questionCount: 40
   - name: Health Education And Community Pharmacy — Part 2
     slug: health-education-and-community-pharmacy-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Hospital And Clinical Pharmacy — Part 1
     slug: hospital-and-clinical-pharmacy-part-1
     questionCount: 40
@@ -46,12 +46,6 @@ subtopics:
   - name: Pharmaceutical Chemistry — Part 2
     slug: pharmaceutical-chemistry-part-2
     questionCount: 40
-  - name: Pharmaceutical Jurisprudence — Part 1
-    slug: pharmaceutical-jurisprudence-part-1
-    questionCount: 40
-  - name: Pharmaceutical Jurisprudence — Part 2
-    slug: pharmaceutical-jurisprudence-part-2
-    questionCount: 40
   - name: Pharmaceutics — Part 1
     slug: pharmaceutics-part-1
     questionCount: 40
@@ -63,7 +57,7 @@ subtopics:
     questionCount: 40
   - name: Pharmacognosy — Part 2
     slug: pharmacognosy-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Pharmacology And Toxicology — Part 1
     slug: pharmacology-and-toxicology-part-1
     questionCount: 40

@@ -53,19 +53,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 4
-    question: Alimak raise climber introduced in India first time in the year . . . . . . . .
-    options:
-      - "1970"
-      - "1971"
-      - "1972"
-      - "1973"
-    answer: 2
-    explanation: 1972 is the correct answer to “Alimak raise climber introduced in India first time in the year . . . . . . . .”. This question is standard in competitive examination syllabi for Metal Mining.
-    keyConcept: Metal Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 5
     question: The method employed, if the ore body is strong steeply dipping with strong host rock.
     options:
@@ -365,19 +352,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 28
-    question: In India Alimak Raise climber introduced first time in which mine.
-    options:
-      - Jaduguda uranium mine
-      - Mosabani copper mine
-      - Lead and Zinc mines jawar
-      - None
-    answer: 0
-    explanation: Jaduguda uranium mine is the correct answer to “In India Alimak Raise climber introduced first time in which mine.”. This question is standard in competitive examination syllabi for Metal Mining.
-    keyConcept: Metal Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 29
     question: The technique of VRM is different from long hole mining from the point of view off
     options:
@@ -535,5 +509,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

@@ -406,19 +406,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 31
-    question: In which of the following cases, the supreme court held that the hajj subsidy is constitutionally valid
-    options:
-      - Daniel lathifi v. Union of India
-      - Prafull Goradia v. Union of India
-      - Central Hajj Committee v. Union of India
-      - None of the above
-    answer: 1
-    explanation: Prafull Goradia v. Union of India is the correct answer to “In which of the following cases, the supreme court held that the hajj subsidy is constitutionally valid”. This question is standard in competitive examination syllabi for Muslim Law.
-    keyConcept: Muslim Law
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 32
     question: When a Muslim mother loses her right of Hizanat (custody)?
     options:
@@ -441,19 +428,6 @@ questions:
       - Iddat of three courses
     answer: 0
     explanation: No iddat is the correct answer to “Where the marriage has not been consummated and is dissolved by divorce, there is”. This question is standard in competitive examination syllabi for Muslim Law.
-    keyConcept: Muslim Law
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 34
-    question: In which of the following cases the Supreme Court has held that marriages of all persons who are citizen of India belonging to various religions should be made compulsorily registrable in their respective States?
-    options:
-      - M. Jaimoon v. M. Amman Ullah Khan and Others
-      - Khursid Bibi v. Mohd. Amin
-      - Seema v. Ashwini Kumar
-      - Shahnaj Bano v. Parvej Ahmad Khan
-    answer: 2
-    explanation: Seema v. Ashwini Kumar is the correct answer to “In which of the following cases the Supreme Court has held that marriages of all persons who are citizen of India belonging to various religions should be made compulsorily registrable in their respective States”. This question is standard in competitive examination syllabi for Muslim Law.
     keyConcept: Muslim Law
     testedIn:
       - Civil Judge

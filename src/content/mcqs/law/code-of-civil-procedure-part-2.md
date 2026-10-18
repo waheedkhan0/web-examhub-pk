@@ -47,7 +47,7 @@ questions:
       - Can be instituted in the court within whose local jurisdiction the wrong has been committed
       - Can be instituted in the court within whose local jurisdiction the defendant resides
       - Either A or B at the opinion of the plaintiff
-      - Can be instituted anywhere in India
+      - Can be instituted anywhere in Pakistan
     answer: 2
     explanation: Either A or B at the opinion of the plaintiff is the correct answer to “A suit for compensation for wrong done to the person or to movable property, where the wrong was done within the local jurisdiction of one court and the defendant resides within the local limits of another court-”. This question is standard in competitive examination syllabi for Code Of Civil Procedure.
     keyConcept: Code Of Civil Procedure
@@ -239,7 +239,7 @@ questions:
   - id: 18
     question: "Under Order XXXII, Rule 9 of the Code of Civil Procedure, a next friend of a minor can be removed:"
     options:
-      - If he ceases to reside in India during the pendency of the suit
+      - If he ceases to reside in Pakistan during the pendency of the suit
       - Where has interest becomes adverse to that of the minor
       - Where he does not do his duty
       - For any of the above reasons
@@ -514,7 +514,7 @@ questions:
     question: Under Section 13 of Code of Civil Procedure which of the following judgments shall not be conclusive?
     options:
       - Judgment not on merit
-      - Judgment founded on breach of Indian law
+      - Judgment founded on breach of Pakistani law
       - Judgment against International law
       - All of the above
     answer: 3

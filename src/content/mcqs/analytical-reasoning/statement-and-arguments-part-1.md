@@ -31,7 +31,7 @@ questions:
       - NTS
       - CSS
   - id: 2
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should there be a complete ban on manufacture of fire-crackers in India ? Arguments : I. No, this will render thousands of workers jobless. II. Yes, the fire-cracker manufacture use child labour to a large extent."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should there be a complete ban on manufacture of fire-crackers in Pakistan ? Arguments : I. No, this will render thousands of workers jobless. II. Yes, the fire-cracker manufacture use child labour to a large extent."
     options:
       - Only argument I is strong.
       - Only Argument II is strong.
@@ -67,7 +67,7 @@ questions:
       - Neither I nor II is strong.
       - Both I and II are strong.
     answer: 0
-    explanation: Only I follows. Because in India all people are equal. If the retirement age for academicians is increased, this will be unfair to non-academicians. As far experiences is concerned, then it is for all people in their fields. Therefore, in such circumstances why only for the academicians retirement age is increased.
+    explanation: Only I follows. Because in Pakistan all people are equal. If the retirement age for academicians is increased, this will be unfair to non-academicians. As far experiences is concerned, then it is for all people in their fields. Therefore, in such circumstances why only for the academicians retirement age is increased.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
@@ -143,7 +143,7 @@ questions:
       - NTS
       - CSS
   - id: 10
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India encourage exports, when most things are insufficient for internal use itself? Arguments : I. Yes. We have to earn foreign exchange to pay for our imports. II. No. Even selective encouragement would lead to shortages."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan encourage exports, when most things are insufficient for internal use itself? Arguments : I. Yes. We have to earn foreign exchange to pay for our imports. II. No. Even selective encouragement would lead to shortages."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -151,13 +151,13 @@ questions:
       - Neither I nor II is strong
       - Both I and II are strong
     answer: 0
-    explanation: Clearly, India can export only the surplus and that which can be saved after fulfilling its own needs, to pay for its imports. Encouragement to export cannot lead to shortages as it shall provide the resources for imports. So, only argument I holds.
+    explanation: Clearly, Pakistan can export only the surplus and that which can be saved after fulfilling its own needs, to pay for its imports. Encouragement to export cannot lead to shortages as it shall provide the resources for imports. So, only argument I holds.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
       - CSS
   - id: 11
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India make efforts to harness solar energy to fulfil its energy requirements? Arguments : I. Yes, Most of the energy sources used at present is exhaustible. II. No. Harnessing solar energy requires a lot of capital, which India lacks in."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan make efforts to harness solar energy to fulfil its energy requirements? Arguments : I. Yes, Most of the energy sources used at present is exhaustible. II. No. Harnessing solar energy requires a lot of capital, which Pakistan lacks in."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -166,20 +166,6 @@ questions:
       - Both I and II are strong
     answer: 0
     explanation: Clearly, harnessing solar energy will be helpful as it is an inexhaustible resource unlike other resources. So, argument I holds. But argument II is vague as solar energy is the cheapest form of energy.
-    keyConcept: Statement And Arguments
-    testedIn:
-      - NTS
-      - CSS
-  - id: 12
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India give away Kashmir to Pakistan? Arguments : I. No. Kashmir is a beautiful state. It earns a lot of foreign exchange for India. II. Yes. This would help settle conflicts."
-    options:
-      - Only argument I is strong
-      - Only argument II is strong
-      - Either I or II is strong
-      - Neither I nor II is strong
-      - Both I and II are strong
-    answer: 0
-    explanation: Clearly, India cannot part with a state that is a major foreign exchange earner to it. So, argument I holds strong. Further, giving away a piece of land unconditionally and unreasonably is no solution to settle disputes. So, argument II is vague.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
@@ -213,7 +199,7 @@ questions:
       - NTS
       - CSS
   - id: 15
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Indian scientists working abroad be called back to India? Arguments : I. Yes. They must serve the motherland first and forget about discoveries, honours, facilities and all. II. No. We have enough talent; let them stay where they want."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistani scientists working abroad be called back to Pakistan? Arguments : I. Yes. They must serve the motherland first and forget about discoveries, honours, facilities and all. II. No. We have enough talent; let them stay where they want."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -255,7 +241,7 @@ questions:
       - NTS
       - CSS
   - id: 18
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Does India need so many plans for development? Arguments : I. Yes. Nothing can be achieved without proper planning. II. No. Too much time, money and energy is wasted on planning."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Does Pakistan need so many plans for development? Arguments : I. Yes. Nothing can be achieved without proper planning. II. No. Too much time, money and energy is wasted on planning."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -283,7 +269,7 @@ questions:
       - NTS
       - CSS
   - id: 20
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should colleges be given the status of a university in India? Arguments : I. Yes. Colleges are in a better position to assess the student's performance and therefore the degrees will be more valid. II. No. It is Utopian to think that there will not be nepotism and corruption in awarding degrees by colleges."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should colleges be given the status of a university in Pakistan? Arguments : I. Yes. Colleges are in a better position to assess the student's performance and therefore the degrees will be more valid. II. No. It is Utopian to think that there will not be nepotism and corruption in awarding degrees by colleges."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -305,7 +291,7 @@ questions:
       - Neither I nor II is strong
       - Both I and II are strong
     answer: 1
-    explanation: The Constitution of India has laid down the doctrine of 'equality before the law'. So, argument II holds strong. Also, we cannot judge the intentions of a person behind committing a crime, So, argument I is vague.
+    explanation: The Constitution of Pakistan has laid down the doctrine of 'equality before the law'. So, argument II holds strong. Also, we cannot judge the intentions of a person behind committing a crime, So, argument I is vague.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
@@ -325,7 +311,7 @@ questions:
       - NTS
       - CSS
   - id: 23
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should the railways in India be privatized in a phased manner like other public sector enterprises? Arguments : I. Yes. This is the only way to bring in competitiveness and provide better services to the public. II. No. This will pose a threat to the national security of our country as multinationals will enter into the fray."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should the railways in Pakistan be privatized in a phased manner like other public sector enterprises? Arguments : I. Yes. This is the only way to bring in competitiveness and provide better services to the public. II. No. This will pose a threat to the national security of our country as multinationals will enter into the fray."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -353,7 +339,7 @@ questions:
       - NTS
       - CSS
   - id: 25
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should foreign films be banned in India? Arguments : I. Yes. They depict an alien culture which adversely affects our values. II. No. Foreign films are of a high artistic standard."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should foreign films be banned in Pakistan? Arguments : I. Yes. They depict an alien culture which adversely affects our values. II. No. Foreign films are of a high artistic standard."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -409,7 +395,7 @@ questions:
       - NTS
       - CSS
   - id: 29
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should new universities be established in India? Arguments : I. No. We have still not achieved the target for literacy. II. No. We will have to face the problem of unemployed but highly qualified people."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should new universities be established in Pakistan? Arguments : I. No. We have still not achieved the target for literacy. II. No. We will have to face the problem of unemployed but highly qualified people."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -521,7 +507,7 @@ questions:
       - NTS
       - CSS
   - id: 37
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India become a permanent member of UN's Security Council? Arguments : I. Yes. India has emerged as a country which loves peace and amity. II. No. Let us first solve problems of our own people like poverty, malnutrition."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan become a permanent member of UN's Security Council? Arguments : I. Yes. Pakistan has emerged as a country which loves peace and amity. II. No. Let us first solve problems of our own people like poverty, malnutrition."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -529,7 +515,7 @@ questions:
       - Neither I nor II is strong
       - Both I and II are strong
     answer: 0
-    explanation: A peace-loving nation like India can well join an international forum which seeks to bring different nations on friendly terms with each other. So, argument I holds strong. Argument II highlights a different aspect. The internal problems of a nation should not debar it from strengthening international ties. So, argument II is vague.
+    explanation: A peace-loving nation like Pakistan can well join an international forum which seeks to bring different nations on friendly terms with each other. So, argument I holds strong. Argument II highlights a different aspect. The internal problems of a nation should not debar it from strengthening international ties. So, argument II is vague.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
@@ -563,7 +549,7 @@ questions:
       - NTS
       - CSS
   - id: 40
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should family planning be made compulsory in India? Arguments : I. Yes. Looking to the miserable conditions in India, there is no other go. II. No. In India there are people of various religions and family planning is against the tenets of some of the religions."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should family planning be made compulsory in Pakistan? Arguments : I. Yes. Looking to the miserable conditions in Pakistan, there is no other go. II. No. In Pakistan there are people of various religions and family planning is against the tenets of some of the religions."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -571,11 +557,10 @@ questions:
       - Neither I nor II is strong
       - Both I and II are strong
     answer: 4
-    explanation: Family planning is an essential step to curb population growth. So, argument I holds strong. Also, family planning being against the tenets of some of the Indian religions, it is not necessary to make it compulsory. Instead, it can be enforced by creating public awareness of the benefits of family planning. So, argument II also holds.
+    explanation: Family planning is an essential step to curb population growth. So, argument I holds strong. Also, family planning being against the tenets of some of the Pakistani religions, it is not necessary to make it compulsory. Instead, it can be enforced by creating public awareness of the benefits of family planning. So, argument II also holds.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
       - CSS
 ---
-
 

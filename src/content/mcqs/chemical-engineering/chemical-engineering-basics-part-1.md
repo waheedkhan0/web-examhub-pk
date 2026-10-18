@@ -118,19 +118,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 9
-    question: The most commonly used combustion system manufactured in India for the thermal power plant boilers is the __________ combustion system.
-    options:
-      - Pulverised fuel
-      - Travelling grate stoker firing
-      - Circulating fluidised bed
-      - Fluidised bed
-    answer: 0
-    explanation: Pulverised fuel is the correct answer to “The most commonly used combustion system manufactured in India for the thermal power plant boilers is the __________ combustion system.”. This question is standard in competitive examination syllabi for Chemical Engineering Basics.
-    keyConcept: Chemical Engineering Basics
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 10
     question: Isotropic materials have the same __________ in all directions.
     options:
@@ -535,5 +522,4 @@ questions:
       - FPSC
       - PPSC
 ---
-
 

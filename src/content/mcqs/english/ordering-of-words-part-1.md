@@ -68,27 +68,27 @@ questions:
       - PPSC
       - FPSC
   - id: 5
-    question: "Since the beginning of history P : have managed to catch Q : the Eskimos and Red Indians R : by a very difficult method S : a few specimens of this aquatic animal The Proper sequence should be:"
+    question: "Since the beginning of history P : have managed to catch Q : the Eskimos and Native Americans R : by a very difficult method S : a few specimens of this aquatic animal The Proper sequence should be:"
     options:
       - QRPS
       - SQPR
       - SQRP
       - QPSR
     answer: 3
-    explanation: Since the beginning of history the Eskimos and Red Indians have managed to catch a few specimens of this aquatic animal by a very difficult method.
+    explanation: Since the beginning of history the Eskimos and Native Americans have managed to catch a few specimens of this aquatic animal by a very difficult method.
     keyConcept: Ordering Of Words
     testedIn:
       - PPSC
       - FPSC
   - id: 6
-    question: "A French woman P : committed suicide Q : where she had put up R : who had come to Calcutta S : by jumping from the first floor balcony of the hotel The Proper sequence should be:"
+    question: "A French woman P : committed suicide Q : where she had put up R : who had come to Karachi S : by jumping from the first floor balcony of the hotel The Proper sequence should be:"
     options:
       - PRQS
       - QSRP
       - RPSQ
       - SRQP
     answer: 2
-    explanation: A French woman who had come to Calcutta committed suicide by jumping from the first floor balcony of the hotel where she had put up.
+    explanation: A French woman who had come to Karachi committed suicide by jumping from the first floor balcony of the hotel where she had put up.
     keyConcept: Ordering Of Words
     testedIn:
       - PPSC
@@ -432,14 +432,14 @@ questions:
       - PPSC
       - FPSC
   - id: 33
-    question: "I was P : and stay for few days in Delhi Q : when my father told me R : very excited S : that I could go with him The Proper sequence should be:"
+    question: "I was P : and stay for few days in Lahore Q : when my father told me R : very excited S : that I could go with him The Proper sequence should be:"
     options:
       - PQRS
       - RQSP
       - QRSP
       - SPQR
     answer: 1
-    explanation: I was very excited when my father told me that I could go with him and stay for few days in Delhi.
+    explanation: I was very excited when my father told me that I could go with him and stay for few days in Lahore.
     keyConcept: Ordering Of Words
     testedIn:
       - PPSC

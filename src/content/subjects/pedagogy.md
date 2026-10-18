@@ -39,6 +39,9 @@ subtopics:
   - name: Pedagogy & Teaching Methodology — Past Papers — Part 8
     slug: pedagogy-past-papers-part-8
     questionCount: 19
+  - name: FPSC Lecturer (BS-17) Past Papers — Part 1
+    slug: fpsc-lecturer-past-papers-part-1
+    questionCount: 10
 ---
 
 # Pedagogy and Teaching Methodology

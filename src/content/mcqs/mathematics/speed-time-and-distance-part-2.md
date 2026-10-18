@@ -99,7 +99,7 @@ questions:
       - CSS
       - NTS
   - id: 7
-    question: Two joggers left Delhi for Noida simultaneously. The first jogger stopped 42 min later when he was 1 km short of Noida and the other one stopped 52 min later when he was 2 km short of Noida. If the first jogger jogged as many kilometers as the second, and the second as kilometers as first, the first one would need 17 min less than the second. Find the distance between Delhi and Noida?
+    question: Two joggers left Lahore for Rawalpindi simultaneously. The first jogger stopped 42 min later when he was 1 km short of Rawalpindi and the other one stopped 52 min later when he was 2 km short of Rawalpindi. If the first jogger jogged as many kilometers as the second, and the second as kilometers as first, the first one would need 17 min less than the second. Find the distance between Lahore and Rawalpindi?
     options:
       - 5 km
       - 15 km
@@ -195,7 +195,7 @@ questions:
       - CSS
       - NTS
   - id: 14
-    question: "Two trains start simultaneously from two stations Howrah and Delhi, respectively towards each other on the same track. The distance between the two stations is 560 km and the speeds of trains are 30 kmph and 40 kmph. Simultaneously with the trains, a sparrow sitting on the top of one of the train starts towards the other and reverses its direction on reaching the other train and so on. If the speed of sparrow is 80 kmph then the distance that the sparrow lies before being crushed between the train is :"
+    question: "Two trains start simultaneously from two stations Karachi and Lahore, respectively towards each other on the same track. The distance between the two stations is 560 km and the speeds of trains are 30 kmph and 40 kmph. Simultaneously with the trains, a sparrow sitting on the top of one of the train starts towards the other and reverses its direction on reaching the other train and so on. If the speed of sparrow is 80 kmph then the distance that the sparrow lies before being crushed between the train is :"
     options:
       - 70 km
       - 560 km

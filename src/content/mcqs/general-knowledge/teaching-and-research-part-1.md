@@ -301,19 +301,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 23
-    question: "'National council of educational research and training' was established in"
-    options:
-      - "1961"
-      - "1962"
-      - "1963"
-      - "1964"
-    answer: 0
-    explanation: The National Council of Educational Research and Training (NCERT) is an autonomous organisation of the Government of India which was established in 1961 as a literary, scientific and charitable Society under the Societies' Registration Act (Act XXI of 1860).
-    keyConcept: Teaching And Research
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 24
     question: Essay type test are not reliable because
     options:
@@ -349,19 +336,6 @@ questions:
       - Ask question
     answer: 3
     explanation: To maintain interest among students in class, a teacher should ask question.
-    keyConcept: Teaching And Research
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 27
-    question: The purpose of new education policy is
-    options:
-      - To provide equal opportunity of education to all
-      - To improve the whole education system
-      - To link the education with employment
-      - To delink the degree with education
-    answer: 1
-    explanation: The Policy envisages a new curricular and pedagogical structure for school education that is responsive and relevant to the needs and interests of learners at different stages of their development. This Policy aims to shape an education system that benefits all of India's children.
     keyConcept: Teaching And Research
     testedIn:
       - PPSC

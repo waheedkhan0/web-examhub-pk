@@ -41,19 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: Who opined that "a scientific-empirical study of Indian society is not possible"?
-    options:
-      - Ram Krishna Mukherjee
-      - D. P. Mukherjee
-      - A. K. Serom
-      - S. C. Dube
-    answer: 2
-    explanation: A. K. Serom is the correct answer to “Who opined that "a scientific-empirical study of Indian society is not possible"”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Who wrote the work 'Presentation of Self in Everyday Life' in 1959?
     options:
@@ -63,19 +50,6 @@ questions:
       - G. H. Mead
     answer: 2
     explanation: E. Goffman is the correct answer to “Who wrote the work 'Presentation of Self in Everyday Life' in 1959”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
-  - id: 5
-    question: Who is the author of the book Ethnic Plurality in India?
-    options:
-      - R. A. Schermerhorn
-      - M. N. Srinivas
-      - Robert Bierstadt
-      - A. R. Desai
-    answer: 0
-    explanation: R. A. Schermerhorn is the correct answer to “Who is the author of the book Ethnic Plurality in India”. This question is standard in competitive examination syllabi for Sociological Theory.
     keyConcept: Sociological Theory
     testedIn:
       - CSS
@@ -119,19 +93,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 9
-    question: Gandhi said, "For me there can be no politics without".
-    options:
-      - Service
-      - Religion
-      - Will
-      - None of these
-    answer: 0
-    explanation: Service is the correct answer to “Gandhi said, "For me there can be no politics without".”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
   - id: 10
     question: "The following four scholars contributed to structure and function relating concept and theories: 1. Robert K. Merton 2. August Comte 3. T. Parsons 4. B. Malinowski Which one of the following shows the correct chronological order in which their contributions were made?"
     options:
@@ -154,19 +115,6 @@ questions:
       - None of these
     answer: 3
     explanation: None of these is the correct answer to “Which of the following statements is/are true for Post-Modernism? 1. It owes its genesis in the time of industrial revolution. 2. It is the reinforcement of modernity. Select the correct answer:”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
-  - id: 12
-    question: "\"The outcaste is a by product of the caste system . . . . Nothing can emancipate the outcaste except destruction of the cast system.\" This statement is attributed to:"
-    options:
-      - Jawaharlal Nehru
-      - Mahatama Gandhi
-      - K. Karmaraj
-      - Ambedkar
-    answer: 3
-    explanation: Ambedkar is the correct answer to “"The outcaste is a by product of the caste system . . . . Nothing can emancipate the outcaste except destruction of the cast system." This statement is attributed to:”. This question is standard in competitive examination syllabi for Sociological Theory.
     keyConcept: Sociological Theory
     testedIn:
       - CSS
@@ -249,19 +197,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 19
-    question: Glimpses of World History' was written by
-    options:
-      - Nehru
-      - Gandhiji
-      - Tilak
-      - Ambedkar
-    answer: 0
-    explanation: Nehru is the correct answer to “Glimpses of World History' was written by”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
   - id: 20
     question: Choose the correct stage in the evolution of human society.
     options:
@@ -314,19 +249,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 24
-    question: Who did attributional and interactional analysis of caste system?
-    options:
-      - L. Dumont
-      - Surajit Sinha
-      - M. N. Srinivas
-      - D. P. Mukherji
-    answer: 1
-    explanation: Surajit Sinha is the correct answer to “Who did attributional and interactional analysis of caste system”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
   - id: 25
     question: Who among the following observed that the Chief Executives and the very rich are one and the same group in the U.S.A.?
     options:
@@ -336,19 +258,6 @@ questions:
       - N. Smelser
     answer: 2
     explanation: C. W. Mills is the correct answer to “Who among the following observed that the Chief Executives and the very rich are one and the same group in the U.S.A.”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: Whose words are, "O Faith, endow us with belief"?
-    options:
-      - Auguste Comete
-      - Manu
-      - Vedas
-      - Maciver
-    answer: 2
-    explanation: Vedas is the correct answer to “Whose words are, "O Faith, endow us with belief"”. This question is standard in competitive examination syllabi for Sociological Theory.
     keyConcept: Sociological Theory
     testedIn:
       - CSS
@@ -375,19 +284,6 @@ questions:
       - Emile Durkheim
     answer: 0
     explanation: Max Weber is the correct answer to “"Sociology is the science of understanding of the meaning of social action." The proceeding statement was made by”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
-  - id: 29
-    question: Consider the following statements 1. Ambedkar described himself as 'progressive radical'. 2. He considered similar to liberals and communist.
-    options:
-      - Only 1
-      - Only 2
-      - Both 1 and 2
-      - Neither 1 nor 2
-    answer: 2
-    explanation: Both 1 and 2 is the correct answer to “Consider the following statements 1. Ambedkar described himself as 'progressive radical'. 2. He considered similar to liberals and communist.”. This question is standard in competitive examination syllabi for Sociological Theory.
     keyConcept: Sociological Theory
     testedIn:
       - CSS
@@ -453,19 +349,6 @@ questions:
       - Daves
     answer: 0
     explanation: Giddings is the correct answer to “"Society is a consciousness of the kind" is the definition of;”. This question is standard in competitive examination syllabi for Sociological Theory.
-    keyConcept: Sociological Theory
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: Kin categories of Indo European languages which systematised the rank and status of people are
-    options:
-      - Gotras
-      - Charana
-      - Both A and B
-      - None of these
-    answer: 2
-    explanation: Both A and B is the correct answer to “Kin categories of Indo European languages which systematised the rank and status of people are”. This question is standard in competitive examination syllabi for Sociological Theory.
     keyConcept: Sociological Theory
     testedIn:
       - CSS

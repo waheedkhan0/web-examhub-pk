@@ -132,19 +132,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 10
-    question: In Post Independence era, India followed a . . . . . . . . economic policy.
-    options:
-      - Globalisation
-      - Protectionist
-      - Liberalism
-      - Look West
-    answer: 1
-    explanation: Protectionist is the correct answer to “In Post Independence era, India followed a . . . . . . . . economic policy.”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 11
     question: . . . . . . . . is one such organisation whose aim is to liberalise international trade?
     options:
@@ -249,19 +236,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 19
-    question: FDI (Foreign Direct Investment) attracted by globalisation in India belongs to the
-    options:
-      - World Bank
-      - Multinationals
-      - Foreign governments
-      - None of the above
-    answer: 1
-    explanation: Multinationals is the correct answer to “FDI (Foreign Direct Investment) attracted by globalisation in India belongs to the”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 20
     question: Which of the statements are true about the causes of globalisation?
     options:
@@ -310,19 +284,6 @@ questions:
       - More transparent
     answer: 2
     explanation: More different and distinctive is the correct answer to “Globalisation heads to each culture becoming-”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 24
-    question: WSF meeting in India took place in the year . . . . . . . .
-    options:
-      - "2004"
-      - "2010"
-      - "2000"
-      - "1999"
-    answer: 0
-    explanation: 2004 is the correct answer to “WSF meeting in India took place in the year . . . . . . . .”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS
@@ -392,32 +353,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 30
-    question: Which statement is not true about India's Globalisation policy
-    options:
-      - The country did a gradual de-regulation of the market
-      - The country deregulated trade also
-      - The country wanted to have partnership with the USA and the West only
-      - Financial crisis was a reason for de-regulation and Globalisation
-    answer: 2
-    explanation: The country wanted to have partnership with the USA and the West only is the correct answer to “Which statement is not true about India's Globalisation policy”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: Which of the following is available in India due to globalisation?
-    options:
-      - Foreign TV channels
-      - Coca Cola and Pepsi
-      - Sansui brand of electronics
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Which of the following is available in India due to globalisation”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 32
     question: . . . . . . . . have been a major force in the globalisation process connecting distant regions of the world?
     options:
@@ -427,19 +362,6 @@ questions:
       - Businesses houses
     answer: 2
     explanation: Multinational corporations is the correct answer to “. . . . . . . . have been a major force in the globalisation process connecting distant regions of the world”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 33
-    question: Patenting of certain plants such as . . . . . . . . by Americans caused opposition and protest by Indians.
-    options:
-      - Neem
-      - Coconut
-      - Gulmohar
-      - Banyan
-    answer: 0
-    explanation: Neem is the correct answer to “Patenting of certain plants such as . . . . . . . . by Americans caused opposition and protest by Indians.”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS
@@ -479,19 +401,6 @@ questions:
       - All the above
     answer: 3
     explanation: All the above is the correct answer to “Fair globalisation refers to ensuring benefits to:”. This question is standard in competitive examination syllabi for Globalisation In Politics.
-    keyConcept: Globalisation In Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 37
-    question: Suppose the Indian government puts a tax on the import of toys from China, what would happen?
-    options:
-      - Toys will get cheaper, more purchase by a consumer
-      - No effect
-      - Toys will get expensive, less purchase by a consumer
-      - Toys will get expensive, more purchase by a consumer
-    answer: 2
-    explanation: Toys will get expensive, less purchase by a consumer is the correct answer to “Suppose the Indian government puts a tax on the import of toys from China, what would happen”. This question is standard in competitive examination syllabi for Globalisation In Politics.
     keyConcept: Globalisation In Politics
     testedIn:
       - CSS

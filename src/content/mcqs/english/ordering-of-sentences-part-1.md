@@ -236,19 +236,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 18
-    question: "S 1 : And then Gandhi came. P : Get off the backs of these peasants and workers, he told us, all you who live by their exploitation. Q : He was like a powerful current of fresh air, like a beam of light, like a whirlwind that upset many things. R : He spoke their language and constantly dre their attention to their appalling conditions. S : He didn't descent from the top, he seemed to emerge from the masses of India. S 6 : Political freedom took new shape and then acquired a new content. The Proper sequence should be:"
-    options:
-      - QSRP
-      - SRQP
-      - RSQP
-      - PRSQ
-    answer: 1
-    explanation: He didn’t descent from the top, he seemed to emerge from the masses of India. He spoke their language and constantly drew their attention to their appalling conditions. He was like a powerful current of fresh air, like a beam of light, like a whirlwind that upset many things. Get off the backs of these peasants and workers, he told us, all you who live by their exploitation.
-    keyConcept: Ordering Of Sentences
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 19
     question: "S 1 : Biological evolution has not fitted man to any specific environment. P : It is by no means a biological evolution, but it is a cultural one. Q : His imagination, his reason, his emotional subtlety and toughness, makes it possible for him not to accept the environment but to change. R : And that series of inventions by which man from age by age has reshaped his environment is a different kind of evolution. S : Among the multitude of animals which scamper, burrow swim around us he is in the only one who is not locked in to his environment. S 6 : That brilliant sequence of cultural peaks can most appropriately be termed the ascent of man. The Proper sequence should be:"
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

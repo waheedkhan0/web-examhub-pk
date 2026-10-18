@@ -81,20 +81,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 6
-    question: The highest voltage for transmitting electrical power in India is
-    options:
-      - 33 kV
-      - 66 kV
-      - 132 kV
-      - 400 kV
-      - 765 kV
-    answer: 4
-    explanation: In India, the highest voltage used for transmitting electrical power is 765 kV . This ultra-high voltage is employed to efficiently transmit electricity over extremely long distances while minimizing losses. Higher voltage levels result in lower current flow through the transmission lines, which in turn reduces resistive losses. This is a critical factor in power transmission, allowing for efficient and cost-effective distribution of electricity across the country. Options A, B, C, and D have lower voltage ratings and are generally used for sub-transmission and distribution purposes.
-    keyConcept: Transformers
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 7
     question: A transformer transforms
     options:
@@ -546,5 +532,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

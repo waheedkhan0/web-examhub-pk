@@ -29,19 +29,6 @@ questions:
     testedIn:
       - NTS
       - CSS
-  - id: 2
-    question: "Directions : In each question, One statement is followed by four possible answers. One of these four possible answers verifies the truth of the statement. In India a widow can marry her brother-in-law although a man cannot marry the sister of his dead wife -"
-    options:
-      - Always
-      - Sometimes
-      - Often
-      - Never
-    answer: 1
-    explanation: As there is no such tradition hence this will happen sometimes.
-    keyConcept: Truth Verification Of The Statement
-    testedIn:
-      - NTS
-      - CSS
   - id: 3
     question: "Directions : In each question, One statement is followed by four possible answers. One of these four possible answers verifies the truth of the statement. Yesterday, I saw an ice cube which had already melted due to the heat of a nearby furnace -"
     options:
@@ -259,19 +246,6 @@ questions:
       - Water
     answer: 1
     explanation: Petals is the basic constituent of any flower.
-    keyConcept: Truth Verification Of The Statement
-    testedIn:
-      - NTS
-      - CSS
-  - id: 20
-    question: "In India a widow can marry her brother-in-law although a man cannot marry the sister of his dead wife:"
-    options:
-      - Always
-      - Never
-      - Often
-      - Sometimes
-    answer: 3
-    explanation: As there is no such tradition hence this will happen sometimes.
     keyConcept: Truth Verification Of The Statement
     testedIn:
       - NTS
@@ -537,5 +511,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

@@ -40,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: The first implementation exercise of the Package Programme Model was initiated in
-    options:
-      - the Phillippines (Massganaa)
-      - India (the IADP)
-      - Mexico (Puebla project)
-      - none of these
-    answer: 1
-    explanation: India (the IADP) is the correct answer to “The first implementation exercise of the Package Programme Model was initiated in”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Which theory of media effect was given the Joseph Kalpper?
     options:
@@ -157,19 +144,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 12
-    question: East India Company introduced censor-ship for the first time in
-    options:
-      - "1780"
-      - "1786"
-      - "1790"
-      - "1795"
-    answer: 3
-    explanation: 1795 is the correct answer to “East India Company introduced censor-ship for the first time in”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
   - id: 13
     question: . . . . . . . . is the important concern of all social reform.
     options:
@@ -205,19 +179,6 @@ questions:
       - "1926"
     answer: 0
     explanation: 1916 is the correct answer to “The Aviral Ganga Raksha Samjhanta Act was introduced in”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
-  - id: 16
-    question: In which year Registrar of Newspapers for India came into being?
-    options:
-      - "1952"
-      - "1956"
-      - "1962"
-      - "1967"
-    answer: 1
-    explanation: 1956 is the correct answer to “In which year Registrar of Newspapers for India came into being”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
     keyConcept: Communication For Development And Social Change
     testedIn:
       - CSS
@@ -326,19 +287,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 25
-    question: Indian social reform is summarised as
-    options:
-      - humanise
-      - equalise
-      - spiritualise
-      - all of these
-    answer: 3
-    explanation: all of these is the correct answer to “Indian social reform is summarised as”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
   - id: 26
     question: The National Environment Awareness Campaign was formed/launched in
     options:
@@ -374,19 +322,6 @@ questions:
       - Dictation
     answer: 1
     explanation: Telegraph is the correct answer to “What created the pressure on world within Journalism”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
-  - id: 29
-    question: Which of the following was considered as 'Gagging Act'?
-    options:
-      - Indian Penal Code
-      - India Press Code
-      - Vernacular Press Act
-      - Press (Emergency) Powers Act 1931
-    answer: 2
-    explanation: Vernacular Press Act is the correct answer to “Which of the following was considered as 'Gagging Act'”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
     keyConcept: Communication For Development And Social Change
     testedIn:
       - CSS
@@ -521,19 +456,5 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 40
-    question: During the days of the British Raj, the Colonial forces effected cultural change in India. During the modern era, the communication revolution is also changing our culture arid value system. What is the difference between these two kinds of change?
-    options:
-      - The colonial change forces were western, but the new communication forces are a mix of eastern and western ideologies
-      - Change was accepted during the days of the British Raj, but it is not being accepted today
-      - During the rule of the British, change was effected perforce, but today, we are voluntarily using communication technologies and gadgets to effect cultural change
-      - The communication techniques and gadgets of the period of the British Raj were primitive and their reach was low, but the new communication revolution has affected all the masses of our country
-    answer: 2
-    explanation: During the rule of the British, change was effected perforce, but today, we are voluntarily using communication technologies and gadgets to effect cultural change is the correct answer to “During the days of the British Raj, the Colonial forces effected cultural change in India. During the modern era, the communication revolution is also changing our culture arid value system. What is the difference between these two kinds of change”. This question is standard in competitive examination syllabi for Communication For Development And Social Change.
-    keyConcept: Communication For Development And Social Change
-    testedIn:
-      - CSS
-      - PMS
 ---
-
 

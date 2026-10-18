@@ -270,7 +270,7 @@ questions:
       - PPSC
       - FPSC
   - id: 20
-    question: Before the ........ of the Europeans in India, India was a free country.
+    question: Before the ........ of the Europeans in Pakistan, Pakistan was a free country.
     options:
       - entry
       - amalgamation
@@ -278,7 +278,7 @@ questions:
       - advent
       - immigration
     answer: 3
-    explanation: Before the advent of the Europeans in India, India was a free country.
+    explanation: Before the advent of the Europeans in Pakistan, Pakistan was a free country.
     keyConcept: Sentence Completion
     testedIn:
       - PPSC

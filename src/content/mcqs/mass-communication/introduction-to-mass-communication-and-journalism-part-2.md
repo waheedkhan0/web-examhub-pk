@@ -40,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: Formation of states in India based on the linguistic principle proved a success usually because . . . . . . . .
-    options:
-      - their art and literature could be enriched with strong state support
-      - they provided an opportunity for Indian languages to grow independently
-      - both A and B
-      - neither A nor B
-    answer: 2
-    explanation: both A and B is the correct answer to “Formation of states in India based on the linguistic principle proved a success usually because . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Interactive model of communication is
     options:
@@ -430,19 +417,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 33
-    question: Under Section 8 (c) . . . . . . . . the Press Council of India started functioning as an appellate authority.
-    options:
-      - The Right to Information Act
-      - Prasar Bharti Act
-      - PRB Act, 1867
-      - None of the above
-    answer: 2
-    explanation: PRB Act, 1867 is the correct answer to “Under Section 8 (c) . . . . . . . . the Press Council of India started functioning as an appellate authority.”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
   - id: 34
     question: Identify the correct order of stages of social change given by August Comte.
     options:
@@ -535,5 +509,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

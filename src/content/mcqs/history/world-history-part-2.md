@@ -159,19 +159,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 12
-    question: The song 'Jana-Mana' composed by Rabindra Nath Tagore was first published in January 1912 under the title of
-    options:
-      - Jay He
-      - Rashtra Jagriti
-      - Bharat Vidhata
-      - Matribhoomi
-    answer: 2
-    explanation: Jana-Gana-Mana was composed by Rabindra Nath Tagore in Bengali language. Under the title of Bharat Vidhata it was first published in 1912 and sung in the (Calcutta session)1911.
-    keyConcept: World History
-    testedIn:
-      - CSS
-      - PMS
   - id: 13
     question: The last constitutional provision (covering undivided India) passed by the House of Commons was
     options:

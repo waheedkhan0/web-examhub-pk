@@ -339,19 +339,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 26
-    question: As per DGMS Circular 7/2002, who out of the following shall be responsible to assess the requirements of support in underground?
-    options:
-      - Overman
-      - Mining Sirdar
-      - Shotfirer
-      - Colliery Manager
-    answer: 1
-    explanation: Mining Sirdar is the correct answer to “As per DGMS Circular 7/2002, who out of the following shall be responsible to assess the requirements of support in underground”. This question is standard in competitive examination syllabi for Rock Mechanics And Roof Supporting.
-    keyConcept: Rock Mechanics And Roof Supporting
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 27
     question: The uniaxial compressive strength of a limestone sample is 80 MPa. The sample is confined at a pressure of 20 MPa in a triaxial compressive strength test. Based on Hoek-Brown failure criteria the maximum principal stress at failure in MPa is (Consider rock constants as m = 7.88, s = 1.0 and a = 0.5)
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

@@ -171,19 +171,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 13
-    question: According to Indian Standards Institute, the actual size of modular bricks is
-    options:
-      - 23 cm × 11.5 cm × 7.5 cm
-      - 25 cm × 13 cm × 7.5 cm
-      - 19 cm × 9 cm × 9 cm
-      - 20 cm × 10 cm × 10 cm
-    answer: 2
-    explanation: 19 cm × 9 cm × 9 cm is the correct answer to “According to Indian Standards Institute, the actual size of modular bricks is”. This question is standard in competitive examination syllabi for Estimating And Costing.
-    keyConcept: Estimating And Costing
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 14
     question: The brick work is not measured in cu m in case of
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

@@ -62,13 +62,13 @@ subtopics:
     questionCount: 40
   - name: Economics Of Power Generation — Part 2
     slug: economics-of-power-generation-part-2
-    questionCount: 40
+    questionCount: 37
   - name: Electric Traction — Part 1
     slug: electric-traction-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Electric Traction — Part 2
     slug: electric-traction-part-2
-    questionCount: 39
+    questionCount: 36
   - name: Electrical Cables — Part 1
     slug: electrical-cables-part-1
     questionCount: 40
@@ -158,7 +158,7 @@ subtopics:
     questionCount: 40
   - name: Modulation And Demodulation
     slug: modulation-and-demodulation
-    questionCount: 40
+    questionCount: 39
   - name: Multistage Transistor Amplifiers
     slug: multistage-transistor-amplifiers
     questionCount: 37
@@ -188,10 +188,10 @@ subtopics:
     questionCount: 40
   - name: Power Plant Engineering In Ee — Part 1
     slug: power-plant-engineering-in-ee-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Power Plant Engineering In Ee — Part 2
     slug: power-plant-engineering-in-ee-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Rc Circuits — Part 1
     slug: rc-circuits-part-1
     questionCount: 40
@@ -263,10 +263,10 @@ subtopics:
     questionCount: 35
   - name: Transformers — Part 1
     slug: transformers-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Transformers — Part 2
     slug: transformers-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Transistor Audio Power Amplifiers
     slug: transistor-audio-power-amplifiers
     questionCount: 38
@@ -278,10 +278,10 @@ subtopics:
     questionCount: 40
   - name: Transmission And Distribution — Part 1
     slug: transmission-and-distribution-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Transmission And Distribution — Part 2
     slug: transmission-and-distribution-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Voltage_ Current And Resistance
     slug: voltage-current-and-resistance
     questionCount: 34

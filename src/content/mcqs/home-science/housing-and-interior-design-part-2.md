@@ -443,19 +443,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 34
-    question: Which is the major energy source to meet the India's energy demand?
-    options:
-      - Coal
-      - Oil
-      - Natural gas
-      - Lignite
-    answer: 0
-    explanation: Coal is the correct answer to “Which is the major energy source to meet the India's energy demand”. This question is standard in competitive examination syllabi for Housing And Interior Design.
-    keyConcept: Housing And Interior Design
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 35
     question: Energy management is a key component of
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

@@ -14,19 +14,6 @@ targetExams:
   - PPSC
   - FPSC
 questions:
-  - id: 1
-    question: Shree Pundalik was the first film screened in India by
-    options:
-      - Dadasaheb Phalke
-      - Dadasaheb Torne
-      - Hiralal Sen
-      - None of the above
-    answer: 1
-    explanation: Dadasaheb Torne is the correct answer to “Shree Pundalik was the first film screened in India by”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: It would not be recommended to use a digital CAS if the number of subscribers of a cable TV operator is
     options:
@@ -118,19 +105,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 9
-    question: Who was the director of social epic film Mother India (1957)?
-    options:
-      - Meboob Khan
-      - Guru Dutt
-      - Bimal Ray
-      - Satyajit Ray
-    answer: 0
-    explanation: Meboob Khan is the correct answer to “Who was the director of social epic film Mother India (1957)”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 10
     question: A daily record covering all periodical publications providing such information is called
     options:
@@ -166,19 +140,6 @@ questions:
       - a-4, b-3, c-2, d-1
     answer: 0
     explanation: a-2, b-1, c-4, d-3 is the correct answer to “Match the following. List-I (Rasa) List-II (Presiding Deity) a. Karuna Rasa 1. Indra b. Veera Rasa 2. Yama c. Shringara Rasa 3. Brahma d. Adbhuta Rasa 4. Vishnu”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 13
-    question: Which of the Indian agency was a subsidiary of the Reuters?
-    options:
-      - PTI
-      - API
-      - UNI
-      - None of these
-    answer: 1
-    explanation: API is the correct answer to “Which of the Indian agency was a subsidiary of the Reuters”. This question is standard in competitive examination syllabi for Film And Visual Communication.
     keyConcept: Film And Visual Communication
     testedIn:
       - CSS
@@ -235,19 +196,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: The liberalisation led to the emergence of . . . . . . . . in Indian cinema.
-    options:
-      - pop culture
-      - regional cinema
-      - international actors
-      - all of these
-    answer: 0
-    explanation: pop culture is the correct answer to “The liberalisation led to the emergence of . . . . . . . . in Indian cinema.”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: "Consider the following statements and select the correct one: 1. Historical fiction is a story takes place in the real world, with real world people, but with several fictionalised or dramatised elements. 2. During the First World War, foreign films were not allowed into Germany. 3. The Rasa Theory was first propounded by Anand Vardhana."
     options:
@@ -257,19 +205,6 @@ questions:
       - None of these
     answer: 2
     explanation: "Both 1 and 2 is the correct answer to “Consider the following statements and select the correct one: 1. Historical fiction is a story takes place in the real world, with real world people, but with several fictionalised or dramatised elements. 2. During the First World War, foreign films were not allowed into Germany. 3. The Rasa Theory was first propounded by Anand Vardhana.”. This question is standard in competitive examination syllabi for Film And Visual Communication."
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 20
-    question: Which one of the following Indian movie is the highest grossing cinema worldwide?
-    options:
-      - Dangal
-      - Bahubali
-      - PK
-      - Bajrangi Bhaijaan
-    answer: 0
-    explanation: Dangal is the correct answer to “Which one of the following Indian movie is the highest grossing cinema worldwide”. This question is standard in competitive examination syllabi for Film And Visual Communication.
     keyConcept: Film And Visual Communication
     testedIn:
       - CSS
@@ -417,19 +352,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 32
-    question: The Advertising Agencies Association of India was established in
-    options:
-      - "1942"
-      - "1945"
-      - "1950"
-      - "1955"
-    answer: 1
-    explanation: 1945 is the correct answer to “The Advertising Agencies Association of India was established in”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 33
     question: Long shot takes the view of a subject
     options:
@@ -482,19 +404,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 37
-    question: In which year was Press Institute of India founded?
-    options:
-      - "1960"
-      - "1962"
-      - "1963"
-      - "1964"
-    answer: 2
-    explanation: 1963 is the correct answer to “In which year was Press Institute of India founded”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 38
     question: A TV producer is not supposed to
     options:
@@ -504,19 +413,6 @@ questions:
       - prepare the final VTR for the purpose of broadcasting
     answer: 2
     explanation: edit and rewrite the sit com script is the correct answer to “A TV producer is not supposed to”. This question is standard in competitive examination syllabi for Film And Visual Communication.
-    keyConcept: Film And Visual Communication
-    testedIn:
-      - CSS
-      - PMS
-  - id: 39
-    question: Which film was given the first DTH license in India?
-    options:
-      - AOL Time Warner
-      - NDTV 24 × 7
-      - Aaj Tak
-      - Zee
-    answer: 3
-    explanation: Zee is the correct answer to “Which film was given the first DTH license in India”. This question is standard in competitive examination syllabi for Film And Visual Communication.
     keyConcept: Film And Visual Communication
     testedIn:
       - CSS
@@ -535,5 +431,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

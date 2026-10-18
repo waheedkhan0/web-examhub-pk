@@ -27,19 +27,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 2
-    question: CFTRI is associated which which institute?
-    options:
-      - United Nation University, Tokyo
-      - Oxford University, London
-      - Indian Institute of technology, Delhi
-      - None of the above
-    answer: 3
-    explanation: CFTRI is not associated with any of the listed institutes. CFTRI stands for Central Food Technological Research Institute. CFTRI is a premier food research laboratory under the Council of Scientific and Industrial Research (CSIR) in India, located in Mysore.It was opened on 21 October 1950 in Mysuru, Karnataka. The options given (United Nation University, Tokyo; Oxford University, London; Indian Institute of Technology, Delhi) are not directly associated with CFTRI. Therefore, the correct answer is "None of the above."
-    keyConcept: Nutrition And Dietetics
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 3
     question: Match the following. List-I (Changes in Organ Function with Ageing) List-II (Effect on Nutrition) a. Decreased taste buds 1. Poor Vitamin D b. Decreased calcium absorption 2. Requirement of energy decrease c. Impaired glucose tolerance 3. Can be a risk factor for developing osteoporosis d. Decreased secretion of lactose 4. Loss of ability to detect salt and sweet
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

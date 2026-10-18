@@ -316,16 +316,6 @@ questions:
     answer: 0
     explanation: Mali is the correct answer to “The mission to which nation has been declared as the UN’s most dangerous Peacekeeping Mission”. Items of this type are drawn from the Defence, Security & Military Exercises — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Defence, Security & Military Exercises
-  - id: 32
-    question: What is the name of The Indian Coast Guard anti-hijacking exercise 2019 at the Kochi Port?
-    options:
-      - Apharan
-      - Shakti
-      - Vijay
-      - Garuda
-    answer: 0
-    explanation: Apharan is the correct answer to “What is the name of The Indian Coast Guard anti-hijacking exercise 2019 at the Kochi Port”. Items of this type are drawn from the Defence, Security & Military Exercises — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Defence, Security & Military Exercises
   - id: 33
     question: US Resumes Military Training Program for Pakistan Army, Offers _______Billion in Aid?
     options:

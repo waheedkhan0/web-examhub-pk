@@ -28,32 +28,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 2
-    question: In how many days from the registration, the first Auditor of the Company be appointed?
-    options:
-      - "10"
-      - "20"
-      - "30"
-      - "60"
-    answer: 2
-    explanation: According to section 139 of the Companies Act of 2013, the First Auditor of a business other than an agency of the government must be chosen by the Board within 30 days after incorporation
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 3
-    question: Under which Section of Companies Act. The remuneration of the Auditor has been discussed?
-    options:
-      - Section 224 (2)
-      - Section 224 (8)
-      - Section 225
-      - Section 231
-    answer: 1
-    explanation: "Section 224(8) of the Companies Act, 1956 deals with the remuneration of auditors. According to this section , the remuneration of the auditor is determined depending on the type of appointment. For the first auditor , the remuneration is fixed by the Board of Directors. For subsequent auditors , the remuneration is fixed by the shareholders of the company at a general meeting or in the manner prescribed therein. Thus , the correct section of the Companies Act, 1956 that discusses the remuneration of auditors is Section 224(8). Note: This provision has changed in the Companies Act, 2013 , where the remuneration of auditors is now dealt with under Section 142 ."
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 4
     question: The objective of the ordinary audit of financial statements is the expression of an opinion on
     options:
@@ -63,19 +37,6 @@ questions:
       - The balance sheet and income statement
     answer: 0
     explanation: "Correct Answer: A: The fairness of the financial statements Let's break down why this is the right answer and why the others aren't the best fit: Option A: The fairness of the financial statements - This is the primary goal of an audit. Auditors want to determine if the financial statements present a fair view of the company's financial position and performance, meaning they are free from material misstatement and comply with accounting standards. Option B: The accuracy of the financial statements - While accuracy is important, an audit focuses more on 'fairness' rather than absolute accuracy. It's impractical and often impossible to guarantee that every single transaction is 100% accurate. Auditors focus on material misstatements, which are errors that could influence decisions. Option C: The accuracy of the annual report - The annual report contains more than just financial statements. It also includes management's discussion and analysis, and other information. Audits specifically target the financial statements. Option D: The balance sheet and income statement - While the balance sheet and income statement are important components, an audit covers all the financial statements which also includes the statement of cash flows and statement of changes in equity (or retained earnings). The audit opinion applies to the complete set of financial statements. In summary: The core objective of an audit is to provide an opinion on whether the financial statements 'fairly present' the company's financial position and performance."
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 5
-    question: "The section of the companies Act, 2013 which contains provisions regarding remuneration of the auditor is:"
-    options:
-      - Section 139
-      - Section 141
-      - Section 142
-      - Section 148
-    answer: 1
-    explanation: Section 141 of the Companies Act, 2013 contains provisions regarding the remuneration of auditors. This section specifies various aspects related to the appointment, remuneration, and terms of auditors' services for companies governed by the Act. It outlines the eligibility criteria for auditors, their appointment by shareholders, the determination of their remuneration, and the limitations on additional services they can provide to the company. Therefore, the correct option is Section 141 .
     keyConcept: Auditing
     testedIn:
       - FPSC Senior Auditor
@@ -154,32 +115,6 @@ questions:
       - Checking routine items
     answer: 3
     explanation: "Routine checking refers to the process of verifying the regular or recurring transactions that take place in the normal course of business. It involves examining routine accounting records such as cash receipts, payments, purchases, sales, and journal entries to ensure that all entries are correctly recorded, casted, and posted in the ledger. The main objective of routine checking is to detect clerical errors, omissions, and frauds of a simple nature that may occur during day-to-day recording of transactions. It does not include critical examination or detailed investigation of accounts; rather, it focuses on checking routine items for accuracy and correctness. Option A (Daily checking of transactions) is too narrow because routine checking is not limited to daily verification only. Option B (Internal inspection system) refers to internal audit procedures, which are broader in scope. Option C (Provisional check of accounts) does not correctly describe the systematic nature of routine checking. Therefore, the correct meaning of routine checking is checking routine items . Hence, the correct answer is Option D: Checking routine items ."
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 12
-    question: The section related to removal of auditor is
-    options:
-      - Section 224(8)
-      - Section 224(7)
-      - Section 223(5)
-      - Section 223(2)
-    answer: 1
-    explanation: "Under the Companies Act, 1956 , the removal of an auditor before the expiry of his term was covered under Section 224(7) . According to this section, an auditor could be removed before the completion of his tenure only with the prior approval of the Central Government and after passing a special resolution in the general meeting of the company. This was introduced to protect the independence of auditors and prevent arbitrary removal by company management. Under the Companies Act, 2013 , the relevant provision is Section 140 . As per Section 140(1), an auditor appointed under Section 139 may be removed from his office before the expiry of his term only by passing a special resolution in a general meeting and obtaining the previous approval of the Central Government . Therefore: - In the 1956 Act → Removal of auditor = Section 224(7) - In the 2013 Act → Removal of auditor = Section 140"
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 13
-    question: A company cannot appoint a person or a firm to be its auditor who undertakes the audit of the companies
-    options:
-      - "12"
-      - "20"
-      - "25"
-      - "28"
-    answer: 1
-    explanation: "According to Section 141(3)(g) of the Companies Act, 2013 , a person or a firm shall be disqualified from being appointed as an auditor of a company if such person or firm is already auditing more than 20 companies at the date of appointment. This provision has been included in law to ensure that auditors are not overburdened with too many audit assignments. The quality of audit work may deteriorate if an auditor takes on excessive engagements. Hence, the cap of 20 audits has been set to maintain efficiency, independence, and effectiveness of the auditing process. Important Clarification: - While counting the number of 20 company audits, private companies with paid-up share capital less than Rs. 100 crore are excluded. - Thus, the limit mainly applies to audits of public companies and large private companies. Why not other options? - Option A: 12 → Not mentioned in law. - Option C: 25 → Incorrect, limit is 20 not 25. - Option D: 28 → Incorrect, no such provision. Conclusion: A company cannot appoint a person or a firm as its auditor if such auditor is already holding audit assignments of 20 or more companies . Therefore, the correct answer is Option B: 20 ."
     keyConcept: Auditing
     testedIn:
       - FPSC Senior Auditor
@@ -271,19 +206,6 @@ questions:
       - Both A and C
     answer: 0
     explanation: Understanding of the system is the correct answer to “A flow chart, made by the auditor, of an entity's internal control system is a graphic representation that depicts the auditor's:”. This question is standard in competitive examination syllabi for Auditing.
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 21
-    question: Who requires a legal audit?
-    options:
-      - Sole trader
-      - Partnership
-      - Public limited company
-      - Joint Hindu Family Business
-    answer: 2
-    explanation: Public limited company is the correct answer to “Who requires a legal audit”. This question is standard in competitive examination syllabi for Auditing.
     keyConcept: Auditing
     testedIn:
       - FPSC Senior Auditor

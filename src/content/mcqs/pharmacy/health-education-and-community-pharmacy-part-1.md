@@ -158,14 +158,14 @@ questions:
       - PPSC Drug Inspector
       - FPSC
   - id: 12
-    question: The disease that is completely eradicated from India through systematised immunisation programme is
+    question: The disease that is completely eradicated from Pakistan through systematised immunisation programme is
     options:
       - Diphtheria
       - Small pox
       - Whooping cough
       - Leprosy
     answer: 1
-    explanation: Small pox is the correct answer to “The disease that is completely eradicated from India through systematised immunisation programme is”. This question is standard in competitive examination syllabi for Health Education And Community Pharmacy.
+    explanation: Small pox is the correct answer to “The disease that is completely eradicated from Pakistan through systematised immunisation programme is”. This question is standard in competitive examination syllabi for Health Education And Community Pharmacy.
     keyConcept: Health Education And Community Pharmacy
     testedIn:
       - PPSC Drug Inspector

@@ -390,7 +390,7 @@ questions:
       - CSS
       - NTS
   - id: 29
-    question: "At a casino in Mumbai, there are 3 tables A, B and C. The payoffs at A is 10 : 1, at B is 20 : 1 and C is 30 :1. If a man bets Rs. 200 at each table and win at two of the tables, what is the maximum and minimum difference between his earnings can be ?"
+    question: "At a casino, there are 3 tables A, B and C. The payoffs at A is 10 : 1, at B is 20 : 1 and C is 30 :1. If a man bets Rs. 200 at each table and win at two of the tables, what is the maximum and minimum difference between his earnings can be ?"
     options:
       - Rs. 4000
       - Rs. 4500

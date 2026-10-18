@@ -15,15 +15,6 @@ targetExams:
   - PMS
   - NTS
 questions:
-  - id: 1
-    question: Which Indian Party has emerged as winner in Indian State of Punjab in March 2022?
-    options:
-      - BJP
-      - Congress
-      - AAP
-    answer: 2
-    explanation: AAP is the correct answer to “Which Indian Party has emerged as winner in Indian State of Punjab in March 2022”. Items of this type are drawn from the World Countries, Cities & Capitals — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: World Countries, Cities & Capitals
   - id: 2
     question: When president of Pakistan Rafique Tarar Died?
     options:

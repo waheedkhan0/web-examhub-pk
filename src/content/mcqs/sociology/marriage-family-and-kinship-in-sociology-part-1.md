@@ -40,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: Under the Hindus Marriage Act two persons tracing their common ascendency through their father's life are collaterals if they lie within
-    options:
-      - Five degrees on the father's side
-      - Seven degrees on their father's side
-      - Three degrees of ascendency
-      - Any degree of ascendency
-    answer: 0
-    explanation: Five degrees on the father's side is the correct answer to “Under the Hindus Marriage Act two persons tracing their common ascendency through their father's life are collaterals if they lie within”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
-    keyConcept: Marriage_ Family And Kinship In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: . . . . . . . . is a form of marriage in which men of lower caste marry women of superior caste.
     options:
@@ -101,19 +88,6 @@ questions:
       - Secondary Kinship
     answer: 1
     explanation: Consanguineal Kinship is the correct answer to “The bond between the blood relatives is called . . . . . . . .”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
-    keyConcept: Marriage_ Family And Kinship In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 8
-    question: The Indian Succession Act was enacted in which of the following year?
-    options:
-      - "1923"
-      - "1925"
-      - "1926"
-      - "1924"
-    answer: 1
-    explanation: 1925 is the correct answer to “The Indian Succession Act was enacted in which of the following year”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
     keyConcept: Marriage_ Family And Kinship In Sociology
     testedIn:
       - CSS
@@ -235,19 +209,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: Which of the following acts first recognised Monogancy as the accepted form of marriage?
-    options:
-      - The Hindu Marriage Act, 1935
-      - The Hindu Marriage Act, 1955
-      - The Hindu Marriage Act, 1975
-      - The Hindu Marriage Act, 2000
-    answer: 1
-    explanation: The Hindu Marriage Act, 1955 is the correct answer to “Which of the following acts first recognised Monogancy as the accepted form of marriage”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
-    keyConcept: Marriage_ Family And Kinship In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: The marriage which is the result of mutual affection and love is called
     options:
@@ -257,19 +218,6 @@ questions:
       - Asura
     answer: 0
     explanation: Gandharva is the correct answer to “The marriage which is the result of mutual affection and love is called”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
-    keyConcept: Marriage_ Family And Kinship In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 20
-    question: According to anthropologists in India they always prefer to marry within lineage of
-    options:
-      - Kin group
-      - Clan
-      - Caste
-      - Descent groups
-    answer: 3
-    explanation: Descent groups is the correct answer to “According to anthropologists in India they always prefer to marry within lineage of”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
     keyConcept: Marriage_ Family And Kinship In Sociology
     testedIn:
       - CSS
@@ -335,19 +283,6 @@ questions:
       - None of the above
     answer: 1
     explanation: Incest taboo is the correct answer to “. . . . . . . . in any society consists of a set of prohibitions which out law heterosexual relationships between various categories of Kinsman.”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
-    keyConcept: Marriage_ Family And Kinship In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: The Special Marriage Act is applicable in whole of India except.
-    options:
-      - Uttar Pradesh
-      - Jammu and Kashmir
-      - Himachal Pradesh
-      - Whole of North-East
-    answer: 1
-    explanation: Jammu and Kashmir is the correct answer to “The Special Marriage Act is applicable in whole of India except.”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
     keyConcept: Marriage_ Family And Kinship In Sociology
     testedIn:
       - CSS
@@ -426,19 +361,6 @@ questions:
       - A family belonging to one locality
     answer: 2
     explanation: A family in which the husband lives at his wife's parent's house is the correct answer to “What is matrilocal family”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
-    keyConcept: Marriage_ Family And Kinship In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 33
-    question: In Mahabharata reference of 'Promiscuity' is found which means
-    options:
-      - Promise to cohabitant
-      - Promise to challenge
-      - Sexual license
-      - Absence of the system of marriage
-    answer: 2
-    explanation: Sexual license is the correct answer to “In Mahabharata reference of 'Promiscuity' is found which means”. This question is standard in competitive examination syllabi for Marriage_ Family And Kinship In Sociology.
     keyConcept: Marriage_ Family And Kinship In Sociology
     testedIn:
       - CSS

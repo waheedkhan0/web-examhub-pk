@@ -379,32 +379,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 29
-    question: 29 June is celebrated as -
-    options:
-      - Hindi Diwas
-      - National Statistics Day
-      - Kargil Vijay Diwas
-      - National Sports Day
-    answer: 1
-    explanation: National Statistics Day is celebrated on 29 June on the birth anniversary of late Professor Prasanta Chandra Mahalanobis.
-    keyConcept: Days And Years
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 30
-    question: 1 July is celebrated as -
-    options:
-      - Mandela Day
-      - Malala Day
-      - World Population Day
-      - National Doctor’s Day
-    answer: 3
-    explanation: Every year, 1 July is celebrated as National Doctor's Day by the Indian Medical Association (IMA). The day is observed to commemorate the birth and death anniversary of former Bengal's Chief Minister Dr Bidhan Chandra Roy.
-    keyConcept: Days And Years
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 31
     question: 2 July is celebrated as -
     options:
@@ -453,19 +427,6 @@ questions:
       - World Day for International Justice
     answer: 3
     explanation: World Day for International Justice, also referred to as Day of International Criminal Justice or International Justice Day, is an international day celebrated throughout the world on 17 July as part of an effort to recognize the emerging system of international criminal justice.
-    keyConcept: Days And Years
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 35
-    question: 26 July is celebrated as -
-    options:
-      - Kargil Vijay Diwas
-      - Fathers Day
-      - Commonwealth Day
-      - World Book Day
-    answer: 0
-    explanation: Kargil Vijay Diwas is celebrated on 26 July every year in honour of the Kargil War's Heroes.
     keyConcept: Days And Years
     testedIn:
       - PPSC

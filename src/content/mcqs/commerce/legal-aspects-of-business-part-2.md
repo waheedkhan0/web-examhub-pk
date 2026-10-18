@@ -15,19 +15,6 @@ targetExams:
   - PMS
   - CSS
 questions:
-  - id: 1
-    question: Which of the following acts makes provisions about constitution of GST Council?
-    options:
-      - Article 279 (1)
-      - Article 246 A
-      - Article 279 A
-      - Article 256
-    answer: 0
-    explanation: Article 279 (1) is the correct answer to “Which of the following acts makes provisions about constitution of GST Council”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 2
     question: "Right to information includes the right to 1. Inspect works, documents, records 2. Take notes, extracts or certified copies of documents or records. 3. Take certified samples of material. 4. Obtain information in form of printouts, diskettes, floppies, tapes, video cassettes or in any other electronic mode or through printouts. Choose the correct answer:"
     options:
@@ -145,32 +132,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 11
-    question: Which of the following does not fall in the ambit of the objectives of Competition Act, 2002?
-    options:
-      - Encourage Competition
-      - Prevent abuse of dominant position
-      - Prevent monopolistic rights are arising out of intellectual property
-      - Regulate mergers and acquisitions
-    answer: 2
-    explanation: Prevent monopolistic rights are arising out of intellectual property is the correct answer to “Which of the following does not fall in the ambit of the objectives of Competition Act, 2002”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 12
-    question: "IGST is payable when the supply is:"
-    options:
-      - Inter-state
-      - Intra-state
-      - Intra-UT
-      - All of the above
-    answer: 0
-    explanation: Inter-state is the correct answer to “IGST is payable when the supply is:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 13
     question: "Certificate of commencement of business is not required by:"
     options:
@@ -180,19 +141,6 @@ questions:
       - Private company subsidiary to a public company
     answer: 1
     explanation: A private company is the correct answer to “Certificate of commencement of business is not required by:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 14
-    question: "The first committee to design GST model was headed by:"
-    options:
-      - Vijay Kelkar
-      - Asim Das Gupta
-      - Dr. Chidambaram
-      - None of the above
-    answer: 1
-    explanation: Asim Das Gupta is the correct answer to “The first committee to design GST model was headed by:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -275,19 +223,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 21
-    question: As per Information Technology Act 2000, if you fails to maintain books of account, then you will be penalised upto
-    options:
-      - Rs. 5,000 per day
-      - Rs. 50,000
-      - Rs. 25,000
-      - Rs. 1,50,000
-    answer: 2
-    explanation: Rs. 25,000 is the correct answer to “As per Information Technology Act 2000, if you fails to maintain books of account, then you will be penalised upto”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 22
     question: "According to Section 14, consent is said to be free when it is not caused by: 1. Coercion 2. Undue influence 3. Fraud 4. Misrepresentation 5. Mistake"
     options:
@@ -314,32 +249,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 24
-    question: Which of the following does not form the part of the important information to be incorporated in the Memorandum of Association as specified in the Companies Act, 2013?
-    options:
-      - The name of the company and the state in which it is situated
-      - The objects for which the company is proposed to be incorporated
-      - The rules, regulations and bye-laws for the internal management of the company
-      - The liability of the members of the company, whether limited or unlimited
-    answer: 2
-    explanation: The rules, regulations and bye-laws for the internal management of the company is the correct answer to “Which of the following does not form the part of the important information to be incorporated in the Memorandum of Association as specified in the Companies Act, 2013”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 25
-    question: "If a company fails to secure the minimum subscription, then it should :"
-    options:
-      - Issue, within 30 days, a fresh prospectus to raise the amount by which it fell short during the first attempt
-      - Issue a statement in lieu of prospectus, and raise the amount through private sources within a specified period
-      - Return with interest the application money to the applicants within a stipulated period
-      - Seek permission from the SEBI for reentering the capital market
-    answer: 2
-    explanation: Return with interest the application money to the applicants within a stipulated period is the correct answer to “If a company fails to secure the minimum subscription, then it should :”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 26
     question: It is an integral part of Sales of Goods Act. It means 'let the buyer beware'. The term expressed below has Latin origins. What is the exact term for that?
     options:
@@ -349,19 +258,6 @@ questions:
       - Caveat loquitur
     answer: 2
     explanation: Caveat emptor is the correct answer to “It is an integral part of Sales of Goods Act. It means 'let the buyer beware'. The term expressed below has Latin origins. What is the exact term for that”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 27
-    question: "Integrated Goods and Services Tax is applicable when:"
-    options:
-      - Sold in Union territory
-      - Sold from one GST dealer to another GST dealer
-      - Sold within a state
-      - There is interstate supply
-    answer: 3
-    explanation: There is interstate supply is the correct answer to “Integrated Goods and Services Tax is applicable when:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -402,32 +298,6 @@ questions:
       - Pay roll register
     answer: 3
     explanation: Minutes of the meeting register is the correct answer to “Company secretary is the custodian of:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 31
-    question: Constitution Amendment Bill for implementation of GST was . . . . . . . .
-    options:
-      - 101st
-      - 100th
-      - 121st
-      - 122nd
-    answer: 3
-    explanation: 122nd is the correct answer to “Constitution Amendment Bill for implementation of GST was . . . . . . . .”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 32
-    question: Which of the following statements is true?
-    options:
-      - ITC of CGST is first utilized for payment of CGST and the balance is utilized for payment of SGST/UTGST
-      - ITC of SGST is first utilized for payment of SGST and the balance is utilized for payment of CGST
-      - ITC of CGST is first utilized for payment of CGST and the balance is utilized for payment of IGST
-      - All of the above
-    answer: 2
-    explanation: ITC of CGST is first utilized for payment of CGST and the balance is utilized for payment of IGST is the correct answer to “Which of the following statements is true”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -506,19 +376,6 @@ questions:
       - Minor only
     answer: 1
     explanation: All the parties except minor is the correct answer to “If a Minor draw, indorse, deliver and negotiate Negotiable Instruments, it binds:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 39
-    question: "As per Section 2(h) of the RTI Act, 'public authority' means that any authority or body or institution of self-government established or constituted: 1. By or under the Constitution. 2. By any other law made by Parliament. 3. By any other law made by State Legislature. 4. By notification issued or order made by the appropriate Government."
-    options:
-      - 1, 2 and 3
-      - 2, 3 and 4
-      - 1, 2, 3 and 4
-      - 1, 3 and 4
-    answer: 2
-    explanation: "1, 2, 3 and 4 is the correct answer to “As per Section 2(h) of the RTI Act, 'public authority' means that any authority or body or institution of self-government established or constituted: 1. By or under the Constitution. 2. By any other law made by Parliament. 3. By any other law made by State Legislature. 4. By notification issued or order made by the appropriate Government.”. This question is standard in competitive examination syllabi for Legal Aspects Of Business."
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor

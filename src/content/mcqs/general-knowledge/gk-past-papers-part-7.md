@@ -350,20 +350,6 @@ questions:
       - PPSC
       - FPSC
       - PMS
-  - id: 25
-    question: Who was the captain of India when it won the T20 World Cup 2026?
-    options:
-      - Rohit Sharma
-      - Virat Kohli
-      - Suryakumar Yadav
-      - None of these
-    answer: 2
-    explanation: "2026 – India 🇮🇳 — Captain : Suryakumar Yadav ; defeated New Zealand by 96 runs. Additional information : 2024 – India 🇮🇳 — Captain: Rohit Sharma ; defeated South Africa by 7 runs. 2022 – England 🏴 — Captain: Jos Buttler ; defeated Pakistan by 5 wickets. 2021 – Australia 🇦🇺 — Captain: Aaron Finch ; defeated New Zealand ."
-    keyConcept: General Knowledge — Commission Past Papers
-    testedIn:
-      - PPSC
-      - FPSC
-      - PMS
   - id: 26
     question: Nelson Mandela was awarded the International Nobel prize in ____?
     options:

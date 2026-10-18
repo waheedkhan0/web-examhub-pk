@@ -158,19 +158,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 12
-    question: The distinction between sovereign and non-sovereign functions of the State was laid down in:-
-    options:
-      - Rylands v. Fletcher
-      - Donoghue v. Stevenson
-      - M. C. Mehta v. Union of India
-      - Peninsular and Oriental Steam Navigation v. Secretary of State, India
-    answer: 3
-    explanation: Peninsular and Oriental Steam Navigation v. Secretary of State, India is the correct answer to “The distinction between sovereign and non-sovereign functions of the State was laid down in:-”. This question is standard in competitive examination syllabi for Law Of Torts.
-    keyConcept: Law Of Torts
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 13
     question: Which element is not required in the tort of defamation?
     options:

@@ -289,19 +289,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 22
-    question: The ore which is found in abundance in India is
-    options:
-      - monazite
-      - fluorspar
-      - bauxite
-      - magnetite
-    answer: 0
-    explanation: The ore which is found in abundance in India is monazite.
-    keyConcept: Chemistry
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 23
     question: The inherited traits of an organism are controlled by
     options:

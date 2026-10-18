@@ -28,19 +28,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 2
-    question: Agriculture Insurance Company Of India Limited (AIC) was incorporated to exclusively cater to the insurance needs of the persons engaged in agriculture and allied activities in India under-
-    options:
-      - Companies Act, 1956
-      - SEBI Act, 1992
-      - IRDA Act, 1999
-      - Reserve Bank of India Act, 1934
-    answer: 0
-    explanation: Agriculture Insurance Company Of India Limited (AIC) was incorporated to exclusively cater to the insurance needs of the persons engaged in agriculture and allied activities in India under-Companies Act, 1956.
-    keyConcept: Insurance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 3
     question: _________, who represents the interests of the insured in searching for insurance coverage at the lowest cost and highest benefit to the insured.
     options:
@@ -50,58 +37,6 @@ questions:
       - Banker
     answer: 2
     explanation: Broker is the person who represents the interests of the insured in searching for insurance coverage at the lowest cost and highest benefit to the insured.
-    keyConcept: Insurance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 4
-    question: UHIS has launched by the Government of India is already in existence for persons and families below the poverty line with the element of subsidy from the Government. UHIS stands for-
-    options:
-      - Universal Health Insurance Solutions
-      - Universal Health Insurance Scenario
-      - Universal Health Insurance Scheme
-      - Universal Health Insurance System
-    answer: 2
-    explanation: The Universal Health Insurance Scheme (UHIS) launched by the Government of India w.e.f. 14.7.2003 is already in existence for persons and families below the poverty line with element of subsidy from the Government.
-    keyConcept: Insurance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 5
-    question: Agriculture Insurance Company of India Limited (AIC) was incorporated in which year?
-    options:
-      - 20th December 2004
-      - 20th December 2002
-      - 20th December 1999
-      - 20th December 2007
-    answer: 1
-    explanation: Agriculture Insurance Company of India Limited was incorporated under the Indian Companies Act 1956 on 20th December, 2002 with an authorised share capital of INR 15 billion and paid up capital of INR 2 billion. AIC commenced business from 1st April, 2003.
-    keyConcept: Insurance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 6
-    question: Nippon Life Insurance has signed definitive agreements to invest Rs 2,265 crore (US$ 332.32 million in order to increase its stake in Reliance Life Insurance from 26 per cent to 49 per cent. Nippon Life Insurance based in-
-    options:
-      - USA
-      - Japan
-      - France
-      - Germany
-    answer: 1
-    explanation: Nippon Life Insurance has signed definitive agreements to invest Rs 2,265 crore (US$ 332.32 million in order to increase its stake in Reliance Life Insurance from 26 per cent to 49 per cent. Nippon Life Insurance based in- Japan.
-    keyConcept: Insurance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 7
-    question: Which among the following companies has not contributed towards the share capital of Agriculture Insurance Company of India Limited (AIC)?
-    options:
-      - Insurance Regulatory and Development Authority of India (IRDAI)
-      - National Bank for Agriculture and Rural Development (NABARD)
-      - General Insurance Corporation of India (GIC)
-      - National Insurance Company Limited (NICL)
-    answer: 0
-    explanation: Insurance Regulatory and Development Authority of India (IRDAI) has not contributed towards the share capital of Agriculture Insurance Company of India Limited (AIC).
     keyConcept: Insurance
     testedIn:
       - FPSC Senior Auditor
@@ -128,19 +63,6 @@ questions:
       - Personal accident insurance
     answer: 3
     explanation: Whole life, Endowment, Term, Investment-linked, Life annuity plan, Medical and health are the main products of life insurance. Motor insurance, Fire/House owners/Householders insurance, Personal accident insurance, Medical and health insurance, Travel insurance are the main products of general insurance.
-    keyConcept: Insurance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 10
-    question: Which one of the following does not belong to the major general insurance private sector companies in India?
-    options:
-      - Reliance General Insurance
-      - The Oriental Insurance Company
-      - Bajaj Allianz General Insurance
-      - Royal Sundaram Alliance Insurance
-    answer: 1
-    explanation: New India Assurance Company Limited, National Insurance Company Limited, The Oriental Insurance Company, United India Insurance, Agricultural Insurance Company of India are the major general insurance companies in India. Bajaj Allianz General Insurance, ICICI Lombard General Insurance, IFFCO-Tokio General Insurance, Reliance General Insurance, Royal Sundaram Alliance Insurance, TATA AIG General Insurance, Cholamandalam General Insurance, HDFC Ergo are the major general insurance private sector companies in India.
     keyConcept: Insurance
     testedIn:
       - FPSC Senior Auditor

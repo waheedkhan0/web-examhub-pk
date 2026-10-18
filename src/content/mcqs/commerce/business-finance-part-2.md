@@ -210,19 +210,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 16
-    question: Which of the following option has a predominant share in the debt market in India?
-    options:
-      - Government Securities
-      - Corporate Deposits
-      - Corporate Equities
-      - Global Depository Receipts
-    answer: 0
-    explanation: Government Securities is the correct answer to “Which of the following option has a predominant share in the debt market in India”. This question is standard in competitive examination syllabi for Business Finance.
-    keyConcept: Business Finance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 17
     question: Which of the following statements is correct for an aggressive financing policy for a firm relative to a former conservative policy?
     options:
@@ -362,19 +349,6 @@ questions:
       - Appropriation of the company's profits
     answer: 2
     explanation: Charged against the firm's profits is the correct answer to “Debentures are long-term Borrowings of a Company. In debenture, interest payable is”. This question is standard in competitive examination syllabi for Business Finance.
-    keyConcept: Business Finance
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 28
-    question: Which of the following sections of the Companies Act, 2013, defines shares?
-    options:
-      - Section 2(84)
-      - Section 2(80)
-      - Section 2(48)
-      - Section 2(45)
-    answer: 0
-    explanation: Section 2(84) is the correct answer to “Which of the following sections of the Companies Act, 2013, defines shares”. This question is standard in competitive examination syllabi for Business Finance.
     keyConcept: Business Finance
     testedIn:
       - FPSC Senior Auditor

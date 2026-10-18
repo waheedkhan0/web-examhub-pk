@@ -54,19 +54,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 4
-    question: Expand NABARD.
-    options:
-      - National Bank for Agriculture and Resource Development
-      - National Bank for Agricultural and Rural Development
-      - National Bank for Asian Research Development
-      - National Bank for Agri Related Development
-    answer: 1
-    explanation: NABARD stands for National Bank for Agricultural and Rural Development.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 5
     question: "Expand the term IPCC :"
     options:
@@ -89,32 +76,6 @@ questions:
       - Society for Worldwide Interbrain Fiscal Transactions
     answer: 1
     explanation: Society for Worldwide Interbank Financial Telecommunications is the full form of SWIFT.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 7
-    question: FIMMDA stands for . . . . . . . . .
-    options:
-      - Foreign Investment Market & Derivatives Market Association
-      - Fixed Income Money Markets & Derivatives Association
-      - Fixed Income & Money Market Development Association
-      - Floating Income & Money Markets Derivative Assets
-    answer: 1
-    explanation: FIMMDA stands for Fixed Income Money Markets & Derivatives Association.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 8
-    question: "Find the odd one out :"
-    options:
-      - IDBI - Financial assistance to large industries
-      - SIDBI - Financial assistance to small industries
-      - FCI - Financial assistance to food-grains merchants
-      - EXIM Bank - Financial assistance to exporters and importers
-    answer: 2
-    explanation: FCI, the nodal central agency of Government of India, along with other State Agencies undertakes procurement of wheat and paddy under price support scheme.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC
@@ -145,32 +106,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 11
-    question: In India FERA has been replaced by?
-    options:
-      - FEMA
-      - FETA
-      - FENA
-      - FELA
-    answer: 0
-    explanation: FERA was repealed in 1998 by the government of Atal Bihari Vajpayee and replaced by the Foreign Exchange Management Act (FEMA), which liberalised foreign exchange controls and restrictions on foreign investment.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 12
-    question: ISRO is the abbreviation for -
-    options:
-      - Indian Scientific Research Organisation
-      - Indian Space Research Organisation
-      - International Space Research Organisation
-      - International Scientific Research Organisation
-    answer: 1
-    explanation: ISRO is the abbreviation for Indian Space Research Organisation.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 13
     question: "JDBC stands for :"
     options:
@@ -180,19 +115,6 @@ questions:
       - Java Database Conductivity
     answer: 1
     explanation: JDBC stands for Java Database Connectivity.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 14
-    question: JIMEX 2018 related to
-    options:
-      - Japan-India Joint Military Exhibition
-      - Japan-India Maritime Exercise
-      - Japan-India Joint Motor Vehicle Exhibition
-      - Japan-India Joint Missile Programme
-    answer: 1
-    explanation: JIMEX 2018 relates to Japan-India Maritime Exercise.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC
@@ -236,19 +158,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 18
-    question: National Agricultural Cooperative Marketing Federation is known as -
-    options:
-      - NIAM
-      - NAFED
-      - MARKFED
-      - NACMF
-    answer: 3
-    explanation: National Agricultural Cooperative Marketing Federation is known as NACMF.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 19
     question: OTEC stands for -
     options:
@@ -258,58 +167,6 @@ questions:
       - Ocean Thermal Energy Conversion
     answer: 3
     explanation: OTEC stands for Ocean Thermal Energy Conversion.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 20
-    question: RAF is the abbreviated form of which of the following?
-    options:
-      - Ready Action Force
-      - Rapid Action Force
-      - Reverse Action Force
-      - Repeat Action Force
-    answer: 1
-    explanation: RAF is the abbreviated form of Rapid Action Force.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 21
-    question: RMSA means
-    options:
-      - Rashtriya Madhyamik Shiksha Abhiyan
-      - Rivers Management and Safety Authority
-      - Rashtriya Middle School Association
-      - Recurring Modest Secured Account
-    answer: 0
-    explanation: RMSA means Rashtriya Madhyamik Shiksha Abhiyan.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 22
-    question: SAGAR stands for
-    options:
-      - South Asian Growth for all in the Region
-      - Security and Growth for all in the Region
-      - South Asian Research Journal
-      - Strategic Agreement for Growth for all in the Region
-    answer: 1
-    explanation: SAGAR stands for Security And Growth for All in the Region.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 23
-    question: SIDBI stands for -
-    options:
-      - Small Innovations Development Banker's Institute
-      - Small Industries Development Banker Institute
-      - Small Industries Development Bank of India
-      - Small Industrial Design Bank of India
-    answer: 2
-    explanation: SIDBI stands for Small Industries Development Bank of India.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC
@@ -366,45 +223,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 28
-    question: What is the expansion of the Indian political coalition, NDA?
-    options:
-      - National Democratic Alliance
-      - National Dravidian Alliance
-      - National Demographic Alliance
-      - National Defense Alliance
-    answer: 0
-    explanation: National Democratic Alliance is the full form of NDA.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 29
-    question: What is the full form of ASSOCHAM?
-    options:
-      - Associated Chambers of Commerce and Industry
-      - Association of Commerce
-      - Associated Commerce
-      - Associated Chambers in India
-    answer: 0
-    explanation: Associated Chambers of Commerce and Industry is the full form of ASSOCHAM.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 30
-    question: Which of the following is not correct?
-    options:
-      - NMA - National Monuments Authority
-      - SIT - Special Investigation Team
-      - BSF - British Security Force
-      - ASI - Archaeological Survey of India
-    answer: 2
-    explanation: The full form of BSF is Border Security Force.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 31
     question: Which of the following is the right expansion of TRIMs?
     options:
@@ -453,19 +271,6 @@ questions:
       - Common Self Admission Test
     answer: 0
     explanation: A communications satellite (COMSAT) is an artificial satellite that relays and amplifies radio telecommunication signals via a transponder; it creates a communication channel between a source transmitter and a receiver at different locations on Earth.
-    keyConcept: General Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 35
-    question: What is the full form of "CID"?
-    options:
-      - Common Investigation Department
-      - Central Investigation Department
-      - Crime Investigation Data
-      - Crime Investigation Department
-    answer: 3
-    explanation: A Crime Investigation Department (CID) is a branch of the State Police Services of India responsible for the investigation of crime, based on the Criminal Investigation Departments of British police forces.
     keyConcept: General Abbreviations
     testedIn:
       - PPSC

@@ -145,19 +145,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 11
-    question: The maximum number of partners in a firm carrying on banking business is_________.
-    options:
-      - "7"
-      - "10"
-      - "50"
-      - "20"
-    answer: 2
-    explanation: "According to section 464(1) of the Companies Act,2013, no association or partnership consisting of more than such number of persons as may be prescribed shall be formed for the purpose of carrying on any business that has for its object the acquisition of gain by the association or partnership or by the individual members thereof, unless it is registered as a company under this Act or is formed under any other law for the time being in force: Provided that the number of persons which may be prescribed under this sub-section shall not exceed one hundred. Further, the Companies (Miscellaneous) Rules, 2014, provides that no association or partnership shall be formed, consisting of more than 50 persons for the purpose of carrying on any business that has for its objects the acquisition of gain by the association or partnership or by individual members thereof, unless it is registered as a company under the Act or is formed under any other law for the time being in force. Simply, The new Companies Act 2013 has prescribed the maximum number of members in case of a partnership firm should not be more than 100 in case of partnerships. As per the previous Companies Act 1956, the maximum limit in case of partnerships was 10 and 20 for banking business and other businesses respectively. So now as per Companies Act 2013 there is no such limitation specific to banking business but overall limitation laid down in 50 as per Companies Rule 2014."
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 12
     question: The agreement of partnership _______.
     options:
@@ -236,19 +223,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 18
-    question: A Joint stock company is governed by _______.
-    options:
-      - Companies Act 2006
-      - Companies Act 1936
-      - Companies Act 2012
-      - Companies Act 2013
-    answer: 3
-    explanation: A Joint stock company is governed by Companies Act 2013. A joint-stock company is a business entity in which shares of the company's stock can be bought and sold by shareholders.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 19
     question: Memorandum of association of a firm contains _______.
     options:
@@ -271,19 +245,6 @@ questions:
       - accounts called up
     answer: 2
     explanation: The liability of shareholders of a public company is limited to the paid up value of shares. "Limited by shares" means that the liability of the shareholders to creditors of the company is limited to the capital originally invested, i.e. the paid up value of the shares and any premium paid in return for the issue of the shares by the company.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 21
-    question: A Government company is one in which ________.
-    options:
-      - the entire share capital is held by the central and / or state government
-      - 50% of capital is held by central government and the remaining 50% by one or more state governments
-      - at least 51% of the capital is held by central and / or state governments
-      - all of above
-    answer: 3
-    explanation: A “Government company” is defined under Section 2(45) of the Companies Act, 2013 as “any company in which not less than 51% of the paid-up share capital is held by the Central Government, or by any State Government or Governments, or partly by the Central Government and partly by one or more State Governments, and includes a company which is a subsidiary company of such a Government company”. Thus, the cardinal feature of a government company is not less than 51% ownership by Central/state government, either individually or jointly.
     keyConcept: Business And Commerce
     testedIn:
       - FPSC Senior Auditor
@@ -353,19 +314,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 27
-    question: Which of the following is an example of a company incorporated by a special act of parliament?
-    options:
-      - Delhi cloth and general mills ltd
-      - Tata iron and steel Co Ltd
-      - Industrial Finance Corporation of India Ltd
-      - Swadesh Cotton Mills Ltd
-    answer: 2
-    explanation: Industrial Finance Corporation of India Ltd is an example of a company incorporated by a special act of parliament.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 28
     question: Dividend on preference capital will be paid _________.
     options:
@@ -414,19 +362,6 @@ questions:
       - works to publicity to the company
     answer: 0
     explanation: Promoter is a person who takes part in the incorporation of a company. A promoter is the one, who undertakes to form a company with reference to a given object and sets it going and takes the necessary steps to accomplish that purpose.
-    keyConcept: Business And Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 32
-    question: The minimum number of shareholders in a public limited company is __________.
-    options:
-      - "2"
-      - "3"
-      - "5"
-      - "7"
-    answer: 3
-    explanation: Section 3 of companies act 2013 (1) A company may be formed for any lawful purpose by— (a) seven or more persons, where the company to be formed is to be a public company; (b) two or more persons, where the company to be formed is to be a private company; or (c) one person, where the company to be formed is to be One Person Company that is to say, a private company, by subscribing their names or his name to a memorandum and complying with the requirements of this Act in respect of registration
     keyConcept: Business And Commerce
     testedIn:
       - FPSC Senior Auditor

@@ -456,19 +456,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 35
-    question: The deposit of iron ore in India is about . . . . . . . . % of the world.
-    options:
-      - "5"
-      - "10"
-      - "15"
-      - "20"
-    answer: 0
-    explanation: 5 is the correct answer to “The deposit of iron ore in India is about . . . . . . . . % of the world.”. This question is standard in competitive examination syllabi for Metal Mining.
-    keyConcept: Metal Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 36
     question: Excess pore pressure in backfill material is a cut and fill stope leads to . . . . . . . .
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

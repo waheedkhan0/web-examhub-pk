@@ -126,7 +126,7 @@ subtopics:
     questionCount: 40
   - name: Light — Part 2
     slug: light-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Mathematical Physics — Part 1
     slug: mathematical-physics-part-1
     questionCount: 40
@@ -141,10 +141,10 @@ subtopics:
     questionCount: 40
   - name: Modern Physics — Part 1
     slug: modern-physics-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Modern Physics — Part 2
     slug: modern-physics-part-2
-    questionCount: 40
+    questionCount: 31
   - name: Nuclear And Particle Physics — Part 1
     slug: nuclear-and-particle-physics-part-1
     questionCount: 40

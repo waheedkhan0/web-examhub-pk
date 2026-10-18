@@ -28,19 +28,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 2
-    question: in general the financial year from shall be from
-    options:
-      - 1st April of any year
-      - 31st March of any year
-      - All of them are true
-      - None of these
-    answer: 0
-    explanation: The Balance Sheet and Income statement of companies across the Globe are usually prepared for a period of 1 year. However, the date from which this period starts varies from country to country. In India, this 1 year period starts from 1 st April and ends on 31 st March.
-    keyConcept: Tally
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 3
     question: Which menu appears after starting Tally for the first time
     options:
@@ -426,7 +413,7 @@ questions:
       - Kgs
       - Box
     answer: 2
-    explanation: These product in India generally sold in Kilogram (Kgs) , so Kgs unit should be created for stock items like grain, pulse, sugar, oil, ghee etc. It can vary country to country.
+    explanation: These product in Pakistan generally sold in Kilogram (Kgs) , so Kgs unit should be created for stock items like grain, pulse, sugar, oil, ghee etc. It can vary country to country.
     keyConcept: Tally
     testedIn:
       - PPSC
@@ -536,5 +523,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

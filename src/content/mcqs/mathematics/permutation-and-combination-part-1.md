@@ -16,14 +16,14 @@ targetExams:
   - PMS
 questions:
   - id: 1
-    question: In how many ways can 8 Indians and, 4 American and 4 Englishmen can be seated in a row so that all person of the same nationality sit together?
+    question: In how many ways can 8 Pakistanis and, 4 American and 4 Englishmen can be seated in a row so that all person of the same nationality sit together?
     options:
       - 3! 4! 8! 4!
       - 3! 8!
       - 4! 4!
       - 8! 4! 4!
     answer: 0
-    explanation: Taking all person of same nationality as one person, then we will have only three people. These three person can be arranged themselves in 3! Ways. 8 Indians can be arranged themselves in 8! Way. 4 American can be arranged themselves in 4! Ways. 4 Englishman can be arranged themselves in 4! Ways. Hence, required number of ways = 3! 8! 4! 4! Ways.
+    explanation: Taking all person of same nationality as one person, then we will have only three people. These three person can be arranged themselves in 3! Ways. 8 Pakistanis can be arranged themselves in 8! Way. 4 American can be arranged themselves in 4! Ways. 4 Englishman can be arranged themselves in 4! Ways. Hence, required number of ways = 3! 8! 4! 4! Ways.
     keyConcept: Permutation And Combination
     testedIn:
       - CSS

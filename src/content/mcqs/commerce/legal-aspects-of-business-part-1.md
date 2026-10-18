@@ -15,19 +15,6 @@ targetExams:
   - PMS
   - CSS
 questions:
-  - id: 1
-    question: Chief Information Commissioner (CIC) shall be appointed for a term of . . . . . . . . years from date on which he enters upon his office or till he attains the age . . . . . . . . of years, whichever is earlier.
-    options:
-      - 6 years, 66 years
-      - 5 years, 70 years
-      - 5 years, 65 years
-      - 5 years, 60 years
-    answer: 2
-    explanation: "The Chief Information Commissioner (CIC) is appointed under the Right to Information Act, 2005. As per the provisions of the RTI Act , the CIC shall hold office for a term of 5 years from the date on which he enters upon his office or until he attains the age of 65 years , whichever is earlier. This provision ensures that the tenure of the CIC is not indefinite and is subject to both a fixed term and an age limit. Therefore, Option C is the correct answer: 5 years or until the age of 65, whichever is earlier."
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 2
     question: "A private company:"
     options:
@@ -37,19 +24,6 @@ questions:
       - May or may not have its own Articles of Association
     answer: 0
     explanation: A private company must register its Articles of Association. Articles of Association is a vital document for a private company, detailing the regulations for a company's operations and defining its purpose. The Companies Act mandates that a private company is required to register its Articles of Association along with the Memorandum of Association at the time of incorporation. Failure to register the Articles of Association would mean that the company does not have a formal set of rules governing its internal management. Therefore, registering the Articles of Association is a legal necessity for a private company to be formally recognized and to operate lawfully.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 3
-    question: What is the penalty for publishing images of a person's private parts without consent, as per IT Act 2000?
-    options:
-      - 5 years imprisonment or 5 lakh rupees penalty or both
-      - Life imprisonment
-      - 3 years imprisonment or 2 lakh rupees penalty or both
-      - None of the above
-    answer: 2
-    explanation: 3 years imprisonment or 2 lakh rupees penalty or both is the correct answer to “What is the penalty for publishing images of a person's private parts without consent, as per IT Act 2000”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -128,58 +102,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Who is not required to hold statutory meeting”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 10
-    question: Which of the following statements is not true about the types of GST?
-    options:
-      - "CGST: It is the tax collected by the Central Government on an intra-state sale (a transaction happening within Punjab)"
-      - "SGST: It is the tax collected by the state government on an intra-state sale (a transaction happening within Maharashtra)"
-      - "IGST: It is a tax collected by the Central Government for an inter-state sale (Maharashtra to Tamil Gujarat)"
-      - All of the above statements are true
-    answer: 3
-    explanation: All of the above statements are true is the correct answer to “Which of the following statements is not true about the types of GST”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 11
-    question: "A company secretary under Companies Act, 1956 is appointed by:"
-    options:
-      - Shareholders
-      - Managing Director
-      - Board of Directors
-      - Registrar of Companies
-    answer: 2
-    explanation: Board of Directors is the correct answer to “A company secretary under Companies Act, 1956 is appointed by:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 12
-    question: "Integrated GST is applicable on:"
-    options:
-      - Interstate Supply only
-      - Interstate supply and Imports
-      - Exports
-      - Intrastate sales
-    answer: 1
-    explanation: Interstate supply and Imports is the correct answer to “Integrated GST is applicable on:”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 13
-    question: Which of the following statement is/are correct about the Central Information Commission? 1. Post of Central Information Commission is derived from the RTI Act, 2005. 2. Chief Information Commission and other commissioners can hold office for the period of 3 years. 3. On the advice of Supreme Court, the President can remove the Chief Information Commission and other commissioners.
-    options:
-      - Only 1 and 3
-      - Only 3
-      - Only 1 and 2
-      - Only 1
-    answer: 0
-    explanation: Only 1 and 3 is the correct answer to “Which of the following statement is/are correct about the Central Information Commission? 1. Post of Central Information Commission is derived from the RTI Act, 2005. 2. Chief Information Commission and other commissioners can hold office for the period of 3 years. 3. On the advice of Supreme Court, the President can remove the Chief Information Commission and other commissioners.”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -288,32 +210,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 22
-    question: In India, GST become effective from
-    options:
-      - 1st April, 2017
-      - 1st January, 2017
-      - 1st July, 2017
-      - 1st March, 2017
-    answer: 2
-    explanation: 1st July, 2017 is the correct answer to “In India, GST become effective from”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 23
-    question: Which of the following commodities is kept outside the purview of GST?
-    options:
-      - Tobacco products
-      - Petroleum products
-      - Edible oils
-      - Insurance products
-    answer: 1
-    explanation: Petroleum products is the correct answer to “Which of the following commodities is kept outside the purview of GST”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 24
     question: In which of the following cases the unpaid seller cannot exercise the right of lien on goods in his possession?
     options:
@@ -323,19 +219,6 @@ questions:
       - Where the goods have been sold on credit but the term of credit has not expired
     answer: 3
     explanation: Where the goods have been sold on credit but the term of credit has not expired is the correct answer to “In which of the following cases the unpaid seller cannot exercise the right of lien on goods in his possession”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 25
-    question: As per the 101 st Constitution Amendment Act, the power to levy GST rests on . . . . . . . .
-    options:
-      - State Govt.
-      - Union Govt.
-      - State & Union Govt.
-      - Union Territory, State & Union Govt.
-    answer: 2
-    explanation: State & Union Govt. is the correct answer to “As per the 101 st Constitution Amendment Act, the power to levy GST rests on . . . . . . . .”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -379,19 +262,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 29
-    question: Which one of the following is not correct relating to competition policy and law?
-    options:
-      - Collusion and dominance have potential for unfair competition
-      - The appeal against decisions of competition commission of India can be made to the competition Appellate Tribunal
-      - State monopolies, government's business policies and functioning of regulatory authorities cannot be scrutinised under this law
-      - Abuse of dominance rather than dominance should be the key for competition policy law
-    answer: 2
-    explanation: State monopolies, government's business policies and functioning of regulatory authorities cannot be scrutinised under this law is the correct answer to “Which one of the following is not correct relating to competition policy and law”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 30
     question: Consideration should not be . . . . . . . . but is should be natural.
     options:
@@ -431,19 +301,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 33
-    question: The . . . . . . . . shall be treated as supply even if made without consideration.
-    options:
-      - Supply of goods by a principal to his agent where the agent undertakes to supply such goods on behalf of the principal
-      - Supply of goods by an agent to his principal where the agent undertakes to receive such goods on behalf of the principal
-      - Permanent transfer or disposal of business assets where input tax credit has been awaited. On such asserts
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “The . . . . . . . . shall be treated as supply even if made without consideration.”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 34
     question: When the goods are sold on credit and credit period is not expired, the seller of goods is
     options:
@@ -453,19 +310,6 @@ questions:
       - None of the above
     answer: 2
     explanation: Not called an unpaid seller is the correct answer to “When the goods are sold on credit and credit period is not expired, the seller of goods is”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 35
-    question: Indicate the true statement.
-    options:
-      - Large industrial houses are outside the purview of the Competition Act, 2002
-      - There is no provision for curbing frivolous complains under the CPA
-      - The Trademark Act, 1999 does not apply to services
-      - All of the above
-    answer: 2
-    explanation: The Trademark Act, 1999 does not apply to services is the correct answer to “Indicate the true statement.”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor
@@ -492,45 +336,6 @@ questions:
       - Grant of Royal Charter
     answer: 0
     explanation: A written agreement made by the directors is the correct answer to “Which of the following is not a method of creating a company”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 38
-    question: "Match List-I with List-II and select the correct answer: List-I List-II a. Cyber Crime 1. Intellectual Property Right Act b. Doctrine of Caveat Emptor 2. Negotiable Instrument Act c. Dishonour of Bill 3. Sale of Goods Act d. Patent and Copyrights 4. The Information Technology Act"
-    options:
-      - a-3, b-4, c-1, d-2
-      - a-3, b-2, c-4, d-1
-      - a-4, b-3, c-2, d-1
-      - a-2, b-4, c-3, d-1
-    answer: 2
-    explanation: "a-4, b-3, c-2, d-1 is the correct answer to “Match List-I with List-II and select the correct answer: List-I List-II a. Cyber Crime 1. Intellectual Property Right Act b. Doctrine of Caveat Emptor 2. Negotiable Instrument Act c. Dishonour of Bill 3. Sale of Goods Act d. Patent and Copyrights 4. The Information Technology Act”. This question is standard in competitive examination syllabi for Legal Aspects Of Business."
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 39
-    question: Which of the following statements are true in context of an associate company under Companie Act, 2013?
-    options:
-      - An associate company to another company means a company in which such other company has a significant influence
-      - A holding company in relation to another company has been defined under section 2 (46) of the 2013 act as a company of which such other company is a subsidiary company
-      - An associate company is a company in which a notable portion of shares is owned by a parent company
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Which of the following statements are true in context of an associate company under Companie Act, 2013”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
-    keyConcept: Legal Aspects Of Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 40
-    question: Who can be a partner in a Limited Liability Partnership?
-    options:
-      - An individual
-      - A body corporate
-      - A HUF
-      - Both A and B
-    answer: 3
-    explanation: Both A and B is the correct answer to “Who can be a partner in a Limited Liability Partnership”. This question is standard in competitive examination syllabi for Legal Aspects Of Business.
     keyConcept: Legal Aspects Of Business
     testedIn:
       - FPSC Senior Auditor

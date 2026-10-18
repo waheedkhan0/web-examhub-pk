@@ -41,19 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: The Government of India helps the exporters in selecting the product and the market under
-    options:
-      - FPS
-      - MLFPS
-      - Both A and B
-      - Neither A nor B
-    answer: 2
-    explanation: Both A and B is the correct answer to “The Government of India helps the exporters in selecting the product and the market under”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Match the following. List-I List-II a. Porter 1. Factor endowment b. Hecksher-Ohlin 2. Diamond c. Ricardo 3. Absolute advantage d. Adam Smith 4. Comparative advantage
     options:
@@ -93,19 +80,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 7
-    question: An Indian exporter is required to fulfil which of the following requirements in order to register himself as an exporter? 1. Opening bank account with current account with a commercial bank under RBI. 2. Registrations with GST and other tax authorities. 3. Obtaining Importer-Exporter Codenumber (lEC), it is a unique 10 digit code i.e. issued by DGFT, Ministry of Commerce. 4. Obtaining Permanent Account Number.
-    options:
-      - 1, 2, 3
-      - 2, 3, 1
-      - 1, 2, 4
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “An Indian exporter is required to fulfil which of the following requirements in order to register himself as an exporter? 1. Opening bank account with current account with a commercial bank under RBI. 2. Registrations with GST and other tax authorities. 3. Obtaining Importer-Exporter Codenumber (lEC), it is a unique 10 digit code i.e. issued by DGFT, Ministry of Commerce. 4. Obtaining Permanent Account Number.”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 8
     question: Which of the following statements are true with regard to brownfield investment?
     options:
@@ -115,19 +89,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Which of the following statements are true with regard to brownfield investment”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 9
-    question: Match the following with regard to bill of entry. List-I List-II a. White bill 1. Goods imported for have consumption b. Green bill 2. Exo-bonds goods c. Yellow bill 3. Into-bonds goods
-    options:
-      - a-1, b-2, c-3
-      - a-2, b-1, c-3
-      - a-3, b-2, c-1
-      - a-1, b-3, c-2
-    answer: 0
-    explanation: a-1, b-2, c-3 is the correct answer to “Match the following with regard to bill of entry. List-I List-II a. White bill 1. Goods imported for have consumption b. Green bill 2. Exo-bonds goods c. Yellow bill 3. Into-bonds goods”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -154,19 +115,6 @@ questions:
       - It deals with transferring expertise especially on how to conduct business
     answer: 3
     explanation: It deals with transferring expertise especially on how to conduct business is the correct answer to “Which of the following statement is true for franchising”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 12
-    question: Arrange the following in correct sequence of post shipment procedure in exportation process. 1. C and F agent submits the documents to the exporter. 2. Exporter intimates the importer about the shipment of goods. 3. Submission and negotiation of documents with bank. 4. Bank negotiates these documents to the importer's bank in the manner as specified in the letter of credit. 5. Documents are attested with the bill of exchange 6. The exporter gets immediate payment from his bank after signing letter of indemnity. 7. Importer receives the documentary bill of exchange, he releases the payment. 8. After receiving proceeds the exporter intimates the RBI by recording the facts on duplicate copy of GR. 9. The exporter receives subsidies and concessions if he is eligible.
-    options:
-      - 1, 2, 3, 4, 5, 6, 7, 8, 9
-      - 2, 1, 3, 4, 5, 6, 7, 8, 9
-      - 9, 1, 2, 3, 4, 5, 6, 7, 8
-      - 9, 2, 1, 3, 4, 5, 6, 7, 8
-    answer: 0
-    explanation: 1, 2, 3, 4, 5, 6, 7, 8, 9 is the correct answer to “Arrange the following in correct sequence of post shipment procedure in exportation process. 1. C and F agent submits the documents to the exporter. 2. Exporter intimates the importer about the shipment of goods. 3. Submission and negotiation of documents with bank. 4. Bank negotiates these documents to the importer's bank in the manner as specified in the letter of credit. 5. Documents are attested with the bill of exchange 6. The exporter gets immediate payment from his bank after signing letter of indemnity. 7. Importer receives the documentary bill of exchange, he releases the payment. 8. After receiving proceeds the exporter intimates the RBI by recording the facts on duplicate copy of GR. 9. The exporter receives subsidies and concessions if he is eligible.”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -210,19 +158,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 16
-    question: Which of the following is not correct about EPCG scheme?
-    options:
-      - It enables the manufacturing exporter to import machinery and other capital equipment without paying custom duty or paying concessional custom duty
-      - The exporter guarantees export to a minimum value which should be expressed in the multiple value of the capital goods that have been imported
-      - It comprises of Zero Duty EPCG and Concessional 5% Duty EPCG
-      - Under Zero Duty EPCG, the exporter is obliged to export where the export value is equal to the 6 times of duty saved on the capital goods that have been imported
-    answer: 2
-    explanation: It comprises of Zero Duty EPCG and Concessional 5% Duty EPCG is the correct answer to “Which of the following is not correct about EPCG scheme”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 17
     question: Match the following. List-I List-II a. Importing 1. Modes of international business b. Marketing 2. Functions of international business c. Sales expansion 3. Objectives of international business d. Economic forces 4. External influence
     options:
@@ -245,19 +180,6 @@ questions:
       - a-4, b-3, c-1, d-2
     answer: 2
     explanation: a-3, b-4, c-2, d-1 is the correct answer to “Match the following. List-I List-II a. Adam Smith 1. Availability b. David Ricordo 2. Endowment c. Ohlin 3. Absolute advantage d. I. B. Kravis 4. Comparative advantage”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: According to RBI, which of the following are characteristic of FDI?
-    options:
-      - The undistributed profits which are invested in the affiliates in the host country are not counted as actual FDI inflows
-      - The overseas commercial borrowings (like bonds, grants, trade credits, financial leasing) are also excluded from FDI inflows
-      - If a non-resident initially buys 10% or more equity through portfolio route but buys additional shares in subsequent transactions and holds investment over 10% these additional shares will be regarded as a part of FDI
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “According to RBI, which of the following are characteristic of FDI”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -288,19 +210,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 22
-    question: The Indian Government has adopted internationally acknowledged standard for documentation known as
-    options:
-      - ATC
-      - TBT
-      - ADS
-      - ASD
-    answer: 2
-    explanation: ADS is the correct answer to “The Indian Government has adopted internationally acknowledged standard for documentation known as”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 23
     question: The trade theory of comparative advantage was developed by
     options:
@@ -310,19 +219,6 @@ questions:
       - David Ricardo
     answer: 3
     explanation: David Ricardo is the correct answer to “The trade theory of comparative advantage was developed by”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 24
-    question: Which of the following is not a method make FDI in India?
-    options:
-      - CCFI route
-      - Automatic approval by RBI
-      - FIPB route
-      - None of the above
-    answer: 3
-    explanation: None of the above is the correct answer to “Which of the following is not a method make FDI in India”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -366,19 +262,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: Which of the following items are included in Prohibited list? 1. Seeds 2. Plants and animals 3. Communication jamming equipment's 4. Animal rennet 5. Oils or tallow of any animal 6. Wild animals and their products such as ivory Select the correct answer
-    options:
-      - 1, 4, 5, 6
-      - 2, 3, 4, 5, 6
-      - 4, 5, 6
-      - 1, 3, 4, 5
-    answer: 2
-    explanation: 4, 5, 6 is the correct answer to “Which of the following items are included in Prohibited list? 1. Seeds 2. Plants and animals 3. Communication jamming equipment's 4. Animal rennet 5. Oils or tallow of any animal 6. Wild animals and their products such as ivory Select the correct answer”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: Which of the following depict benefits of FDI to home country?
     options:
@@ -388,45 +271,6 @@ questions:
       - All of the above
     answer: 3
     explanation: All of the above is the correct answer to “Which of the following depict benefits of FDI to home country”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 30
-    question: Which of the following statements are true with regard to EXIM policy of India?
-    options:
-      - The EXIM policy comprises of various policy decision that are taken by the government in the context of foreign trade
-      - It deals with the exports and imports of the country and focuses mainly on promoting export in the nation
-      - It is announced and prepared by the Central Government
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Which of the following statements are true with regard to EXIM policy of India”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: Assertion (A) The integration of domestic economy through the twin channels of trade and capital flows has accelerated in the past two decades which in turn led the Indian economy growing from Rs. 32 trillion in 2004 to about Rs. 153 trillion by 2016. Reason (R) The Government of India is keen to grown exports and provide more jobs for the young, talented, well-educated and even semi-skilled and unskilled workforce in India.
-    options:
-      - Both (A) and (R) are correct and (R) is the right explanation of (A)
-      - Both (A) and (R) are correct, but (R) is not the right explanation of (A)
-      - (A) is correct, but (R) is incorrect
-      - (R) is correct, but (A) is incorrect
-    answer: 0
-    explanation: Both (A) and (R) are correct and (R) is the right explanation of (A) is the correct answer to “Assertion (A) The integration of domestic economy through the twin channels of trade and capital flows has accelerated in the past two decades which in turn led the Indian economy growing from Rs. 32 trillion in 2004 to about Rs. 153 trillion by 2016. Reason (R) The Government of India is keen to grown exports and provide more jobs for the young, talented, well-educated and even semi-skilled and unskilled workforce in India.”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
-    keyConcept: Foreign Trade Policy
-    testedIn:
-      - CSS
-      - PMS
-  - id: 32
-    question: Which of the following statements are correct? Statement I The registration for geographical indication of goods is done for a period of 10 years which can be renewed for an infinite period of time. Statement II The patents, as per Indian Patent Act are registered for 20 years. Statement III The maximum term of registration of copyright is 50 years in India.
-    options:
-      - Both I and II
-      - Both II and III
-      - Both III
-      - Both I and III
-    answer: 0
-    explanation: Both I and II is the correct answer to “Which of the following statements are correct? Statement I The registration for geographical indication of goods is done for a period of 10 years which can be renewed for an infinite period of time. Statement II The patents, as per Indian Patent Act are registered for 20 years. Statement III The maximum term of registration of copyright is 50 years in India.”. This question is standard in competitive examination syllabi for Foreign Trade Policy.
     keyConcept: Foreign Trade Policy
     testedIn:
       - CSS
@@ -536,5 +380,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

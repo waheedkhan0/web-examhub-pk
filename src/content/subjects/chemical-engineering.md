@@ -12,7 +12,7 @@ relatedExams:
 subtopics:
   - name: Chemical Engineering Basics — Part 1
     slug: chemical-engineering-basics-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Chemical Engineering Basics — Part 2
     slug: chemical-engineering-basics-part-2
     questionCount: 40
@@ -21,7 +21,7 @@ subtopics:
     questionCount: 40
   - name: Chemical Engineering Plant Economics — Part 2
     slug: chemical-engineering-plant-economics-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Chemical Engineering Thermodynamics — Part 1
     slug: chemical-engineering-thermodynamics-part-1
     questionCount: 40
@@ -48,10 +48,10 @@ subtopics:
     questionCount: 40
   - name: Fertiliser Technology — Part 1
     slug: fertiliser-technology-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Fertiliser Technology — Part 2
     slug: fertiliser-technology-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Fluid Mechanics — Part 1
     slug: fluid-mechanics-part-1
     questionCount: 40
@@ -105,7 +105,7 @@ subtopics:
     questionCount: 40
   - name: Petroleum Refinery Engineering — Part 2
     slug: petroleum-refinery-engineering-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Polymer Technology — Part 1
     slug: polymer-technology-part-1
     questionCount: 40
@@ -123,7 +123,7 @@ subtopics:
     questionCount: 40
   - name: Process Equipment And Plant Design — Part 2
     slug: process-equipment-and-plant-design-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Refractory Technology — Part 1
     slug: refractory-technology-part-1
     questionCount: 40

@@ -196,19 +196,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 15
-    question: The type of flame safety lamps is permitted by DGMS for gas testing in Deg.1 and Deg.2 gassy mines of coal.
-    options:
-      - GL-4
-      - GL-5
-      - GL-50
-      - GL-54
-    answer: 2
-    explanation: GL-50 is the correct answer to “The type of flame safety lamps is permitted by DGMS for gas testing in Deg.1 and Deg.2 gassy mines of coal.”. This question is standard in competitive examination syllabi for Miscellaneous In Mining.
-    keyConcept: Miscellaneous In Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 16
     question: Sudden irush of water into active workings of the mine.
     options:
@@ -218,19 +205,6 @@ questions:
       - Rainwater
     answer: 2
     explanation: Inundation is the correct answer to “Sudden irush of water into active workings of the mine.”. This question is standard in competitive examination syllabi for Miscellaneous In Mining.
-    keyConcept: Miscellaneous In Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 17
-    question: Worst disaster caused by inundetion of mines was at chasnala colliery in Bihar in . . . . . . . .
-    options:
-      - "1976"
-      - "1975"
-      - "1974"
-      - "1977"
-    answer: 1
-    explanation: 1975 is the correct answer to “Worst disaster caused by inundetion of mines was at chasnala colliery in Bihar in . . . . . . . .”. This question is standard in competitive examination syllabi for Miscellaneous In Mining.
     keyConcept: Miscellaneous In Mining
     testedIn:
       - PPSC Mines
@@ -270,19 +244,6 @@ questions:
       - MSCP × 4π
     answer: 3
     explanation: MSCP × 4π is the correct answer to “Lumens emitted by a lamp . . . . . . . .”. This question is standard in competitive examination syllabi for Miscellaneous In Mining.
-    keyConcept: Miscellaneous In Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 21
-    question: In which of the following Indian mines first refrigeration plant was installed in
-    options:
-      - Champion reef
-      - Oorgam
-      - Majri
-      - Nudy doorg
-    answer: 1
-    explanation: Oorgam is the correct answer to “In which of the following Indian mines first refrigeration plant was installed in”. This question is standard in competitive examination syllabi for Miscellaneous In Mining.
     keyConcept: Miscellaneous In Mining
     testedIn:
       - PPSC Mines
@@ -535,5 +496,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

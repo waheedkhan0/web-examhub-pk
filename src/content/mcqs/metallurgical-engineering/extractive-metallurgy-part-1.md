@@ -482,19 +482,6 @@ questions:
     testedIn:
       - PAEC
       - NESCOM
-  - id: 37
-    question: According to geological survey of India that India had a potential reserve of about . . . . . . . . million ton of bauxite which contain alumina of more than 50%.
-    options:
-      - "250"
-      - "150"
-      - "200"
-      - None of the these
-    answer: 0
-    explanation: 250 is the correct answer to “According to geological survey of India that India had a potential reserve of about . . . . . . . . million ton of bauxite which contain alumina of more than 50%.”. This question is standard in competitive examination syllabi for Extractive Metallurgy.
-    keyConcept: Extractive Metallurgy
-    testedIn:
-      - PAEC
-      - NESCOM
   - id: 38
     question: Aluminium is not commercially produced by carbon-thermic reduction primarily, because
     options:
@@ -504,19 +491,6 @@ questions:
       - Al-Al2O3 Iine is too low in the Ellingham diagram and needs excessively high temperature
     answer: 3
     explanation: Al-Al2O3 Iine is too low in the Ellingham diagram and needs excessively high temperature is the correct answer to “Aluminium is not commercially produced by carbon-thermic reduction primarily, because”. This question is standard in competitive examination syllabi for Extractive Metallurgy.
-    keyConcept: Extractive Metallurgy
-    testedIn:
-      - PAEC
-      - NESCOM
-  - id: 39
-    question: "Copper deposits are found in India at the following location:"
-    options:
-      - Kudremukh
-      - Kolar
-      - Khetri
-      - Ramagundam
-    answer: 2
-    explanation: Khetri is the correct answer to “Copper deposits are found in India at the following location:”. This question is standard in competitive examination syllabi for Extractive Metallurgy.
     keyConcept: Extractive Metallurgy
     testedIn:
       - PAEC
@@ -535,5 +509,4 @@ questions:
       - PAEC
       - NESCOM
 ---
-
 

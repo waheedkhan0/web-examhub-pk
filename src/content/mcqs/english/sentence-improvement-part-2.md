@@ -159,14 +159,14 @@ questions:
       - PPSC
       - FPSC
   - id: 12
-    question: Mr. Smith arrived at India in June last year.
+    question: Mr. Smith arrived at Pakistan in June last year.
     options:
       - to
       - by
       - in
       - No improvement
     answer: 2
-    explanation: Mr. Smith arrived in India in June last year.
+    explanation: Mr. Smith arrived in Pakistan in June last year.
     keyConcept: Sentence Improvement
     testedIn:
       - PPSC
@@ -328,27 +328,27 @@ questions:
       - PPSC
       - FPSC
   - id: 25
-    question: While we would like that all Indian Children to go to school, we need to ponder why they do not.
+    question: While we would like that all Pakistani Children to go to school, we need to ponder why they do not.
     options:
-      - that all the Indian children
-      - if all the children of India
-      - all Indian children
+      - that all the Pakistani children
+      - if all the children of Pakistan
+      - all Pakistani children
       - No improvement
     answer: 2
-    explanation: While we would like all Indian children to go to school, we need to ponder why they do not.
+    explanation: While we would like all Pakistani children to go to school, we need to ponder why they do not.
     keyConcept: Sentence Improvement
     testedIn:
       - PPSC
       - FPSC
   - id: 26
-    question: In India today many of our intellectuals still talk in terms of the French Revolution and the Rights of Man, not appreciating that much has happened since then.
+    question: In Pakistan today many of our intellectuals still talk in terms of the French Revolution and the Rights of Man, not appreciating that much has happened since then.
     options:
       - much has been happening
       - much had happened
       - much might happen
       - No improvement
     answer: 3
-    explanation: In India today many of our intellectuals still talk in terms of the French Revolution and the Rights of Man, not appreciating that much has happened since then.
+    explanation: In Pakistan today many of our intellectuals still talk in terms of the French Revolution and the Rights of Man, not appreciating that much has happened since then.
     keyConcept: Sentence Improvement
     testedIn:
       - PPSC
@@ -471,14 +471,14 @@ questions:
       - PPSC
       - FPSC
   - id: 36
-    question: Although India is still by far a poor country, it can become rich if its natural and human resources are fully utilised.
+    question: Although Pakistan is still by far a poor country, it can become rich if its natural and human resources are fully utilised.
     options:
       - few and far between
       - by and large
       - by and by
       - No improvement
     answer: 1
-    explanation: Although India is still by and large a poor country, it can become rich if its natural and human resources are fully utilized.
+    explanation: Although Pakistan is still by and large a poor country, it can become rich if its natural and human resources are fully utilized.
     keyConcept: Sentence Improvement
     testedIn:
       - PPSC

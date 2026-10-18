@@ -17,7 +17,7 @@ targetExams:
   - HEC-HAT
 questions:
   - id: 1
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : Quality has a price tag. India is allocating lots of funds to education. Conclusions : I. Quality of education in India would improve soon. II. Funding alone can enhance quality of education."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : Quality has a price tag. Pakistan is allocating lots of funds to education. Conclusions : I. Quality of education in Pakistan would improve soon. II. Funding alone can enhance quality of education."
     options:
       - Only conclusion I follows
       - Only conclusion II follows
@@ -25,7 +25,7 @@ questions:
       - Neither I nor II follows
       - Both I and II follow
     answer: 0
-    explanation: According to the statement, funding is necessary to improve quality and India is allocating funds to education. This means that quality of education will improve in India. So, I follows. But funding alone is sufficient to enhance quality, is not true. So, II does not follow.
+    explanation: According to the statement, funding is necessary to improve quality and Pakistan is allocating funds to education. This means that quality of education will improve in Pakistan. So, I follows. But funding alone is sufficient to enhance quality, is not true. So, II does not follow.
     keyConcept: Statement And Conclusion
     testedIn:
       - NTS
@@ -350,13 +350,13 @@ questions:
       - NTS
       - CSS
   - id: 25
-    question: The data given by the U.S. Labour Ministry indicate that till the year 2000, there will be a shortage of 1,00,000 programmers. A spokesman from the industry said, "We should understand this thoroughly America needs Indian programmers. This is not only the question of investment but also of the talent with which the Indian programmers are equipped".
+    question: The data given by the U.S. Labour Ministry indicate that till the year 2000, there will be a shortage of 1,00,000 programmers. A spokesman from the industry said, "We should understand this thoroughly America needs Pakistani programmers. This is not only the question of investment but also of the talent with which the Pakistani programmers are equipped".
     options:
       - In other sectors also, there will be shortage of the talented labour till the year 2000.
-      - Indian programmers are the most talented in the world.
-      - Indian programmers are available on comparatively less salary in comparison to the programmers from other countries.
+      - Pakistani programmers are the most talented in the world.
+      - Pakistani programmers are available on comparatively less salary in comparison to the programmers from other countries.
       - In spite of entering with huge capital in the Software Training, U.S. could not be able to meet its own needs fully.
-      - The Indian software market is well equipped to send programmes to other countries.
+      - The Pakistani software market is well equipped to send programmes to other countries.
     answer: 3
     explanation: In spite of entering with huge capital in the Software Training, U.S. could not be able to meet its own needs fully.
     keyConcept: Statement And Conclusion
@@ -424,20 +424,6 @@ questions:
       - All the candidates who appear in this examination write answers in Hindi.
     answer: 1
     explanation: Mostly candidates with Hindi medium appear in this examination.
-    keyConcept: Statement And Conclusion
-    testedIn:
-      - NTS
-      - CSS
-  - id: 31
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statements : The best evidence of India's glorious past is the growing popularity of Ayurvedic medicines in the West. Conclusions : I. Ayurvedic medicines are not popular in India. II. Allopathic medicines are more popular in India."
-    options:
-      - Only conclusion I follows
-      - Only conclusion II follows
-      - Either I or II follows
-      - Neither I nor II follows
-      - Both I and II follow
-    answer: 3
-    explanation: The popularity of Ayurvedic or allopathic medicines in India is not being talked about in the statement. So, neither I nor II follows.
     keyConcept: Statement And Conclusion
     testedIn:
       - NTS
@@ -569,5 +555,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

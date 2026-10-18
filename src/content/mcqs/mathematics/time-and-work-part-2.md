@@ -126,20 +126,6 @@ questions:
     testedIn:
       - CSS
       - NTS
-  - id: 9
-    question: At a Tech Pvt Ltd. there are some engineering students employed as trainee engineers, belong to two eminent institutions of India. One group belongs to IIT and another to NIT. Each student of IIT works for 10 hours a day till 60 days and each student of NIT works for 8 hours a day till 80 days on the two same project. The ratio of students of IIT and that of NIT is 4:5 respectively. Students of which institution is slower in work and by how much?
-    options:
-      - IITian is 20% less efficient
-      - NITian is 33.33% less efficien
-      - NIT is 25% less efficient
-      - IIT is 33.33% less efficient
-      - Cannot be determined
-    answer: 2
-    explanation: Let E 1 and E 2 are the working efficiency of each student of IIT and NIT per hour respectively. Using work equivalence method, 4 × 10 × 60 × E 1 = 5 × 8 × 80 × E 2 $$\frac{{{{\text{E}}_1}}}{{{{\text{E}}_2}}} = \frac{4}{3}$$ As, 3E 1 = 4E % less efficient of NITians = $$\frac{{1 \times 100}}{4}$$ = 25% Thus, each engineer from NIT is 25% less efficient than that of IIT.
-    keyConcept: Time And Work
-    testedIn:
-      - CSS
-      - NTS
   - id: 10
     question: 42 women can do a piece of work in 18 days, How many women would be required do the same work in 21 days.
     options:
@@ -552,5 +538,4 @@ questions:
       - CSS
       - NTS
 ---
-
 

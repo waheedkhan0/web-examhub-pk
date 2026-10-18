@@ -79,19 +79,6 @@ questions:
     testedIn:
       - PAEC
       - NESCOM
-  - id: 6
-    question: Indian monazite sand contains . . . . . . . . % ThO 2 .
-    options:
-      - "10"
-      - "25"
-      - "60"
-      - "90"
-    answer: 0
-    explanation: 10 is the correct answer to “Indian monazite sand contains . . . . . . . . % ThO 2 .”. This question is standard in competitive examination syllabi for Metallurgy Of Nuclear Metals.
-    keyConcept: Metallurgy Of Nuclear Metals
-    testedIn:
-      - PAEC
-      - NESCOM
   - id: 7
     question: The half life period of a radioactive element depends upon its
     options:
@@ -119,5 +106,4 @@ questions:
       - PAEC
       - NESCOM
 ---
-
 

@@ -71,15 +71,6 @@ questions:
     answer: 2
     explanation: European Union’s Executive has outlined plans to raise more than $140 billion from energy firms to help shield households and businesses from soaring inflation.
     keyConcept: International Organisations & Their Heads
-  - id: 7
-    question: Who was known as India’s Warren Buffett, died recently in August 2022?
-    options:
-      - Gautam Adani
-      - Mukesh Ambani
-      - Rakesh Jhunjhunwala
-    answer: 2
-    explanation: Rakesh Jhunjhunwala is the correct answer to “Who was known as India’s Warren Buffett, died recently in August 2022”. Items of this type are drawn from the International Organisations & Their Heads — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organisations & Their Heads
   - id: 8
     question: After Prime Minister Liaquat Ali Khan, who is the other Prime minister who has approved the release of the newly recorded National Anthem?
     options:
@@ -127,16 +118,6 @@ questions:
     answer: 2
     explanation: WHO declared global emergency over monkeypox on 23 July, 2022 .
     keyConcept: International Organisations & Their Heads
-  - id: 13
-    question: Droupadi Murmu is the 2nd woman President of India to hold office, who was fist?
-    options:
-      - Sonia Gandhi
-      - Arpita Gosh
-      - Bhartiben Dhirubhai Shyal
-      - Pratibha Patil
-    answer: 3
-    explanation: Pratibha Patil is the correct answer to “Droupadi Murmu is the 2nd woman President of India to hold office, who was fist”. Items of this type are drawn from the International Organisations & Their Heads — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organisations & Their Heads
   - id: 14
     question: WHO has declared Monkeypox outbreak as a Global Health Emergency. Name its Director-General?
     options:
@@ -146,16 +127,6 @@ questions:
       - Ban ki Moon
     answer: 0
     explanation: Tedros Adhanom Ghebreyesus is the correct answer to “WHO has declared Monkeypox outbreak as a Global Health Emergency. Name its Director-General”. Items of this type are drawn from the International Organisations & Their Heads — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organisations & Their Heads
-  - id: 15
-    question: Who is the newly elected as the new president of India on 21 July 2022?
-    options:
-      - Droupadi Murmu
-      - Pratibha Patil
-      - Ram Nath Kovind
-      - Zakir Hussain
-    answer: 0
-    explanation: Droupadi Murmu is the correct answer to “Who is the newly elected as the new president of India on 21 July 2022”. Items of this type are drawn from the International Organisations & Their Heads — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: International Organisations & Their Heads
   - id: 16
     question: Who is the winner of the French Open 2022 Men’s single title?

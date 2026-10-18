@@ -54,19 +54,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 4
-    question: First Indian to make a speech in Hindi before the UN General Assembly is -
-    options:
-      - Morarji Desai
-      - A. B. Vajpayee
-      - Lal Bahadur Shastri
-      - Lal Krishna Advani
-    answer: 1
-    explanation: In 1977, Atal Bihari Vajpayee became the first person to deliver a speech to the UN General Assembly in Hindi. He was the Indian External Affairs Minster at the time.
-    keyConcept: World Organisations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 5
     question: When was SAARC founded?
     options:
@@ -340,19 +327,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 26
-    question: The Indian Red Cross Society was established in the year -
-    options:
-      - "1932"
-      - "1920"
-      - "1945"
-      - "1890"
-    answer: 1
-    explanation: Indian Red Cross Society (IRCS) was established in 1920 under the Indian Red Cross Society Act. The act was last amended in 1992 and of rules were formed in 1994.
-    keyConcept: World Organisations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 27
     question: SAARC was founded in -
     options:
@@ -388,19 +362,6 @@ questions:
       - USA and Mexico
     answer: 1
     explanation: The member countries of NAFTA are USA, Canada and Mexico.
-    keyConcept: World Organisations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 30
-    question: India was elected as a President of General Assembly of the United Nations in 1953. Who occupied the office on behalf of India?
-    options:
-      - S. Radha Krishnan
-      - Gopalswamy Iyyengar
-      - V. K. Krishna Menon
-      - Vijaya Lakshmi Pandit
-    answer: 3
-    explanation: In 1953, the chief delegate of India at the time, Vijaya Lakshmi Pandit was elected the first woman President of the UN General Assembly.
     keyConcept: World Organisations
     testedIn:
       - PPSC

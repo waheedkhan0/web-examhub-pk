@@ -79,19 +79,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 6
-    question: For introduction of solid blasting need apporval from DGMS for exemption under following regulation.
-    options:
-      - "173"
-      - "175"
-      - "168"
-      - All
-    answer: 3
-    explanation: All is the correct answer to “For introduction of solid blasting need apporval from DGMS for exemption under following regulation.”. This question is standard in competitive examination syllabi for Drilling And Blasting.
-    keyConcept: Drilling And Blasting
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 7
     question: Water infusion is one of the method of prevention of dust at the faces.
     options:
@@ -296,19 +283,6 @@ questions:
       - Every month
     answer: 0
     explanation: Every week is the correct answer to “All stone dust barriers shall be examined in . . . . . . . .”. This question is standard in competitive examination syllabi for Drilling And Blasting.
-    keyConcept: Drilling And Blasting
-    testedIn:
-      - PPSC Mines
-      - KPPSC
-  - id: 23
-    question: The depth of the deepest shaft in coal mine in India.
-    options:
-      - 200 m
-      - 400 m
-      - 500 m
-      - 600 m
-    answer: 3
-    explanation: 600 m is the correct answer to “The depth of the deepest shaft in coal mine in India.”. This question is standard in competitive examination syllabi for Drilling And Blasting.
     keyConcept: Drilling And Blasting
     testedIn:
       - PPSC Mines
@@ -535,5 +509,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

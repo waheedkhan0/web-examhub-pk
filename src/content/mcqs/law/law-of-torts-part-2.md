@@ -42,14 +42,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 3
-    question: In India, the law of tort is
+    question: In Pakistan, the law of tort is
     options:
       - Codified
       - In the process of codification
       - Mainly based on judicial decision
       - Not applied now
     answer: 2
-    explanation: Mainly based on judicial decision is the correct answer to “In India, the law of tort is”. This question is standard in competitive examination syllabi for Law Of Torts.
+    explanation: Mainly based on judicial decision is the correct answer to “In Pakistan, the law of tort is”. This question is standard in competitive examination syllabi for Law Of Torts.
     keyConcept: Law Of Torts
     testedIn:
       - Civil Judge
@@ -89,19 +89,6 @@ questions:
       - Malicious Prosecution
     answer: 0
     explanation: Negligence is the correct answer to “The Rule of 'res ipsa loquitur' is related to the tort of:”. This question is standard in competitive examination syllabi for Law Of Torts.
-    keyConcept: Law Of Torts
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 7
-    question: The case of Ratlam Municipality v. Virdhichand is related to
-    options:
-      - Conspiracy
-      - Malicious prosecution
-      - Tortuous liability of Municipal Corporation
-      - None of the above
-    answer: 2
-    explanation: Tortuous liability of Municipal Corporation is the correct answer to “The case of Ratlam Municipality v. Virdhichand is related to”. This question is standard in competitive examination syllabi for Law Of Torts.
     keyConcept: Law Of Torts
     testedIn:
       - Civil Judge
@@ -275,19 +262,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 21
-    question: In which case the principle 'ubi us ibi remedium' recognized?
-    options:
-      - Rylands v. Flecher
-      - Asbhy v. White
-      - Ashdown v. Samuel Williams
-      - Pema Chibber v. Union of India
-    answer: 1
-    explanation: Asbhy v. White is the correct answer to “In which case the principle 'ubi us ibi remedium' recognized”. This question is standard in competitive examination syllabi for Law Of Torts.
-    keyConcept: Law Of Torts
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 22
     question: The remedy in tort law is
     options:
@@ -405,32 +379,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 31
-    question: "Which of the following statements is/are correct with regard to 'absolute liability' principle laid down in M. C. Mehta v. Union of India. Answer by using the below: (1) The principle was approved except as to quantum of damages in Charan Lal Sahu v. Union of India (2) The principle in determining compensation was applied in Union Carbide Corporation v. Union of India (3) The compensation to be awarded must have some broad correlation not only with magnitude and capacity of the enterprise but also with the harm caused by it was held in Deepak Nitrite v. State of Gujarat (4) The principle is not followed in India because Parliament could not yet pass Public Liability Insurance Bill, 1991"
-    options:
-      - Only (1) is correct
-      - (1) and (2) are correct
-      - (1), (2) and (3) are correct
-      - (1), (2), (3) and (4) are correct
-    answer: 2
-    explanation: "(1), (2) and (3) are correct is the correct answer to “Which of the following statements is/are correct with regard to 'absolute liability' principle laid down in M. C. Mehta v. Union of India. Answer by using the below: (1) The principle was approved except as to quantum of damages in Charan Lal Sahu v. Union of India (2) The principle in determining compensation was applied in Union Carbide Corporation v. Union of India (3) The compensation to be awarded must have some broad correlation not only with magnitude and capacity of the enterprise but also with the harm caused by it was held in Deepak Nitrite v. State of Gujarat (4) The principle is not followed in India because Parliament could not yet pass Public Liability Insurance Bill, 1991”. This question is standard in competitive examination syllabi for Law Of Torts."
-    keyConcept: Law Of Torts
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 32
-    question: The doctrine of common employment at present is applicable
-    options:
-      - In India only
-      - In England only
-      - In India as well as England
-      - Neither in India nor in England
-    answer: 3
-    explanation: Neither in India nor in England is the correct answer to “The doctrine of common employment at present is applicable”. This question is standard in competitive examination syllabi for Law Of Torts.
-    keyConcept: Law Of Torts
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 33
     question: Which one of the following limitations to the rule of Volunti non fit injuria is not correct?
     options:
@@ -453,19 +401,6 @@ questions:
       - No one is liable to compensate as accident is result of act of God
     answer: 1
     explanation: As the responsibility to supply electricity is statutory the primary liability to compensate is that of the Board is the correct answer to “There was a plea for damages against the Electricity Board when a cyclist was entrapped and electrocuted by a live wire. The Board tried to oppose the plea on ground that the wire was a diverted line laid by a stranger to siphon energy. Will the Court accept the defence of the Board”. This question is standard in competitive examination syllabi for Law Of Torts.
-    keyConcept: Law Of Torts
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 35
-    question: In which one of the following cases has the Supreme Court laid down that where the enterprise is engaged in hazardous or inherently dangerous activities and harm results to anyone on account of accident, the enterprise is strictly liable to compensate all those who are affected by such accident?
-    options:
-      - Union Carbide Corporation v. Union of India
-      - M. C. Mehta v. Union of India
-      - Charan Lal Sahu v. Union of India
-      - Pondyal v. Union of India
-    answer: 1
-    explanation: M. C. Mehta v. Union of India is the correct answer to “In which one of the following cases has the Supreme Court laid down that where the enterprise is engaged in hazardous or inherently dangerous activities and harm results to anyone on account of accident, the enterprise is strictly liable to compensate all those who are affected by such accident”. This question is standard in competitive examination syllabi for Law Of Torts.
     keyConcept: Law Of Torts
     testedIn:
       - Civil Judge

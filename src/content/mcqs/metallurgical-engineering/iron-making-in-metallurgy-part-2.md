@@ -300,19 +300,5 @@ questions:
     testedIn:
       - PAEC
       - NESCOM
-  - id: 23
-    question: Slag rate in indian blast furnaces is in the range of . . . . . . . . kg/ton of pig iron
-    options:
-      - 150 to 250
-      - 350 to 500
-      - 250 to 350
-      - 1000 to 1500
-    answer: 1
-    explanation: 350 to 500 is the correct answer to “Slag rate in indian blast furnaces is in the range of . . . . . . . . kg/ton of pig iron”. This question is standard in competitive examination syllabi for Iron Making In Metallurgy.
-    keyConcept: Iron Making In Metallurgy
-    testedIn:
-      - PAEC
-      - NESCOM
 ---
-
 

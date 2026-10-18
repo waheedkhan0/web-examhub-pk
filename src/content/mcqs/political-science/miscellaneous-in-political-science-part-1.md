@@ -28,19 +28,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 2
-    question: "After Nehru, the first Prime Minister to visit China was:"
-    options:
-      - Lal Bahadur Shastri
-      - Indira Gandhi
-      - Rajiv Gandhi
-      - V. P. Singh
-    answer: 1
-    explanation: Indira Gandhi is the correct answer to “After Nehru, the first Prime Minister to visit China was:”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 3
     question: Consider the following statements about IAEA 1. It was set up as the world's Atoms of Peace organisation in 1957. 2. The IAEA Secretariat is headquartered at the Vienna international Centre in Vienna, Austria. 3. In terms of its statute, the IAEA reports annually to the UN General Assembly. Which of the statements given above is/are correct?
     options:
@@ -115,19 +102,6 @@ questions:
       - G. A. Almond
     answer: 2
     explanation: David Easton is the correct answer to “Who among the following said, "Post-behaviouralism was a genuine revolution, not a reaction; a becoming, not a preservation; a reform, not a counter reformation"”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 9
-    question: Which one of the following pairs are not correctly matched in the term of President and Vice-President?
-    options:
-      - Dr. Rajendra Prasad ⇔ Dr. S. Radha Krishnan
-      - Dr. Zakir Hussain ⇔ V. V. Giri
-      - Sanjeeva Reddy ⇔ B. D. Jatti
-      - Dr. S. Radha Krishnan ⇔ Dr. Zakir Hussain
-    answer: 2
-    explanation: Sanjeeva Reddy ⇔ B. D. Jatti is the correct answer to “Which one of the following pairs are not correctly matched in the term of President and Vice-President”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
     keyConcept: Miscellaneous In Political Science
     testedIn:
       - CSS
@@ -327,32 +301,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 25
-    question: In whose description Maulana Azad, Jawaharlal Nehru, Vallabhbhai Patel and Rajendra Prasad formed 'an oligarchy within the (Constituent) Assembly'?
-    options:
-      - Granville Austin
-      - Morris Jones
-      - V. P. Menon
-      - Richard Sisson
-    answer: 0
-    explanation: Granville Austin is the correct answer to “In whose description Maulana Azad, Jawaharlal Nehru, Vallabhbhai Patel and Rajendra Prasad formed 'an oligarchy within the (Constituent) Assembly'”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: Who among the following said that Bhakti in religion may be a road to the salvation of the soul. But in politics, Bhakti or hero worship is a sure road to degradation and eventual dictatorship?
-    options:
-      - Jayaprakash Narayan
-      - M. N. Roy
-      - B. R. Ambedkar
-      - Savarkar
-    answer: 2
-    explanation: B. R. Ambedkar is the correct answer to “Who among the following said that Bhakti in religion may be a road to the salvation of the soul. But in politics, Bhakti or hero worship is a sure road to degradation and eventual dictatorship”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 27
     question: Which UN body shall exercise all functions of the UN relating to strategic areas, including the approval of the terms of the trusteeship agreements and also their alteration or amendment?
     options:
@@ -362,19 +310,6 @@ questions:
       - Developed countries
     answer: 1
     explanation: Security Council is the correct answer to “Which UN body shall exercise all functions of the UN relating to strategic areas, including the approval of the terms of the trusteeship agreements and also their alteration or amendment”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 28
-    question: Who of the following is associated with the concept "Congress System"?
-    options:
-      - Morris Jones
-      - Paul R. Brass
-      - Rajni Kothari
-      - Subrata K. Mitra
-    answer: 2
-    explanation: Rajni Kothari is the correct answer to “Who of the following is associated with the concept "Congress System"”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
     keyConcept: Miscellaneous In Political Science
     testedIn:
       - CSS
@@ -405,19 +340,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 31
-    question: Which of the following statement is false about the Indian federalism?
-    options:
-      - It is a good example of 'holding together' federation
-      - It has a tendency of strong Central Government
-      - It reflects the spirit of 'coming together' federation
-      - It has been referred to as 'quasi federal' system
-    answer: 2
-    explanation: It reflects the spirit of 'coming together' federation is the correct answer to “Which of the following statement is false about the Indian federalism”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 32
     question: Who was the Architect of Non-alignment Movement?
     options:
@@ -444,32 +366,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 34
-    question: Which constitutional amendment provided for the setting up of Administrative Tribunals in India?
-    options:
-      - 24th Amendment
-      - 59th Amendment
-      - 42nd Amendment
-      - 44th Amendment
-    answer: 2
-    explanation: 42nd Amendment is the correct answer to “Which constitutional amendment provided for the setting up of Administrative Tribunals in India”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: "In which part and article of the Constitution of India, Fundamental Duties have been mentioned:"
-    options:
-      - Part IV, Article 51
-      - Part III, Article 51
-      - Part IV (A), Article 51 (A)
-      - Part III (A), Article 51 (A)
-    answer: 2
-    explanation: Part IV (A), Article 51 (A) is the correct answer to “In which part and article of the Constitution of India, Fundamental Duties have been mentioned:”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 36
     question: In which year nuclear missiles was placed in Cuba?
     options:
@@ -492,32 +388,6 @@ questions:
       - North Vietnam, North Korea and Pakistan
     answer: 1
     explanation: North Vietnam, North Korea and Iraq is the correct answer to “The Soviet Union and Communist China responded by heaving close relations with regional countries such as:”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: Which one of the following is not the function of State, according to Kautilya?
-    options:
-      - Acquisition of that which is not under its control and possession
-      - Preservation of what has been acquired
-      - Accentuation of what has been preserved
-      - Empire building only
-    answer: 3
-    explanation: Empire building only is the correct answer to “Which one of the following is not the function of State, according to Kautilya”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 39
-    question: Since when consensus has emerged in India that the post of Deputy Speaker should go to opposition party?
-    options:
-      - "1984"
-      - "1989"
-      - "1996"
-      - "2001"
-    answer: 2
-    explanation: 1996 is the correct answer to “Since when consensus has emerged in India that the post of Deputy Speaker should go to opposition party”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
     keyConcept: Miscellaneous In Political Science
     testedIn:
       - CSS

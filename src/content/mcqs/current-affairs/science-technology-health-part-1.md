@@ -212,16 +212,6 @@ questions:
     answer: 2
     explanation: South Korea is the correct answer to “KSLV-II Nuri rocket, is the first domestically produced space launch vehicle of which country”. Items of this type are drawn from the Science, Technology & Health — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Science, Technology & Health
-  - id: 21
-    question: Which country froze the bank accounts of Mother Teresa’s Missionaries of Charity (MoC)?
-    options:
-      - USA
-      - China
-      - India
-      - Pakistan
-    answer: 2
-    explanation: India is the correct answer to “Which country froze the bank accounts of Mother Teresa’s Missionaries of Charity (MoC)”. Items of this type are drawn from the Science, Technology & Health — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Science, Technology & Health
   - id: 22
     question: Gaofen-11 is a satellite launched by which country?
     options:

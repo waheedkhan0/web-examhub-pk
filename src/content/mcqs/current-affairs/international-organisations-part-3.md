@@ -81,16 +81,6 @@ questions:
     answer: 2
     explanation: Max Verstappen is the correct answer to “Who won Abu Dhabi F1 Grand Prix race of 2021”. Items of this type are drawn from the International Organisations & Their Heads — Part 3 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: International Organisations & Their Heads
-  - id: 8
-    question: Indian Chief of of Defense staff who died in a helicopter crash in the southern state of of Tamil-Nadu?
-    options:
-      - Gen. sir Rob Lokhart
-      - Gen. Bapin Rawat
-      - Gen. Vijay Kumar singh
-      - Gen.Manoj Mukind Norvane
-    answer: 1
-    explanation: Gen. Bapin Rawat is the correct answer to “Indian Chief of of Defense staff who died in a helicopter crash in the southern state of of Tamil-Nadu”. Items of this type are drawn from the International Organisations & Their Heads — Part 3 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organisations & Their Heads
   - id: 9
     question: Which space agency launched its ‘Laser Communications Relay Demonstration (LCRD)’?
     options:

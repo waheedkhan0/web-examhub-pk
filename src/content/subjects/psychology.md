@@ -18,22 +18,16 @@ subtopics:
     questionCount: 4
   - name: Application Of Psychology — Part 1
     slug: application-of-psychology-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Application Of Psychology — Part 2
     slug: application-of-psychology-part-2
     questionCount: 8
-  - name: Emergence Of Psychology — Part 1
-    slug: emergence-of-psychology-part-1
-    questionCount: 40
-  - name: Emergence Of Psychology — Part 2
-    slug: emergence-of-psychology-part-2
-    questionCount: 40
   - name: Emerging Areas In Psychology — Part 1
     slug: emerging-areas-in-psychology-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Emerging Areas In Psychology — Part 2
     slug: emerging-areas-in-psychology-part-2
-    questionCount: 30
+    questionCount: 28
   - name: Human Behaviour In Psychology — Part 1
     slug: human-behaviour-in-psychology-part-1
     questionCount: 40
@@ -42,7 +36,7 @@ subtopics:
     questionCount: 10
   - name: Human Intelligence And Creativity In Psychology — Part 1
     slug: human-intelligence-and-creativity-in-psychology-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Human Intelligence And Creativity In Psychology — Part 2
     slug: human-intelligence-and-creativity-in-psychology-part-2
     questionCount: 1
@@ -51,7 +45,7 @@ subtopics:
     questionCount: 40
   - name: Introduction To Psychology — Part 2
     slug: introduction-to-psychology-part-2
-    questionCount: 40
+    questionCount: 37
   - name: Learning Process In Psychology — Part 1
     slug: learning-process-in-psychology-part-1
     questionCount: 40

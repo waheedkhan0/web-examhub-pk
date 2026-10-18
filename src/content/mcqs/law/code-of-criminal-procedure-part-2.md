@@ -18,7 +18,7 @@ questions:
   - id: 1
     question: "Permission to investigate into a non-cognizable offence can be granted by a:"
     options:
-      - Magistrate in any part of India
+      - Magistrate in any part of Pakistan
       - Magistrate in any part of State
       - Magistrate having jurisdiction to try the case
       - Session Judge
@@ -41,32 +41,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 3
-    question: Cognizable offence under Indian Penal Code has been defined
-    options:
-      - Under section 2(a) of Criminal Procedure Code
-      - Under section 2(c) of Criminal Procedure Code
-      - Under section 2(i) of Criminal Procedure Code
-      - Under section 2(l) of Criminal Procedure Code
-    answer: 1
-    explanation: Under section 2(c) of Criminal Procedure Code is the correct answer to “Cognizable offence under Indian Penal Code has been defined”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 4
-    question: Section 311-A of Code of Criminal Procedure empowers the Magistrate of First Class to
-    options:
-      - Summon material witness
-      - Postpone or adjourn proceedings
-      - Order person to give specimen signatures
-      - Visit and inspect any place in which an offence is alleged to have been committed
-    answer: 2
-    explanation: Order person to give specimen signatures is the correct answer to “Section 311-A of Code of Criminal Procedure empowers the Magistrate of First Class to”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 5
     question: What must a Magistrate do in case his jurisdiction to continue the proceeding ceases under Section 137 Criminal Procedure Code?
     options:
@@ -76,19 +50,6 @@ questions:
       - None of the above
     answer: 3
     explanation: None of the above is the correct answer to “What must a Magistrate do in case his jurisdiction to continue the proceeding ceases under Section 137 Criminal Procedure Code”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 6
-    question: Who among the following is empowered for recording of confessions and statements under Section 164 of the Code of Criminal Procedure, 1973?
-    options:
-      - The Superintendent of Police
-      - The Public Prosecutor
-      - The District Government Counsel (Criminal)
-      - Any Metropolitan Magistrate or Judicial Magistrate
-    answer: 3
-    explanation: Any Metropolitan Magistrate or Judicial Magistrate is the correct answer to “Who among the following is empowered for recording of confessions and statements under Section 164 of the Code of Criminal Procedure, 1973”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -132,19 +93,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 10
-    question: Under the provisions of section 202 of the Code of Criminal Procedure, 1973 the Magistrate cannot-
-    options:
-      - Conduct the inquiry himself
-      - Ask the police officer to conduct an investigation
-      - Ask a person who is not a police officer to conduct an investigation
-      - Use judicial discretion
-    answer: 3
-    explanation: Use judicial discretion is the correct answer to “Under the provisions of section 202 of the Code of Criminal Procedure, 1973 the Magistrate cannot-”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 11
     question: Monthly allowance or the interim monthly allowance can be altered, as provided
     options:
@@ -154,19 +102,6 @@ questions:
       - Under section 128 of Criminal Procedure Code
     answer: 2
     explanation: Under section 127 of Criminal Procedure Code is the correct answer to “Monthly allowance or the interim monthly allowance can be altered, as provided”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 12
-    question: The special court is
-    options:
-      - Not subordinate to High Court
-      - Is subordinate to High Court
-      - Superior to High Court
-      - Supplement to High Court
-    answer: 0
-    explanation: Not subordinate to High Court is the correct answer to “The special court is”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -184,19 +119,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 14
-    question: Under the Code of Criminal Procedure 1973 the Court is empowered to summon any person as a witness.
-    options:
-      - Only at the stage of inquiry and trial
-      - Only at the stage of trial
-      - Only at the stage of inquiry or other proceeding
-      - At any stage of inquiry, trial or other proceeding
-    answer: 3
-    explanation: At any stage of inquiry, trial or other proceeding is the correct answer to “Under the Code of Criminal Procedure 1973 the Court is empowered to summon any person as a witness.”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 15
     question: Monthly amount of Maintenance under Section 125 of Criminal Procedure Code is
     options:
@@ -210,32 +132,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 16
-    question: Which section of Criminal Procedure Code provides protection against double jeopardy or autrefois convict?
-    options:
-      - Section 400
-      - Section 403
-      - Section 300
-      - Section 301
-    answer: 2
-    explanation: Section 300 is the correct answer to “Which section of Criminal Procedure Code provides protection against double jeopardy or autrefois convict”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 17
-    question: For granting pardon under Section 306 of the Code of Criminal Procedure, 1973
-    options:
-      - The witness must not be directly involved in the offence
-      - The accused should have been given an opportunity to cross examine the person getting pardon
-      - The person getting pardon need not be in police custody
-      - The offence should not be punishable with imprisonment exceeding 10 years
-    answer: 2
-    explanation: The person getting pardon need not be in police custody is the correct answer to “For granting pardon under Section 306 of the Code of Criminal Procedure, 1973”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 18
     question: A magistrate to whom a complaint is made under section 340 or section 341 of the Code of Criminal Procedure shall proceed, as far as may be, to deal with the case as if it were instituted
     options:
@@ -245,19 +141,6 @@ questions:
       - None of these
     answer: 0
     explanation: On a police report is the correct answer to “A magistrate to whom a complaint is made under section 340 or section 341 of the Code of Criminal Procedure shall proceed, as far as may be, to deal with the case as if it were instituted”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 19
-    question: Cash in lieu of surety bond can be permitted by virtue of
-    options:
-      - Section 441 of Criminal Procedure Code
-      - Section 442 of Criminal Procedure Code
-      - Section 445 of Criminal Procedure Code
-      - Section 444 of Criminal Procedure Code
-    answer: 2
-    explanation: Section 445 of Criminal Procedure Code is the correct answer to “Cash in lieu of surety bond can be permitted by virtue of”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -301,32 +184,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 23
-    question: Which of the following offence is not compoundable under Section 320 of the Code of Criminal Procedure, 1973?
-    options:
-      - Section 323 of Indian Penal Code
-      - Section 334 of Indian Penal Code
-      - Section 448 of Indian Penal Code
-      - Section 307 of Indian Penal Code
-    answer: 3
-    explanation: Section 307 of Indian Penal Code is the correct answer to “Which of the following offence is not compoundable under Section 320 of the Code of Criminal Procedure, 1973”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 24
-    question: Which of the following acts done by the Metropolitan Magistrate while not being empowered by law, is not an irregularity vitiating the proceedings under Section 461 Criminal Procedure Code?
-    options:
-      - Tries an offence summarily
-      - Tries an offender
-      - Demands security for good behaviour
-      - Pardons the offender
-    answer: 3
-    explanation: Pardons the offender is the correct answer to “Which of the following acts done by the Metropolitan Magistrate while not being empowered by law, is not an irregularity vitiating the proceedings under Section 461 Criminal Procedure Code”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 25
     question: The maximum number offences of the same kind that can be tried together is
     options:
@@ -349,32 +206,6 @@ questions:
       - Section 160
     answer: 1
     explanation: Section 173(8) is the correct answer to “Further investigation in respect of an offence after report on completion of investigation has been forwarded to the Magistrate is provided under”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 27
-    question: Case-diary' or 'police-diary' is an important document under Code of Criminal Procedure, 1973 which relates to
-    options:
-      - Enquiry
-      - Investigation
-      - Both A and B
-      - None of these
-    answer: 1
-    explanation: Investigation is the correct answer to “Case-diary' or 'police-diary' is an important document under Code of Criminal Procedure, 1973 which relates to”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 28
-    question: "A Metropolitan Magistrate has the power to pass sentence, as provided under section 29 of Criminal Procedure Code:"
-    options:
-      - Any sentence authorised by law except a sentence of death, or
-      - Imprisonment for life or of imprisonment for a term exceeding seven years
-      - Imprisonment for a term not exceeding three years and fine not exceeding Rs. 10,000
-      - Imprisonment for a term not exceeding one year and fine not exceeding Rs. 1,000
-    answer: 2
-    explanation: Imprisonment for a term not exceeding three years and fine not exceeding Rs. 10,000 is the correct answer to “A Metropolitan Magistrate has the power to pass sentence, as provided under section 29 of Criminal Procedure Code:”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -431,45 +262,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 33
-    question: Which offence is not compoundable?
-    options:
-      - 337 Indian Penal Code
-      - 324 Indian Penal Code
-      - 312 Indian Penal Code
-      - 420 Indian Penal Code
-    answer: 1
-    explanation: 324 Indian Penal Code is the correct answer to “Which offence is not compoundable”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 34
-    question: Which one of the following Magistrate is authorized to decide maintenance under section 125 of the Code of Criminal Procedure, 1973
-    options:
-      - Any Judicial Magistrate
-      - Executive Magistrate
-      - 1st class Magistrate
-      - 2nd class Magistrate
-    answer: 2
-    explanation: 1st class Magistrate is the correct answer to “Which one of the following Magistrate is authorized to decide maintenance under section 125 of the Code of Criminal Procedure, 1973”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 35
-    question: A Magistrate may take cognizance under Section 190 of the Code of Criminal Procedure of any offence
-    options:
-      - Upon receiving a complaint of facts which constitute such offence or upon his own knowledge that such offence has been committed
-      - Upon a police report of such facts
-      - Upon information received from any person other than a police officer, that such offence has been committed
-      - All these
-    answer: 3
-    explanation: All these is the correct answer to “A Magistrate may take cognizance under Section 190 of the Code of Criminal Procedure of any offence”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 36
     question: Which of the following persons has/have the right to file an appeal under Section 372 Criminal Procedure Code against an order of acquittal?
     options:
@@ -518,19 +310,6 @@ questions:
       - Court can exempt from oath
     answer: 1
     explanation: Will be recorded without oath is the correct answer to “Under Section 313 of Criminal Procedure Code, the statement of the accused”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 40
-    question: "In which of the cases a plea bargain cannot be effected:"
-    options:
-      - Where the offence is punishable with imprisonment exceeding 7 years
-      - Where the offence is against a child below 14 years
-      - Where the offence is against a woman
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “In which of the cases a plea bargain cannot be effected:”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge

@@ -136,6 +136,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
           <div class="hidden md:flex items-center space-x-7">
             <a href="/exams" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/exams') }]}>Exams</a>
             <a href="/jobs" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/jobs') }]}>Jobs & Posts</a>
+            <a href="/practice" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/practice') }]}>Mock Tests</a>
             <a href="/subjects" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/subjects') }]}>Subjects</a>
             <a href="/mcqs" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/mcqs') }]}>MCQs</a>
             <a href="/guides" class:list={['text-slate-700 hover:text-teal-600 font-medium transition', { 'text-teal-600': isActive('/guides') }]}>Guides</a>
@@ -179,6 +180,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
         <div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-slate-200">
           <a href="/exams" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/exams') }]}>Exams</a>
           <a href="/jobs" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/jobs') }]}>Jobs & Posts</a>
+          <a href="/practice" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/practice') }]}>Mock Tests</a>
           <a href="/subjects" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/subjects') }]}>Subjects</a>
           <a href="/mcqs" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/mcqs') }]}>MCQs</a>
           <a href="/guides" class:list={['block py-2 px-2 text-slate-700 hover:text-teal-600 transition', { 'text-teal-600': isActive('/guides') }]}>Guides</a>

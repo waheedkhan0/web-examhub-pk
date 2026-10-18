@@ -66,19 +66,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 5
-    question: Which of the following are the two major components of Information Technologyin India?
-    options:
-      - It services
-      - Business Processing Outsourcing
-      - Automobile Companies
-      - Both A and B
-    answer: 3
-    explanation: Both A and B is the correct answer to “Which of the following are the two major components of Information Technologyin India”. This question is standard in competitive examination syllabi for Science_ Technology And Society In Sociology.
-    keyConcept: Science_ Technology And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 6
     question: The digital divide can be overcome by which initiative?
     options:
@@ -183,19 +170,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 14
-    question: Food fortification in done in which of the government schemes?
-    options:
-      - Mid day meal schemes
-      - POSHAN scheme
-      - Aganwari centres
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Food fortification in done in which of the government schemes”. This question is standard in competitive examination syllabi for Science_ Technology And Society In Sociology.
-    keyConcept: Science_ Technology And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 15
     question: Nixon era policies lead to a mad rush to
     options:
@@ -296,19 +270,6 @@ questions:
       - Howard Rheingold
     answer: 0
     explanation: Ferdinand Tonnies is the correct answer to “Who was the first sociologist to write about the concept of community and its particular characteristics”. This question is standard in competitive examination syllabi for Science_ Technology And Society In Sociology.
-    keyConcept: Science_ Technology And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 23
-    question: The growth of science and technology in India can be traced back to
-    options:
-      - Post-Independent Phenomena
-      - Indus Valley Civilisation
-      - Mughal empire
-      - British rule
-    answer: 1
-    explanation: Indus Valley Civilisation is the correct answer to “The growth of science and technology in India can be traced back to”. This question is standard in competitive examination syllabi for Science_ Technology And Society In Sociology.
     keyConcept: Science_ Technology And Society In Sociology
     testedIn:
       - CSS

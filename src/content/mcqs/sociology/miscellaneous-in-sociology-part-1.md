@@ -79,19 +79,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: Name the Indian Sociologist who made important contribution to the study of social values.
-    options:
-      - S. C. Dube
-      - Radha Kamal Mukherjee
-      - D. N. Majumdar
-      - Ram Krishna Mukherjee
-    answer: 1
-    explanation: Radha Kamal Mukherjee is the correct answer to “Name the Indian Sociologist who made important contribution to the study of social values.”. This question is standard in competitive examination syllabi for Miscellaneous In Sociology.
-    keyConcept: Miscellaneous In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 7
     question: Which of the following cannot be called as the deviant individuals?
     options:
@@ -118,19 +105,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 9
-    question: Which one of the following is not an important source of politicization of castes in India?
-    options:
-      - Caste panchayats
-      - Caste journals
-      - Caste endogamy
-      - Caste associations
-    answer: 1
-    explanation: Caste journals is the correct answer to “Which one of the following is not an important source of politicization of castes in India”. This question is standard in competitive examination syllabi for Miscellaneous In Sociology.
-    keyConcept: Miscellaneous In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 10
     question: Who believed that order, stability and cooperation in society are based on value consensus that is a general agreement by the members of society.
     options:
@@ -140,19 +114,6 @@ questions:
       - None of the above
     answer: 1
     explanation: T. Parsons is the correct answer to “Who believed that order, stability and cooperation in society are based on value consensus that is a general agreement by the members of society.”. This question is standard in competitive examination syllabi for Miscellaneous In Sociology.
-    keyConcept: Miscellaneous In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 11
-    question: Which of the following Acts has affected the 'exogamy rule' of Hindu Marriage?
-    options:
-      - Special Marriage Act, 1954
-      - Hindu Marriage Act, 1955
-      - Widow Remarriage Act, 1956
-      - Child Marriage Restraint Act, 1929
-    answer: 1
-    explanation: Hindu Marriage Act, 1955 is the correct answer to “Which of the following Acts has affected the 'exogamy rule' of Hindu Marriage”. This question is standard in competitive examination syllabi for Miscellaneous In Sociology.
     keyConcept: Miscellaneous In Sociology
     testedIn:
       - CSS
@@ -400,19 +361,6 @@ questions:
       - Collective representation
     answer: 1
     explanation: Social change is the correct answer to “According to Durkheim all - begins with some form of deviance.”. This question is standard in competitive examination syllabi for Miscellaneous In Sociology.
-    keyConcept: Miscellaneous In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: In which of the following is the first literanytraces of caste system found?
-    options:
-      - Rigveda
-      - Atharvaveda
-      - Yajuraveda
-      - Samaveda
-    answer: 0
-    explanation: Rigveda is the correct answer to “In which of the following is the first literanytraces of caste system found”. This question is standard in competitive examination syllabi for Miscellaneous In Sociology.
     keyConcept: Miscellaneous In Sociology
     testedIn:
       - CSS

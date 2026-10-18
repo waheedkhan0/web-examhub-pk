@@ -27,33 +27,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 2
-    question: The first Indian language newspaper was
-    options:
-      - Bangadoota
-      - Samachar
-      - Digdarshan
-      - Mirat-ul-Akhbar
-    answer: 2
-    explanation: "Samachar Darpan was the first newspaper published entirely in an Indian language, Bengali. It was started in 1818 by the Serampore Missionaries and is widely recognized as the first Indian language newspaper . Bangadoota was a journal that appeared slightly earlier but was multilingual and not a pure Indian language newspaper. Digdarshan was a magazine, not a newspaper. Mirat-ul-Akhbar was published in Persian, which is not considered an Indian language in this context. Therefore, Samachar Darpan (Option B: Samachar) holds the title as the first true Indian language newspaper."
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 3
-    question: When was the first printing press established in India?
-    options:
-      - "1656"
-      - "1672"
-      - "1674"
-      - "1567"
-      - "1556"
-    answer: 4
-    explanation: "The first printing press in India was established in the year 1556 by the Jesuit missionaries in Goa. Key Points: The printing press was brought to India by Portuguese Jesuits to assist in their religious missions. It was initially used for printing religious texts in local languages. This marked the beginning of the printing and publishing industry in India, which played a significant role in the dissemination of knowledge. The first book printed in India was titled \"Doctrina Christa\", a religious text in Konkani and Tamil languages."
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Mass communication traditionally tends to be
     options:
@@ -63,71 +36,6 @@ questions:
       - all of the above
     answer: 3
     explanation: all of the above is the correct answer to “Mass communication traditionally tends to be”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 5
-    question: Which newspaper carried an advertisement in 1875 announcing presentation of a force named "Lamentations of Bharat Mata with her Children"?
-    options:
-      - Kesari
-      - The Tribune
-      - Amrit Bazar Patrika
-      - The Times of India
-    answer: 2
-    explanation: Amrit Bazar Patrika is the correct answer to “Which newspaper carried an advertisement in 1875 announcing presentation of a force named "Lamentations of Bharat Mata with her Children"”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 6
-    question: The first Indian language newspaper published in India which is still continuing was . . . . . . . .
-    options:
-      - Kannada Samachar
-      - The Bengali Gazette
-      - Mumbai Samachar
-      - Nav Bharat Times
-    answer: 2
-    explanation: Mumbai Samachar is the correct answer to “The first Indian language newspaper published in India which is still continuing was . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: The daily newspaper New India was established by . . . . . . . .
-    options:
-      - S Sadanand
-      - Mrs. Annie Besant
-      - BG Horniman
-      - Phiroze Shah Mehta
-    answer: 1
-    explanation: Mrs. Annie Besant is the correct answer to “The daily newspaper New India was established by . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 8
-    question: The Second Press Commission of India did not favour a code of ethics that was . . . . . . . .
-    options:
-      - informal
-      - formal
-      - personal
-      - substantial
-    answer: 1
-    explanation: formal is the correct answer to “The Second Press Commission of India did not favour a code of ethics that was . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 9
-    question: The Second Press Commission of India recommended the establishment of . . . . . . . .
-    options:
-      - Press Council of India
-      - National Media Training Institute
-      - Newspaper Development Corporation
-      - Media Competition Commission
-    answer: 2
-    explanation: Newspaper Development Corporation is the correct answer to “The Second Press Commission of India recommended the establishment of . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
     keyConcept: Introduction To Mass Communication And Journalism
     testedIn:
       - CSS
@@ -197,19 +105,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 15
-    question: According to the Audit Bureau of Circulations, the three Indian language dailies having the maximum circulation during the period January - June, 2018 were . . . . . . . .
-    options:
-      - Dainik Bhaskar, Dainik Jagaran and Hindustan
-      - Dainik Bhaskar, Dainik Jagaran and The Times of India
-      - Malayala Manorama, Daily Thanthi and Amar Ujala
-      - Eenadu, Malayala Manorama and Mathrubhumi
-    answer: 0
-    explanation: Dainik Bhaskar, Dainik Jagaran and Hindustan is the correct answer to “According to the Audit Bureau of Circulations, the three Indian language dailies having the maximum circulation during the period January - June, 2018 were . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
   - id: 16
     question: . . . . . . . . is unmodulated - sound track made by recording silence with the microphone circuit open when commentary is recorded.
     options:
@@ -249,32 +144,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 19
-    question: The Second Press Commission of India recommended the removal of Section 5 of the . . . . . . . .
-    options:
-      - Press Council Act, 1978
-      - Official Secrets Act, 1923
-      - Contempt of Courts Act, 1971
-      - Press and Registration of Books Act, 1867
-    answer: 1
-    explanation: Official Secrets Act, 1923 is the correct answer to “The Second Press Commission of India recommended the removal of Section 5 of the . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 20
-    question: Identify the correct chronological sequence of the launch of the following newspapers.
-    options:
-      - Bombay Darpan, Bombay Samachar, Bombay Courier, Bengal Gazette
-      - Bengal Gazette, Bombay Courier, Bombay Samachar, Bombay Darpan
-      - Bombay Samachar, Bombay Courier, Bombay Darpan, Bengal Gazette
-      - Bombay Courier, Bombay Samachar, Bombay Darpan, Bengal Gazette
-    answer: 1
-    explanation: Bengal Gazette, Bombay Courier, Bombay Samachar, Bombay Darpan is the correct answer to “Identify the correct chronological sequence of the launch of the following newspapers.”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
   - id: 21
     question: Who installed the first steam printing press?
     options:
@@ -310,19 +179,6 @@ questions:
       - None of these
     answer: 1
     explanation: The number of books or magazines printed by a publisher at one time is the correct answer to “What are net sales in the parlance of book publishing”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 24
-    question: The first Indian news agency floated by KC Roy in 1940 was
-    options:
-      - Press News Bureau (PNB)
-      - Press Trust of India (PTI)
-      - Associated Press of India (API)
-      - Free Press of India (FPI)
-    answer: 2
-    explanation: Associated Press of India (API) is the correct answer to “The first Indian news agency floated by KC Roy in 1940 was”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
     keyConcept: Introduction To Mass Communication And Journalism
     testedIn:
       - CSS
@@ -444,19 +300,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 34
-    question: Assertion (A) Indian anemia to the most extent has been influenced by Western films. Reason (R) Indigenistion of foreign films through a formula of songs dance and melodrama in spite of Indian cinema.
-    options:
-      - Both A and R are true and R is the correct explanation of A
-      - Both A and R are true, but R is not a correct explanation of A
-      - A is true, but R is false
-      - A is false, but R is true
-    answer: 0
-    explanation: Both A and R are true and R is the correct explanation of A is the correct answer to “Assertion (A) Indian anemia to the most extent has been influenced by Western films. Reason (R) Indigenistion of foreign films through a formula of songs dance and melodrama in spite of Indian cinema.”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
   - id: 35
     question: James Carey proposed the
     options:
@@ -479,19 +322,6 @@ questions:
       - Gotenburg
     answer: 2
     explanation: London is the correct answer to “Sun is a tabloid being published from”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
-    keyConcept: Introduction To Mass Communication And Journalism
-    testedIn:
-      - CSS
-      - PMS
-  - id: 37
-    question: Indian language newspapers have increased their circulation in recent years due to . . . . . . . .
-    options:
-      - increase in content related to Bollywood movies
-      - higher literacy of migrants from rural areas to cities
-      - reducing the prices of various editions of the newspapers
-      - all of the above
-    answer: 1
-    explanation: higher literacy of migrants from rural areas to cities is the correct answer to “Indian language newspapers have increased their circulation in recent years due to . . . . . . . .”. This question is standard in competitive examination syllabi for Introduction To Mass Communication And Journalism.
     keyConcept: Introduction To Mass Communication And Journalism
     testedIn:
       - CSS
@@ -536,5 +366,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

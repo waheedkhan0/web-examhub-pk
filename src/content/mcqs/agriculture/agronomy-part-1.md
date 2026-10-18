@@ -157,32 +157,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 12
-    question: The highest production of mustard is contributed by the state
-    options:
-      - Gujarat
-      - Rajasthan
-      - Uttar Pradesh
-      - Madhya Pradesh
-    answer: 1
-    explanation: The highest production of mustard in India is contributed by Rajasthan. It alone contributes about 40% approximately $${\frac{1}{3}^{{\text{rd}}}}$$ of the total mustard production of the country. The soil and climatic conditions of Rajasthan favor the maximum production of the mustard crop.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 13
-    question: JNKVV was established in the year of
-    options:
-      - "1962"
-      - "1964"
-      - "1968"
-      - "1966"
-    answer: 1
-    explanation: JNKVV stands for Jawaharlal Nehru Krishi Vishwa Vidyalaya, which was established on 1 st October 1964. It is located in Jabalpur, Madhya Pradesh and was inaugurated by Smt. Indira Gandhi. This university is serving 25 cities of Madhya Pradesh through ample agricultural, horticultural and animal husbandry colleges. Its mission is to conduct education, research and extension activities for enhancing the productivity and sustainability of agricultural production and the quality of rural livelihood in the state of Madhya Pradesh.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 14
     question: The most critical stage for irrigation in potato is
     options:
@@ -218,32 +192,6 @@ questions:
       - None of the above
     answer: 2
     explanation: Allophane is amorphous to poorly crystalline hydrous aluminum silicate mineraloids. Its chemical formula is Al 2 O 3 ·(SiO 2 ) 1.3-2 ·(H 2 O) 2.5-3 . It is produced by weathering or hydrothermal alteration of volcanic glass or feldspars. It has a large negative charge, which is balanced by aluminium cation.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 17
-    question: NBSSLP was established at
-    options:
-      - Ranchi
-      - Bengaluru
-      - Jhansi
-      - Nagpur
-    answer: 3
-    explanation: NBSSLP stands for National bureau of soil survey and Land use planning. Government of India established All India Soil Survey Organisation in 1956 with Headquarters at IARI, Nagpur with five regional soil correlation centers. Later in 1958, the land use planning Scheme was also integrated with it. In 1976 it became an independent institute of ICAR named NBSS & LUP and continued to function at IARI, New Delhi. But later in June 1978, the headquarters was shifted back to Nagpur.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 18
-    question: Indian Journal of Agricultural sciences published from
-    options:
-      - Indian Society of Agronomy
-      - Indian Agricultural Research Institute
-      - Indian Society of Soil Science
-      - Indian Council of Agricultural Research
-    answer: 3
-    explanation: All the Indian research journals of agricultural sciences are published by the Indian Council of Agricultural Research (ICAR). Journals are devoted to experimental agriculture and are abstracted by all the major abstracting services. Nowadays with the advancement of technology, e-journals and online articles are also been published.
     keyConcept: Agronomy
     testedIn:
       - PPSC Agriculture Officer
@@ -365,19 +313,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 28
-    question: Government of India started subsidy on fertilizers with effect from
-    options:
-      - 1st November 1966
-      - 1st November 1969
-      - 1st November 1977
-      - 2nd October 1988
-    answer: 2
-    explanation: Subsidy on fertilizers was announced by the Government of India in years 73 - 74 due to a rise in prices but acted with effect from 1 st November 1977. It was named DBT i.e Direct Benefit Transfer scheme in fertilizers. Under this scheme, the farmers will get the subsidy amount directly in their bank accounts for the purchase of fertilizers. This was an excellent initiative taken for farmers which lead to high quality and productive farms in India.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 29
     question: Excess uptake of which element is known as luxury consumption
     options:
@@ -430,32 +365,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 33
-    question: Cultivation of durum wheat is primarily confined to
-    options:
-      - Central India
-      - Southern India
-      - Both A and B
-      - None of these
-    answer: 0
-    explanation: Durum wheat is spring wheat and it is not much grown in India, despite that it is grown mainly in the central zone which includes the states of Madhya Pradesh, Gujarat, South Rajasthan and Maharashtra. Although durum wheat is known for its high protein content it is not so good to prepare chapatis, hence extensively grown for pasta production.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 34
-    question: HB-1 hybrid ofbajrareleased in 1965 evolved from a cross
-    options:
-      - Tift-23-A × BIL-3B
-      - Tift-23-A × J-88
-      - Tift-23-A × J-I04
-      - None of these
-    answer: 0
-    explanation: HB-1 is the first hybrid of bajra (pearl millet) released in India in 1965 . It was developed through a cross between Tift-23-A (a male sterile line) and BIL-3B (a restorer line). This hybrid was part of the initial efforts in hybrid bajra breeding and marked a significant milestone in Indian agronomy. Tift-23-A played a crucial role as a cytoplasmic male sterile (CMS) line, which is essential for hybrid seed production. The successful release of HB-1 demonstrated the potential of hybrid technology in improving pearl millet yields in India.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 35
     question: Kabuli gram belongs to the family of
     options:
@@ -495,19 +404,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 38
-    question: The first commercial cotton of the world is
-    options:
-      - Hybrid-4
-      - H-777
-      - Type-64
-      - Kuber
-    answer: 3
-    explanation: "The first commercial cotton hybrid in the world, Hybrid-4, was released in 1970 in India. Hybrid-4 marked a significant milestone in cotton production as it was the first hybrid variety developed for large-scale commercial cultivation. This hybrid offered higher yields and better adaptability compared to traditional cotton varieties, revolutionizing cotton farming practices. Note: Its development showcased the potential of hybrid technology in improving agricultural productivity."
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 39
     question: In addition nitrogen, oxygen and carbon dioxide the other principle gas present in atmosphere is
     options:
@@ -521,19 +417,5 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 40
-    question: PDM 11 is a variety of
-    options:
-      - Urd
-      - Arhar
-      - Mung
-      - Lobia
-    answer: 2
-    explanation: PDM 11 is one of the varieties of mung bean also called green gram. It is an early maturing variety and tolerant to powdery mildew and leaf spots. Moreover, it is a short duration variety of 60 days. It was developed by crossing china mung X Type 1.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
 ---
-
 

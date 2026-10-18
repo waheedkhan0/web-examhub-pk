@@ -15,19 +15,6 @@ targetExams:
   - NTS
   - SPSC
 questions:
-  - id: 1
-    question: Who amongst the following had called Rabindranath Tagore as THE GREAT SENTINEL?
-    options:
-      - Abul Kalam Azad
-      - Mahatma Gandhi
-      - Dr. Rajendra Prasad
-      - Subhash Chandra Bose
-    answer: 1
-    explanation: Mahatma Gandhi amongst the following had called Rabindranath Tagore as THE GREAT SENTINEL. Rabindranath Tagore was a key figure of the Bengal Renaissance. He started writing at an early age and by the turn of the century had become a household name in Bengal as a poet, a songwriter, a playwright, an essayist, a short story writer and a novelist. In 1913 he was awarded the Nobel Prize for Literature and his verse collection Gitanjali came to be known internationally. At about the same time he founded Visva-Bharati, a university located in Santiniketan, near Kolkata. Called the ‘Great Sentinel’ of modern India by Mahatma Gandhi, Tagore steered clear of active politics but is famous for returning his knighthood as a gesture of protest against the Jallianwala Bagh massacre in 1919.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 2
     question: Grand Central Terminal, Park Avenue, New York is the world's
     options:
@@ -55,19 +42,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 4
-    question: Garampani sanctuary is located at
-    options:
-      - Gangtok, Sikkim
-      - Kohima, Nagaland
-      - Diphu, Assam
-      - Junagarh, Gujarat
-    answer: 2
-    explanation: Garampani sanctuary is located at Diphu, Assam. It is one of the oldest sanctuaries containing hot water spring and waterfalls and surrounded by Nambor Sanctuary having 51 rare species of orchid.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 5
     question: For which of the following disciplines is Nobel Prize awarded?
     options:
@@ -90,32 +64,6 @@ questions:
       - Nazi Party
     answer: 3
     explanation: Hitler party which came into power in 1933 is known as Nazi Party. Under the leadership of Adolf Hitler (1889-1945), the National Socialist German Workers’ Party, or Nazi Party, grew into a mass movement and ruled Germany through totalitarian means from 1933 to 1945. Founded in 1919 as the German Workers’ Party, the group promoted German pride and anti-Semitism, and expressed dissatisfaction with the terms of the Treaty of Versailles, the 1919 peace settlement that ended World War I (1914-1918) and required Germany to make numerous concessions and reparations.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 7
-    question: FFC stands for
-    options:
-      - Federation of Football Council
-      - Film Finance Corporation
-      - Foreign Finance Corporation
-      - None of the above
-    answer: 1
-    explanation: FFC stands for Film Finance Corporation. FFC, is India's state funding body for films. The 1927 Indian Cinematograph Committee recommended such a state-sponsored agency in its Report of the Indian Cinematograph Committee.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 8
-    question: Fastest shorthand writer was
-    options:
-      - Dr. G. D. Bist
-      - J.M. Tagore
-      - Khudada Khan
-      - J.R.D. Tata
-    answer: 0
-    explanation: Fastest shorthand writer was Dr. G. D. Bist.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC
@@ -276,19 +224,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 21
-    question: Federation Cup, World Cup, Allywyn International Trophy and Challenge Cup are awarded to winners of
-    options:
-      - Basketball
-      - Tennis
-      - Cricket
-      - Volleyball
-    answer: 3
-    explanation: Federation Cup, World Cup, Allywyn International Trophy and Challenge Cup are awarded to winners of Volleyball.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 22
     question: Each year World Red Cross and Red Crescent Day is celebrated on
     options:
@@ -302,19 +237,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 23
-    question: Famous sculptures depicting art of love built some time in 950 AD - 1050 AD are
-    options:
-      - Konark Temple
-      - Khajuraho temples
-      - Mahabalipuram temples
-      - Sun temple
-    answer: 1
-    explanation: Famous sculptures depicting art of love built some time in 950 AD - 1050 AD are Khajuraho temples. The Khajuraho Group of Monuments is a group of Hindu temples and Jain temples in Chhatarpur district, Madhya Pradesh, India, about 175 kilometres southeast of Jhansi. They are a UNESCO World Heritage Site. The temples are famous for their nagara-style architectural symbolism and their erotic sculptures.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 24
     question: Gravity setting chambers are used in industries to remove
     options:
@@ -324,32 +246,6 @@ questions:
       - suspended particulate matter
     answer: 3
     explanation: Gravity setting chambers are used in industries to remove suspended particulate matter. A Gravitational Settling Chamber is a rectangular chamber in which several horizontal trays are fixed. When the polluted gas enters the chamber, its velocity is kept low so that the particulates get sufficient time to settle down due to gravity.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 25
-    question: Guwahati High Court is the judicature of
-    options:
-      - Assam
-      - Nagaland
-      - Arunachal Pradesh
-      - All of the above
-    answer: 3
-    explanation: Guwahati High Court is the judicature of Assam, Nagaland and Arunachal Pradesh.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 26
-    question: During eleventh Antarctic Expedition in Nov. 1991/March 1992 ____ was installed.
-    options:
-      - Second Permanent Station 'Maitree'
-      - First permanent station 'Dakshin Gangotri'
-      - SODAR (Sonic Detection And Ranging)
-      - None of the above
-    answer: 2
-    explanation: SODAR (Sonic Detection And Ranging), also written as sodar, is a meteorological instrument also known as a wind profiler which measures the scattering of sound waves by atmospheric turbulence.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC
@@ -376,19 +272,6 @@ questions:
       - Zoroastrianism (Parsi Religion)
     answer: 3
     explanation: Fire temple is the place of worship of Zoroastrianism (Parsi Religion). A fire temple in Zoroastrianism is the place of worship for Zoroastrians, often called dar-e mehr (Persian) or agiyari (Gujarati). In the Zoroastrian religion, fire (see atar), together with clean water (see aban), are agents of ritual purity.
-    keyConcept: Basic General Knowledge
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 29
-    question: Film and TV institute of India is located at
-    options:
-      - Pune (Maharashtra)
-      - Pimpri (Maharashtra)
-      - Perambur (Tamilnadu)
-      - Rajkot (Gujarat)
-    answer: 0
-    explanation: Film and TV institute of India is located at Pune (Maharashtra). The Film and Television Institute of India (FTII) is an autonomous institute under the Ministry of Information and Broadcasting of the Government of India and aided by the Central Government of India. It is situated on the premises of the erstwhile Prabhat Film Company in Pune.
     keyConcept: Basic General Knowledge
     testedIn:
       - PPSC

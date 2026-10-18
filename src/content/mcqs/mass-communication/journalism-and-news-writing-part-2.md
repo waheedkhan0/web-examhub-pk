@@ -53,19 +53,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 4
-    question: The first multilingual TV network of India was
-    options:
-      - ZEE
-      - Jain
-      - Geminy
-      - Etc.
-    answer: 1
-    explanation: Jain is the correct answer to “The first multilingual TV network of India was”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
   - id: 5
     question: Who stated, "Freedom always entails an obligation, whether it is a nation's freedom or an individual's freedom or a group freedom of the Press"?
     options:
@@ -75,19 +62,6 @@ questions:
       - J. L. Nehru
     answer: 3
     explanation: J. L. Nehru is the correct answer to “Who stated, "Freedom always entails an obligation, whether it is a nation's freedom or an individual's freedom or a group freedom of the Press"”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
-  - id: 6
-    question: Who was the last Governer General of India?
-    options:
-      - C. Rajgoplachari
-      - Bhim Rao Ambedkar
-      - Ravindra Nath Tagore
-      - Bal Gangadhar Tilak
-    answer: 0
-    explanation: C. Rajgoplachari is the correct answer to “Who was the last Governer General of India”. This question is standard in competitive examination syllabi for Journalism And News Writing.
     keyConcept: Journalism And News Writing
     testedIn:
       - CSS
@@ -157,19 +131,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 12
-    question: Identify the correct sequence of following news agencies that operated in India.
-    options:
-      - Free Press, Reuters, Associated Press of India, United Press of lndia
-      - Reuters, Associated Press of India, Free Press, United Press of India
-      - Associated Press of India, United Press of India, Reuters, Free Press
-      - United Press of India, Reuters, Associated Press of India, Free Press
-    answer: 0
-    explanation: Free Press, Reuters, Associated Press of India, United Press of lndia is the correct answer to “Identify the correct sequence of following news agencies that operated in India.”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
   - id: 13
     question: Globalisation led to the emergence of
     options:
@@ -179,19 +140,6 @@ questions:
       - All of the above
     answer: 1
     explanation: Global flows is the correct answer to “Globalisation led to the emergence of”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
-  - id: 14
-    question: Kalinath Ray was arrested and jailed for two years, he was the editor of
-    options:
-      - Mid-day
-      - Tribune
-      - Bombay Chronicle
-      - Pioneer
-    answer: 1
-    explanation: Tribune is the correct answer to “Kalinath Ray was arrested and jailed for two years, he was the editor of”. This question is standard in competitive examination syllabi for Journalism And News Writing.
     keyConcept: Journalism And News Writing
     testedIn:
       - CSS
@@ -482,19 +430,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 37
-    question: Who is considered as the champion of Indian journalism?
-    options:
-      - M.K. Gandhi
-      - Ram Mohan Roy
-      - James Augustus Hickey
-      - Madan Mohan Malviya
-    answer: 1
-    explanation: Ram Mohan Roy is the correct answer to “Who is considered as the champion of Indian journalism”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
   - id: 38
     question: Which is not an example of transnational news agencies?
     options:
@@ -535,5 +470,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

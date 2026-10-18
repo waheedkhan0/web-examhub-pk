@@ -12,7 +12,7 @@ import { getCollection } from 'astro:content';
 export interface SearchEntry {
   title: string;
   url: string;
-  category: 'MCQ Set' | 'Subject' | 'Guide' | 'Exam' | 'Blog';
+  category: 'MCQ Set' | 'Subject' | 'Guide' | 'Exam' | 'Blog' | 'Tool';
   description: string;
   keywords: string;
 }
@@ -38,6 +38,20 @@ export async function GET() {
   ]);
 
   const entries: SearchEntry[] = [
+    {
+      title: 'Official Syllabus Mock Tests & Past Papers Hub',
+      url: '/practice',
+      category: 'Tool' as const,
+      description: 'Timed full-length mock examinations with official syllabus weightage distribution and past papers.',
+      keywords: keywords('mock test', 'practice', 'past papers', 'online test', 'timer', 'fia mock', 'nurse mock', 'civil engineer mock'),
+    },
+    {
+      title: 'Government Job Posts (BS-16 to BS-19) Preparation Guides',
+      url: '/jobs',
+      category: 'Tool' as const,
+      description: 'Federal and provincial advertised posts, syllabus schemes, and examination patterns.',
+      keywords: keywords('jobs', 'posts', 'advertised jobs', 'fpsc jobs', 'kppsc jobs', 'ppsc jobs', 'screening test'),
+    },
     ...mcqs.map((m) => ({
       title: m.data.topicName || m.data.title,
       url: `/mcqs/${m.data.subject}/${m.data.topic}`,

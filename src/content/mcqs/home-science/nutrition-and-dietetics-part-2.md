@@ -339,19 +339,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 26
-    question: UNICEF has employed . . . . . . . . to check on nutrition status in India.
-    options:
-      - ICDS
-      - ANMS
-      - Both A and B
-      - None of these
-    answer: 2
-    explanation: Both A and B is the correct answer to “UNICEF has employed . . . . . . . . to check on nutrition status in India.”. This question is standard in competitive examination syllabi for Nutrition And Dietetics.
-    keyConcept: Nutrition And Dietetics
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 27
     question: The nutritional status of the family members depends on 1. the time and energy at the disposal of the housewife. 2. the knowledge of the house wife on nutrition. 3. the efficiency of the housewife to work and serve food.
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

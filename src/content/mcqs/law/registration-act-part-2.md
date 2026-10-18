@@ -81,14 +81,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 6
-    question: Which of the following is an immovable property within the meaning of section 2(6) of the Indian Registration Act, 1908
+    question: Which of the following is an immovable property within the meaning of section 2(6) of the Registration Act, 1908
     options:
       - Rights to ferries
       - Rights to lights
       - Rights to ways
       - All the above
     answer: 3
-    explanation: All the above is the correct answer to “Which of the following is an immovable property within the meaning of section 2(6) of the Indian Registration Act, 1908”. This question is standard in competitive examination syllabi for Registration Act.
+    explanation: All the above is the correct answer to “Which of the following is an immovable property within the meaning of section 2(6) of the Registration Act, 1908”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -160,14 +160,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 12
-    question: The Indian Registration Act, 1908 defines immovable property, under
+    question: The Registration Act, 1908 defines immovable property, under
     options:
       - Section 2(2)
       - Section 2(4)
       - Section 2(6A)
       - Section 2(6)
     answer: 3
-    explanation: Section 2(6) is the correct answer to “The Indian Registration Act, 1908 defines immovable property, under”. This question is standard in competitive examination syllabi for Registration Act.
+    explanation: Section 2(6) is the correct answer to “The Registration Act, 1908 defines immovable property, under”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge
@@ -350,19 +350,6 @@ questions:
       - Sub-district
     answer: 1
     explanation: District is the correct answer to “According to Section 7 of the Registration Act, 1908, the State Government shall establish in every . . . . . . . . an office to be styled as the office of the Registrar.”. This question is standard in competitive examination syllabi for Registration Act.
-    keyConcept: Registration Act
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 27
-    question: India' has been defined under section 2(6A) of the Indian Registration Act, 1908, as
-    options:
-      - Means the territory of India including the places situate outside India under the authority of the Government of India
-      - Means the territory of India including the State of Jammu and Kashmir
-      - Means the territory of India excluding the State of Jammu and Kashmir
-      - The territory of India excluding places situate outside India under the authority of the Government of India
-    answer: 2
-    explanation: Means the territory of India excluding the State of Jammu and Kashmir is the correct answer to “India' has been defined under section 2(6A) of the Indian Registration Act, 1908, as”. This question is standard in competitive examination syllabi for Registration Act.
     keyConcept: Registration Act
     testedIn:
       - Civil Judge

@@ -27,19 +27,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 2
-    question: Hindu Marriage Act of 1955, permits divorce on the grounds of
-    options:
-      - Insanity, leprosy and adultery
-      - Economic incompetence and non-religiousness
-      - Insanity and illiteracy
-      - Gambling, alcoholism, insanity
-    answer: 0
-    explanation: Insanity, leprosy and adultery is the correct answer to “Hindu Marriage Act of 1955, permits divorce on the grounds of”. This question is standard in competitive examination syllabi for Social Institutions.
-    keyConcept: Social Institutions
-    testedIn:
-      - CSS
-      - PMS
   - id: 3
     question: Networks can exist in which of the following set of environments?
     options:
@@ -365,19 +352,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: Which institution is central to Indian society?
-    options:
-      - Caste
-      - Tribe
-      - Family
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Which institution is central to Indian society”. This question is standard in competitive examination syllabi for Social Institutions.
-    keyConcept: Social Institutions
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: "Which of the following is an institution:"
     options:
@@ -491,19 +465,6 @@ questions:
       - Structural mobility
     answer: 1
     explanation: Horizontal mobility is the correct answer to “A change in social position that does not alter a person's status is”. This question is standard in competitive examination syllabi for Social Institutions.
-    keyConcept: Social Institutions
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: Which of the following has been a result of globalisation on Indian Economy?
-    options:
-      - Rapid nationalisation of private companies
-      - Deregulation of labour protection leading to massive growth of contract labour and sub contracting
-      - Reduction of foreign trade due to high customs duty levied by the government
-      - None of the above
-    answer: 1
-    explanation: Deregulation of labour protection leading to massive growth of contract labour and sub contracting is the correct answer to “Which of the following has been a result of globalisation on Indian Economy”. This question is standard in competitive examination syllabi for Social Institutions.
     keyConcept: Social Institutions
     testedIn:
       - CSS

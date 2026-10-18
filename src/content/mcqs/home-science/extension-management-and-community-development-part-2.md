@@ -430,19 +430,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 33
-    question: Initially many schools for adult education opened in
-    options:
-      - Delhi
-      - Bombay
-      - Manipur
-      - Sri Lanka
-    answer: 1
-    explanation: Bombay is the correct answer to “Initially many schools for adult education opened in”. This question is standard in competitive examination syllabi for Extension Management And Community Development.
-    keyConcept: Extension Management And Community Development
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 34
     question: Organisation establishes relationship between
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

@@ -254,19 +254,6 @@ questions:
     testedIn:
       - CSS
       - NTS
-  - id: 19
-    question: On a certain map of India the actual distance of 1450 km between two cities Delhi and Kolkata is shown as 5 cm. What scale is used to draw the map ?
-    options:
-      - $$1:15 \times {10^6}$$
-      - $$1:20 \times {10^6}$$
-      - $$1:25 \times {10^6}$$
-      - $$1:29 \times {10^6}$$
-    answer: 3
-    explanation: "5 cm on the map represents 1450 km ∴ 1 cm on the map represents $$\\left( {\\frac{{1450}}{5}} \\right)$$ km = 290 km Hence, the scale is 1 cm : 290 km i.e., $$1:29 \\times {10^6}{\\text{ }}$$ $$\\left[ {\\because 290{\\text{km}} = \\left( {29 \\times {{10}^6}} \\right){\\text{cm}}} \\right]$$"
-    keyConcept: Chain Rule
-    testedIn:
-      - CSS
-      - NTS
   - id: 20
     question: A flagstaff 17.5 m high caste a shadow of length 40.25 m. The height of the building, which casts a shadow of length 28.75 m under similar conditions will be ?
     options:
@@ -543,5 +530,4 @@ questions:
       - CSS
       - NTS
 ---
-
 

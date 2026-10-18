@@ -352,19 +352,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 27
-    question: Octane numbers of motor gasoline used in India and America are respectively
-    options:
-      - 87 & 94
-      - 94 & 87
-      - 94 & 100
-      - 83 & 100
-    answer: 0
-    explanation: 87 & 94 is the correct answer to “Octane numbers of motor gasoline used in India and America are respectively”. This question is standard in competitive examination syllabi for Petroleum Refinery Engineering.
-    keyConcept: Petroleum Refinery Engineering
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 28
     question: Which is the most effective catalyst used in catalytic cracking of petroleum products?
     options:
@@ -535,5 +522,4 @@ questions:
       - FPSC
       - PPSC
 ---
-
 

@@ -131,19 +131,6 @@ questions:
     testedIn:
       - MDCAT
       - PPSC
-  - id: 10
-    question: The butter oil and milk powder was given as a gift from which of the following nation to India?
-    options:
-      - African Union
-      - Germany
-      - European Union
-      - China
-    answer: 2
-    explanation: European Union is the correct answer to “The butter oil and milk powder was given as a gift from which of the following nation to India”. This question is standard in competitive examination syllabi for Economic Biology.
-    keyConcept: Economic Biology
-    testedIn:
-      - MDCAT
-      - PPSC
   - id: 11
     question: Which among the following statements about biofertilisers are correct? 1. Azotobacter is one of the nitrogen fixing bacteria used as biofertilisers. 2. They have to be applied to the leaves of the plants only. 3. They alter the chemical composition of the soil. 4. They can be used along with organic fertilisers.
     options:
@@ -270,19 +257,6 @@ questions:
       - Nucleic acids
     answer: 0
     explanation: Proteins and amino acid is the correct answer to “The plant dye henna imparts orange-red colour to skin and hairs due to its reaction with which of the following”. This question is standard in competitive examination syllabi for Economic Biology.
-    keyConcept: Economic Biology
-    testedIn:
-      - MDCAT
-      - PPSC
-  - id: 21
-    question: The part of India, where dry land farming is practised, rain occurs
-    options:
-      - less than 100 cm
-      - less than 55 cm
-      - less than 80 cm
-      - less than 45 cm
-    answer: 3
-    explanation: less than 45 cm is the correct answer to “The part of India, where dry land farming is practised, rain occurs”. This question is standard in competitive examination syllabi for Economic Biology.
     keyConcept: Economic Biology
     testedIn:
       - MDCAT
@@ -535,5 +509,4 @@ questions:
       - MDCAT
       - PPSC
 ---
-
 

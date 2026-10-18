@@ -535,19 +535,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 51
-    question: The HBJ Upgradation project, upgraded the capacity of HBJ pipeline from 18.2 MM SC MD to
-    options:
-      - 20 MM SC MD
-      - 33.4 MM SC MD
-      - 22.3 MM SC MD
-      - 29.6 MM SC MD
-    answer: 1
-    explanation: HVJ an abbreviation for Hazira-Vijaipur-Jagdishpur is India's first cross state gas pipeline. The project was started in 1986 after the incorporation of GAIL Limited to supply gas to the fertilizer plants located in the state of Uttar Pradesh
-    keyConcept: World Geography
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 52
     question: The highest mountains on earth namely Mount Everest, K2, Kanchenjanga are located in
     options:
@@ -882,19 +869,6 @@ questions:
       - depositional landforms
     answer: 0
     explanation: The landforms that are created by massive earth movements due to place tectonics are called structural landforms.
-    keyConcept: World Geography
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 78
-    question: The largest production of mica in Asia is from
-    options:
-      - Indonesia
-      - Malaysia
-      - Myanmar
-      - India
-    answer: 3
-    explanation: India has a near monopoly in the production of mica, producing about 60% of the world's total production. About 95% of India's mica is found in just three states of India, namely Andhra Pradesh, Rajasthan and Jharkhand.
     keyConcept: World Geography
     testedIn:
       - PPSC

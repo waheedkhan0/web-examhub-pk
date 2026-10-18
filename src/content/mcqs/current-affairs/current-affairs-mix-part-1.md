@@ -101,16 +101,6 @@ questions:
     answer: 2
     explanation: Wasfia Nazreen becomes first Bangladeshi to scale K2.
     keyConcept: Current Affairs — Mixed Practice
-  - id: 10
-    question: Which Indian veteran leader was summoned over money laundering case recently.
-    options:
-      - Ram Nath Kovind
-      - Amit Shah
-      - Narender Modi
-      - Sonia Gandhi
-    answer: 3
-    explanation: Sonia Gandhi is the correct answer to “Which Indian veteran leader was summoned over money laundering case recently.”. Items of this type are drawn from the Current Affairs — Mixed Practice — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Current Affairs — Mixed Practice
   - id: 11
     question: Fatima payman becomes __________ first hijab-wearing Senator.
     options:

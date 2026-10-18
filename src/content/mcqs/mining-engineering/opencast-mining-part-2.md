@@ -417,19 +417,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 32
-    question: Benefication of Indian bituninous coal helps in . . . . . . . .
-    options:
-      - Incresing in heat value
-      - Decreasing the quantity in rail movement
-      - Reduces the ash percentage
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Benefication of Indian bituninous coal helps in . . . . . . . .”. This question is standard in competitive examination syllabi for Opencast Mining.
-    keyConcept: Opencast Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 33
     question: It is always desirable to keep the width of the floor of bench much larger than . . . . . . . . of bench.
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

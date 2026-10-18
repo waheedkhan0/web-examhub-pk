@@ -54,19 +54,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 4
-    question: What is the full form of "CRR"?
-    options:
-      - Cash Reserve Ratio
-      - Certified Resource Rate
-      - Censored Return Rate
-      - Ceiled Rate for Returns
-    answer: 0
-    explanation: Cash Reserve Ratio (CRR) is the share of a bank's total deposit that is mandated by the Reserve Bank of India (RBI) to be maintained with the latter as reserves in the form of liquid cash.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 5
     question: What is the full form of "CAPEX"?
     options:
@@ -76,19 +63,6 @@ questions:
       - Chartered Profit Exchange
     answer: 1
     explanation: Capital expenditures (CapEx) are funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, or equipment. CapEx is often used to undertake new projects or investments by a company.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 6
-    question: What is the full form of "BSR"?
-    options:
-      - Basic Stock Return
-      - Stock Based Return
-      - Bombay Stock Return
-      - Basic Statistical Return
-    answer: 3
-    explanation: Basic Statistical Return (BSR) Code is a unique code assigned to each individual branch of banks by Reserve Bank of India. It consists of seven digits where first three digits represent the bank and remaining four digits represent the bank branch. It is used while filling the Tax Deducted at Source (TDS) and Tax Collected at Source (TCS) returns. BSR Code helps the bank to maintain a record of all online transactions done for tax through a bank branch. It also helps the Department of Income Tax to record the information about the payments made through a particular bank.
     keyConcept: Finance Abbreviations
     testedIn:
       - PPSC
@@ -431,32 +405,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 33
-    question: What is the full form of "CCIL"?
-    options:
-      - Central Credit India Limited
-      - Capital Commerce Investment Limited
-      - Certified Commerce India Limited
-      - Central Commerce India Limited
-    answer: 3
-    explanation: Central Commerce India Limited is the correct answer to “What is the full form of "CCIL"”. This question is standard in competitive examination syllabi for Finance Abbreviations.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 34
-    question: What is the full form of "CCEA"?
-    options:
-      - Cabinet Committee on Economic Affairs
-      - Central Commerce Economic Affairs
-      - Certified Commerce Exchange Act
-      - Central Committee Exchange Act
-    answer: 0
-    explanation: Cabinet Committee on Economic Affairs is the correct answer to “What is the full form of "CCEA"”. This question is standard in competitive examination syllabi for Finance Abbreviations.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 35
     question: What is the full form of "FLAS"?
     options:
@@ -466,19 +414,6 @@ questions:
       - Financial Linked Systematic Assesment
     answer: 1
     explanation: Foreign Liabilities and Assets Survey is the correct answer to “What is the full form of "FLAS"”. This question is standard in competitive examination syllabi for Finance Abbreviations.
-    keyConcept: Finance Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 36
-    question: What is the full form of "IDB"?
-    options:
-      - India Development Bonds
-      - International Deposit on Bonds
-      - Investment in Direct Bonds
-      - Insurance Development Board
-    answer: 0
-    explanation: India Development Bonds is the correct answer to “What is the full form of "IDB"”. This question is standard in competitive examination syllabi for Finance Abbreviations.
     keyConcept: Finance Abbreviations
     testedIn:
       - PPSC

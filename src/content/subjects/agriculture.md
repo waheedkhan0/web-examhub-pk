@@ -18,73 +18,73 @@ subtopics:
     questionCount: 40
   - name: Agricultural Economics — Part 1
     slug: agricultural-economics-part-1
-    questionCount: 40
+    questionCount: 30
   - name: Agricultural Economics — Part 2
     slug: agricultural-economics-part-2
-    questionCount: 40
+    questionCount: 26
   - name: Agricultural Engineering — Part 1
     slug: agricultural-engineering-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Agricultural Engineering — Part 2
     slug: agricultural-engineering-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Agricultural Entomology — Part 1
     slug: agricultural-entomology-part-1
-    questionCount: 40
+    questionCount: 34
   - name: Agricultural Entomology — Part 2
     slug: agricultural-entomology-part-2
-    questionCount: 40
+    questionCount: 36
   - name: Agricultural Miscellaneous — Part 1
     slug: agricultural-miscellaneous-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Agricultural Miscellaneous — Part 2
     slug: agricultural-miscellaneous-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Agricultural Statistics — Part 1
     slug: agricultural-statistics-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Agricultural Statistics — Part 2
     slug: agricultural-statistics-part-2
-    questionCount: 40
+    questionCount: 36
   - name: Agronomy — Part 1
     slug: agronomy-part-1
-    questionCount: 40
+    questionCount: 31
   - name: Agronomy — Part 2
     slug: agronomy-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Animal Husbandry — Part 1
     slug: animal-husbandry-part-1
-    questionCount: 40
+    questionCount: 34
   - name: Animal Husbandry — Part 2
     slug: animal-husbandry-part-2
-    questionCount: 40
+    questionCount: 37
   - name: Environmental Science In Agricultural — Part 1
     slug: environmental-science-in-agricultural-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Environmental Science In Agricultural — Part 2
     slug: environmental-science-in-agricultural-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Genetics And Plant Breeding — Part 1
     slug: genetics-and-plant-breeding-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Genetics And Plant Breeding — Part 2
     slug: genetics-and-plant-breeding-part-2
     questionCount: 40
   - name: Horticulture — Part 1
     slug: horticulture-part-1
-    questionCount: 40
+    questionCount: 25
   - name: Horticulture — Part 2
     slug: horticulture-part-2
-    questionCount: 40
+    questionCount: 29
   - name: Plant Pathology — Part 1
     slug: plant-pathology-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Plant Pathology — Part 2
     slug: plant-pathology-part-2
     questionCount: 40
   - name: Soil Science — Part 1
     slug: soil-science-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Soil Science — Part 2
     slug: soil-science-part-2
     questionCount: 40

@@ -15,71 +15,6 @@ targetExams:
   - PPSC
   - CSS
 questions:
-  - id: 1
-    question: How much amount of monthly maintenance may be awarded in favour of a wife under Section 125 of Criminal Procedure Code?
-    options:
-      - Three hundred rupees
-      - Four hundred rupees
-      - Five hundred rupees
-      - Any Amount
-    answer: 3
-    explanation: "Section 125 of the Code of Criminal Procedure (CrPC) in India deals with the provision of maintenance to wives, children, and parents. It empowers a Magistrate to order a husband to pay monthly maintenance to his wife if she is unable to maintain herself. The crucial point is that Section 125 CrPC doesn't specify a fixed upper limit for maintenance . Therefore, the correct answer is Option D: Any Amount . The Magistrate has the discretion to determine the appropriate amount of maintenance based on several factors, including the husband's income, the wife's needs, the standard of living enjoyed during the marriage, and other relevant circumstances. Options A, B, and C are incorrect because they suggest arbitrary and outdated limits that are not reflected in the law. The amount awarded can be significantly higher than a few hundred rupees, depending on the specifics of the case."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 2
-    question: The powers of Magistrate to order person to give specimen signatures or handwriting has been inserted by Criminal Procedure (Amendment) Act, 2005 (25 of 2005) under
-    options:
-      - Section 310A
-      - Section 311A
-      - Section 312A
-      - Section 313A
-    answer: 1
-    explanation: "Powers of Magistrate to Order Specimen Signatures or Handwriting Definition: The Criminal Procedure (Amendment) Act, 2005 (25 of 2005) introduced provisions allowing a Magistrate to direct any person, including the accused, to provide specimen signatures or handwriting for the purposes of investigation or trial. Correct Answer: Option B: Section 311A Explanation: Section 311A of the Code of Criminal Procedure (CrPC), 1973, was inserted by the Criminal Procedure (Amendment) Act, 2005. It empowers a Magistrate of First Class to order any person, including the accused, to give a specimen signature or handwriting for the purpose of investigation or proceedings. Key Provisions of Section 311A CrPC: 1. A Magistrate of First Class has the authority to direct a person to provide specimen signatures or handwriting. 2. The order must be made for the purpose of any investigation or trial under the CrPC. 3. This power does not include the collection of thumb impressions. 4. The provision ensures effective investigation by helping forensic analysis and comparison of disputed documents. Since Section 311A explicitly provides for this power, the correct answer is Option B: Section 311A ."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 3
-    question: Which of the following offence can be compounded without the permission of the court?
-    options:
-      - Voluntarily causing hurt under Section 323 of the Indian Penal Code 1860
-      - Causing miscarriage under section 312 of the Indian Penal Code 1860
-      - Criminal breach of trust under section 406 of the Indian Penal Code 1860
-      - Voluntarily causing grievous hurt under section 325 of the Indian Penal Code 1860
-    answer: 0
-    explanation: "Under the Code of Criminal Procedure, certain offences can be compounded, which means that the victim and the offender can mutually agree to settle the matter and withdraw the case. Compounding of offences generally requires the permission of the court, except for specific offences that can be compounded without the permission of the court. Voluntarily causing hurt under Section 323 of the Indian Penal Code 1860 is one such offence that can be compounded without the permission of the court. Compounding of this offence does not require court approval, and the parties involved can reach an agreement to settle the matter privately. Causing miscarriage under section 312 and Voluntarily causing grievous hurt under section 325 of the Indian Penal Code 1860 are offences that generally require the permission of the court for compounding. Criminal breach of trust under section 406 of the Indian Penal Code 1860 is not typically an offence that can be compounded without the permission of the court. Given the options provided, the correct answer is Option A: Voluntarily causing hurt under Section 323 of the Indian Penal Code 1860."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 4
-    question: For how much term maximum Judicial Magistrate of the First class may pass a sentence for a single offence?
-    options:
-      - Five years
-      - Four years
-      - Three years
-      - Two years
-    answer: 2
-    explanation: "Correct Answer: Option C: Three years According to Section 29(2) of the Code of Criminal Procedure (CrPC), 1973 , a Judicial Magistrate of the First Class (JMFC) may pass a sentence of imprisonment for a term not exceeding three years for a single offence. This provision is clear and has not been amended to increase the imprisonment limit beyond three years at the central level. While some states (e.g., Maharashtra) have amended the fine limit that a JMFC can impose, no state has increased the maximum term of imprisonment beyond three years. The newly enacted Bharatiya Nagarik Suraksha Sanhita, 2023 , which replaces the CrPC, also retains this three-year maximum imprisonment limit for JMFCs. Option A (Five years) , Option B (Four years) , and Option D (Two years) are incorrect as they either exceed or fall short of the actual legal limit. Therefore, based on the central CrPC and current legal framework, the correct answer is Option C: Three years ."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 5
-    question: Which of the following is correct statement of law as per Sections 82 and 83 of the Code of Criminal Procedure 1973?
-    options:
-      - The court may order attachment of property belonging to an accused before declaring him a proclaimed person under Section 82
-      - The court may order attachment of property of a person after publication of a written proclamation under Section 82 requiring him to appear before it
-      - The court may order attachment of property of a person regardless of whether or not he has been declared proclaimed offender
-      - None of the above
-    answer: 1
-    explanation: "Before explaining the correct option, let's define the key term: Proclaimed Offender . A proclaimed offender is a person against whom a warrant of arrest has been issued but who cannot be found. Section 82 of the Code of Criminal Procedure, 1973 (CrPC) deals with the procedure for declaring a person a proclaimed offender. Section 82 CrPC empowers the court to issue a proclamation calling upon the accused to appear before it. If the accused fails to appear despite the proclamation, the court may declare him a proclaimed offender. Section 83 CrPC deals with the attachment of the property of a proclaimed offender. The court may order the attachment of the property of a person after he has been declared a proclaimed offender under Section 82. This is done to ensure that the accused's property is available to meet any fine or compensation that may be imposed if he is convicted. Now let's analyze the options: Option A: Incorrect. The court cannot order attachment of property before declaring the accused a proclaimed person. The attachment happens after the proclamation and declaration under Section 83. Option B: Correct. This option accurately reflects the procedure. Attachment of property is possible only after the publication of the proclamation under Section 82 and the subsequent declaration of the person as a proclaimed offender. Option C: Incorrect. The attachment of property is contingent upon the declaration of the person as a proclaimed offender under Section 82. The court cannot attach property arbitrarily without following due process. Option D: Incorrect because Option B is the correct statement of law."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 6
     question: Period of appearance for proclamation issued under Section 82 of Criminal Procedure Code is not less than-
     options:
@@ -115,58 +50,6 @@ questions:
       - All of the above
     answer: 1
     explanation: "Juvenile Justice System: Before delving into the options, it's crucial to understand the juvenile justice system. This system is designed to handle cases involving minors (typically under 18) who have committed offenses differently than the adult criminal justice system. It prioritizes rehabilitation and reform over punishment. Legal Safeguards for Juveniles: The law provides specific safeguards for juveniles during investigations. These are intended to protect their rights and well-being, recognizing their vulnerability and developmental stage. Option A: At the Police Station Generally, bringing a juvenile to a police station for questioning is discouraged unless absolutely necessary. The police station environment can be intimidating and stressful for a young person, potentially affecting their ability to cooperate or exercise their rights effectively. This option is usually not the preferred method. Option B: At his residence Investigating a juvenile at their residence is often preferred. It's a less intimidating and more comfortable environment for the child. This can lead to a more cooperative atmosphere, allowing for a more effective investigation while upholding the child's rights. Option C: At any place This option is incorrect. The law doesn't allow for the investigation of a juvenile at any arbitrary place. The environment must consider the child's best interests and ensure they aren't subjected to undue pressure or coercion. Option D: All of the above Because option C is incorrect, this option is also incorrect. The investigation location should be chosen carefully, prioritizing the juvenile's welfare and rights. Correct Answer: B (At his residence) The most appropriate place to investigate a 14-year-old suspected of murder is at their residence. This approach is more likely to respect the juvenile's rights, minimize stress, and allow for a more productive and fair investigation. It aligns with the principles of the juvenile justice system emphasizing rehabilitation and the child's best interests."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 9
-    question: Anticipatory Bail under Section 438 of the Criminal Procedure Code, 1973 can be invoked in cases of?
-    options:
-      - Bailable offences
-      - Non-bailable offences
-      - Bailable offences and Non-bailable offences both
-      - None of these
-    answer: 1
-    explanation: "Anticipatory Bail under Section 438 of the Criminal Procedure Code, 1973: Anticipatory bail is a legal provision that allows a person to seek bail in anticipation of arrest. It is granted under Section 438 of the Code of Criminal Procedure (CrPC), 1973, to prevent undue harassment or unjustified detention. This type of bail is sought before a person is actually arrested, ensuring protection from immediate custody. Correct Answer: Option B – Non-bailable offences Anticipatory bail can only be invoked in cases of non-bailable offences . These are serious offences where bail is not a matter of right and is granted only at the discretion of the court. Since bailable offences already provide an accused with the right to bail under Section 436 of CrPC, anticipatory bail is not required for such cases. Explanation: >> Section 438 of the CrPC empowers the High Court or Sessions Court to grant anticipatory bail if a person believes they may be arrested for a non-bailable offence. >> Non-bailable offences are typically more serious in nature, such as offences involving grievous hurt, theft, rape, murder, or economic fraud. >> The court considers factors such as the nature of the accusation, the applicant’s history, and whether granting bail would affect the investigation before deciding on anticipatory bail. Since anticipatory bail is not applicable to bailable offences (as bail is automatically granted in such cases), Option B – Non-bailable offences is the correct answer."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 10
-    question: In which of the following cases, the Supreme Court held that in case of dishonor of cheque, merely because the notice was put into post by the lawyer who has his residence or place of practice at a different centre, such place cannot claim jurisdiction?
-    options:
-      - Sankaran v. Balan
-      - National Panasonic v. Harman Electronics
-      - Krishna Janardhan Bhat v. Dattatraya Hegde
-      - None of the above
-    answer: 1
-    explanation: "Jurisdiction in Cases of Cheque Dishonor: In cases of cheque dishonor under Section 138 of the Negotiable Instruments Act, 1881, jurisdiction is an important factor. The court where the case can be filed is usually determined by where the cheque was presented, dishonored, or where the notice of dishonor was issued. Correct Answer: Option B – National Panasonic v. Harman Electronics In the case of National Panasonic v. Harman Electronics , the Supreme Court of India ruled that merely because a legal notice regarding the dishonor of a cheque was sent from a particular location, it does not grant that place jurisdiction to entertain the complaint. Explanation: >> The case involved a cheque dishonor dispute where the complainant’s lawyer sent a legal notice from a different city and then claimed jurisdiction based on that location. >> The Supreme Court held that jurisdiction cannot be determined solely based on the place where the notice was dispatched by the lawyer. >> Instead, jurisdiction is determined by other factors, such as where the cheque was presented for payment, where it was dishonored, or where the payee maintains their account. >> This ruling was significant in preventing forum shopping, where complainants might try to file cases in a location of their convenience rather than the legally appropriate place. Thus, the correct answer is Option B – National Panasonic v. Harman Electronics ."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 11
-    question: Summon's case means
-    options:
-      - A case which is not a warrant case
-      - A case in which security is not required
-      - A case through which offence of theft is tried
-      - A case in which only summons can be served during trial
-    answer: 0
-    explanation: "Summons Case: A summons case is defined under Section 2(w) of the Code of Criminal Procedure (CrPC), 1973. It refers to a case that is not a warrant case . Warrant cases involve offences that are punishable with death, life imprisonment, or imprisonment exceeding two years, whereas summons cases involve relatively less serious offences with lighter punishments. Correct Answer: Option A – A case which is not a warrant case According to the CrPC, a summons case is any criminal case that does not fall under the category of a warrant case. These cases generally involve minor offences with penalties such as fines or imprisonment not exceeding two years. Explanation: >> In a summons case, the procedure is simpler and faster compared to a warrant case. >> The accused is served with a summons instead of being arrested immediately. >> The trial procedure for summons cases is outlined in Chapter XX of the CrPC, which ensures a speedy and straightforward trial. >> Examples of offences tried as summons cases include public nuisance, defamation, and simple hurt. Since a summons case is defined as a case that is not a warrant case , the correct answer is Option A – A case which is not a warrant case ."
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 12
-    question: What is the time limilt in Section 468, Criminal Procedure Code for taking cognizance in a case of defamation?
-    options:
-      - Six Months
-      - One Year
-      - Three Years
-      - No limit
-    answer: 2
-    explanation: "Time Limit for Taking Cognizance Under Section 468 CrPC: Section 468 of the Code of Criminal Procedure (CrPC), 1973, prescribes the time limits for taking cognizance of certain offences based on their punishment. This provision aims to prevent unnecessary delays in prosecuting offences and ensures timely legal proceedings. Defamation and Its Punishment: Defamation is an offence under Section 500 of the Indian Penal Code (IPC), 1860 . The punishment for defamation is simple imprisonment for up to two years, a fine, or both . Correct Answer: Option C – Three Years As per Section 468(2)(c) of the CrPC, when the offence is punishable with imprisonment exceeding one year but not more than three years, the limitation period for taking cognizance is three years . Since defamation is punishable by imprisonment of up to two years, the time limit to take cognizance of a defamation case is three years from the date of the offence. Explanation: >> Section 468 CrPC ensures that cases involving minor offences are not kept pending indefinitely. >> Since defamation carries a punishment of up to two years, it falls within the category mentioned in Section 468(2)(c). >> The time limit of three years starts from the date on which the offence of defamation was committed. Thus, the correct answer is Option C – Three Years ."
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -275,19 +158,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 21
-    question: In which of the following cases did Supreme Court issue directions in the favour of acid attack victims?
-    options:
-      - Devika Biswas v. Union of India (2016)
-      - Laxmi v. Union of India (2016)
-      - Swaraj Abhiyan v. Union of India (2016)
-      - Ashiq Hussain Faktoo v. Union of India (2016)
-    answer: 1
-    explanation: Laxmi v. Union of India (2016) is the correct answer to “In which of the following cases did Supreme Court issue directions in the favour of acid attack victims”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 22
     question: Under the Criminal Procedure Code, who among the followings is empowered to decide as to what would be the language of the Court?
     options:
@@ -340,19 +210,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 26
-    question: "Mark the incorrect statement:"
-    options:
-      - Section 319 of the Code of Criminal Procedure, 1973 could not be invoked where the trial has not begun and no evidence has been recorded
-      - The power to proceed against a person not named as an accused is to be exercised sparingly and for compelling reasons
-      - The provisions of Section 319 of the Code of Criminal Procedure, 1973 applies to all the courts including a Sessions Court
-      - None of the above
-    answer: 3
-    explanation: None of the above is the correct answer to “Mark the incorrect statement:”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 27
     question: A non-confessional statement recorded under section 164 of Criminal Procedure Code
     options:
@@ -362,19 +219,6 @@ questions:
       - All of the above
     answer: 1
     explanation: Is not a substantive evidence is the correct answer to “A non-confessional statement recorded under section 164 of Criminal Procedure Code”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 28
-    question: "Under Section 198 of the Code of Criminal Procedure, 1973, no court can take cognizance of an offence against marriage (punishable under Chapter XX, Indian Penal Code) unless a complaint is made by:"
-    options:
-      - The police
-      - The wife/husband
-      - Some person who is aggrieved by the offence
-      - All of the above
-    answer: 2
-    explanation: Some person who is aggrieved by the offence is the correct answer to “Under Section 198 of the Code of Criminal Procedure, 1973, no court can take cognizance of an offence against marriage (punishable under Chapter XX, Indian Penal Code) unless a complaint is made by:”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -450,9 +294,9 @@ questions:
       - Within local limits of the police station concerned
       - Within local limits of the district
       - Within local limits of the state
-      - In any place in India
+      - In any place in Pakistan
     answer: 3
-    explanation: In any place in India is the correct answer to “If a person in lawful custody escapes, the person from whose custody he escaped may, immediately pursue and arrest him-”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
+    explanation: In any place in Pakistan is the correct answer to “If a person in lawful custody escapes, the person from whose custody he escaped may, immediately pursue and arrest him-”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge
@@ -505,19 +349,6 @@ questions:
       - All of the above
     answer: 0
     explanation: When there is a complaint case and police is also investigating the matter is the correct answer to “Section 210 of Criminal Procedure Code can be invoked”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
-    keyConcept: Code Of Criminal Procedure
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 39
-    question: No member of the Armed Forces of the Union shall be arrested for anything done in the discharge of his official duties except after attaining the consent of
-    options:
-      - The Defence Minister
-      - The Finance Minister
-      - The concerned State Government
-      - The Central Government
-    answer: 3
-    explanation: The Central Government is the correct answer to “No member of the Armed Forces of the Union shall be arrested for anything done in the discharge of his official duties except after attaining the consent of”. This question is standard in competitive examination syllabi for Code Of Criminal Procedure.
     keyConcept: Code Of Criminal Procedure
     testedIn:
       - Civil Judge

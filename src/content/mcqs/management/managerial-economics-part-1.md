@@ -249,19 +249,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 19
-    question: Which one of the following structural changes in the composition of National Income of India would characterise economic development?
-    options:
-      - A large proportion of income from agriculture relative to other sectors
-      - A small proportion of income from the tertiary sector compared to that from agriculture
-      - A larger proportion of income from industry as compared to that from agriculture
-      - A smaller portion of income from industry as compared to that from the tertiary sector
-    answer: 1
-    explanation: A small proportion of income from the tertiary sector compared to that from agriculture is the correct answer to “Which one of the following structural changes in the composition of National Income of India would characterise economic development”. This question is standard in competitive examination syllabi for Managerial Economics.
-    keyConcept: Managerial Economics
-    testedIn:
-      - CSS
-      - PMS
   - id: 20
     question: Average fixed cost can be obtained through
     options:
@@ -536,5 +523,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

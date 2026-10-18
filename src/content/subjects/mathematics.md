@@ -93,7 +93,7 @@ subtopics:
     questionCount: 40
   - name: Chain Rule — Part 1
     slug: chain-rule-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Chain Rule — Part 2
     slug: chain-rule-part-2
     questionCount: 22
@@ -306,7 +306,7 @@ subtopics:
     questionCount: 40
   - name: Time And Work — Part 2
     slug: time-and-work-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Transform Theory — Part 1
     slug: transform-theory-part-1
     questionCount: 40

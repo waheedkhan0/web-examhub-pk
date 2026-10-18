@@ -482,19 +482,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 37
-    question: The Governments monopoly on broadcasting rests in which Article of the Indian Constitution?
-    options:
-      - Article 236
-      - Article 336
-      - Article 264
-      - Article 246
-    answer: 3
-    explanation: Article 246 is the correct answer to “The Governments monopoly on broadcasting rests in which Article of the Indian Constitution”. This question is standard in competitive examination syllabi for Communication And Media Research.
-    keyConcept: Communication And Media Research
-    testedIn:
-      - CSS
-      - PMS
   - id: 38
     question: The following is the correct formula for calculating the Coefficient of Variation.
     options:
@@ -535,5 +522,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

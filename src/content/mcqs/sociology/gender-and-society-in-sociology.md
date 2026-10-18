@@ -14,19 +14,6 @@ targetExams:
   - PPSC
   - KPPSC
 questions:
-  - id: 1
-    question: Which of the following is most closely associated with the phenonmenon of missing daughters in India?
-    options:
-      - Advanced medical technology
-      - Illiteracy of women
-      - Lack of economic independence for women
-      - Cultural factors leading to economic liability
-    answer: 3
-    explanation: Cultural factors leading to economic liability is the correct answer to “Which of the following is most closely associated with the phenonmenon of missing daughters in India”. This question is standard in competitive examination syllabi for Gender And Society In Sociology.
-    keyConcept: Gender And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: Who among the following used sociometry for the first time?
     options:

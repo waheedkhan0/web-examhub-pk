@@ -132,19 +132,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 10
-    question: The culmination of the series of the uprisings was the Mappila revolt of
-    options:
-      - "1921"
-      - "1895"
-      - "1821"
-      - "1721"
-    answer: 0
-    explanation: Mappila Riots or Mappila Outbreaks refers to a series of riots by the Mappila (Moplah) Muslims of Malabar, South India in the 19th century and the early 20th century (c.1836–1921) against native Hindus and the state. The Malabar Rebellion of 1921 is often considered as the culmination of Mappila riots.
-    keyConcept: Gulam Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 11
     question: The battle that led to the foundation of Muslim power in India was
     options:

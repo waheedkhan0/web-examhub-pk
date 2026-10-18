@@ -144,32 +144,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 11
-    question: Which of the following is not a breed of goat?
-    options:
-      - Kashmiri
-      - Gaddi
-      - Cheviot
-      - Chamba
-    answer: 2
-    explanation: "This question asks about different breeds of goats. Let's go through the options: Option A: Kashmiri - Kashmiri is a breed of goat that originates from the Kashmir region. They are known for their fine wool and are found in the northern parts of India. Option B: Gaddi - Gaddi goats are also a breed of goat found in the Himachal Pradesh region of India. They are used for milk and meat production. Option C: Cheviot - Cheviot is not a breed of goat, but a breed of sheep. They are a hardy breed of sheep, found mainly in the Cheviot Hills in the United Kingdom. Option D: Chamba - Chamba is a breed of goat found in the Chamba district of Himachal Pradesh, India. These goats are known for their milk and meat production. Therefore, the correct answer is Option C: Cheviot because it is a breed of sheep, not a goat."
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 12
-    question: The native of Melabari goat breed is
-    options:
-      - Kerala
-      - Maharashtra
-      - Mathura
-      - Rajasthan
-    answer: 0
-    explanation: The native Melabari goat breed is from Kerala. This is the first recognized breed of Kerala among livestock. The Malabari breed of goat is known for its quality meat with less fat, prolific breeding, and is ideally suited for the Kerala climate. Malabari is a breed of medium-sized goats seen widely in the northern districts of Kerala.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 13
     question: Surathi buffalo breed is a native of
     options:
@@ -339,19 +313,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 26
-    question: Most common grass for animal feeding in Rajasthan
-    options:
-      - Sewan
-      - Dhaman
-      - Boor
-      - Makra Grass
-    answer: 0
-    explanation: Most common grass for animal feeding in Rajasthan is Sewan. Sewan is the primary grass of extremely arid parts of Jaisalmer, Barmer and Bikaner districts of western Rajasthan in the Indian Thar desert. It thrives well under moisture stress on sandy plains, low dunes and hummocks of this region, receiving annual rainfall below 200 mm.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 27
     question: Oestrus cycle of pig is
     options:
@@ -400,19 +361,6 @@ questions:
       - Pali
     answer: 0
     explanation: Heat in camel is known as Musth. Camel is a seasonal breeder and their reproduction is different as compared to other livestock as both male and female come into heat during the breeding season. The terminology used in case of males is “Thoot”, “Rutt” or “Musth”. Usually, the heat period is from November to March.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 31
-    question: Karan Fries was made by cross between
-    options:
-      - Holstein × Sahiwal
-      - Friesian × Tharparkar
-      - Brown Swiss × Red Sindhi
-      - Surti × Red Sindhi
-    answer: 1
-    explanation: Karan Fries was made by cross between Friesian × Tharparkar. Karan Fries is an Indian composite breed of cattle with superior milk production with a greater disease resistance than many other cattle. Understanding the basic sperm and semen characteristics is necessary to develop artificial insemination and sperm sexing methods. This breed has evolved at NDRI, Karnal (Haryana). It is a cross between Tharparkar × Holstein Friesian. Average milk production is 3700 kg with 3.8 - 4% fat.
     keyConcept: Animal Husbandry
     testedIn:
       - PPSC Agriculture Officer
@@ -495,32 +443,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 38
-    question: In India the maximum goat is found in
-    options:
-      - Rajasthan
-      - Haryana
-      - Punjab
-      - Maharashtra
-    answer: 0
-    explanation: In India the maximum goat is found in Rajasthan. Rajasthan had the highest goat population in India, at about 20.4 million in 2019. West Bengal ranked second that year, followed by Uttar Pradesh. Marwari, an important dual-purpose (meat and milk) goat breed, is found in great Thar Desert in Northwestern region of Rajasthan (India). The breed derived its name from 'Marwar' region of Rajasthan, which is the natural habitat of the breed.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 39
-    question: Central Marine Fisheries Research Institute is located at
-    options:
-      - National
-      - Cochin
-      - Mumbai
-      - New Delhi
-    answer: 1
-    explanation: Central Marine Fisheries Research Institute is located at Cochin. The Central Marine Fisheries Research Institute was established in the government of India on 3 rd February 1947 under the Ministry of Agriculture and Farmers Welfare and later, in 1967, it joined the Indian Council of Agricultural Research (ICAR) family and emerged as a leading tropical marine fisheries research institute in the world. The Headquarters of the ICAR-CMFRI is located in Cochin, Kerala. To develop an information based management system for changing over from open access to the regulated regime in marine fisheries, augment coastal fish production through mariculture and sea ranching and restore critical marine habitats.
-    keyConcept: Animal Husbandry
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 40
     question: Rotational stocking is the method of
     options:
@@ -535,5 +457,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

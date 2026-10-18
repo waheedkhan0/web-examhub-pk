@@ -105,19 +105,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 8
-    question: Prasar Bharti is also known as
-    options:
-      - Broadcasting Centre of India
-      - Indian Broadcasting Authority
-      - Broadcasting Association of India
-      - Broadcasting Corporation of India
-    answer: 3
-    explanation: Broadcasting Corporation of India is the correct answer to “Prasar Bharti is also known as”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 9
     question: Which committee recommended establishment of a Broadcasting corporation?
     options:
@@ -326,19 +313,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 25
-    question: Indian State Broadcasting Service (ISBS), the government run broadcasting company, was set up under the ministry of
-    options:
-      - The Department of Industries and Labour
-      - Ministry of Information and Broadcasting
-      - CPWD
-      - Public Health and Engineering Department
-    answer: 0
-    explanation: The Department of Industries and Labour is the correct answer to “Indian State Broadcasting Service (ISBS), the government run broadcasting company, was set up under the ministry of”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 26
     question: It is better to print a mono-colour hand out on a/an
     options:
@@ -348,19 +322,6 @@ questions:
       - none of these
     answer: 1
     explanation: mini offset press is the correct answer to “It is better to print a mono-colour hand out on a/an”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 27
-    question: The first news bulletin went on air from Bombay station on
-    options:
-      - April, 1919
-      - July, 1923
-      - July, 1927
-      - Oct, 1936
-    answer: 2
-    explanation: July, 1927 is the correct answer to “The first news bulletin went on air from Bombay station on”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
     keyConcept: Writing And Printing Technology
     testedIn:
       - CSS
@@ -508,19 +469,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 39
-    question: In which year India Broadcasting Service was set up?
-    options:
-      - "1927"
-      - "1930"
-      - "1932"
-      - "1948"
-    answer: 1
-    explanation: 1930 is the correct answer to “In which year India Broadcasting Service was set up”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 40
     question: In PB binding
     options:
@@ -535,5 +483,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

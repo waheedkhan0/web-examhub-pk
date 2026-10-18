@@ -59,7 +59,7 @@ questions:
       - NTS
       - CSS
   - id: 4
-    question: "Statement : India has been continuously experiencing military threats from its neighbouring countries. Courses of Action : I. India should engage into an all out war to stop the nagging threats. II. India should get the neighbours into a serious dialogue to reduce the tension at its borders."
+    question: "Statement : Pakistan has been continuously experiencing military threats from its neighbouring countries. Courses of Action : I. Pakistan should engage into an all out war to stop the nagging threats. II. Pakistan should get the neighbours into a serious dialogue to reduce the tension at its borders."
     options:
       - Only I follows
       - Only II follows
@@ -213,7 +213,7 @@ questions:
       - NTS
       - CSS
   - id: 15
-    question: "Statement : India today is midstream in its demographic transaction. In the last 60 years there has been an almost continuous decline in mortality; while fertility has declined over the last 20 years. The consequence is that there has been a rapid growth in population over the last 50 years. Courses of Action : I. India should immediately revitalise its family planning programme. II. The Government should immediately launch a massive education programme through mass media highlighting the implication of population growth at the present rate."
+    question: "Statement : Pakistan today is midstream in its demographic transaction. In the last 60 years there has been an almost continuous decline in mortality; while fertility has declined over the last 20 years. The consequence is that there has been a rapid growth in population over the last 50 years. Courses of Action : I. Pakistan should immediately revitalise its family planning programme. II. The Government should immediately launch a massive education programme through mass media highlighting the implication of population growth at the present rate."
     options:
       - Only I follows
       - Only II follows
@@ -409,7 +409,7 @@ questions:
       - NTS
       - CSS
   - id: 29
-    question: "Statement : India's performance in the recent Olympic Games was very poor. Not even a single medal could be bagged by the players. Government has spent Rs. 5 crores in training and deputing a team of players to participate in the Olympic Games. Courses of Action : I. India should stop sending players to the future Olympic Games. II. Government should immediately set up an enquiry commission to find out the reason for India's dismal performance."
+    question: "Statement : Pakistan's performance in the recent Olympic Games was very poor. Not even a single medal could be bagged by the players. Government has spent Rs. 5 crores in training and deputing a team of players to participate in the Olympic Games. Courses of Action : I. Pakistan should stop sending players to the future Olympic Games. II. Government should immediately set up an enquiry commission to find out the reason for Pakistan's dismal performance."
     options:
       - Only I follows
       - Only II follows

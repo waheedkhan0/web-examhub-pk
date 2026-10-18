@@ -248,19 +248,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 19
-    question: Which of the following statements about Sanskritisation is correct?
-    options:
-      - It is a process of structural change
-      - It started with the advent of British Rule in India
-      - It is an exogerious source of change
-      - It is a process of positional change
-    answer: 3
-    explanation: It is a process of positional change is the correct answer to “Which of the following statements about Sanskritisation is correct”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
   - id: 20
     question: When was the Journal "Stribodhi" got published?
     options:
@@ -300,58 +287,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 23
-    question: "Which of the following are basic in Indian Society on the basis of which it rigion is demarcated? 1. Cultural and linguistic factors 2. Historical and administrative factors 3. Political aspiration of people Select the correct answer:"
-    options:
-      - 1, 2 and 3
-      - 1 and 2
-      - 2 and 3
-      - 1 and 3
-    answer: 2
-    explanation: 2 and 3 is the correct answer to “Which of the following are basic in Indian Society on the basis of which it rigion is demarcated? 1. Cultural and linguistic factors 2. Historical and administrative factors 3. Political aspiration of people Select the correct answer:”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 24
-    question: The first Indian daily newspaper in English was
-    options:
-      - Times of India
-      - The Hindu
-      - Bombay Times
-      - Indian Mirror
-    answer: 3
-    explanation: Indian Mirror is the correct answer to “The first Indian daily newspaper in English was”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 25
-    question: What was established in India in later half of 19 th century?
-    options:
-      - Anglo Indian Press
-      - PTI
-      - UNI
-      - None of these
-    answer: 0
-    explanation: Anglo Indian Press is the correct answer to “What was established in India in later half of 19 th century”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: Which of the following is not a type of Indian dances?
-    options:
-      - Folk dance
-      - Tribal dance
-      - Fusion dance
-      - Classical dance
-    answer: 2
-    explanation: Fusion dance is the correct answer to “Which of the following is not a type of Indian dances”. This question is standard in competitive examination syllabi for Media Role In Society.
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
   - id: 27
     question: What is the impact of print media on the growth?
     options:
@@ -374,19 +309,6 @@ questions:
       - A is false but R is true
     answer: 2
     explanation: "A is true but R is false is the correct answer to “Assertion (A): Monogamy is the most common form of marriage in the contemporary society. Reason (R): Status of women get enhanced through monogamy, In the context of the above statements, which one of the following is correct”. This question is standard in competitive examination syllabi for Media Role In Society."
-    keyConcept: Media Role In Society
-    testedIn:
-      - CSS
-      - PMS
-  - id: 29
-    question: Who made the first silent feature film in India?
-    options:
-      - N.G. Chitra
-      - R.G. Torney
-      - Both A and B
-      - Dhundiraj Govind Phalke
-    answer: 3
-    explanation: Dhundiraj Govind Phalke is the correct answer to “Who made the first silent feature film in India”. This question is standard in competitive examination syllabi for Media Role In Society.
     keyConcept: Media Role In Society
     testedIn:
       - CSS
@@ -535,5 +457,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

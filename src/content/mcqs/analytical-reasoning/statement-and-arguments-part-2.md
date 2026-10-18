@@ -17,7 +17,7 @@ targetExams:
   - HEC-HAT
 questions:
   - id: 1
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should income tax be abolished in India? Arguments : I. Yes. It is an unnecessary burden on the wage earners. II. No. It is a good source of revenue."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should income tax be abolished in Pakistan? Arguments : I. Yes. It is an unnecessary burden on the wage earners. II. No. It is a good source of revenue."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -31,7 +31,7 @@ questions:
       - NTS
       - CSS
   - id: 2
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should school education be made free in India? Arguments : I. Yes. This is the only way to improve the level of literacy. II. No. It would add to the already heavy burden on the exchequer."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should school education be made free in Pakistan? Arguments : I. Yes. This is the only way to improve the level of literacy. II. No. It would add to the already heavy burden on the exchequer."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -53,7 +53,7 @@ questions:
       - Neither I nor II is strong
       - Both I and II are strong
     answer: 1
-    explanation: Abolishing the import duty on electronic goods shall reduce the costs of imported goods and adversely affect the sale of the domestic products, thus giving a setback to the Indian electronics industry. So, argument II holds strong. Argument I does not provide a convincing reason.
+    explanation: Abolishing the import duty on electronic goods shall reduce the costs of imported goods and adversely affect the sale of the domestic products, thus giving a setback to the Pakistani electronics industry. So, argument II holds strong. Argument I does not provide a convincing reason.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
@@ -87,7 +87,7 @@ questions:
       - NTS
       - CSS
   - id: 6
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India have no military force at all? Arguments: I. No. Other countries in the world do not believe in non-violence. II. Yes. Many Indians believe in non-violence."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan have no military force at all? Arguments: I. No. Other countries in the world do not believe in non-violence. II. Yes. Many Pakistanis believe in non-violence."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -95,7 +95,7 @@ questions:
       - Neither I nor II is strong
       - Both I and II are strong
     answer: 3
-    explanation: Clearly, India needs to have military force to defend itself against the threat of other military powers in the world. So, none of the arguments holds strong.
+    explanation: Clearly, Pakistan needs to have military force to defend itself against the threat of other military powers in the world. So, none of the arguments holds strong.
     keyConcept: Statement And Arguments
     testedIn:
       - NTS
@@ -115,7 +115,7 @@ questions:
       - NTS
       - CSS
   - id: 8
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should luxury hotels be banned in India? Arguments : I. Yes. They are places from where international criminals operate. II. No. Affluent foreign tourists will have no place to stay."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should luxury hotels be banned in Pakistan? Arguments : I. Yes. They are places from where international criminals operate. II. No. Affluent foreign tourists will have no place to stay."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -171,7 +171,7 @@ questions:
       - NTS
       - CSS
   - id: 12
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should persons convicted of criminal offences in the past be allowed to contest elections in India? Arguments : I. No. Such persons cannot serve the cause of the people and country. II. Yes. It is democracy - let people decide whom to vote."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should persons convicted of criminal offences in the past be allowed to contest elections in Pakistan? Arguments : I. No. Such persons cannot serve the cause of the people and country. II. Yes. It is democracy - let people decide whom to vote."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -227,7 +227,7 @@ questions:
       - NTS
       - CSS
   - id: 16
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India create a huge oil reserve like some Western countries to face difficult situations in future? Arguments : I. No. There is no need to block huge amount of foreign exchange and keep the money idle. II. Yes. This will help India withstand shocks of sudden rise in oil prices due to unforeseen circumstances."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan create a huge oil reserve like some Western countries to face difficult situations in future? Arguments : I. No. There is no need to block huge amount of foreign exchange and keep the money idle. II. Yes. This will help Pakistan withstand shocks of sudden rise in oil prices due to unforeseen circumstances."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -269,7 +269,7 @@ questions:
       - NTS
       - CSS
   - id: 19
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should the opinion polls predicting outcome of elections before the elections be banned in India? Arguments : I. Yes. This may affect the voters mind and may affect the outcome. II. No. Such polls are conducted all over the world."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should the opinion polls predicting outcome of elections before the elections be banned in Pakistan? Arguments : I. Yes. This may affect the voters mind and may affect the outcome. II. No. Such polls are conducted all over the world."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -297,7 +297,7 @@ questions:
       - NTS
       - CSS
   - id: 21
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should system of offering jobs only to the wards of government employees be introduced in all government offices in India? Arguments : I. No. It denies opportunity to many deserving individuals and government may stand to lose in the long run. II. No. It is against the principle of equality, does not government owe its responsibility to all its citizens?"
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should system of offering jobs only to the wards of government employees be introduced in all government offices in Pakistan? Arguments : I. No. It denies opportunity to many deserving individuals and government may stand to lose in the long run. II. No. It is against the principle of equality, does not government owe its responsibility to all its citizens?"
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -311,7 +311,7 @@ questions:
       - NTS
       - CSS
   - id: 22
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should the vehicles older than 15 years be rejected in metros in India? Arguments : I. Yes. This is a significant step to lower down the pollution level in metros. II. No. It will be very difficult for vehicle owners to shift to other parts in country because they will not get suitable job for their very existence."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should the vehicles older than 15 years be rejected in metros in Pakistan? Arguments : I. Yes. This is a significant step to lower down the pollution level in metros. II. No. It will be very difficult for vehicle owners to shift to other parts in country because they will not get suitable job for their very existence."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -353,7 +353,7 @@ questions:
       - NTS
       - CSS
   - id: 25
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should agriculture in rural India be mechanized? Arguments : I. Yes. It would lead to higher production. II. No. Many villagers would be left unemployed."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should agriculture in rural Pakistan be mechanized? Arguments : I. Yes. It would lead to higher production. II. No. Many villagers would be left unemployed."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -451,7 +451,7 @@ questions:
       - NTS
       - CSS
   - id: 32
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India develop a national water grid by connecting all the rivers in the country? Arguments : I. No. This is not just possible as we do not have the technical knowhow. II. Yes, this will greatly help the entire country by effectively channelizing the excess water to the areas having shortage."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan develop a national water grid by connecting all the rivers in the country? Arguments : I. No. This is not just possible as we do not have the technical knowhow. II. Yes, this will greatly help the entire country by effectively channelizing the excess water to the areas having shortage."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -507,7 +507,7 @@ questions:
       - NTS
       - CSS
   - id: 36
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India support all the international policies of United States of America? Arguments : I. No. Many other powerful countries do not support the same. II. Yes. This is the only way to gain access to USA developmental funds."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan support all the international policies of United States of America? Arguments : I. No. Many other powerful countries do not support the same. II. Yes. This is the only way to gain access to USA developmental funds."
     options:
       - Only argument I is strong
       - Only argument II is strong
@@ -563,7 +563,7 @@ questions:
       - NTS
       - CSS
   - id: 40
-    question: "Directions : Following question consists of a statement followed by four arguments I, II, III and IV. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should India go in for computerization in all possible sectors? Arguments : I. Yes. It will bring efficiency and accuracy in the work. II. No. It will be an injustice to the monumental human resources which are at present underutilized. III. No. Computerization demands a lot of money. We should not waste money on it. IV. Yes. When advanced countries are introducing computers in every field, how can India afford to lag behind?"
+    question: "Directions : Following question consists of a statement followed by four arguments I, II, III and IV. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should Pakistan go in for computerization in all possible sectors? Arguments : I. Yes. It will bring efficiency and accuracy in the work. II. No. It will be an injustice to the monumental human resources which are at present underutilized. III. No. Computerization demands a lot of money. We should not waste money on it. IV. Yes. When advanced countries are introducing computers in every field, how can Pakistan afford to lag behind?"
     options:
       - Only I is strong
       - Only I and II are strong

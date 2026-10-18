@@ -92,19 +92,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 7
-    question: As per Indian law the methane concentration should not exceed "A%" in any part of the mine. A is given by
-    options:
-      - 0.5%
-      - 0.75%
-      - 1%
-      - 1.25%
-    answer: 3
-    explanation: 1.25% is the correct answer to “As per Indian law the methane concentration should not exceed "A%" in any part of the mine. A is given by”. This question is standard in competitive examination syllabi for Mine Environment.
-    keyConcept: Mine Environment
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 8
     question: What are the composition of the solution in which the plates of the Oldham cap lamp battery remain immersed?
     options:
@@ -145,5 +132,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

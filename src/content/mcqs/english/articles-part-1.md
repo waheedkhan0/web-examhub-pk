@@ -523,14 +523,14 @@ questions:
       - PPSC
       - FPSC
   - id: 40
-    question: Arjun has a bachelor's degree from . . . . . . . . University of Madras.
+    question: Arjun has a bachelor's degree from . . . . . . . . University of the Punjab.
     options:
       - a
       - an
       - the
       - no article
     answer: 2
-    explanation: Here, the sentence talks about the 'University of Madras' as specific class. Since we are referring to specific things, we need to use the definite article 'the'.
+    explanation: Here, the sentence talks about the 'University of the Punjab' as specific class. Since we are referring to specific things, we need to use the definite article 'the'.
     keyConcept: Articles
     testedIn:
       - PPSC

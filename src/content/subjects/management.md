@@ -31,34 +31,28 @@ subtopics:
     questionCount: 40
   - name: Entrepreneurship And Innovation — Part 1
     slug: entrepreneurship-and-innovation-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Entrepreneurship And Innovation — Part 2
     slug: entrepreneurship-and-innovation-part-2
-    questionCount: 40
+    questionCount: 37
   - name: Foreign Trade Policy — Part 1
     slug: foreign-trade-policy-part-1
-    questionCount: 40
+    questionCount: 31
   - name: Foreign Trade Policy — Part 2
     slug: foreign-trade-policy-part-2
-    questionCount: 40
+    questionCount: 28
   - name: Human Resource Management _Hrm — Part 1
     slug: human-resource-management-hrm-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Human Resource Management _Hrm — Part 2
     slug: human-resource-management-hrm-part-2
     questionCount: 40
   - name: International Finance And Treasury — Part 1
     slug: international-finance-and-treasury-part-1
-    questionCount: 40
+    questionCount: 39
   - name: International Finance And Treasury — Part 2
     slug: international-finance-and-treasury-part-2
-    questionCount: 40
-  - name: Labour And Social Welfare — Part 1
-    slug: labour-and-social-welfare-part-1
-    questionCount: 40
-  - name: Labour And Social Welfare — Part 2
-    slug: labour-and-social-welfare-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Management Accounting — Part 1
     slug: management-accounting-part-1
     questionCount: 40
@@ -73,7 +67,7 @@ subtopics:
     questionCount: 40
   - name: Managerial Economics — Part 1
     slug: managerial-economics-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Managerial Economics — Part 2
     slug: managerial-economics-part-2
     questionCount: 40
@@ -118,7 +112,7 @@ subtopics:
     questionCount: 40
   - name: Values And Ethics In Management — Part 2
     slug: values-and-ethics-in-management-part-2
-    questionCount: 40
+    questionCount: 38
 ---
 
 ## Management Sciences: Exam Syllabus & Strategy

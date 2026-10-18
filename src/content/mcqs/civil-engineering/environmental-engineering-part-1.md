@@ -262,19 +262,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 20
-    question: The self cleansing velocity for all sewers in India is usually
-    options:
-      - Less than 1.0 m/sec
-      - 1.0 m/sec to 1.2 m/sec
-      - 1.5 m/sec to 2.0 m/sec
-      - 3.0 m/sec to 3.5 m/sec
-    answer: 1
-    explanation: 1.0 m/sec to 1.2 m/sec is the correct answer to “The self cleansing velocity for all sewers in India is usually”. This question is standard in competitive examination syllabi for Environmental Engineering.
-    keyConcept: Environmental Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 21
     question: The method of analysis of distribution system in which the domestic supply is neglected and fire demand is considered is
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

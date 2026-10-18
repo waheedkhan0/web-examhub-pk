@@ -105,19 +105,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 8
-    question: In India, the use of television as a medium of communication for rural development was started in
-    options:
-      - "1960"
-      - "1965"
-      - "1966"
-      - "1967"
-    answer: 3
-    explanation: 1967 is the correct answer to “In India, the use of television as a medium of communication for rural development was started in”. This question is standard in competitive examination syllabi for Agricultural Statistics.
-    keyConcept: Agricultural Statistics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 9
     question: The objective of TRYSEM is to provide technical skills to the rural youth from families below the poverty line. The target group comprises rural youth between the age of
     options:
@@ -257,19 +244,6 @@ questions:
       - None of these
     answer: 1
     explanation: Latin word is the correct answer to “The word 'tentio' in extension is derived from”. This question is standard in competitive examination syllabi for Agricultural Statistics.
-    keyConcept: Agricultural Statistics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 20
-    question: The first Agricultural University of India
-    options:
-      - PAU, Ludhiana (Punjab)
-      - HAU, Hissar (Haryana)
-      - GBPUA, and Technology, Pantnagar (Uttar Pradesh)
-      - APAU, Hyderabad (Andra Pradesh)
-    answer: 2
-    explanation: GBPUA, and Technology, Pantnagar (Uttar Pradesh) is the correct answer to “The first Agricultural University of India”. This question is standard in competitive examination syllabi for Agricultural Statistics.
     keyConcept: Agricultural Statistics
     testedIn:
       - PPSC Agriculture Officer
@@ -443,19 +417,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 34
-    question: Match the following columns Column I Column II a. AGMARK 1. 1953 b. ICAR 2. 1973 c. NES 3. 1937 d. T and V system 4. 1929
-    options:
-      - a-1, b-4, c-3, d-2
-      - a-4, b-3, c-2, d-1
-      - a-3, b-4, c-1, d-2
-      - a-2, b-3, c-4, d-1
-    answer: 2
-    explanation: a-3, b-4, c-1, d-2 is the correct answer to “Match the following columns Column I Column II a. AGMARK 1. 1953 b. ICAR 2. 1973 c. NES 3. 1937 d. T and V system 4. 1929”. This question is standard in competitive examination syllabi for Agricultural Statistics.
-    keyConcept: Agricultural Statistics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 35
     question: The geometric mean of two numbers 8 and 18 shall be
     options:
@@ -495,19 +456,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 38
-    question: Which of the following is the special scheme launched by the ICAR for transfer of technology to the farmers?
-    options:
-      - All India Co-ordination Research Project
-      - Operational Research Project
-      - Lab to Land Programme
-      - National Demonstration Programme
-    answer: 2
-    explanation: Lab to Land Programme is the correct answer to “Which of the following is the special scheme launched by the ICAR for transfer of technology to the farmers”. This question is standard in competitive examination syllabi for Agricultural Statistics.
-    keyConcept: Agricultural Statistics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 39
     question: The harmonic mean of 2 and 4 is
     options:
@@ -535,5 +483,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

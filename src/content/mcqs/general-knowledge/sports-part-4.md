@@ -124,26 +124,6 @@ questions:
     answer: 3
     explanation: New Zealand is the correct answer to “Which cricket team is called “The Kiwis””. Items of this type are drawn from the Sports & Games — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
-  - id: 12
-    question: Who has made the most number of runs in ODI cricket?
-    options:
-      - Sanath Jayasuriya
-      - Kumar Sangakkara
-      - Ricky Ponting
-      - Sachin Tendulkar
-    answer: 3
-    explanation: Sachin Tendulkar is the correct answer to “Who has made the most number of runs in ODI cricket”. Items of this type are drawn from the Sports & Games — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
-  - id: 13
-    question: Who has made the most number of runs in test cricket?
-    options:
-      - Rahul Dravid
-      - Sachin Tendulkar
-      - Jacques Kallis
-      - Ricky Ponting
-    answer: 1
-    explanation: Sachin Tendulkar is the correct answer to “Who has made the most number of runs in test cricket”. Items of this type are drawn from the Sports & Games — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
   - id: 14
     question: Which cricket team is called “The Lions”?
     options:

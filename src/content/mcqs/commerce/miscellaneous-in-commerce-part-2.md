@@ -28,19 +28,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 2
-    question: "The institution set up for general supervision and control of capital market is:"
-    options:
-      - Comptroller of Capital Issues
-      - Reserve Bank of India
-      - SEBI
-      - Registrar of Joint Stock Companies
-    answer: 2
-    explanation: SEBI is the correct answer to “The institution set up for general supervision and control of capital market is:”. This question is standard in competitive examination syllabi for Miscellaneous In Commerce.
-    keyConcept: Miscellaneous In Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 3
     question: "If net profit margin is 10%, total assets turnover 2 times, and the total debts to total assets ratio 0.6 the return on equity will be:"
     options:
@@ -195,19 +182,6 @@ questions:
       - Sales Budget
     answer: 2
     explanation: Cash Budget is the correct answer to “Which of the following is not a part of Production Cost Budget”. This question is standard in competitive examination syllabi for Miscellaneous In Commerce.
-    keyConcept: Miscellaneous In Commerce
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 15
-    question: "Which of the following sanctions foreign exchange for import of goods:"
-    options:
-      - Nationalised Banks
-      - Exim Bank
-      - Reserve Bank of India
-      - Ministry of External Affairs
-    answer: 2
-    explanation: Reserve Bank of India is the correct answer to “Which of the following sanctions foreign exchange for import of goods:”. This question is standard in competitive examination syllabi for Miscellaneous In Commerce.
     keyConcept: Miscellaneous In Commerce
     testedIn:
       - FPSC Senior Auditor

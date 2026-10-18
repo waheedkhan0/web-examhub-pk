@@ -202,16 +202,6 @@ questions:
     answer: 3
     explanation: Mitchell Starc is the correct answer to “Who is the Highest Wicket Taker of ICC Cricket World Cup 2019”. Items of this type are drawn from the Sports & Games — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
-  - id: 20
-    question: Who got golden bat in world cup 2019?
-    options:
-      - Rohit Sharma
-      - David Warner
-      - Joe Root
-      - Babar Azam
-    answer: 0
-    explanation: Rohit Sharma is the correct answer to “Who got golden bat in world cup 2019”. Items of this type are drawn from the Sports & Games — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
   - id: 21
     question: When was Judo introduced in Olympic game?
     options:
@@ -422,19 +412,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 42
-    question: Which was the 1st non Test playing country to beat India in an international match?
-    options:
-      - Canada
-      - Sri Lanka
-      - Zimbabwe
-      - East Africa
-    answer: 1
-    explanation: Sri Lanka got the status of Test playing country in 1981, and beat India in the 1979 World Cup. Before this they were champion of ICC non-test playing countries.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 43
     question: Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?
     options:
@@ -444,71 +421,6 @@ questions:
       - Eight
     answer: 2
     explanation: "Lewis has won nine Olympic gold medals in all: four in 1984 (100m, 200m, 4x100m, long jump), two in 1988 (100m and long jump), two in 1992 (4x100m and long jump), and one in 1996 (long jump)."
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 44
-    question: Which county did Ravi Shastri play for?
-    options:
-      - Glamorgan
-      - Leicestershire
-      - Gloucestershire
-      - Lancashire
-    answer: 0
-    explanation: Ravi Shastri once hit spinner Tilak Raj for 6 sixes in an over in a First Class match.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 45
-    question: Who was the first Indian to win the World Amateur Billiards title?
-    options:
-      - Geet Sethi
-      - Wilson Jones
-      - Michael Ferreira
-      - Manoj Kothari
-    answer: 1
-    explanation: Jones, a dominant national amateur champion for more than a decade, won the amateur world championship twice, in 1958 and 1964. He was awarded the Arjuna Award in 1963, the Padma Shri Award in 1965, and the Dronacharya Award in 1996. He was the first Indian to be a World champion in any sport.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 46
-    question: Who is the first Indian woman to win an Asian Games gold in 400m run?
-    options:
-      - M.L.Valsamma
-      - P.T.Usha
-      - Kamaljit Sandhu
-      - K.Malleshwari
-    answer: 2
-    explanation: Kamaljeet Sandhu is a female Indian athlete who won gold medal at 1970 Bangkok Asian Games in 400 m race. She ran the distance in 57.3 seconds. She was the first Indian woman athlete to win gold medal at any Asian games.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 47
-    question: Which two counties did Kapil Dev play?
-    options:
-      - Northamptonshire & Worcestershire
-      - Northamptonshire & Warwickshire
-      - Nottinghamshire & Worcestershire
-      - Nottinghamshire & Warwickshire
-    answer: 0
-    explanation: Kapil Dev played for Northamptonshire & Worcestershire.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 48
-    question: When was Amateur Athletics Federation of India established?
-    options:
-      - "1936"
-      - "1946"
-      - "1956"
-      - "1966"
-    answer: 1
-    explanation: Amateur Athletic Federation of India (AAFI) was formed in 1946 at the initiative of Maharaja Yadvindra Singh, the then President of Indian Olympic Association with Prof. G.D. Sondhi as its first President.
     keyConcept: Sports
     testedIn:
       - PPSC
@@ -591,19 +503,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 55
-    question: Which two counties did Anil Kumble play for?
-    options:
-      - Nottinghamshire & Lancashire
-      - Nottinghamshire & Leicestershire
-      - Northamptonshire & Leicestershire
-      - Northamptonshire & Lancashire
-    answer: 2
-    explanation: Anil Kumble played for Northamptonshire & Leicestershire.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 56
     question: The nickname of Glenn McGrath is what?
     options:
@@ -626,32 +525,6 @@ questions:
       - Julio
     answer: 1
     explanation: Mark Waugh is commonly called junior.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 58
-    question: India won its first Olympic hockey gold in?
-    options:
-      - "1928"
-      - "1932"
-      - "1936"
-      - "1948"
-    answer: 0
-    explanation: The India men's national field hockey team was the first non-European team to be a part of the International Hockey Federation. In 1928, the team won its first Olympic gold medal and until 1960, the Indian men's team remained unbeaten in the Olympics, winning six gold medals in a row.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 59
-    question: In which year did Milkha Singh win the first National title in the 400 m race?
-    options:
-      - "1955"
-      - "1956"
-      - "1957"
-      - "1970"
-    answer: 2
-    explanation: In 1957, Milkha Singh win the first National title in the 400 m race.
     keyConcept: Sports
     testedIn:
       - PPSC
@@ -695,19 +568,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 63
-    question: Who among the following is not associated with billiards in India?
-    options:
-      - Subash Agrawal
-      - Ashok Shandilya
-      - Manoj Kothari
-      - Mihir Sen
-    answer: 3
-    explanation: Mihir Sen is not associated with billiards.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 64
     question: Which player has scored the most runs in a single Test innings?
     options:
@@ -717,58 +577,6 @@ questions:
       - Agarkar
     answer: 2
     explanation: "West Indies batsman Brian Lara has the highest individual score in Test cricket: he scored 400 not out against England in 2004 to surpass the innings of 380 by Matthew Hayden six months earlier."
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 65
-    question: Who was the 1st ODI captain for India?
-    options:
-      - Ajit Wadekar
-      - Bishen Singh Bedi
-      - Nawab Pataudi
-      - Vinoo Mankad
-    answer: 0
-    explanation: Ajit Wadekar was the 1st ODI captain for India.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 66
-    question: Where did India play its 1st one day international match?
-    options:
-      - Lords
-      - Headingley
-      - Taunton
-      - The Oval
-    answer: 1
-    explanation: India played its 1st one day international match at Headingley. India lost the match by four wickets on 13-07-1974. Brijesh Patel (82) was the top scorer.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 67
-    question: India reached the final of the Davis Cup for the first time in?
-    options:
-      - "1964"
-      - "1966"
-      - "1970"
-      - "1974"
-    answer: 1
-    explanation: India competed in its first Davis Cup in 1921 but has yet to win the Cup. India finished as runners-up 3 times (1966, 1974, 1987). In 1974, the final was scratched and South Africa were awarded the Davis Cup after India refused to participate in the final due to the South African government's apartheid policies.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 68
-    question: The Asian Games were held in Delhi for the first time in?
-    options:
-      - "1951"
-      - "1963"
-      - "1971"
-      - "1982"
-    answer: 0
-    explanation: The 1951 Asian Games, officially known as the First Asian Games, was a multi-sport event celebrated in New Delhi, India from 4 to 11 March 1951.
     keyConcept: Sports
     testedIn:
       - PPSC
@@ -786,19 +594,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 70
-    question: Which county did Mohammad Azharuddin play for?
-    options:
-      - Yorkshire
-      - Hampshire
-      - Lancashire
-      - Derbyshire
-    answer: 3
-    explanation: Derbyshire County Cricket Club is one of the 18 major county clubs which make up the England and Wales domestic cricket structure, representing the historic county of Derbyshire.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 71
     question: The first hand glider was designed by?
     options:
@@ -812,45 +607,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 72
-    question: Which county did Sunil Gavaskar play for?
-    options:
-      - Somerset
-      - Worcestershire
-      - Warwickshire
-      - Glamorgan
-    answer: 0
-    explanation: Sunil Gavaskar played for Somerset.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 73
-    question: The 'Dronacharya Award' is given to?
-    options:
-      - Sportsmen
-      - Coaches
-      - Umpires
-      - Sports Editors
-    answer: 1
-    explanation: The Dronacharya Award, officially known as Dronacharya Award for Outstanding Coaches in Sports and Games, is sports coaching honour of the Republic of India. The award is named after Drona, often referred as "Dronacharya" or "Guru Drona", a character from the Sanskrit epic Mahabharata of ancient India.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 74
-    question: In which Indian state did the game of Polo originate?
-    options:
-      - Meghalaya
-      - Rajasthan
-      - Manipur
-      - West Bengal
-    answer: 2
-    explanation: India is the birthplace of modern polo. The modern game of polo is derived from Manipur, where the game was known as 'Sagol Kangjei', 'Kanjai-bazee', or 'Pulu'. It was the anglicised form of the last, referring to the wooden ball that was used, which was adopted by the sport in its slow spread to the west.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 75
     question: What do African-American football players Ernie Davis, Archie Griffin, and Tony Dorsett have in common?
     options:
@@ -860,58 +616,6 @@ questions:
       - They dont have any similarity
     answer: 1
     explanation: Ernie Davis was the first African American to win the prize in 1961, and Archie Griffin is the only player to have won it twice, in 1974 and 1975. Only Dorsett played for Pittsburgh. Davis played for Syracuse and Griffin played for Ohio State. Only Dorsett did lead his team to a Super Bowl title as NFC Rookie of the Year in 1977-78.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 76
-    question: Which cricketer died on the field in Bangladesh while playing for Abahani Club?
-    options:
-      - Subhash Gupte
-      - M.L.Jaisimha
-      - Lala Amarnath
-      - Raman Lamba
-    answer: 3
-    explanation: Raman Lamba, Rambo to friends, had played for India in four Tests and 32 one-day internationals. While fielding, he was felled at silly mid-on by a shot from national player Mehrab Hussain Opee's willow. Lamba was admitted to a private clinic and later to the Dhaka Medical College. From there he was shifted to the postgraduate hospital where he died.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 77
-    question: Which of the following is a Manipuri version of Hockey?
-    options:
-      - Khong Kangjei
-      - Hiyang Tanaba
-      - Yubi Lakpi
-      - Yubi-Lakpi
-    answer: 0
-    explanation: Khong kangjei, also known as mukna kangjei or sometimes kanjei, and commonly known as foot hockey, Manipuri hockey or hockey on foot, is a sport similar to field hockey primarily of the state of Manipur in India.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 78
-    question: Which county did Javagal Srinath sign for in 2003?
-    options:
-      - Surrey
-      - Durham
-      - Sussex
-      - Essex
-    answer: 1
-    explanation: Javagal Srinath signed for Durham in 2003.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 79
-    question: Which county did Sachin Tendulkar play for?
-    options:
-      - Nottinghamshire
-      - Yorkshire
-      - Lancashire
-      - Leicestershire
-    answer: 1
-    explanation: Sachin didn't have the greatest of times in Geoff Boycott's land. He averaged 40 odd, which is pretty low by his standards.
     keyConcept: Sports
     testedIn:
       - PPSC

@@ -44,15 +44,6 @@ questions:
     answer: 3
     explanation: Charles Franklin Kettering invented automobile self start .
     keyConcept: Inventions & Discoveries
-  - id: 4
-    question: Who was the first Muslim President of Indian National Congress?
-    options:
-      - C. K Azad
-      - Nawab Syed Bahadur
-      - Badaruddin Tayyabji
-    answer: 2
-    explanation: Badaruddin Tayyabji is the correct answer to “Who was the first Muslim President of Indian National Congress”. Items of this type are drawn from the Inventions & Discoveries — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Inventions & Discoveries
   - id: 5
     question: The World’s first Camel hospital is located in __________?
     options:

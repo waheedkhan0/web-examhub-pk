@@ -28,19 +28,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 2
-    question: Who was the founder of Kushan Empire?
-    options:
-      - Kanishka
-      - Virna Kadphises
-      - Kujula Kadphises
-      - Vasiskha
-    answer: 2
-    explanation: Kujula Kadphises was the first Yueh Chi chief who crossed the Hindukush Mountains and laid down the foundation of the Kushana Empire.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 3
     question: Who got the monumental 'Rayagopurams' in front of the temples at Hampi, Tiru-pati, etc., constructed?
     options:
@@ -54,32 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 4
-    question: Famous Battle of Talikota was fought in
-    options:
-      - 1565 A.D.
-      - 1575 A.D.
-      - 1585 A.D.
-      - 1570 A.D.
-    answer: 0
-    explanation: The Battle of Talikota (23 January 1565) was a watershed battle fought between the Vijayanagara Empire and the Deccan sultanates. The Vijaynagar Kingdom was defeated in this battle.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 5
-    question: Krishnadevaraya built the Krishnaswami temple in Hampi, which is situated in the present state of
-    options:
-      - Karnataka
-      - Calcutta
-      - Jammu & Kashmir
-      - Kerala
-    answer: 0
-    explanation: The Krishna Swami Temple was built by Ruler Krishnadeva Raya in 1513 AD at Hampi (Karnataka).
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
   - id: 6
     question: "The correct chronological order in which they were built is: 1. Tughluqabad Fort 2. Lodi Garden 3. Qutub Minar 4. Fatehpur Sikri"
     options:
@@ -89,19 +50,6 @@ questions:
       - 1, 3, 4, 2
     answer: 2
     explanation: "[1]. Tughlaqabad Fort is a ruined fort in Delhi, built by Ghiyas-ud-din Tughlaq, the founder of Tughlaq dynasty, of the Delhi Sultanate of India in 1321, as he established the fourth historic city of Delhi, which was later abandoned in 1327 . [3]. Qutab Minar - Qutab-ud-din Aibak, the first Muslim ruler of Delhi, commenced the construction of the in 1200 AD , but could only finish the basement. His successor, Iltutmush, added three more storeys, and in 1368, Firoz Shah Tughlak constructed the fifth and the last storey. [2]. Lodi garden was built during the Lodi dynasty sometime between 1451 and 1526. A mosque can be seen in the complex which has three domes and five arched openings. [4]. Fatehpur Sikri Fort - Fatehpur Sikri is near Agra and once was the capital of Mughal Emperor Akbar. The architecture of the city was designed by Tahir Das and Dhruv Chawla. Akbar founded the city in 1569 after winning Chittor and Ranthambore. The correct chronological order in which they were built is [1] Tughluqabad Fort, [3] Qutub Minar, [2] Lodi Garden, [4] Fatehpur Sikri. Source : For Tughluqabad Fort - wikipedia.org For Qutab Minar - delhitourism.gov.in For Lodi Garden - wikipedia.org For Fatehpur Sikri - tutorialspoint.com"
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: Name the river on the banks of which the city of Vijayanagar is located?
-    options:
-      - Kaveri
-      - Krishna
-      - Wainganga
-      - Tungabhadra
-    answer: 3
-    explanation: "Vijayanagara (Sanskrit: \"City of Victory\") was the capital city of the historic Vijayanagara Empire. Located on the banks of the Tungabhadra River, it spread over a large area and included the modern era Group of Monuments at Hampi site in Ballari district and others in and around that district in Karnataka, India."
     keyConcept: Lodi And Sayyid Dynasty
     testedIn:
       - CSS
@@ -128,19 +76,6 @@ questions:
       - 11th Century
     answer: 1
     explanation: Qutub-Minar in red and buff sandstone is the highest tower in India. Built in the 13th century, the magnificent tower stands in the capital, Delhi. It has a diameter of 14.32m at the base and about 2.75m on the top with a height of 72.5m. It is an architectural marvel of ancient India.
-    keyConcept: Lodi And Sayyid Dynasty
-    testedIn:
-      - CSS
-      - PMS
-  - id: 10
-    question: The city of Vijayanagara is also known as
-    options:
-      - Aravidu
-      - Chandragiri
-      - Hampi
-      - Kondavidu
-    answer: 2
-    explanation: Hampi a village located on the banks of the Tungabhadra River is regarded as one of the most important world heritage sites in India. It was counted amongst the largest and most prosperous cities of the world during its period of power and vigour. This site that holds significance both historically and architecturally has several monuments, particularly the Virupaksha Temple that is dedicated to the patron deity of the Vijayanagara rulers, Lord Virupaksha, which is why it is often referred as Virupakshapura and Vijayanagara.
     keyConcept: Lodi And Sayyid Dynasty
     testedIn:
       - CSS

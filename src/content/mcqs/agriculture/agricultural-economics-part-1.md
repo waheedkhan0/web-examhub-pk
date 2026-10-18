@@ -27,19 +27,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 2
-    question: Nationalization of banks was carried out on
-    options:
-      - 19th June, 1970
-      - 19th July, 1969
-      - 19th August, 1979
-      - 2nd October, 1969
-    answer: 1
-    explanation: The nationalization of banks in India was carried out on 19 th July, 1969 . The Government of India nationalized 14 major commercial banks with deposits of over ₹50 crores each to enhance banking penetration and boost economic development. The objective was to ensure banking services reached rural areas and to provide credit support to agriculture, small industries, and exports. A second phase of nationalization took place in 1980 , where 6 more banks were nationalized, bringing the total to 20.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 3
     question: Which one of the following is not a type of farming?
     options:
@@ -118,32 +105,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 9
-    question: "Match the List-I with List-II and select the correct answer: List-I (Organization) List-II (Leading Person) a. FSS 1. B. Shivaraman b. NABARD 2. B. K. Hazare c. DRI 3. M. Narasimhan d. RRB 4. Bawa"
-    options:
-      - a-1, b-2, c-3, d-4
-      - a-4, b-1, c-3, d-2
-      - a-3, b-1, c-2, d-4
-      - a-4, b-3, c-2, d-1
-    answer: 1
-    explanation: FSS (Farmers’ Service Societies) was initiated to support farmers by providing financial and technical assistance. It was pioneered by Bawa , who contributed significantly to its development and implementation. NABARD (National Bank for Agriculture and Rural Development) was established in 1982 to promote rural development and finance agricultural activities. It was formed based on the recommendations of the Shivaraman Committee, and B. Shivaraman played a crucial role in its establishment. DRI (Differential Rate of Interest Scheme) was introduced in 1972 to provide low-interest loans to weaker sections of society. The scheme was designed based on the recommendations of M. Narasimhan , who was instrumental in shaping India's banking sector policies. RRB (Regional Rural Banks) were established in 1975 under the RRB Act, 1976, with the aim of providing banking facilities to rural areas. B. K. Hazare played a major role in their implementation by advocating for financial inclusion and rural credit availability.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 10
-    question: The gross agricultural area in Rajasthan during 2011 was
-    options:
-      - 193.10 lakh hectares
-      - 183.49 lakh hectares
-      - 193.20 lakh hectares
-      - 194.33 lakh hectares
-    answer: 1
-    explanation: 183.49 lakh hectares is the correct answer to “The gross agricultural area in Rajasthan during 2011 was”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 11
     question: A holding which is smaller than economic holding a reasonable standard of living to the cultivator but not sufficient for the purpose of agricultural operations, is known as
     options:
@@ -179,19 +140,6 @@ questions:
       - On true line
     answer: 3
     explanation: On true line is the correct answer to “If E(u) = 0, the estimated line lies”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 14
-    question: The share of agriculture sector in national income of India is
-    options:
-      - 28%
-      - 30%
-      - 32%
-      - 34%
-    answer: 0
-    explanation: 28% is the correct answer to “The share of agriculture sector in national income of India is”. This question is standard in competitive examination syllabi for Agricultural Economics.
     keyConcept: Agricultural Economics
     testedIn:
       - PPSC Agriculture Officer
@@ -300,19 +248,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 23
-    question: In which year was the first bank in India established?
-    options:
-      - "1940"
-      - "1810"
-      - "1820"
-      - "1806"
-    answer: 3
-    explanation: 1806 is the correct answer to “In which year was the first bank in India established”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 24
     question: Inflation is measured by
     options:
@@ -322,19 +257,6 @@ questions:
       - None of these
     answer: 2
     explanation: Both A and B is the correct answer to “Inflation is measured by”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 25
-    question: Cooperative credit societies act was passed in
-    options:
-      - "1917"
-      - "1905"
-      - "1904"
-      - "1912"
-    answer: 2
-    explanation: 1904 is the correct answer to “Cooperative credit societies act was passed in”. This question is standard in competitive examination syllabi for Agricultural Economics.
     keyConcept: Agricultural Economics
     testedIn:
       - PPSC Agriculture Officer
@@ -361,19 +283,6 @@ questions:
       - Mill
     answer: 1
     explanation: Aristotle is the correct answer to “'Economica' is written by”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 28
-    question: "Match the List-I with List-II and select the correct answer: List-I (Journal/bulletin) List-II (Periodicity) a. Agricultural Marketing 1. Annual b. Agricultural Situation of India 2. Biannual c. Bulletin on Food Statistics 3. Monthly d. Indian Agriculture in brief 4. Quarterly"
-    options:
-      - a-4, b-3, c-2, d-1
-      - a-1, b-2, c-3, d-4
-      - a-3, b-2, c-1, d-4
-      - a-3, b-2, c-4, d-1
-    answer: 0
-    explanation: "a-4, b-3, c-2, d-1 is the correct answer to “Match the List-I with List-II and select the correct answer: List-I (Journal/bulletin) List-II (Periodicity) a. Agricultural Marketing 1. Annual b. Agricultural Situation of India 2. Biannual c. Bulletin on Food Statistics 3. Monthly d. Indian Agriculture in brief 4. Quarterly”. This question is standard in competitive examination syllabi for Agricultural Economics."
     keyConcept: Agricultural Economics
     testedIn:
       - PPSC Agriculture Officer
@@ -417,19 +326,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 32
-    question: DMI headquarter is located at
-    options:
-      - New Delhi
-      - Faizabad
-      - Ghaziabad
-      - Faridabad
-    answer: 3
-    explanation: Faridabad is the correct answer to “DMI headquarter is located at”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 33
     question: Do the TC and the VC increase with increase in the output?
     options:
@@ -469,19 +365,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 36
-    question: First of all five RRBs were established in
-    options:
-      - Uttar Pradesh (Muradabad and Gorakhpur), Haryana (Bhiwani), Rajasthan (Ajmer) and Paschim Banga (Malda)
-      - Uttar Pradesh (Muradabad and Gorakhpur), Haryana (Bhiwani), Rajasthan (Jaipur) and Uttarakhand (Dehradun)
-      - Uttar Pradesh (Muradabad and Gorakhpur), Haryana (Bhiwani), Rajasthan (Jaipur) and Paschim Banga (Malda)
-      - None of the above
-    answer: 2
-    explanation: Uttar Pradesh (Muradabad and Gorakhpur), Haryana (Bhiwani), Rajasthan (Jaipur) and Paschim Banga (Malda) is the correct answer to “First of all five RRBs were established in”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 37
     question: On the ridge lines, MPP of input, will be
     options:
@@ -491,19 +374,6 @@ questions:
       - Zero
     answer: 3
     explanation: Zero is the correct answer to “On the ridge lines, MPP of input, will be”. This question is standard in competitive examination syllabi for Agricultural Economics.
-    keyConcept: Agricultural Economics
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 38
-    question: Total female literacy rate in Uttar Pradesh on the basis of 2001 Census was
-    options:
-      - 70.23%
-      - 52.98%
-      - 42.98%
-      - 42.89%
-    answer: 2
-    explanation: 42.98% is the correct answer to “Total female literacy rate in Uttar Pradesh on the basis of 2001 Census was”. This question is standard in competitive examination syllabi for Agricultural Economics.
     keyConcept: Agricultural Economics
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +405,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

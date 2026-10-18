@@ -43,7 +43,7 @@ questions:
       - CSS
       - NTS
   - id: 3
-    question: "Two trains for Mumbai leave Delhi at 6 am and 6.45 am and travel at 100 kmph and 136 kmph respectively. How many kilometers from Delhi will the two trains be together:"
+    question: "Two trains for Islamabad leave Lahore at 6 am and 6.45 am and travel at 100 kmph and 136 kmph respectively. How many kilometers from Lahore will the two trains be together:"
     options:
       - 262.4 km
       - 260 km
@@ -51,7 +51,7 @@ questions:
       - 275 km
       - None of these
     answer: 2
-    explanation: Difference in time of departure between two trains = 45 min. = $$\frac{{45}}{{60}}$$ hour = $$\frac{{3}}{{4}}$$ hour. Let the distance be x km from Delhi where the two trains will be together. Time taken to cover x km with speed 136 kmph be t hour and time taken to cover x km with speed 100 kmph (As the train take 45 mins. more) be $$ {{\text{t}} + \frac{3}{4}} $$ = $$ {\frac{{4{\text{t}} + 3}}{4}} $$ Now, 100 × $$ {\frac{{4{\text{t}} + 3}}{4}} $$ = 136t Or, 25(4t + 3) = 136t Or, 100t + 75 = 136t Or, 36t = 75 Or, t = $$\frac{{75}}{{36}}$$ = 2.083 hours Then, distance x km = 136 × 2.083 ≈ 283.33 km.
+    explanation: Difference in time of departure between two trains = 45 min. = $$\frac{{45}}{{60}}$$ hour = $$\frac{{3}}{{4}}$$ hour. Let the distance be x km from Lahore where the two trains will be together. Time taken to cover x km with speed 136 kmph be t hour and time taken to cover x km with speed 100 kmph (As the train take 45 mins. more) be $$ {{\text{t}} + \frac{3}{4}} $$ = $$ {\frac{{4{\text{t}} + 3}}{4}} $$ Now, 100 × $$ {\frac{{4{\text{t}} + 3}}{4}} $$ = 136t Or, 25(4t + 3) = 136t Or, 100t + 75 = 136t Or, 36t = 75 Or, t = $$\frac{{75}}{{36}}$$ = 2.083 hours Then, distance x km = 136 × 2.083 ≈ 283.33 km.
     keyConcept: Speed Time And Distance
     testedIn:
       - CSS

@@ -81,32 +81,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 6
-    question: In India diesel locomotives are manufactured at
-    options:
-      - Ajmer
-      - Varanasi
-      - Bangalore
-      - Jamalpur
-    answer: 1
-    explanation: Varanasi is the correct answer to “In India diesel locomotives are manufactured at”. This question is standard in competitive examination syllabi for Electric Traction.
-    keyConcept: Electric Traction
-    testedIn:
-      - WAPDA
-      - NTDC
-  - id: 7
-    question: Electric locomotives in India are manufactured at
-    options:
-      - Jamalpur
-      - Bangalore
-      - Chittaranjan
-      - Gorakhpur
-    answer: 2
-    explanation: Chittaranjan is the correct answer to “Electric locomotives in India are manufactured at”. This question is standard in competitive examination syllabi for Electric Traction.
-    keyConcept: Electric Traction
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 8
     question: Which of the following state capitals is not on broad gauge track ?
     options:
@@ -406,19 +380,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 31
-    question: Main traction systems used in India are, those using
-    options:
-      - Electric locomotives
-      - Diesel engine locomotives
-      - Steam engine locomotives
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Main traction systems used in India are, those using”. This question is standard in competitive examination syllabi for Electric Traction.
-    keyConcept: Electric Traction
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 32
     question: Series motor is not suited for traction duty due to which of the following account?
     options:
@@ -537,5 +498,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

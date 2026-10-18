@@ -172,14 +172,14 @@ questions:
       - Civil Judge
       - ADPP
   - id: 13
-    question: The equitable doctrines featuring in the Indian Contract Act are mainly all, but one of the following
+    question: The equitable doctrines featuring in the Contract Act are mainly all, but one of the following
     options:
       - The doctrines of penalties and forfeiture
       - Stipulations as to time in a contract
       - Equitable relief on ground of misrepresentation
       - Equitable relief on ground of coercion
     answer: 3
-    explanation: Equitable relief on ground of coercion is the correct answer to “The equitable doctrines featuring in the Indian Contract Act are mainly all, but one of the following”. This question is standard in competitive examination syllabi for Law Of Equity.
+    explanation: Equitable relief on ground of coercion is the correct answer to “The equitable doctrines featuring in the Contract Act are mainly all, but one of the following”. This question is standard in competitive examination syllabi for Law Of Equity.
     keyConcept: Law Of Equity
     testedIn:
       - Civil Judge
@@ -240,9 +240,9 @@ questions:
     question: Statutory recognition of the principles of principles of equity is not found in
     options:
       - Specific Relief Act, 1877
-      - Indian Contract Act, 1872
+      - Contract Act, 1872
       - The Sale of Goods Act, 1930
-      - Indian Succession Act, 1925
+      - Succession Act, 1925
     answer: 2
     explanation: The Sale of Goods Act, 1930 is the correct answer to “Statutory recognition of the principles of principles of equity is not found in”. This question is standard in competitive examination syllabi for Law Of Equity.
     keyConcept: Law Of Equity
@@ -306,8 +306,8 @@ questions:
     options:
       - Section 48 of Code of Civil Procedure
       - Section 49 of Code of Civil Procedure
-      - Section 42 of Indian Contract Act
-      - Section 43 of the Indian Contract Act
+      - Section 42 of Contract Act
+      - Section 43 of the Contract Act
     answer: 1
     explanation: Section 49 of Code of Civil Procedure is the correct answer to “Equity delights in equality does not apply to”. This question is standard in competitive examination syllabi for Law Of Equity.
     keyConcept: Law Of Equity

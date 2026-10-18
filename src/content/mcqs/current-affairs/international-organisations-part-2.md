@@ -139,16 +139,6 @@ questions:
     answer: 0
     explanation: Dr Ahmad Vahidi is the correct answer to “Name the Interior Minister of Iran who visited Pakistan on February 14, 2022”. Items of this type are drawn from the International Organisations & Their Heads — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: International Organisations & Their Heads
-  - id: 14
-    question: Name of the girl who raised slogan of Allah O Akbar alone among the Mob chants Jai Shri Ram in India?
-    options:
-      - Sadia
-      - Hira
-      - Rimsha
-      - Muskaan
-    answer: 3
-    explanation: Muskaan is the correct answer to “Name of the girl who raised slogan of Allah O Akbar alone among the Mob chants Jai Shri Ram in India”. Items of this type are drawn from the International Organisations & Their Heads — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organisations & Their Heads
   - id: 15
     question: Who won the Africa Cup of Nations 2022?
     options:

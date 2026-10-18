@@ -378,19 +378,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 29
-    question: In which year was the BBC world service started in India?
-    options:
-      - "1990"
-      - "1991"
-      - "1992"
-      - "1993"
-    answer: 1
-    explanation: 1991 is the correct answer to “In which year was the BBC world service started in India”. This question is standard in competitive examination syllabi for Communication And Media Research.
-    keyConcept: Communication And Media Research
-    testedIn:
-      - CSS
-      - PMS
   - id: 30
     question: Mass communication is distribution of . . . . . . . .
     options:
@@ -469,19 +456,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 36
-    question: Who among the following set up the "Pubic society of India"?
-    options:
-      - D.J. Keyner
-      - N.W. Ayer
-      - I.S. Taylor
-      - None of the above
-    answer: 2
-    explanation: I.S. Taylor is the correct answer to “Who among the following set up the "Pubic society of India"”. This question is standard in competitive examination syllabi for Communication And Media Research.
-    keyConcept: Communication And Media Research
-    testedIn:
-      - CSS
-      - PMS
   - id: 37
     question: Under what circumstances, would we use a non-parametric test?
     options:
@@ -535,5 +509,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

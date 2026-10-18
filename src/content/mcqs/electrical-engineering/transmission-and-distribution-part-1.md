@@ -250,19 +250,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 19
-    question: Distribution lines in India generally use
-    options:
-      - Wooden poles
-      - R.C.C. poles
-      - Steel towers
-      - None of the above
-    answer: 1
-    explanation: R.C.C. poles is the correct answer to “Distribution lines in India generally use”. This question is standard in competitive examination syllabi for Transmission And Distribution.
-    keyConcept: Transmission And Distribution
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 20
     question: A 3-phase 4-wire system is commonly used on
     options:
@@ -538,5 +525,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

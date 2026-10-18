@@ -49,7 +49,7 @@ questions:
       - Greater of 25 mm or diameter
       - Smaller of 25 mm or diameter
     answer: 0
-    explanation: "1. Definition of Clear Cover: The clear cover is the distance between the outer surface of the reinforcement and the exposed surface of the concrete. 2. Importance of Clear Cover in RCC Columns: It provides protection to reinforcement against corrosion and fire exposure. Ensures proper bond strength between concrete and reinforcement. 3. Standard Requirement: As per IS 456:2000, the minimum clear cover for RCC columns should be the greater of 40 mm or the diameter of the bar used in reinforcement. This ensures sufficient durability and structural integrity under various environmental conditions. Conclusion: The correct answer is Option A: Greater of 40 mm or diameter , as per standard RCC design guidelines."
+    explanation: "1. Definition of Clear Cover: The clear cover is the distance between the outer surface of the reinforcement and the exposed surface of the concrete. 2. Importance of Clear Cover in RCC Columns: It provides protection to reinforcement against corrosion and fire exposure. Ensures proper bond strength between concrete and reinforcement. 3. Standard Requirement: As per standard RCC design codes, the minimum clear cover for RCC columns should be the greater of 40 mm or the diameter of the bar used in reinforcement. This ensures sufficient durability and structural integrity under various environmental conditions. Conclusion: The correct answer is Option A: Greater of 40 mm or diameter , as per standard RCC design guidelines."
     keyConcept: Rcc Structures Design
     testedIn:
       - PPSC SDO
@@ -88,7 +88,7 @@ questions:
       - Four times the diameter
       - Seven times the diameter
     answer: 2
-    explanation: "Reason: As per standard RCC detailing practice (IS 2502/IS 456), a hooked bar must have a straight extension beyond the hook to ensure adequate anchorage and prevent slip. Minimum requirement: The straight portion beyond the end of the hook should be at least 4ϕ , where ϕ is the bar diameter. Why 4ϕ? This length ensures the bearing and bond developed by the hook is effectively transferred into the concrete without premature pull-out or cracking at the bend."
+    explanation: "Reason: As per standard RCC detailing practice (standard detailing codes), a hooked bar must have a straight extension beyond the hook to ensure adequate anchorage and prevent slip. Minimum requirement: The straight portion beyond the end of the hook should be at least 4ϕ , where ϕ is the bar diameter. Why 4ϕ? This length ensures the bearing and bond developed by the hook is effectively transferred into the concrete without premature pull-out or cracking at the bend."
     keyConcept: Rcc Structures Design
     testedIn:
       - PPSC SDO
@@ -101,7 +101,7 @@ questions:
       - "7.50"
       - "5.80"
     answer: 1
-    explanation: "M150 grade concrete refers to a mix ratio of 1:2:4 (Cement : Sand : Aggregate), where the characteristic compressive strength (fck) is 15 N/mm² . The moment of resistance factor (R) , also known as the limiting moment of resistance per unit width and square of effective depth, is a design parameter used in the limit state method for RCC beam design. According to standard design aids and tables based on IS 456:2000, for M15 grade concrete , the commonly referred value of the moment of resistance factor is approximately 8.50 . Option A: 0.87 is incorrect, as it usually refers to the partial safety factor or percentage of steel yield stress, not the moment of resistance. Option C: 7.50 and Option D: 5.80 are not the correct standard values for M150/M15 grade concrete. Therefore, the correct answer is Option B: 8.50 ."
+    explanation: "M150 grade concrete refers to a mix ratio of 1:2:4 (Cement : Sand : Aggregate), where the characteristic compressive strength (fck) is 15 N/mm² . The moment of resistance factor (R) , also known as the limiting moment of resistance per unit width and square of effective depth, is a design parameter used in the limit state method for RCC beam design. According to standard design aids and tables based on standard design tables, for M15 grade concrete , the commonly referred value of the moment of resistance factor is approximately 8.50 . Option A: 0.87 is incorrect, as it usually refers to the partial safety factor or percentage of steel yield stress, not the moment of resistance. Option C: 7.50 and Option D: 5.80 are not the correct standard values for M150/M15 grade concrete. Therefore, the correct answer is Option B: 8.50 ."
     keyConcept: Rcc Structures Design
     testedIn:
       - PPSC SDO
@@ -153,7 +153,7 @@ questions:
       - "12"
       - "16"
     answer: 1
-    explanation: In RCC design, the span to depth ratio is used to control deflection in structural members. For a cantilever slab , the structure is more prone to deflection because one end is fixed and the other is free. According to standard guidelines (such as IS 456), the maximum span to effective depth ratio for a cantilever is generally taken as 10 . This limit ensures that the slab remains safe and serviceable without excessive bending or deflection. Higher ratios like 12 or 16 would lead to excessive deflection , making the structure unsafe. Therefore, the correct maximum ratio is 10 .
+    explanation: In RCC design, the span to depth ratio is used to control deflection in structural members. For a cantilever slab , the structure is more prone to deflection because one end is fixed and the other is free. According to standard guidelines, the maximum span to effective depth ratio for a cantilever is generally taken as 10 . This limit ensures that the slab remains safe and serviceable without excessive bending or deflection. Higher ratios like 12 or 16 would lead to excessive deflection , making the structure unsafe. Therefore, the correct maximum ratio is 10 .
     keyConcept: Rcc Structures Design
     testedIn:
       - PPSC SDO
@@ -166,7 +166,7 @@ questions:
       - Less than 2
       - Less than 2.5
     answer: 3
-    explanation: "In reinforced cement concrete (RCC) design, beams are classified as shallow or deep based on the ratio of their effective span to overall depth. A deep beam is one in which the span is relatively short compared to its depth, leading to significant shear deformation and nonlinear strain distribution. According to IS 456:2000 (Indian Standard for RCC design), a continuous beam is considered a deep beam if the ratio of effective span to overall depth is less than 2.5 . This classification affects how the beam is analyzed and designed, as deep beams do not follow conventional beam theory and require special design considerations. Therefore, the correct answer is: Less than 2.5 (Option D)."
+    explanation: "In reinforced cement concrete (RCC) design, beams are classified as shallow or deep based on the ratio of their effective span to overall depth. A deep beam is one in which the span is relatively short compared to its depth, leading to significant shear deformation and nonlinear strain distribution. According to standard RCC design codes, a continuous beam is considered a deep beam if the ratio of effective span to overall depth is less than 2.5 . This classification affects how the beam is analyzed and designed, as deep beams do not follow conventional beam theory and require special design considerations. Therefore, the correct answer is: Less than 2.5 (Option D)."
     keyConcept: Rcc Structures Design
     testedIn:
       - PPSC SDO
@@ -205,7 +205,7 @@ questions:
       - "35"
       - "40"
     answer: 2
-    explanation: "Reason: As per IS 456:2000, the basic span-to-effective depth ratio for a simply supported slab spanning in two directions is 35 when mild steel reinforcement (Fe 250) is used. For HYSD bars: The value is multiplied by a modification factor of 0.8 , giving 0.8 × 35 = 28 . Purpose: This limit controls deflection and ensures adequate stiffness of the slab under service loads."
+    explanation: "Reason: As per standard design codes, the basic span-to-effective depth ratio for a simply supported slab spanning in two directions is 35 when mild steel reinforcement (Fe 250) is used. For HYSD bars: The value is multiplied by a modification factor of 0.8 , giving 0.8 × 35 = 28 . Purpose: This limit controls deflection and ensures adequate stiffness of the slab under service loads."
     keyConcept: Rcc Structures Design
     testedIn:
       - PPSC SDO

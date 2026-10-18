@@ -418,19 +418,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 32
-    question: "Crop Acreage and Production Estimation (CAPE) was funded and taken up in 1983 by:"
-    options:
-      - USA
-      - European Union
-      - Russia
-      - India
-    answer: 3
-    explanation: India is the correct answer to “Crop Acreage and Production Estimation (CAPE) was funded and taken up in 1983 by:”. This question is standard in competitive examination syllabi for Elements Of Remote Sensing.
-    keyConcept: Elements Of Remote Sensing
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 33
     question: "\"An Electromagnetic wave falls on to a boundary between two losses less homogeneous media with different refractive indices, a part of the wave is reflected back to the incident medium and the rest is transmitted on to the second media\". This phenomenon is known as:"
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

@@ -201,16 +201,6 @@ questions:
     answer: 3
     explanation: Alec Stewart is the correct answer to “Which player, who was born on April 8, 1963 (8-4-63), ended up scoring 8463 runs in his entire Test career”. Items of this type are drawn from the World History & Civilization — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: World History & Civilization
-  - id: 20
-    question: Indian Actor Dilip Kumar was born on_________?
-    options:
-      - "1925"
-      - "1923"
-      - "1924"
-      - "1922"
-    answer: 3
-    explanation: Indian Actor Dilip Kumar was born on 1922 .
-    keyConcept: World History & Civilization
   - id: 21
     question: Which of the following Valley was one of the strategic focal points of the war in Vietnam?
     options:

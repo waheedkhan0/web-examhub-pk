@@ -456,19 +456,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 35
-    question: No. of benchmark soil in India is
-    options:
-      - "50"
-      - "54"
-      - "60"
-      - "64"
-    answer: 3
-    explanation: A benchmark soil is one of a large extent within one or more major land resource areas that holds a key position in the soil classification system. A benchmark soil is a reference point that is adequately characterized in terms of its properties and environmental conditions. 64 benchmark soils have been identified in the different major land resource areas of Kerala for which soil monoliths were collected. The basic objective of this soil is to focus attention on extensively occurring soils and their agronomic concepts for wider acceptability of interpretations and extrapolations of research data.
-    keyConcept: Soil Science
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 36
     question: Useful practice to manage acid sulphate soil is
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

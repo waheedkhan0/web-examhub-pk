@@ -131,19 +131,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 10
-    question: The huskless variety of barley is
-    options:
-      - RS 6
-      - KK 141
-      - Dolma
-      - None of these
-    answer: 2
-    explanation: Dolma is the husk with less variety of barley. This variety is quite suitable to be grown in rain-fed and hilly areas of Himachal Pradesh and Uttarakhand. It is fairly resistant to yellow rust. Its life cycle is 140 - 150 days.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 11
     question: On volume basis a sample of pure air on an average consists of . . . . . . . . carbon dioxide
     options:
@@ -274,19 +261,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 21
-    question: Total cultivated area in India is close to
-    options:
-      - 500 mha
-      - 400 mha
-      - 180 mha
-      - 60 mha
-    answer: 2
-    explanation: The area that corresponds to the total sown area is termed the area under cultivation. And the total cultivated area in India was approximately 155.2 million hectares as per the survey held in the fiscal year 2015, which is now increased to 180 mha.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 22
     question: If a plant shows extensive interveinal chlorosis of the older leaves and late this reaches the younger leaves, the symptoms is due to lack of
     options:
@@ -352,19 +326,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 27
-    question: UPAS 120 is a variety of
-    options:
-      - Wheat
-      - Pigeonpea
-      - Rice
-      - Maize
-    answer: 1
-    explanation: UPAS 120 is an early maturing variety of pigeonpea that takes approximately 120 days to mature. It is a mutant variety that is in use since 1976. The plants developed are medium tall, open and of semi-spreading type.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 28
     question: Water requirement (WR) includes the losses due to
     options:
@@ -374,19 +335,6 @@ questions:
       - ET and water required for special operations
     answer: 2
     explanation: Water requirement (WR) = ET or CU + application losses + special needs. In hot climate evaporation loss is also being added. So, it is an overall combination of consumptive use, water required for special operations and other economically unavoidable losses of water.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 29
-    question: Numbers of hot spot (biodiversity) present in India
-    options:
-      - "1"
-      - "2"
-      - "3"
-      - "4"
-    answer: 2
-    explanation: There are three biodiversity hotspots present in India and total of 35 in the world. These are the Western Ghats, the Himalayas and the Indo-Burma region . Each one of them comprises at least 1500 species of vascular plants and it should have lost greater than or equal to 70% of its original habitat.
     keyConcept: Agronomy
     testedIn:
       - PPSC Agriculture Officer
@@ -439,19 +387,6 @@ questions:
       - Bank
     answer: 0
     explanation: A mint is a name of an industry that manufactures coins that can be used as currency. The first mint was established in Lydia in the 7 th century BC for coining gold, silver and electrum.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 34
-    question: Which one of the following is not correctly matched in the term of Crop and Variety?
-    options:
-      - Mustard ⇔ Vardan
-      - Brinjal ⇔ Azad Hybrid
-      - Tomato ⇔ Rashmi
-      - Maize ⇔ Swarna
-    answer: 3
-    explanation: Here option D, Maize ⇔ Swarna is not correctly matched as Swarna is not any variety of maize crop. While the similar named variety of maize is Suvarna Nmh 589 seeds. All others correctly match the crop with its variety.
     keyConcept: Agronomy
     testedIn:
       - PPSC Agriculture Officer
@@ -521,19 +456,5 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 40
-    question: Varalaxmi is a interspecific variety of cotton evolved at
-    options:
-      - Udaipur
-      - Nagpur
-      - Dharwad
-      - Pantnagar
-    answer: 2
-    explanation: Varalaxmi is the world’s first interspecific, the tetraploid cotton hybrid was developed by Cotton Research Station, Dharwad, University of Agricultural Science, Bangalore in the year 1972. It shows 50% higher productivity than other varieties.
-    keyConcept: Agronomy
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
 ---
-
 

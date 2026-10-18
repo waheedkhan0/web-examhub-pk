@@ -80,19 +80,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: A study conducted by the Entrepreneurship Development Institute of India, Ahmedabad, revealed that the possession of competencies is necessary for superior performance of the entrepreneurs. The study was conducted under the guidance of
-    options:
-      - James T. McCrory
-      - David C. McClelland
-      - James J. Berna
-      - P. L. Tandon
-    answer: 1
-    explanation: David C. McClelland is the correct answer to “A study conducted by the Entrepreneurship Development Institute of India, Ahmedabad, revealed that the possession of competencies is necessary for superior performance of the entrepreneurs. The study was conducted under the guidance of”. This question is standard in competitive examination syllabi for Entrepreneurship And Innovation.
-    keyConcept: Entrepreneurship And Innovation
-    testedIn:
-      - CSS
-      - PMS
   - id: 7
     question: Concept of entrepreneurship includes
     options:
@@ -431,19 +418,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 33
-    question: Under technology and quality upgradation support to help manufacturing MSMEs buy energy efficient technologies for production, what percentage of the actual expenditure is provided as financial support by the Government of India?
-    options:
-      - 75%
-      - 60%
-      - 50%
-      - 25%
-    answer: 0
-    explanation: 75% is the correct answer to “Under technology and quality upgradation support to help manufacturing MSMEs buy energy efficient technologies for production, what percentage of the actual expenditure is provided as financial support by the Government of India”. This question is standard in competitive examination syllabi for Entrepreneurship And Innovation.
-    keyConcept: Entrepreneurship And Innovation
-    testedIn:
-      - CSS
-      - PMS
   - id: 34
     question: Match the following List-I (External Causes for Sickness) List-II (Features) a. Personal constraints 1. Fear of nationalisation b. Marketing constraints 2. Import-export restrictions c. Production constraints 3. Non-availability of skilled labour d. Finance constraints 4. Restrain of purchase by bulk purchasers
     options:
@@ -536,5 +510,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

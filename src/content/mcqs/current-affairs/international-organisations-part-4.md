@@ -45,16 +45,6 @@ questions:
     answer: 2
     explanation: Chaudhary Anwarul Haq is the correct answer to “Who has been elected as Speaker of Azad Jammu & Kashmir Legislative Assembly (AJ&K; LA)”. Items of this type are drawn from the International Organisations & Their Heads — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: International Organisations & Their Heads
-  - id: 4
-    question: Who is India’s national security advisor?
-    options:
-      - Amit Singh
-      - Ajit Doval
-      - Ram Gopal
-      - Bahadur Khan
-    answer: 1
-    explanation: Ajit Doval is the correct answer to “Who is India’s national security advisor”. Items of this type are drawn from the International Organisations & Their Heads — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organisations & Their Heads
   - id: 5
     question: Who has been appointed as Special Assistant to Prime Minister for CPEC?
     options:

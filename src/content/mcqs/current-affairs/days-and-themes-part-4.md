@@ -35,16 +35,6 @@ questions:
     answer: 3
     explanation: Supreme court of Pakistan has formed commission on water scarcity in Balochistan on 14th DEC 2018, which will provide an initial report in 2 weeks.
     keyConcept: Important Days & Themes
-  - id: 3
-    question: Hornbill Festival is one of the most cherished festival of Nagaland state,which is celebrated annually during the first week of December.In which country does Nagaland state lies?
-    options:
-      - Pakistan
-      - Afghanistan
-      - India
-      - Bangladesh
-    answer: 2
-    explanation: India is the correct answer to “Hornbill Festival is one of the most cherished festival of Nagaland state,which is celebrated annually during the first week of December.In which country does Nagaland state lies”. Items of this type are drawn from the Important Days & Themes — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Important Days & Themes
   - id: 4
     question: "Romania celebrated 100th anniversary on Dec 1 amid rule of law concerns:"
     options:
@@ -243,16 +233,6 @@ questions:
       - 2nd january
     answer: 1
     explanation: "Balouch Culture Day 2018 was observed on: 2nd March ."
-    keyConcept: Important Days & Themes
-  - id: 24
-    question: Indian Dalit organisations to observed ____________, the birth anniversary of BR Ambedkar, as the Protect Constitution Day.
-    options:
-      - 12 April
-      - 13 April
-      - 14 April
-      - 15 April
-    answer: 2
-    explanation: Indian Dalit organisations to observed 14 April , the birth anniversary of BR Ambedkar, as the Protect Constitution Day.
     keyConcept: Important Days & Themes
   - id: 25
     question: Bollywood superstar Salman khan has been sentenced for how many years on charges of poaching rare deer in a wildlife preserve two decades ago?

@@ -41,14 +41,14 @@ questions:
       - PPSC
       - FPSC
   - id: 3
-    question: Which one of the following has changed the face of Indian marriage?
+    question: Which one of the following has changed the face of Pakistani marriage?
     options:
       - Youngsters
       - Globalisation and Westernisation
       - Elders in the family
       - Egoistic attitude
     answer: 1
-    explanation: Globalisation and Westernisation is the correct answer to “Which one of the following has changed the face of Indian marriage”. This question is standard in competitive examination syllabi for Family Studies.
+    explanation: Globalisation and Westernisation is the correct answer to “Which one of the following has changed the face of Pakistani marriage”. This question is standard in competitive examination syllabi for Family Studies.
     keyConcept: Family Studies
     testedIn:
       - PPSC
@@ -249,14 +249,14 @@ questions:
       - PPSC
       - FPSC
   - id: 19
-    question: Rights of women in India can be divided in which categories?
+    question: Rights of women in Pakistan can be divided in which categories?
     options:
       - Constitutional
       - Legal
       - Both A and B
       - None of these
     answer: 2
-    explanation: Both A and B is the correct answer to “Rights of women in India can be divided in which categories”. This question is standard in competitive examination syllabi for Family Studies.
+    explanation: Both A and B is the correct answer to “Rights of women in Pakistan can be divided in which categories”. This question is standard in competitive examination syllabi for Family Studies.
     keyConcept: Family Studies
     testedIn:
       - PPSC

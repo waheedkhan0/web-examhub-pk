@@ -209,19 +209,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 16
-    question: When was family planning association of India established?
-    options:
-      - "1939"
-      - "1949"
-      - "1959"
-      - "1948"
-    answer: 1
-    explanation: 1949 is the correct answer to “When was family planning association of India established”. This question is standard in competitive examination syllabi for Family Studies.
-    keyConcept: Family Studies
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 17
     question: "Which parenting style can be characterised as: Parents nurture their children, but prefer to allow them to much freedom of expression?"
     options:
@@ -244,19 +231,6 @@ questions:
       - R is correct, but A is incorrect
     answer: 1
     explanation: Both A and R are correct is the correct answer to “Assertion (A) Research in reproductive health describes women's disadvantaged position and lack of reproductive rights. Reason (R) Notions of masculinity and feminity are outcomes of social construction which shape sexuality and reproductive rights.”. This question is standard in competitive examination syllabi for Family Studies.
-    keyConcept: Family Studies
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 19
-    question: Arrange in the sequence of enactment 1. Department of Family Planning 2. Policy Commission 3. Family Planning Association of India 4. Population Scheme
-    options:
-      - 1, 3, 4 and 2
-      - 3, 1, 4 and 2
-      - 2, 3, 4 and 1
-      - 1, 2, 4 and 3
-    answer: 1
-    explanation: 3, 1, 4 and 2 is the correct answer to “Arrange in the sequence of enactment 1. Department of Family Planning 2. Policy Commission 3. Family Planning Association of India 4. Population Scheme”. This question is standard in competitive examination syllabi for Family Studies.
     keyConcept: Family Studies
     testedIn:
       - PPSC
@@ -361,19 +335,6 @@ questions:
       - None of these
     answer: 1
     explanation: Integrated Approach is the correct answer to “Providing preventive and curative medical services for children comes under which approach”. This question is standard in competitive examination syllabi for Family Studies.
-    keyConcept: Family Studies
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 28
-    question: Match the following. List-I (Approaches) List-II (Year) a. Family Planning Association of India 1. 2018 b. Department of Family Planning 2. 1977 c. Population Scheme 3. 1949 d. Policy Commission 4. 1966
-    options:
-      - a-1, b-3, c-2, d-4
-      - a-3, b-4, c-2, d-1
-      - a-2, b-3, c-1, d-4
-      - a-1, b-4, c-3, d-2
-    answer: 2
-    explanation: a-2, b-3, c-1, d-4 is the correct answer to “Match the following. List-I (Approaches) List-II (Year) a. Family Planning Association of India 1. 2018 b. Department of Family Planning 2. 1977 c. Population Scheme 3. 1949 d. Policy Commission 4. 1966”. This question is standard in competitive examination syllabi for Family Studies.
     keyConcept: Family Studies
     testedIn:
       - PPSC
@@ -535,5 +496,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

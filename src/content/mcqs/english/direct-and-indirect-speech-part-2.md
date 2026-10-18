@@ -29,14 +29,14 @@ questions:
       - PPSC
       - FPSC
   - id: 2
-    question: He exclaimed with joy that India had won the Sahara Cup.
+    question: He exclaimed with joy that Pakistan had won the Sahara Cup.
     options:
-      - He said, "India has won the Sahara Cup"
-      - He said, "India won the Sahara Cup"
-      - He said, "How! India will win the Sahara Cup"
-      - He said, "Hurrah! India has won the Sahara Cup"
+      - He said, "Pakistan has won the Sahara Cup"
+      - He said, "Pakistan won the Sahara Cup"
+      - He said, "How! Pakistan will win the Sahara Cup"
+      - He said, "Hurrah! Pakistan has won the Sahara Cup"
     answer: 3
-    explanation: He said, "Hurrah! India has won the Sahara Cup"
+    explanation: He said, "Hurrah! Pakistan has won the Sahara Cup"
     keyConcept: Direct And Indirect Speech
     testedIn:
       - PPSC
@@ -133,14 +133,14 @@ questions:
       - PPSC
       - FPSC
   - id: 10
-    question: My friend said to me, "Has your father returned from Calcutta?"
+    question: My friend said to me, "Has your father returned from Karachi?"
     options:
-      - My friend said to me that my father has returned from Calcutta.
-      - My friend asked me if my father had returned from Calcutta.
-      - My friend told me that his father had returned from Calcutta.
-      - My friend enquired me if his father had returned from Calcutta.
+      - My friend said to me that my father has returned from Karachi.
+      - My friend asked me if my father had returned from Karachi.
+      - My friend told me that his father had returned from Karachi.
+      - My friend enquired me if his father had returned from Karachi.
     answer: 1
-    explanation: My friend asked me if my father had returned from Calcutta.
+    explanation: My friend asked me if my father had returned from Karachi.
     keyConcept: Direct And Indirect Speech
     testedIn:
       - PPSC

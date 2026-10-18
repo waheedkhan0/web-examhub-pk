@@ -80,19 +80,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: All India Small Scale Industries Board is a
-    options:
-      - primary board
-      - advisory board
-      - core committee
-      - lower botly
-    answer: 1
-    explanation: advisory board is the correct answer to “All India Small Scale Industries Board is a”. This question is standard in competitive examination syllabi for Entrepreneurship And Innovation.
-    keyConcept: Entrepreneurship And Innovation
-    testedIn:
-      - CSS
-      - PMS
   - id: 7
     question: Which is the preliminary preparation stage of new unit?
     options:
@@ -184,19 +171,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 14
-    question: Match the following. List-I List-II a. Central Manufacturing Institute 1. Deals with paper industry b. Central Pulp and Paper Research Institute 2. Deals with pollution control in Indian Tanneries c. Central Leather Research Institute 3. Deals with machine tools d. Electronic Service and Training Centre 4. Deals with training, technical and consultancy services
-    options:
-      - a-1, b-2, c-3, d-4
-      - a-3, b-1, c-2, c-4
-      - a-2, b-3, c-4, d-1
-      - a-4, b-3, c-2, d-1
-    answer: 1
-    explanation: a-3, b-1, c-2, c-4 is the correct answer to “Match the following. List-I List-II a. Central Manufacturing Institute 1. Deals with paper industry b. Central Pulp and Paper Research Institute 2. Deals with pollution control in Indian Tanneries c. Central Leather Research Institute 3. Deals with machine tools d. Electronic Service and Training Centre 4. Deals with training, technical and consultancy services”. This question is standard in competitive examination syllabi for Entrepreneurship And Innovation.
-    keyConcept: Entrepreneurship And Innovation
-    testedIn:
-      - CSS
-      - PMS
   - id: 15
     question: The difference in the entrepreneurial and managerial domains has contributed towards an increase interest in
     options:
@@ -206,19 +180,6 @@ questions:
       - Private firms
     answer: 0
     explanation: Forming new firms is the correct answer to “The difference in the entrepreneurial and managerial domains has contributed towards an increase interest in”. This question is standard in competitive examination syllabi for Entrepreneurship And Innovation.
-    keyConcept: Entrepreneurship And Innovation
-    testedIn:
-      - CSS
-      - PMS
-  - id: 16
-    question: According to the Tiwari Committee report, which one of the following is not an internal cause of industrial sickness in India?
-    options:
-      - Lack of manpower planning
-      - Lack of control systems
-      - Excessive expenditure
-      - Excessive tax policies
-    answer: 3
-    explanation: Excessive tax policies is the correct answer to “According to the Tiwari Committee report, which one of the following is not an internal cause of industrial sickness in India”. This question is standard in competitive examination syllabi for Entrepreneurship And Innovation.
     keyConcept: Entrepreneurship And Innovation
     testedIn:
       - CSS
@@ -536,5 +497,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

@@ -226,16 +226,6 @@ questions:
     answer: 3
     explanation: Ukraine has accused Russia of blocking its access to the sea.
     keyConcept: Current Affairs — Mixed Practice
-  - id: 23
-    question: Which indian state has imposed ban on hijab in School and colleges?
-    options:
-      - Tamil Nadu
-      - Uttar Pradesh
-      - Karnataka
-      - Maharashtra
-    answer: 2
-    explanation: Karnataka is the correct answer to “Which indian state has imposed ban on hijab in School and colleges”. Items of this type are drawn from the Current Affairs — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Current Affairs — Mixed Practice
   - id: 24
     question: The international court of justice has ordered _______ to pay $325m I reparations to Democratic Republic of Congo (DRC)?
     options:
@@ -255,15 +245,6 @@ questions:
     answer: 2
     explanation: 2000 is the number of shops to be provided to youth under the Kamyab Jawan Program.
     keyConcept: Current Affairs — Mixed Practice
-  - id: 26
-    question: Bollywood playback singer Lata Mangeshkar died on _________ in Mumbai India?
-    options:
-      - 6 February 2022
-      - 7 February 2022
-      - 8 February 2022
-    answer: 0
-    explanation: Bollywood playback singer Lata Mangeshkar died on 6 February 2022 in Mumbai India.
-    keyConcept: Current Affairs — Mixed Practice
   - id: 27
     question: "Book on Lata Mangeshkar entitled “Lata Mangeshkar: A Musical Journey” has been authored by:"
     options:
@@ -282,15 +263,6 @@ questions:
       - PSL Season 7
     answer: 3
     explanation: Jason Roy’s 116 score was the first century in PSL Season 7 .
-    keyConcept: Current Affairs — Mixed Practice
-  - id: 29
-    question: Lata Mangeshkar, an Indian born female singer died on 6 Feb, 2022 at the age of_________?
-    options:
-      - "92."
-      - "91"
-      - "90"
-    answer: 0
-    explanation: Lata Mangeshkar, an Indian born female singer died on 6 Feb, 2022 at the age of 92. .
     keyConcept: Current Affairs — Mixed Practice
   - id: 30
     question: Justice Umar Ata Bandial will serve in the top judicial office until?

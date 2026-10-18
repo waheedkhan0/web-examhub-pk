@@ -80,7 +80,7 @@ subtopics:
     questionCount: 31
   - name: Course Of Action — Part 1
     slug: course-of-action-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Course Of Action — Part 2
     slug: course-of-action-part-2
     questionCount: 40
@@ -143,7 +143,7 @@ subtopics:
     questionCount: 40
   - name: Logical Sequence Of Words — Part 2
     slug: logical-sequence-of-words-part-2
-    questionCount: 11
+    questionCount: 10
   - name: Making Judgments
     slug: making-judgments
     questionCount: 10
@@ -203,7 +203,7 @@ subtopics:
     questionCount: 1
   - name: Statement And Arguments — Part 1
     slug: statement-and-arguments-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Statement And Arguments — Part 2
     slug: statement-and-arguments-part-2
     questionCount: 40
@@ -215,13 +215,13 @@ subtopics:
     questionCount: 40
   - name: Statement And Conclusion — Part 1
     slug: statement-and-conclusion-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Statement And Conclusion — Part 2
     slug: statement-and-conclusion-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Statement Conclusions And Inferences
     slug: statement-conclusions-and-inferences
-    questionCount: 15
+    questionCount: 13
   - name: Syllogisms — Part 1
     slug: syllogisms-part-1
     questionCount: 40
@@ -236,10 +236,10 @@ subtopics:
     questionCount: 40
   - name: Theme Detection
     slug: theme-detection
-    questionCount: 18
+    questionCount: 17
   - name: Truth Verification Of The Statement — Part 1
     slug: truth-verification-of-the-statement-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Truth Verification Of The Statement — Part 2
     slug: truth-verification-of-the-statement-part-2
     questionCount: 1

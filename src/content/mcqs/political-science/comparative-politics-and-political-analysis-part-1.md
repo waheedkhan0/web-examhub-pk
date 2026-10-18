@@ -236,19 +236,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: "Match List-I with List-II and identify the correct answer: List-I (Approaches to study Indian politics) List-II (Names of books and authors) a. Historical approach 1. Parliament in India, Morris Jones b. Institutional approach 2. The Integration of Indian States, V. P. Menon c. Legal approach 3. The Modernity of Tradition, Rudolph and Rudolph d. Politico-sociological approach 4. The Republic of India, Allen Gledhill"
-    options:
-      - a-1, b-3, c-2, d-4
-      - a-2, b-1, c-4, d-3
-      - a-1, b-2, c-4, d-3
-      - a-3, b-2, c-1, d-4
-    answer: 1
-    explanation: "a-2, b-1, c-4, d-3 is the correct answer to “Match List-I with List-II and identify the correct answer: List-I (Approaches to study Indian politics) List-II (Names of books and authors) a. Historical approach 1. Parliament in India, Morris Jones b. Institutional approach 2. The Integration of Indian States, V. P. Menon c. Legal approach 3. The Modernity of Tradition, Rudolph and Rudolph d. Politico-sociological approach 4. The Republic of India, Allen Gledhill”. This question is standard in competitive examination syllabi for Comparative Politics And Political Analysis."
-    keyConcept: Comparative Politics And Political Analysis
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: Who said that "philosophers have so far interpreted the world, the problem is how to change it"?
     options:

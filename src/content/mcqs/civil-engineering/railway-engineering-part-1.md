@@ -210,19 +210,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 16
-    question: Minimum composite sleeper index pres-cried on Indian Railways for a track sleeper is
-    options:
-      - "552"
-      - "783"
-      - "1352"
-      - "1455"
-    answer: 1
-    explanation: 783 is the correct answer to “Minimum composite sleeper index pres-cried on Indian Railways for a track sleeper is”. This question is standard in competitive examination syllabi for Railway Engineering.
-    keyConcept: Railway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 17
     question: The distance through which the tongue rail moves laterally at the toe of the switch for movement of trains is called
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

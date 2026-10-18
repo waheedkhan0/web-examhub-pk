@@ -326,19 +326,6 @@ questions:
     testedIn:
       - PPSC Drug Inspector
       - FPSC
-  - id: 25
-    question: Which of the following serves as one of the laboratories for producing oral vaccine
-    options:
-      - Central research institute, kasauli
-      - Central India pharmacopoeia laboratory, Ghaziabad
-      - Department of biochemical engineering IIT, new Delhi
-      - Pasteur institute of India, coonoor
-    answer: 3
-    explanation: Pasteur institute of India, coonoor is the correct answer to “Which of the following serves as one of the laboratories for producing oral vaccine”. This question is standard in competitive examination syllabi for Health Education And Community Pharmacy.
-    keyConcept: Health Education And Community Pharmacy
-    testedIn:
-      - PPSC Drug Inspector
-      - FPSC
   - id: 26
     question: Very commonly used preservative in vaccines is
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Drug Inspector
       - FPSC
 ---
-
 

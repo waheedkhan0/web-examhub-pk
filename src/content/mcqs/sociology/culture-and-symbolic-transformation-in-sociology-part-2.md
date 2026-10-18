@@ -79,19 +79,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: The religious organisation Arya Samaj was established by
-    options:
-      - Swami Vivekananda
-      - Swami Dayananda Saraswati
-      - Jyotiba Phule
-      - None of the above
-    answer: 1
-    explanation: Swami Dayananda Saraswati is the correct answer to “The religious organisation Arya Samaj was established by”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 7
     question: Which one of the following is not the characteristics of culture?
     options:
@@ -101,32 +88,6 @@ questions:
       - It is only found in human society
     answer: 2
     explanation: It is found both in the animal and the human society is the correct answer to “Which one of the following is not the characteristics of culture”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 8
-    question: "Who often marry within a caste or community:"
-    options:
-      - Indian people
-      - Europeans
-      - The British
-      - None of these
-    answer: 0
-    explanation: Indian people is the correct answer to “Who often marry within a caste or community:”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
-    keyConcept: Culture And Symbolic Transformation In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 9
-    question: Indian religious belief create problem for which group more?
-    options:
-      - Women
-      - Marginalised
-      - Elite class
-      - Both A and B
-    answer: 3
-    explanation: Both A and B is the correct answer to “Indian religious belief create problem for which group more”. This question is standard in competitive examination syllabi for Culture And Symbolic Transformation In Sociology.
     keyConcept: Culture And Symbolic Transformation In Sociology
     testedIn:
       - CSS

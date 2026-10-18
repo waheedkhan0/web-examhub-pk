@@ -54,14 +54,14 @@ questions:
       - MDCAT
       - PPSC
   - id: 4
-    question: Which one of the following plants is used for green manuring in India?
+    question: Which one of the following plants is used for green manuring in Pakistan?
     options:
       - Wheat
       - Sunhemp
       - Cotton
       - Rice
     answer: 1
-    explanation: Sunhemp is the correct answer to “Which one of the following plants is used for green manuring in India”. This question is standard in competitive examination syllabi for Economic Biology.
+    explanation: Sunhemp is the correct answer to “Which one of the following plants is used for green manuring in Pakistan”. This question is standard in competitive examination syllabi for Economic Biology.
     keyConcept: Economic Biology
     testedIn:
       - MDCAT

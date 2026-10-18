@@ -340,19 +340,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 26
-    question: What is the full form of "PAN"?
-    options:
-      - Profit Accountability Note
-      - Permanent Account Number
-      - Point of Activity
-      - Profit and Accountability
-    answer: 1
-    explanation: A permanent account number (PAN) is a ten-character alphanumeric identifier, issued in the form of a laminated "PAN card", by the Indian Income Tax Department, to any "person" who applies for it or to whom the department allots the number without an application. It can also be obtained in the form of a PDF file.
-    keyConcept: Marketing Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 27
     question: What is the full form of "MQL"?
     options:

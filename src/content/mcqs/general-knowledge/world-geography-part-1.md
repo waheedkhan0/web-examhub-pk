@@ -212,16 +212,6 @@ questions:
     answer: 0
     explanation: England is the correct answer to “Which country has most player in the list of cricket hall of fame”. Items of this type are drawn from the World Geography & Capitals — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: World Geography & Capitals
-  - id: 21
-    question: Which country has most number of universities in the world?
-    options:
-      - China
-      - United States of America
-      - India
-      - Germany
-    answer: 2
-    explanation: India is the correct answer to “Which country has most number of universities in the world”. Items of this type are drawn from the World Geography & Capitals — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: World Geography & Capitals
   - id: 22
     question: Which country has largest labour force?
     options:
@@ -560,19 +550,6 @@ questions:
       - Steppes
     answer: 0
     explanation: Prairies. is the correct answer to “The grasslands in Canada are known as:”. This question is standard in competitive examination syllabi for World Geography.
-    keyConcept: World Geography
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 53
-    question: "India's major contacts with out-side world for the last two millennia have been by sea there-by earning the title for India:"
-    options:
-      - The Mistress of the Eastern Seas
-      - The Mistress of the Western Seas
-      - The Mistress of the Southern Seas
-      - The Mistress of the Northern Seas
-    answer: 0
-    explanation: The Mistress of the Eastern Seas.
     keyConcept: World Geography
     testedIn:
       - PPSC

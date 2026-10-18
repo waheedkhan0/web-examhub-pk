@@ -349,16 +349,6 @@ questions:
     answer: 3
     explanation: The headquarter of Food and Agriculture Organization (FAO) of the United Nations is in Rome, Italy .
     keyConcept: International Organizations
-  - id: 35
-    question: RAW is an Indian Secret Service which headquarters is in delhi and was founded in?
-    options:
-      - "1960"
-      - "1970"
-      - "1965"
-      - "1968"
-    answer: 3
-    explanation: 1968 is the correct answer to “RAW is an Indian Secret Service which headquarters is in delhi and was founded in”. Items of this type are drawn from the International Organizations — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: International Organizations
   - id: 36
     question: What is the typical interest rate on World Bank loans, which are revised every six months?
     options:

@@ -41,14 +41,14 @@ questions:
       - PPSC Mines
       - KPPSC
   - id: 3
-    question: Total number of injuries in open cast mine employing 800 persons is 16 in a year, as per the DGMS norms, the injury rate per 1000 person employed is . . . . . . . .
+    question: Total number of injuries in open cast mine employing 800 persons is 16 in a year, as per the standard norms, the injury rate per 1000 person employed is . . . . . . . .
     options:
       - "13"
       - "15"
       - "20"
       - "25"
     answer: 2
-    explanation: "The injury rate per 1000 person employed can be calculated using the following formula: Injury rate = (Total number of injuries / Total number of persons employed) x 1000 Using the values given in the question, we can calculate the injury rate as follows: Injury rate = (16 / 800) x 1000 = 20 Therefore, the correct answer is option C, 20. The injury rate per 1000 person employed is a common metric used in occupational health and safety to measure the frequency of workplace injuries. The DGMS (Directorate General of Mines Safety) is a regulatory agency in India that sets safety standards and guidelines for the mining industry. As per DGMS norms, an injury rate of 20 or less is considered acceptable for opencast mines."
+    explanation: "The injury rate per 1000 person employed can be calculated using the following formula: Injury rate = (Total number of injuries / Total number of persons employed) x 1000 Using the values given in the question, we can calculate the injury rate as follows: Injury rate = (16 / 800) x 1000 = 20 Therefore, the correct answer is option C, 20. The injury rate per 1000 person employed is a common metric used in occupational health and safety to measure the frequency of workplace injuries. Mining safety regulators treat an injury rate of 20 or less as acceptable for opencast mines."
     keyConcept: Opencast Mining
     testedIn:
       - PPSC Mines

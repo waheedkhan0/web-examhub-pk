@@ -15,16 +15,6 @@ targetExams:
   - PMS
   - NTS
 questions:
-  - id: 1
-    question: In which city of India a train accident happen on 19-10-2018 and about 60 person died?
-    options:
-      - Bombay
-      - Calcutta
-      - Amritsar
-      - Delhi
-    answer: 2
-    explanation: Amritsar is the correct answer to “In which city of India a train accident happen on 19-10-2018 and about 60 person died”. Items of this type are drawn from the Disasters, Floods & Emergencies — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Disasters, Floods & Emergencies
   - id: 2
     question: According to Facebook how many users Accounts are affected by security breach in Sept 2018?
     options:

@@ -28,19 +28,19 @@ subtopics:
     questionCount: 36
   - name: Awards And Honours — Part 1
     slug: awards-and-honours-part-1
-    questionCount: 80
+    questionCount: 50
   - name: Awards And Honours — Part 2
     slug: awards-and-honours-part-2
-    questionCount: 71
+    questionCount: 38
   - name: Books And Authors — Part 1
     slug: books-and-authors-part-1
-    questionCount: 80
+    questionCount: 55
   - name: Books And Authors — Part 2
     slug: books-and-authors-part-2
-    questionCount: 80
+    questionCount: 57
   - name: Books & Authors — Part 3
     slug: books-and-authors-part-3
-    questionCount: 40
+    questionCount: 39
   - name: Books & Authors — Part 4
     slug: books-and-authors-part-4
     questionCount: 40
@@ -49,7 +49,7 @@ subtopics:
     questionCount: 40
   - name: General Knowledge — Mixed Practice — Part 1
     slug: general-knowledge-mix-part-1
-    questionCount: 40
+    questionCount: 39
   - name: General Knowledge — Mixed Practice — Part 2
     slug: general-knowledge-mix-part-2
     questionCount: 40
@@ -58,7 +58,7 @@ subtopics:
     questionCount: 40
   - name: General Knowledge — Mixed Practice — Part 4
     slug: general-knowledge-mix-part-4
-    questionCount: 40
+    questionCount: 39
   - name: General Knowledge — Mixed Practice — Part 5
     slug: general-knowledge-mix-part-5
     questionCount: 40
@@ -67,7 +67,7 @@ subtopics:
     questionCount: 40
   - name: World History & Civilization — Part 2
     slug: history-and-civilization-part-2
-    questionCount: 40
+    questionCount: 39
   - name: World History & Civilization — Part 3
     slug: history-and-civilization-part-3
     questionCount: 40
@@ -82,7 +82,7 @@ subtopics:
     questionCount: 40
   - name: International Organizations — Part 2
     slug: international-organizations-part-2
-    questionCount: 40
+    questionCount: 39
   - name: International Organizations — Part 3
     slug: international-organizations-part-3
     questionCount: 40
@@ -91,79 +91,79 @@ subtopics:
     questionCount: 21
   - name: Inventions & Discoveries — Part 1
     slug: inventions-and-discoveries-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Inventions & Discoveries — Part 2
     slug: inventions-and-discoveries-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Inventions & Discoveries — Part 3
     slug: inventions-and-discoveries-part-3
     questionCount: 40
   - name: Inventions & Discoveries — Part 4
     slug: inventions-and-discoveries-part-4
-    questionCount: 40
+    questionCount: 38
   - name: Inventions & Discoveries — Part 5
     slug: inventions-and-discoveries-part-5
-    questionCount: 40
+    questionCount: 39
   - name: Sports — Part 1
     slug: sports-part-1
-    questionCount: 80
+    questionCount: 57
   - name: Sports — Part 2
     slug: sports-part-2
-    questionCount: 80
+    questionCount: 56
   - name: Sports & Games — Part 3
     slug: sports-part-3
-    questionCount: 40
+    questionCount: 39
   - name: Sports & Games — Part 4
     slug: sports-part-4
-    questionCount: 40
+    questionCount: 38
   - name: Sports & Games — Part 5
     slug: sports-part-5
-    questionCount: 30
+    questionCount: 28
   - name: World Geography — Part 1
     slug: world-geography-part-1
-    questionCount: 80
+    questionCount: 78
   - name: World Geography — Part 2
     slug: world-geography-part-2
-    questionCount: 80
+    questionCount: 78
   - name: World Geography & Capitals — Part 3
     slug: world-geography-part-3
     questionCount: 40
   - name: World Geography & Capitals — Part 4
     slug: world-geography-part-4
-    questionCount: 40
+    questionCount: 39
   - name: World Geography & Capitals — Part 5
     slug: world-geography-part-5
-    questionCount: 40
+    questionCount: 39
   - name: Banking Abbreviations — Part 1
     slug: banking-abbreviations-part-1
-    questionCount: 40
+    questionCount: 17
   - name: Banking Abbreviations — Part 2
     slug: banking-abbreviations-part-2
-    questionCount: 23
+    questionCount: 17
   - name: Basic General Knowledge — Part 1
     slug: basic-general-knowledge-part-1
-    questionCount: 40
+    questionCount: 31
   - name: Basic General Knowledge — Part 2
     slug: basic-general-knowledge-part-2
-    questionCount: 40
+    questionCount: 26
   - name: Biology — Part 1
     slug: biology-part-1
     questionCount: 40
   - name: Biology — Part 2
     slug: biology-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Business Abbreviations — Part 1
     slug: business-abbreviations-part-1
-    questionCount: 40
+    questionCount: 26
   - name: Business Abbreviations — Part 2
     slug: business-abbreviations-part-2
     questionCount: 18
   - name: Chemistry — Part 1
     slug: chemistry-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Chemistry — Part 2
     slug: chemistry-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Computer Abbreviations — Part 1
     slug: computer-abbreviations-part-1
     questionCount: 40
@@ -172,46 +172,40 @@ subtopics:
     questionCount: 40
   - name: Days And Years — Part 1
     slug: days-and-years-part-1
-    questionCount: 40
+    questionCount: 22
   - name: Days And Years — Part 2
     slug: days-and-years-part-2
-    questionCount: 40
+    questionCount: 37
   - name: Education Abbreviations — Part 1
     slug: education-abbreviations-part-1
-    questionCount: 40
+    questionCount: 30
   - name: Education Abbreviations — Part 2
     slug: education-abbreviations-part-2
-    questionCount: 20
+    questionCount: 15
   - name: Environmental Science — Part 1
     slug: environmental-science-part-1
     questionCount: 40
   - name: Environmental Science — Part 2
     slug: environmental-science-part-2
-    questionCount: 40
-  - name: Famous Personalities — Part 1
-    slug: famous-personalities-part-1
-    questionCount: 40
-  - name: Famous Personalities — Part 2
-    slug: famous-personalities-part-2
-    questionCount: 40
+    questionCount: 34
   - name: Finance Abbreviations — Part 1
     slug: finance-abbreviations-part-1
-    questionCount: 40
+    questionCount: 32
   - name: Finance Abbreviations — Part 2
     slug: finance-abbreviations-part-2
-    questionCount: 37
+    questionCount: 32
   - name: General Abbreviations — Part 1
     slug: general-abbreviations-part-1
-    questionCount: 40
+    questionCount: 25
   - name: General Abbreviations — Part 2
     slug: general-abbreviations-part-2
-    questionCount: 40
+    questionCount: 30
   - name: General Science — Part 1
     slug: general-science-part-1
     questionCount: 40
   - name: General Science — Part 2
     slug: general-science-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Inventions — Part 1
     slug: inventions-part-1
     questionCount: 40
@@ -223,7 +217,7 @@ subtopics:
     questionCount: 40
   - name: Marketing Abbreviations — Part 2
     slug: marketing-abbreviations-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Physics — Part 1
     slug: physics-part-1
     questionCount: 40
@@ -238,10 +232,10 @@ subtopics:
     questionCount: 26
   - name: Teaching And Research — Part 1
     slug: teaching-and-research-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Teaching And Research — Part 2
     slug: teaching-and-research-part-2
-    questionCount: 40
+    questionCount: 39
   - name: Technology — Part 1
     slug: technology-part-1
     questionCount: 40
@@ -250,13 +244,13 @@ subtopics:
     questionCount: 40
   - name: World Organisations — Part 1
     slug: world-organisations-part-1
-    questionCount: 40
+    questionCount: 37
   - name: World Organisations — Part 2
     slug: world-organisations-part-2
-    questionCount: 40
+    questionCount: 37
   - name: General Knowledge — Commission Past Papers — Part 1
     slug: gk-past-papers-part-1
-    questionCount: 40
+    questionCount: 39
   - name: General Knowledge — Commission Past Papers — Part 2
     slug: gk-past-papers-part-2
     questionCount: 40
@@ -274,10 +268,13 @@ subtopics:
     questionCount: 40
   - name: General Knowledge — Commission Past Papers — Part 7
     slug: gk-past-papers-part-7
-    questionCount: 37
+    questionCount: 36
   - name: Govt Jobs Screening — High-Yield Model Paper
     slug: govt-jobs-screening-paper
     questionCount: 34
+  - name: Ministry of Interior & Intelligence Past Papers — Part 1
+    slug: ministry-of-interior-past-papers-part-1
+    questionCount: 10
 ---
 
 ## General Knowledge: Breadth, Fact Verification, and Retention

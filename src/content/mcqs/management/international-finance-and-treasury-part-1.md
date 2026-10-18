@@ -236,19 +236,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 18
-    question: In India currency-notes issue system is based on
-    options:
-      - Proportional Reserve System
-      - Minimum Reserve System
-      - Fixed Exchange Rate System
-      - Fully Convertibility System
-    answer: 1
-    explanation: In India currency-notes issue system is based on Minimum Reserve System. Under the Minimum Reserve System, the RBI has to keep a minimum reserve of Rs 200 crore comprising of gold coin and gold bullion and foreign currencies.
-    keyConcept: International Finance And Treasury
-    testedIn:
-      - CSS
-      - PMS
   - id: 19
     question: European Economic Community founded in
     options:
@@ -267,7 +254,6 @@ questions:
     options:
       - Call option will be used by exporters
       - Put option gives the buyer the right to sell the foreign currency
-      - Foreign currency- Rupee option is available in India
       - An American option can be executed on any day during its currency
     answer: 0
     explanation: Call option will be used by exporters with respect to currency option is wrong. Call options are financial contracts that give the option buyer the right, but not the obligation, to buy a stock, bond, commodity or other asset or instrument at a specified price within a specific time period.
@@ -536,5 +522,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

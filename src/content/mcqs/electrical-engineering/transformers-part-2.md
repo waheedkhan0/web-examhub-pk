@@ -341,19 +341,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 26
-    question: Which of the following is not the standard voltage for power supply in India?
-    options:
-      - llkV
-      - 33kV
-      - 66 kV
-      - 122 kV
-    answer: 3
-    explanation: 122 kV is the correct answer to “Which of the following is not the standard voltage for power supply in India”. This question is standard in competitive examination syllabi for Transformers.
-    keyConcept: Transformers
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 27
     question: When the equivalent circuit diagram of doouble squirrelcage induction motor is constructed the two cages can be considered
     options:
@@ -535,5 +522,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

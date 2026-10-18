@@ -354,19 +354,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 27
-    question: The Accounting Standard Board was set up by
-    options:
-      - Institute of Chartered Accountants of India
-      - Institute of Cost and Works Accountants of India
-      - Institute of Company Secretaries of India
-      - Government of India
-    answer: 0
-    explanation: Institute of Chartered Accountants of India is the correct answer to “The Accounting Standard Board was set up by”. This question is standard in competitive examination syllabi for Auditing.
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 28
     question: The primary objective of an audit is to
     options:
@@ -428,19 +415,6 @@ questions:
       - To obtain understanding of internal control system
     answer: 2
     explanation: To test procedures for distributing pay cheques is the correct answer to “An auditor conducts a surprise check on the pay day (i.e.) the day wages and salaries are paid. The primary purpose of this audit procedure is:”. This question is standard in competitive examination syllabi for Auditing.
-    keyConcept: Auditing
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 33
-    question: Management audit is ordered by the
-    options:
-      - Workers of a company
-      - Government
-      - Board of directors
-      - Securities Exchange Board of India
-    answer: 2
-    explanation: Board of directors is the correct answer to “Management audit is ordered by the”. This question is standard in competitive examination syllabi for Auditing.
     keyConcept: Auditing
     testedIn:
       - FPSC Senior Auditor

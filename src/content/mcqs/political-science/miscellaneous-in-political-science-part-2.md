@@ -93,19 +93,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 7
-    question: "\"Once God is let in, there is an end to the sovereignty of man.\" Who said this?"
-    options:
-      - B. R. Ambedkar
-      - Vivekananda
-      - M. N. Roy
-      - J. Nehru
-    answer: 2
-    explanation: M. N. Roy is the correct answer to “"Once God is let in, there is an end to the sovereignty of man." Who said this”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 8
     question: "Match List-I with List-II and select the correct answer: List-I List-II a. Charter Act of 1813 1. Separate electorate b. Charter Act of 1833 2. Abolition of the trade monopoly of East India Company c. The Government of India Act, 1858 3. Complete abolition of monopoly in trade by East India Company d. Government of India Act, 1909 4. Secretary of State for India"
     options:
@@ -171,19 +158,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 13
-    question: How many kinds of challenges that Independent India faced?
-    options:
-      - "1"
-      - "2"
-      - "3"
-      - "5"
-    answer: 2
-    explanation: 3 is the correct answer to “How many kinds of challenges that Independent India faced”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 14
     question: In the deterrence relationship both blocks led by the superpowers were respected to behave as . . . . . . . . actors.
     options:
@@ -219,19 +193,6 @@ questions:
       - 2 and 3
     answer: 1
     explanation: 1 and 2 is the correct answer to “The sociologists who influenced Gabriel Almond in his structural functionalism were 1. Max Weber 2. Talcott Parsons 3. David Truman 4. Karl Deutsch Select the correct answer:”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 17
-    question: "Functional specialization in the Indian Administrative service was recommended by:"
-    options:
-      - First Administrative Reforms Commission
-      - Satish Chandra Committee
-      - Appleby Report
-      - Sarkaria Commission
-    answer: 0
-    explanation: First Administrative Reforms Commission is the correct answer to “Functional specialization in the Indian Administrative service was recommended by:”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
     keyConcept: Miscellaneous In Political Science
     testedIn:
       - CSS
@@ -327,19 +288,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 25
-    question: Which one of the following rights was recognized by the Supreme Court in the Selvy Case Judgement (2010)?
-    options:
-      - Right to Mental Privacy
-      - Right to purchase property in Jammu and Kashmir
-      - Right to form pressure groups
-      - NOTA (None of the above)
-    answer: 1
-    explanation: Right to purchase property in Jammu and Kashmir is the correct answer to “Which one of the following rights was recognized by the Supreme Court in the Selvy Case Judgement (2010)”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 26
     question: "Choose the correct answer for the Assertion (A) and Reason (R) as given below: Assertion (A): To be valid and part of a science of public administration, hypothesis developed in the American cultural context should be tested in cross-cultural settings. Reason (R): Comparative study has brought Politics and Public Administration closer to each other."
     options:
@@ -418,19 +366,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 32
-    question: "Arrange the following in chronological sequence: i. Naxalite Movement ii. Sarvodaya Movement iii. Narmada Bachao Andolan iv. Chipko Movement"
-    options:
-      - i, iii, ii, iv
-      - ii, i, iv, iii
-      - iv, ii, i, iii
-      - i, iv, iii, i
-    answer: 1
-    explanation: "ii, i, iv, iii is the correct answer to “Arrange the following in chronological sequence: i. Naxalite Movement ii. Sarvodaya Movement iii. Narmada Bachao Andolan iv. Chipko Movement”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science."
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
   - id: 33
     question: "Match List-I with List-II and select the correct answer from the options given below: List-I (Political Culture) List-II (Countries) a. Homogeneous culture 1. Uganda b. Elite mass culture 2. U.K. c. Subject political culture 3. India d. Parochial culture 4. China"
     options:
@@ -466,45 +401,6 @@ questions:
       - The scheme of partition included a plan for the transfer of population across the border
     answer: 3
     explanation: The scheme of partition included a plan for the transfer of population across the border is the correct answer to “Which among the following statements about the partition is incorrect”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 36
-    question: Which of the following is not an organ of Kautilya's state?
-    options:
-      - Swami
-      - Amatya
-      - Varna system
-      - Danda
-    answer: 2
-    explanation: Varna system is the correct answer to “Which of the following is not an organ of Kautilya's state”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 37
-    question: Which one of the following Acts has been made under Article 34 of the Indian Constitution?
-    options:
-      - The Army Act
-      - The Armed Forces Special Power Act (AFSPA)
-      - The Border Security Force Act
-      - The Navy Act
-    answer: 1
-    explanation: The Armed Forces Special Power Act (AFSPA) is the correct answer to “Which one of the following Acts has been made under Article 34 of the Indian Constitution”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
-    keyConcept: Miscellaneous In Political Science
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: "During Nehru era, parties and groups in the country believed that India should become friendly with block led by USA. I. Because that bloc claimed to be pro democracy. II. Dr Ambedkar also supported this idea. Some political parties opposed communism. III. Some political parties opposed communism IV. India joined Warsaw pact. Select the correct answer choosing the four given above:"
-    options:
-      - II, III
-      - I, II, IV
-      - I, III, IV
-      - I, II only
-    answer: 0
-    explanation: II, III is the correct answer to “During Nehru era, parties and groups in the country believed that India should become friendly with block led by USA. I. Because that bloc claimed to be pro democracy. II. Dr Ambedkar also supported this idea. Some political parties opposed communism. III. Some political parties opposed communism IV. India joined Warsaw pact. Select the correct answer choosing the four given above:”. This question is standard in competitive examination syllabi for Miscellaneous In Political Science.
     keyConcept: Miscellaneous In Political Science
     testedIn:
       - CSS

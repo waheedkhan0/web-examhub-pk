@@ -41,19 +41,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 3
-    question: Where is the headquarters of the National Human Rights Commission?
-    options:
-      - Mumbai
-      - Ahmedabad
-      - Kolkata
-      - Delhi
-    answer: 3
-    explanation: Delhi is the correct answer to “Where is the headquarters of the National Human Rights Commission”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
   - id: 4
     question: Under whose chairmanship The United Declaration of Human Rights was adopted?
     options:
@@ -67,19 +54,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 5
-    question: "What is India's security strategy? 1. India took initiatives to bring about a universal and non discriminatory non-proliferation regime. 2. In this, all countries would have the same rights and obligations with respect to weapons of mass destruction (nuclear, biological and chemical). 3. It argued for an equitable New International Economic Order (NIEO). Select the correct answer:"
-    options:
-      - 1, 2 and 3
-      - 3 only
-      - 1 and 3
-      - 1 only
-    answer: 0
-    explanation: 1, 2 and 3 is the correct answer to “What is India's security strategy? 1. India took initiatives to bring about a universal and non discriminatory non-proliferation regime. 2. In this, all countries would have the same rights and obligations with respect to weapons of mass destruction (nuclear, biological and chemical). 3. It argued for an equitable New International Economic Order (NIEO). Select the correct answer:”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
   - id: 6
     question: Disarmament requires all states to give up certain kinds of . . . . . . . .
     options:
@@ -89,19 +63,6 @@ questions:
       - Internal wars
     answer: 0
     explanation: Weapons is the correct answer to “Disarmament requires all states to give up certain kinds of . . . . . . . .”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: Which one of the following states recorded the highest percentage of urban population within them as per 2011 Census?
-    options:
-      - Madhya Pradesh
-      - Haryana
-      - Bihar
-      - Uttar Pradesh
-    answer: 1
-    explanation: Haryana is the correct answer to “Which one of the following states recorded the highest percentage of urban population within them as per 2011 Census”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
     keyConcept: Security In The Contemporary World
     testedIn:
       - CSS
@@ -197,19 +158,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 15
-    question: "India conducted a second nuclear test in:"
-    options:
-      - "1972"
-      - "1985"
-      - "1986"
-      - "1998"
-    answer: 3
-    explanation: 1998 is the correct answer to “India conducted a second nuclear test in:”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
   - id: 16
     question: Who was elected as the president of Chile in 2006?
     options:
@@ -301,19 +249,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 23
-    question: National Human Rights Commission is a . . . . . . . .
-    options:
-      - Statutory body
-      - Constitutional body
-      - Multilateral institution
-      - Both A and C
-    answer: 3
-    explanation: Both A and C is the correct answer to “National Human Rights Commission is a . . . . . . . .”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
   - id: 24
     question: Security policy is concerned with preventing war, which is called . . . . . . . . and with limiting or ending war, which is called . . . . . . . .
     options:
@@ -336,19 +271,6 @@ questions:
       - It should go beyond military threats to include a wide range of threats and dangers affecting the conditions of human existence
     answer: 3
     explanation: It should go beyond military threats to include a wide range of threats and dangers affecting the conditions of human existence is the correct answer to “Consider the following statements about traditional security. Find out the incorrect statement.”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
-  - id: 26
-    question: What is the second component of India's security strategy to protect its security interests?
-    options:
-      - To strengthen international norms and international institutions
-      - To strengthen national norms and international institutions
-      - To strengthen international norms and national institutions
-      - To strengthen national norms and national institutions
-    answer: 0
-    explanation: To strengthen international norms and international institutions is the correct answer to “What is the second component of India's security strategy to protect its security interests”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
     keyConcept: Security In The Contemporary World
     testedIn:
       - CSS
@@ -466,19 +388,6 @@ questions:
       - Terrorism
     answer: 2
     explanation: Migration is the correct answer to “Poverty in South Asia has led to”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
-    keyConcept: Security In The Contemporary World
-    testedIn:
-      - CSS
-      - PMS
-  - id: 36
-    question: India first tested a nuclear device in . . . . . . . .
-    options:
-      - "1974"
-      - "1975"
-      - "1976"
-      - "1977"
-    answer: 0
-    explanation: 1974 is the correct answer to “India first tested a nuclear device in . . . . . . . .”. This question is standard in competitive examination syllabi for Security In The Contemporary World.
     keyConcept: Security In The Contemporary World
     testedIn:
       - CSS

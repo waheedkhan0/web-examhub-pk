@@ -106,19 +106,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 8
-    question: A review of the implementation of the agreements at the Earth Summit in Rio was undertaken by India in . . . . . . . .
-    options:
-      - "1997"
-      - "1987"
-      - "1990"
-      - "1980"
-    answer: 0
-    explanation: 1997 is the correct answer to “A review of the implementation of the agreements at the Earth Summit in Rio was undertaken by India in . . . . . . . .”. This question is standard in competitive examination syllabi for Contemporary World Politics.
-    keyConcept: Contemporary World Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 9
     question: The EU has evolved from a/an . . . . . . . . union to a/an . . . . . . . . union.
     options:
@@ -245,19 +232,6 @@ questions:
       - Netherlands
     answer: 0
     explanation: Japan is the correct answer to “Until 1945, Korea and Taiwan had been the colonies of”. This question is standard in competitive examination syllabi for Contemporary World Politics.
-    keyConcept: Contemporary World Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: As the leader of the NAM, what was India's response to the Cold war?
-    options:
-      - To stay away from either blocs and raise voice to stop newly decolonize countries from entering either blocs
-      - To stay away from either blocs
-      - To raise voice to stop newly decolonized countries from entering either blocs
-      - None of the above
-    answer: 0
-    explanation: To stay away from either blocs and raise voice to stop newly decolonize countries from entering either blocs is the correct answer to “As the leader of the NAM, what was India's response to the Cold war”. This question is standard in competitive examination syllabi for Contemporary World Politics.
     keyConcept: Contemporary World Politics
     testedIn:
       - CSS
@@ -453,19 +427,6 @@ questions:
       - Japan is the largest economy among the Asian countries
     answer: 3
     explanation: Japan is the largest economy among the Asian countries is the correct answer to “Which Statement about Japan is not correct”. This question is standard in competitive examination syllabi for Contemporary World Politics.
-    keyConcept: Contemporary World Politics
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: The ASEAN-India FTA came into effect in . . . . . . . .
-    options:
-      - "2010"
-      - "2000"
-      - "1999"
-      - "1995"
-    answer: 0
-    explanation: 2010 is the correct answer to “The ASEAN-India FTA came into effect in . . . . . . . .”. This question is standard in competitive examination syllabi for Contemporary World Politics.
     keyConcept: Contemporary World Politics
     testedIn:
       - CSS

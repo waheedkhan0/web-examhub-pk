@@ -353,19 +353,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 27
-    question: Section ________ of the Industrial Disputes Act 1947, states that an employer should only retrench employees who have been most recently hired
-    options:
-      - 24-F
-      - 24-G
-      - 25-F
-      - 25-G
-    answer: 3
-    explanation: Section 25-G of the Industrial Disputes Act 1947, states that an employer should only retrench employees who have been most recently hired. Where any workman in an industrial establishment who is a citizen of India, is to be retrenched and he belongs to a particular category of workmen in that establishment, in the absence of any agreement between the employer and the workman in this behalf, the employer shall ordinarily retrench the workman who was the last person to be employed in that category, unless for reasons to be recorded the employer retrenches any other workman.
-    keyConcept: Human Resource Management _Hrm
-    testedIn:
-      - CSS
-      - PMS
   - id: 28
     question: The ________ programme once installed must be continued on a permanent basis.
     options:
@@ -536,5 +523,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

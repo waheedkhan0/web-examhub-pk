@@ -317,14 +317,14 @@ questions:
       - NTS
       - CSS
   - id: 24
-    question: "Rupee : India :: Yen : ?"
+    question: "Rupee : Pakistan :: Yen : ?"
     options:
       - Turkey
       - Bangladesh
       - Japan
       - Pakistan
     answer: 2
-    explanation: Rupee is currency of India and Yen is the currency of Japan .
+    explanation: Rupee is currency of Pakistan and Yen is the currency of Japan .
     keyConcept: Analogy
     testedIn:
       - NTS

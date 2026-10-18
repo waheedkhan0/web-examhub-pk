@@ -282,15 +282,6 @@ questions:
     answer: 0
     explanation: Glenn McGrath From Australia is the correct answer to “Who Has Taken The Most Wickets In World Cup Cricket”. Items of this type are drawn from the Sports & Games — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
-  - id: 28
-    question: Name the World’s Biggest Cricket Stadium?
-    options:
-      - National stadium Karachi, Pakistan
-      - Melbourne cricket Ground, Australia
-      - Motera stadium Ahmedabad, India
-    answer: 2
-    explanation: Motera stadium Ahmedabad, India is the correct answer to “Name the World’s Biggest Cricket Stadium”. Items of this type are drawn from the Sports & Games — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
   - id: 29
     question: Darren Sammy a famous cricket player was born in_________________?
     options:
@@ -341,16 +332,6 @@ questions:
     answer: 3
     explanation: Six is the correct answer to “A touchdown is worth how many points in football”. Items of this type are drawn from the Sports & Games — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
-  - id: 34
-    question: Fedaration cup,World cup, Allwyn international trophy and challenge cup are awarded to winners of__________?
-    options:
-      - Basketball
-      - Table Tennis
-      - Badminton
-      - Volleyball
-    answer: 3
-    explanation: Fedaration cup,World cup, Allwyn international trophy and challenge cup are awarded to winners of Volleyball .
-    keyConcept: Sports & Games
   - id: 35
     question: Where is the Headquarter of International Tennis Federation?
     options:
@@ -370,16 +351,6 @@ questions:
       - "1932"
     answer: 1
     explanation: 1930 is the correct answer to “In which year was the football World Cup held for the first time”. Items of this type are drawn from the Sports & Games — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Sports & Games
-  - id: 37
-    question: First Blind Cricket World Cup won by__________?
-    options:
-      - England
-      - India
-      - Pakistan
-      - Sri Lanka
-    answer: 1
-    explanation: First Blind Cricket World Cup won by India .
     keyConcept: Sports & Games
   - id: 38
     question: _______was the first cricketer from Bangladesh to score a double century in test Cricket.
@@ -411,32 +382,6 @@ questions:
     answer: 2
     explanation: One time is the correct answer to “How many times England won the ICC World Cup”. Items of this type are drawn from the Sports & Games — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Sports & Games
-  - id: 41
-    question: Where did the 1st ODI match was played in India?
-    options:
-      - New Delhi
-      - Ahmedabad
-      - Kolkata
-      - Mumbai
-    answer: 1
-    explanation: The 1st ODI match played in India was at Ahmedabad.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 42
-    question: Who had a torrid time with Lancashire in 2000?
-    options:
-      - Sachin Tendulkar
-      - Nayan Mongia
-      - Javagal Srinath
-      - Saurav Ganguly
-    answer: 3
-    explanation: Saurav Ganguly had a torrid time with Lancashire in 2000.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 43
     question: What is the name of the person that controls a football match?
     options:
@@ -463,32 +408,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 45
-    question: The Indian football team made its first appearance at Olympics in?
-    options:
-      - "1936"
-      - "1948"
-      - "1952"
-      - "1956"
-    answer: 1
-    explanation: The 1948 Summer Olympics was the first time that India played football in the Olympics, their first real test on the world football stage. Despite playing barefoot the Indian team impressed in the only match they played, losing 1-2 to France.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 46
-    question: Who was the first captain of Indian Test team?
-    options:
-      - Vijay Hazare
-      - C K Nayudu
-      - Lala Amarnath
-      - Vijay Merchant
-    answer: 1
-    explanation: BCCI had established C K Nayudu award in memory of him for contribution to the Indian cricket. The award carries a citation, a trophy, and a cash prize of Rs 2 lakh. Lala Amarnath was the 1st recipient of this award.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 47
     question: Fenway Park is the home field of what Major League Baseball team?
     options:
@@ -498,19 +417,6 @@ questions:
       - Boston Red Sox
     answer: 3
     explanation: Fenway Park is a baseball park located in Boston, Massachusetts, near Kenmore Square. Since 1912, it has been the home for the Boston Red Sox, the city's American League baseball team, and since 1953, its only Major League Baseball (MLB) franchise.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 48
-    question: Pravin Amre and Vinod Kambli played for which province in South Africa?
-    options:
-      - Border
-      - Boland
-      - Griqualand West
-      - Gauteng
-    answer: 1
-    explanation: Like Sachin Tendulkar, both Kambli and Amre were coached by Ramakanth Achrekar and played for Mumbai and India.
     keyConcept: Sports
     testedIn:
       - PPSC
@@ -554,19 +460,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 52
-    question: The name Kunjarani Devi is associated with?
-    options:
-      - Weight Lifting
-      - Target shooting
-      - Athletics
-      - Swimming
-    answer: 0
-    explanation: Nameirakpam Kunjarani Devi is the most decorated Indian sportswoman in weightlifting.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 53
     question: In what year was the first international cricket match held?
     options:
@@ -580,19 +473,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 54
-    question: How many gold medals have been won by India in the Olympics so far?
-    options:
-      - "4"
-      - "8"
-      - "9"
-      - "10"
-    answer: 3
-    explanation: Neeraj Chopra is the first Asian athlete to win an Olympic gold medal in men's javelin throw in 2020 Game. In the 2008 Games in Beijing, Abhinav Bindra became the first Indian to win gold in an individual event when he won the men's 10 meter air rifle competition. This was India's 9th gold medal in Olympic competition. India has won eight gold medals in field hockey (1928,1932, 1936, 1948, 1952, 1956, 1964, 1980).
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 55
     question: Who did The Rock wrestle in the main event at the 1999 edition of "Wrestlemania"?
     options:
@@ -602,32 +482,6 @@ questions:
       - Undertaker
     answer: 0
     explanation: This was the first time they wrestled each other at "Wrestlemania". Two years later they wrestled again with Austin winning that match as well. The third match was in 2003 in Seattle. This was Austin's last match and he finally lost to The Rock.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 56
-    question: Which English county did batting sensation Virender Sehwag join in the 2003 season?
-    options:
-      - Lancashire
-      - Leicestershire
-      - Yorkshire
-      - Middlesex
-    answer: 1
-    explanation: Virender Sehwag holds the record for the Highest individual score by an Indian in test matches when he scored 309 against Pakistan in 2004. He made 219 in ODI which is highest score in ODI by any cricketer.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 57
-    question: Who has scored the most Test hundreds ever?
-    options:
-      - Steve Waugh
-      - Sachin Tendulkar
-      - Shane Warne
-      - Sunil Gavaskar
-    answer: 1
-    explanation: He has scored 51 hundred in 200 test matches.
     keyConcept: Sports
     testedIn:
       - PPSC
@@ -697,71 +551,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 63
-    question: Which country, which made its debut in the Norwich Union League in 2003, signed Rahul Dravid as their overseas player?
-    options:
-      - Holland
-      - Ireland
-      - Wales
-      - Scotland
-    answer: 3
-    explanation: Scotland is the country. Rahul had a highly successful stint with Kent in 2000.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 64
-    question: Which county signed Yuvraj Singh to play for them in 2003?
-    options:
-      - Nottinghamshire
-      - Lancashire
-      - Hampshire
-      - Yorkshire
-    answer: 3
-    explanation: Yorkshire signed Yuvraj Singh to play for them in 2003.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 65
-    question: Which county did the outspoken Spin great Bishen Singh Bedi play for?
-    options:
-      - Essex
-      - Surrey
-      - Northamptonshire
-      - Sussex
-    answer: 2
-    explanation: Bedi represented Northamptonshire in English county cricket for many years. He finished his career with 1560 wickets in first-class cricket—more than any other Indian. His bowling has been described as graceful, even beautiful, and full of guile and artistry.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 66
-    question: Who was the first Indian to win an individual medal in Olympics?
-    options:
-      - Milkha Singh
-      - P.T.Usha
-      - Karnam Malleshwari
-      - K.D.Jadhav
-    answer: 3
-    explanation: Mr. Khashaba Dadasaheb Jadhav or KD Jadhav, widely known as 'Pocket Dynamo', was independent India's first individual Olympic medalist when he won the freestyle wrestling bronze medal at the 1952 Helsinki Games
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 67
-    question: Which county did speedster Javagal Srinath play for in 1995?
-    options:
-      - Kent
-      - Glamorgan
-      - Gloucestershire
-      - Leicestershire
-    answer: 2
-    explanation: Javagal Srinath played for Gloucestershire in 1995.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 68
     question: Stripped of his heavyweight title in 1967 for refusing induction into the U.S. military, Muhammad Ali regained the heavyweight championship on October 30, 1974, in Kinshasa, Zaire with an eighth-round knockout of which prizefighter?
     options:
@@ -788,19 +577,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 70
-    question: With which sport is the 'Choudhury Trophy' associated?
-    options:
-      - Golf
-      - Circumnavigation of the earth by car
-      - Formula One racing
-      - Buggy-Jumping
-    answer: 1
-    explanation: Circumnavigating of the earth by car. This trophy has been named after Saloo and Neena Choudhury, ace car rallyists from Calcutta. It's in recognition of the couple's achievement in 1989 when they passed through all six continents in 69 days and repeated the same feat in 1991 in 39 days.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 71
     question: The nickname of wicketkeeping great Rod Marsh was what?
     options:
@@ -810,32 +586,6 @@ questions:
       - Lagoon
     answer: 2
     explanation: Bacchus Marsh is a town in Victoria Australia. He was also known as 'Iron Gloves'.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 72
-    question: Who was the 1st president of BCCI ( Board of Control for Cricket in India )?
-    options:
-      - R.E. Grant Govan
-      - Dr. Maharajkumar Sir Vijaya Ananda
-      - Sikandar Hyat Khan
-      - Anthony S. D'Mello
-    answer: 0
-    explanation: Govan was president from 1928-29 to 1932-33.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 73
-    question: How many gold medals did P.T.Usha win in the 1986 Seoul Asian Games?
-    options:
-      - "1"
-      - "2"
-      - "3"
-      - "4"
-    answer: 3
-    explanation: At the Seoul Asian Games in 1986, P.T. Usha won five historic medals - 4 gold and 1 silver - in the track and field events, a record for an Indian athlete at any international meet.
     keyConcept: Sports
     testedIn:
       - PPSC
@@ -875,58 +625,6 @@ questions:
       - Sachin Tendulkar
     answer: 1
     explanation: The highest individual score in first-class cricket is 501* scored by Brian Lara for Warwickshire in 1994. There have been nine other scores of 400 or more, including another by Lara and two by Bill Ponsford.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 77
-    question: Which batsman started his international cricketing career at the age of 16?
-    options:
-      - Suresh Raina
-      - Sachin Tendulkar
-      - Piyush Chawla
-      - Rahul Dravid
-    answer: 1
-    explanation: Sachin Tendulkar made his debut in Pakistan when he was only 16 in 1989.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 78
-    question: How many wickets did Yograj Singh take in his 1st ODI match?
-    options:
-      - "1"
-      - "2"
-      - "4"
-      - "3"
-    answer: 1
-    explanation: Yograj Singh was a bowler, but his son Yuvraj Singh, also nicknamed as Yuvi, turned out to be a smashing batsman.
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 79
-    question: Who made his test debut alongwith Salil Ankola in the same match?
-    options:
-      - Rahul Dravid
-      - Sachin Tendulkar
-      - Kapil Dev
-      - Mohinder Amarnath
-    answer: 1
-    explanation: Sachin Tendulkar made his test debut alongwith Salil Ankola in the same match
-    keyConcept: Sports
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 80
-    question: What is the middle name of Rahul Dravid?
-    options:
-      - Naren
-      - Sharad
-      - Srivatsav
-      - Shyam
-    answer: 1
-    explanation: Full name, Rahul Sharad Dravid. Born, 11 January 1973 (1973-01-11).
     keyConcept: Sports
     testedIn:
       - PPSC

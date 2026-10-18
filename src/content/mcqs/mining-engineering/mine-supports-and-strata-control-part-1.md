@@ -157,19 +157,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 12
-    question: The self advancing supports are used in coal mines on prop free front long wall faces and are introduced in India in . . . . . . . . colliery.
-    options:
-      - Sudhamdih
-      - Monidih
-      - Chinakuri
-      - Seetarampur
-    answer: 1
-    explanation: Monidih is the correct answer to “The self advancing supports are used in coal mines on prop free front long wall faces and are introduced in India in . . . . . . . . colliery.”. This question is standard in competitive examination syllabi for Mine Supports And Strata Control.
-    keyConcept: Mine Supports And Strata Control
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 13
     question: Supporting system used in coal mine gate roads in general is
     options:
@@ -353,19 +340,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 27
-    question: In terms of resourcefulness [Reserveper km 2 ] which of the Indian coal fields in on top position.
-    options:
-      - Singrauli coal fields
-      - Singareni coal fields
-      - Raniganj coal fields
-      - Jharia coal fields
-    answer: 3
-    explanation: Jharia coal fields is the correct answer to “In terms of resourcefulness [Reserveper km 2 ] which of the Indian coal fields in on top position.”. This question is standard in competitive examination syllabi for Mine Supports And Strata Control.
-    keyConcept: Mine Supports And Strata Control
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 28
     question: As for roof support DAST stands for
     options:
@@ -537,5 +511,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

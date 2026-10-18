@@ -27,19 +27,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 2
-    question: In India, in all the three sectors what percentage of work is in the unorganised sector?
-    options:
-      - 20%
-      - 50%
-      - 60%
-      - Over 90%
-    answer: 3
-    explanation: Over 90% is the correct answer to “In India, in all the three sectors what percentage of work is in the unorganised sector”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 3
     question: Often social inequality and . . . . . . . . Enequality overlap.
     options:
@@ -66,19 +53,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 5
-    question: "In Maruti Udyog Ltd. two cars roll off the assembly line every:"
-    options:
-      - Minute
-      - Half an hour
-      - Hour
-      - Day
-    answer: 0
-    explanation: Minute is the correct answer to “In Maruti Udyog Ltd. two cars roll off the assembly line every:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 6
     question: "Industrialisation leads to greater:"
     options:
@@ -88,19 +62,6 @@ questions:
       - Workforce
     answer: 1
     explanation: Equality is the correct answer to “Industrialisation leads to greater:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: "The region of Mumbai is a major area of research for:"
-    options:
-      - Sociologist
-      - Physiologist
-      - psychologists
-      - None of these
-    answer: 0
-    explanation: Sociologist is the correct answer to “The region of Mumbai is a major area of research for:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
     keyConcept: Industry And Society In Sociology
     testedIn:
       - CSS
@@ -140,19 +101,6 @@ questions:
       - 3, 4, 1 and 2
     answer: 0
     explanation: "2, 3, 4 and 1 is the correct answer to “Consider the following stages in the development of a society: 1. Capitalist 2. Tribal 3. Ancient 4. Feudal Which one of the following is the correct chronological sequence of these societies as thought by Karl Marx”. This question is standard in competitive examination syllabi for Industry And Society In Sociology."
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 11
-    question: "In fish processing plants along the coastline employ mostly single young women from:"
-    options:
-      - Tamil Nadu
-      - Karnataka
-      - Kerala
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “In fish processing plants along the coastline employ mostly single young women from:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
     keyConcept: Industry And Society In Sociology
     testedIn:
       - CSS
@@ -313,19 +261,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 24
-    question: Which is one of the oldest industries in India?
-    options:
-      - Share market
-      - Textile mills
-      - Finance service
-      - Iron and steel
-    answer: 1
-    explanation: Textile mills is the correct answer to “Which is one of the oldest industries in India”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 25
     question: The scientific stage of society began in the 19 th century and it corresponded to the industrial society. Who among the following used the term "industrial society" in this context?
     options:
@@ -365,32 +300,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: "On machinery, Gandhi wrote an article in 'Hind Swaraj' in the year:"
-    options:
-      - "1909"
-      - "1924"
-      - "1932"
-      - "1942"
-    answer: 1
-    explanation: 1924 is the correct answer to “On machinery, Gandhi wrote an article in 'Hind Swaraj' in the year:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 29
-    question: "Parle drinks was bought by:"
-    options:
-      - Coca Cola
-      - Fanta
-      - Pepsi
-      - None of these
-    answer: 0
-    explanation: Coca Cola is the correct answer to “Parle drinks was bought by:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 30
     question: "Machinery helps to increase production but creates danger to replace:"
     options:
@@ -400,32 +309,6 @@ questions:
       - Quality
     answer: 0
     explanation: Workers is the correct answer to “Machinery helps to increase production but creates danger to replace:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: "In the category of port cities is included:"
-    options:
-      - Madras
-      - Bombay
-      - Calcutta
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “In the category of port cities is included:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 32
-    question: "The residents of Mumbai are dicided by:"
-    options:
-      - Their living place
-      - What the eat
-      - The cost of clothes they wear
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “The residents of Mumbai are dicided by:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
     keyConcept: Industry And Society In Sociology
     testedIn:
       - CSS
@@ -452,19 +335,6 @@ questions:
       - None of these
     answer: 1
     explanation: The west is the correct answer to “Modern society is represented by:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
-    keyConcept: Industry And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 35
-    question: "In India, people strive hard to get into:"
-    options:
-      - Government jobs
-      - Jobs in MNCs
-      - Defence services
-      - Clerical jobs
-    answer: 0
-    explanation: Government jobs is the correct answer to “In India, people strive hard to get into:”. This question is standard in competitive examination syllabi for Industry And Society In Sociology.
     keyConcept: Industry And Society In Sociology
     testedIn:
       - CSS

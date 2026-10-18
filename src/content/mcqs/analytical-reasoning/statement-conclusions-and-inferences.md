@@ -72,22 +72,8 @@ questions:
     testedIn:
       - NTS
       - CSS
-  - id: 5
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Women's organizations in India have welcomed the amendment of the Industrial Employment Rules 1946 to curb sexual harassment at the work place. Conclusion : I. Sexual harassment of women at work place is more prevalent in India as compared to other developed countries. II. Many organizations in India will stop recruiting women to avoid such problems."
-    options:
-      - Only conclusion I follows.
-      - Only conclusion II follows.
-      - Either I or II follows.
-      - Neither I or II follows.
-      - Both I and II follows.
-    answer: 3
-    explanation: The fact that a certain rule has been more welcomed in a certain country does not imply that the problem is more prevalent there. So, I does not follows. Also, The amendment seeks to discourage only sexual harassment of women and shall in no way discourage employment of women. So, II does not follow.
-    keyConcept: Statement Conclusions And Inferences
-    testedIn:
-      - NTS
-      - CSS
   - id: 6
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : India's economy is depending mainly on forests. Conclusion : I. Tree should be preserved to improve Indian economy. II. India wants only maintenance of forests to improve economic conditions."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Pakistan's economy is depending mainly on forests. Conclusion : I. Tree should be preserved to improve Pakistani economy. II. Pakistan wants only maintenance of forests to improve economic conditions."
     options:
       - Only conclusion I follows.
       - Only conclusion II follows.
@@ -95,7 +81,7 @@ questions:
       - Neither I or II follows.
       - Both I and II follows.
     answer: 0
-    explanation: It is mentioned in the the statement that India's economy depends mainly on forests. This means that forests should be preserved. So, I follows. But, that only preservation of forests can improve the economy, cannot be said. So, II does not follow.
+    explanation: It is mentioned in the the statement that Pakistan's economy depends mainly on forests. This means that forests should be preserved. So, I follows. But, that only preservation of forests can improve the economy, cannot be said. So, II does not follow.
     keyConcept: Statement Conclusions And Inferences
     testedIn:
       - NTS
@@ -124,20 +110,6 @@ questions:
       - Both I and II follows.
     answer: 0
     explanation: Conclusion I is directly related to the statement. Hence, Conclusion I is valid, while the conclusion II is not related to the statement so it is not valid.
-    keyConcept: Statement Conclusions And Inferences
-    testedIn:
-      - NTS
-      - CSS
-  - id: 9
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Most of the Indian States existed before independence. Conclusion : I. Some Indian States existed before independence. II. Some Indian States did not exist before independence."
-    options:
-      - Only conclusion I follows.
-      - Only conclusion II follows.
-      - Either I or II follows.
-      - Neither I or II follows.
-      - Both I and II follows.
-    answer: 1
-    explanation: According to the statement most of the Indian states existed before independence. It means not all the Indian States existed before independence. Hence, II conclusion is logically valid.
     keyConcept: Statement Conclusions And Inferences
     testedIn:
       - NTS
@@ -213,7 +185,7 @@ questions:
       - NTS
       - CSS
   - id: 15
-    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should new big industries be started in Kolkata ? Arguments : I. Yes. It will create job opportunities. II. No. It will further add the pollution of the city."
+    question: "Directions : Each of the following question consists of a statement followed by two arguments I and II. You have to decide which of the arguments is a STRONG arguments and which is a WEAK Argument. Statement : Should new big industries be started in Karachi ? Arguments : I. Yes. It will create job opportunities. II. No. It will further add the pollution of the city."
     options:
       - Only argument I is strong.
       - Only Argument II is strong.
@@ -227,5 +199,4 @@ questions:
       - NTS
       - CSS
 ---
-
 

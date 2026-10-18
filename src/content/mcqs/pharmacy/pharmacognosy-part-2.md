@@ -456,19 +456,6 @@ questions:
     testedIn:
       - PPSC Drug Inspector
       - FPSC
-  - id: 35
-    question: Saffron cultivated in India is
-    options:
-      - Uttar Pradesh
-      - Orissa
-      - Kashmir
-      - Maharashtra
-    answer: 2
-    explanation: Kashmir is the correct answer to “Saffron cultivated in India is”. This question is standard in competitive examination syllabi for Pharmacognosy.
-    keyConcept: Pharmacognosy
-    testedIn:
-      - PPSC Drug Inspector
-      - FPSC
   - id: 36
     question: Belluli and Vallaippundu are synonyms of . . . . . . . .
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Drug Inspector
       - FPSC
 ---
-
 

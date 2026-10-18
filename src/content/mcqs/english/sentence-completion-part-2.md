@@ -246,7 +246,7 @@ questions:
       - PPSC
       - FPSC
   - id: 18
-    question: Mounting unemployment is the most serious and . . . . . . . . problem faced by India today.
+    question: Mounting unemployment is the most serious and . . . . . . . . problem faced by Pakistan today.
     options:
       - dubious
       - profound
@@ -254,7 +254,7 @@ questions:
       - intractable
       - unattainable
     answer: 3
-    explanation: Mounting unemployment is the most serious and intractable problem faced by India today.
+    explanation: Mounting unemployment is the most serious and intractable problem faced by Pakistan today.
     keyConcept: Sentence Completion
     testedIn:
       - PPSC
@@ -357,14 +357,14 @@ questions:
       - PPSC
       - FPSC
   - id: 26
-    question: The new industrial policy is a result of the confidence the government has in the . . . . . . . . of the Indian industry.
+    question: The new industrial policy is a result of the confidence the government has in the . . . . . . . . of the Pakistani industry.
     options:
       - opinion
       - existence
       - status
       - maturity
     answer: 3
-    explanation: The new industrial policy is a result of the confidence the government has in the maturity of the Indian industry.
+    explanation: The new industrial policy is a result of the confidence the government has in the maturity of the Pakistani industry.
     keyConcept: Sentence Completion
     testedIn:
       - PPSC
@@ -398,7 +398,7 @@ questions:
       - PPSC
       - FPSC
   - id: 29
-    question: . . . . . . by people's perception it seems that democracy has succeeded in India.
+    question: . . . . . . by people's perception it seems that democracy has succeeded in Pakistan.
     options:
       - Following
       - Going
@@ -406,7 +406,7 @@ questions:
       - Planned
       - Liked
     answer: 1
-    explanation: Going by people's perception it seems that democracy has succeeded in India.
+    explanation: Going by people's perception it seems that democracy has succeeded in Pakistan.
     keyConcept: Sentence Completion
     testedIn:
       - PPSC

@@ -276,14 +276,14 @@ questions:
       - PPSC
       - FPSC
   - id: 21
-    question: Fill in the blanks with the most appropriate words. "Where _____you born?" "I ____born in India.
+    question: Fill in the blanks with the most appropriate words. "Where _____you born?" "I ____born in Pakistan.
     options:
       - Are / am
       - were / was
       - Were / were
       - Was / were
     answer: 1
-    explanation: In the given dialogue "Where were you born?" "I was born in India," the words "were" and "was" are the most appropriate to fill in the blanks. "Where were you born?" - "were" is the past tense form of the verb "be," used with plural subjects like "you." "I was born in India." - "was" is the past tense form of the verb "be," used with singular subjects like "I." The dialogue is discussing past events, so the past tense forms "were" and "was" are used to match the context. The other options do not use the correct verb forms for the given dialogue. Option A, "Are / am," uses the present tense forms, which are not suitable for past events. Option C, "Were / were," uses the past tense forms for both subjects, which is grammatically incorrect since the subject "I" requires the singular form "was." Option D, "Was / were," uses the past tense form for the first subject but incorrectly uses the past tense form for the second subject as well. Therefore, the correct answer is "B. were / was.
+    explanation: In the given dialogue "Where were you born?" "I was born in Pakistan," the words "were" and "was" are the most appropriate to fill in the blanks. "Where were you born?" - "were" is the past tense form of the verb "be," used with plural subjects like "you." "I was born in Pakistan." - "was" is the past tense form of the verb "be," used with singular subjects like "I." The dialogue is discussing past events, so the past tense forms "were" and "was" are used to match the context. The other options do not use the correct verb forms for the given dialogue. Option A, "Are / am," uses the present tense forms, which are not suitable for past events. Option C, "Were / were," uses the past tense forms for both subjects, which is grammatically incorrect since the subject "I" requires the singular form "was." Option D, "Was / were," uses the past tense form for the first subject but incorrectly uses the past tense form for the second subject as well. Therefore, the correct answer is "B. were / was.
     keyConcept: Tenses
     testedIn:
       - PPSC

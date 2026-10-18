@@ -79,32 +79,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: The monsoon crops in India which requires lot of water is called
-    options:
-      - Rabi crops
-      - Kharif crops
-      - Zaid crops
-      - None of these
-    answer: 1
-    explanation: Kharif crops is the correct answer to “The monsoon crops in India which requires lot of water is called”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 7
-    question: Indian agriculture is typically characterised as
-    options:
-      - Land surplus, labour scarce economy
-      - Land surplus, labour surplus economy
-      - land scarce, labour surplus economy
-      - Land scarce, labour scarce economy
-    answer: 2
-    explanation: land scarce, labour surplus economy is the correct answer to “Indian agriculture is typically characterised as”. This question is standard in competitive examination syllabi for Environment And Society In Sociology.
-    keyConcept: Environment And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 8
     question: Sociolistic idea of development are based on which of the following ideas?
     options:

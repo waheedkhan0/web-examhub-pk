@@ -101,20 +101,7 @@ questions:
       - 80m
       - 60m
     answer: 3
-    explanation: "Given: Ascending gradient = 1 in 50, Descending gradient = 1 in 50, and Stopping Sight Distance (SSD) = 80 m. Step 1: The total deviation in gradient is given by N = g₁ + g₂ = (1/50) + (1/50) = 2/50 = 0.04 Step 2: For a summit curve, when the sight distance (S) is less than the curve length (L), the formula is: L = (N × S²) / (2 × (√h₁ + √h₂)²) However, when sight distance (S) is greater than or equal to curve length (L), the simplified formula recommended by the IRC (Indian Roads Congress) for practical design is: L = (S²) / (4.4 × N) Substituting the given values: L = (80²) / (4.4 × 0.04) = 6400 / 0.176 = 36,363.63 m This value is theoretically very large and impractical, hence for practical highway design, a standard approximation is used considering sight distance limitations, which gives an approximate value near 60 m for the given condition. Therefore, the most appropriate and exam-based correct answer is Option D: 60 m"
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 8
-    question: The ruling design speed on a National Highway in plain terrain as per IRC recommendations is
-    options:
-      - 60 kmph
-      - 80 kmph
-      - 100 kmph
-      - 120 kmph
-    answer: 2
-    explanation: "Let's understand this important concept in Highway Engineering! The design speed is a very crucial factor in road design. It's the maximum safe speed at which vehicles can travel on a road under favorable conditions. All the geometric features of a highway, like the curves, sight distances, and gradients, are designed based on this specific speed. The Indian Road Congress (IRC) provides guidelines and standards for road design in India. They specify different design speeds. These speeds mainly depend on two factors: first, the Type of Road itself (for example, whether it's a National Highway (NH), a State Highway (SH), or a Major District Road (MDR)); and second, the Type of Terrain (which could be plain, rolling, mountainous, or steep terrain). The question asks for the ruling design speed on a National Highway in plain terrain . A National Highway (NH) is an important road connecting major cities and states, designed for relatively high traffic volumes and speeds. Plain terrain means the area is mostly flat, which allows for straighter roads and fewer design constraints, thus permitting higher speeds. The term 'ruling' design speed refers to the desirable or *standard* design speed, which is used for most of the highway stretch. There's also a 'minimum' design speed for more challenging sections. According to IRC recommendations , for a National Highway in plain terrain , the ruling design speed is 100 kmph . This speed ensures safe and efficient travel on such important routes where the flat terrain does not pose significant challenges. Let's look at why other options might not be correct for this specific scenario: 80 kmph: This speed is often specified for State Highways in plain terrain, or sometimes for National Highways in rolling (gently undulating) terrain. 60 kmph: This speed is more common for major district roads or for highways in mountainous terrain where speeds must be lower due to sharp curves and steep gradients. 120 kmph: While some modern expressways might be designed for speeds around 120 kmph, 100 kmph is the standard ruling design speed for a typical National Highway in plain terrain as per current IRC guidelines. Therefore, the correct answer is Option C: 100 kmph ."
+    explanation: "Given: Ascending gradient = 1 in 50, Descending gradient = 1 in 50, and Stopping Sight Distance (SSD) = 80 m. Step 1: The total deviation in gradient is given by N = g₁ + g₂ = (1/50) + (1/50) = 2/50 = 0.04 Step 2: For a summit curve, when the sight distance (S) is less than the curve length (L), the formula is: L = (N × S²) / (2 × (√h₁ + √h₂)²) However, when sight distance (S) is greater than or equal to curve length (L), the simplified formula recommended for practical design is: L = (S²) / (4.4 × N) Substituting the given values: L = (80²) / (4.4 × 0.04) = 6400 / 0.176 = 36,363.63 m This value is theoretically very large and impractical, hence for practical highway design, a standard approximation is used considering sight distance limitations, which gives an approximate value near 60 m for the given condition. Therefore, the most appropriate and exam-based correct answer is Option D: 60 m"
     keyConcept: Highway Engineering
     testedIn:
       - PPSC SDO
@@ -258,19 +245,6 @@ questions:
       - longitudinal joints
     answer: 3
     explanation: longitudinal joints is the correct answer to “Tie bars in cement concrete pavements are at”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 20
-    question: As per IRC recommendations, the maximum limit of super elevation for mixed traffic in plain terrain is
-    options:
-      - 1 in 15
-      - 1 in 12.5
-      - 1 in 10
-      - equal to camber
-    answer: 0
-    explanation: 1 in 15 is the correct answer to “As per IRC recommendations, the maximum limit of super elevation for mixed traffic in plain terrain is”. This question is standard in competitive examination syllabi for Highway Engineering.
     keyConcept: Highway Engineering
     testedIn:
       - PPSC SDO
@@ -496,19 +470,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 38
-    question: The desirable length of overtaking zone as per IRC recommendation is equal to
-    options:
-      - overtaking sight distance
-      - two times the overtaking sight distance
-      - three times the overtaking sight distance
-      - five times the overtaking sight distance
-    answer: 3
-    explanation: five times the overtaking sight distance is the correct answer to “The desirable length of overtaking zone as per IRC recommendation is equal to”. This question is standard in competitive examination syllabi for Highway Engineering.
-    keyConcept: Highway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 39
     question: Most suitable material for highway embankments is
     options:
@@ -536,5 +497,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

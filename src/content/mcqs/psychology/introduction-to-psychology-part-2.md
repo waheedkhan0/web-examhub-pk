@@ -53,19 +53,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 4
-    question: The Indian Psychoanalytic Society was founded by
-    options:
-      - Girindra Shekhar Bose
-      - Brajendra Nath Seal
-      - N. N. Sengupta
-      - Sigmund Freud
-    answer: 0
-    explanation: Girindra Shekhar Bose is the correct answer to “The Indian Psychoanalytic Society was founded by”. This question is standard in competitive examination syllabi for Introduction To Psychology.
-    keyConcept: Introduction To Psychology
-    testedIn:
-      - CSS
-      - PMS
   - id: 5
     question: Yesterday I saw Ritu fighting wildly with her younger sister over a small matter for trivial reason. Which of the following approaches of Psychology will help me to understand Ritu's behaviour
     options:
@@ -140,19 +127,6 @@ questions:
       - None of the above
     answer: 1
     explanation: Neurobiology is the correct answer to “Name of the study of nervous system and its function is-”. This question is standard in competitive examination syllabi for Introduction To Psychology.
-    keyConcept: Introduction To Psychology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 11
-    question: The first psychology department was established at Calcutta University in the year
-    options:
-      - "1910"
-      - "1916"
-      - "1909"
-      - None of these
-    answer: 1
-    explanation: 1916 is the correct answer to “The first psychology department was established at Calcutta University in the year”. This question is standard in competitive examination syllabi for Introduction To Psychology.
     keyConcept: Introduction To Psychology
     testedIn:
       - CSS
@@ -361,19 +335,6 @@ questions:
       - None of the above
     answer: 2
     explanation: Both A and B is the correct answer to “Greek philosophers defined psychology as”. This question is standard in competitive examination syllabi for Introduction To Psychology.
-    keyConcept: Introduction To Psychology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 28
-    question: In India Modern Western psychology was first introduced in
-    options:
-      - Calcutta University
-      - Allahabad University
-      - Bombay University
-      - Agra University
-    answer: 0
-    explanation: Calcutta University is the correct answer to “In India Modern Western psychology was first introduced in”. This question is standard in competitive examination syllabi for Introduction To Psychology.
     keyConcept: Introduction To Psychology
     testedIn:
       - CSS

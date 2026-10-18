@@ -406,14 +406,14 @@ questions:
       - PPSC SDO
       - FPSC AEE
   - id: 31
-    question: "For initial surveys of tunnels, the following activities are involved: 1.Marking portal point with concrete pillars on the ground 2.Marking tunnel obligatory points on the topographical maps 3.Preliminary setting of the tunnel on the topographical Survey of India maps 4.Driving lines between the fixed obligatory points The correct sequence of the activities is:"
+    question: "For initial surveys of tunnels, the following activities are involved: 1.Marking portal point with concrete pillars on the ground 2.Marking tunnel obligatory points on the topographical maps 3.Preliminary setting of the tunnel on the topographical Survey of Pakistan maps 4.Driving lines between the fixed obligatory points The correct sequence of the activities is:"
     options:
       - 3, 2, 4, 1
       - 1, 2, 3, 4
       - 4, 3, 1, 2
       - 2, 4, 3, 1
     answer: 0
-    explanation: "3, 2, 4, 1 is the correct answer to “For initial surveys of tunnels, the following activities are involved: 1.Marking portal point with concrete pillars on the ground 2.Marking tunnel obligatory points on the topographical maps 3.Preliminary setting of the tunnel on the topographical Survey of India maps 4.Driving lines between the fixed obligatory points The correct sequence of the activities is:”. This question is standard in competitive examination syllabi for Tunnel Engineering."
+    explanation: "3, 2, 4, 1 is the correct answer to “For initial surveys of tunnels, the following activities are involved: 1.Marking portal point with concrete pillars on the ground 2.Marking tunnel obligatory points on the topographical maps 3.Preliminary setting of the tunnel on the topographical Survey of Pakistan maps 4.Driving lines between the fixed obligatory points The correct sequence of the activities is:”. This question is standard in competitive examination syllabi for Tunnel Engineering."
     keyConcept: Tunnel Engineering
     testedIn:
       - PPSC SDO

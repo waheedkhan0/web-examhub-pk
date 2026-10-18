@@ -78,19 +78,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 6
-    question: International Driving Licence (IDL)/International Driving Permit (IDP) in India can be issued to?
-    options:
-      - Only NRI
-      - Only foreigner
-      - Only Indian
-      - All of the above
-    answer: 2
-    explanation: Only Indian is the correct answer to “International Driving Licence (IDL)/International Driving Permit (IDP) in India can be issued to”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 7
     question: The bio-diesel is also called as
     options:
@@ -165,19 +152,6 @@ questions:
       - All are correct
     answer: 3
     explanation: All are correct is the correct answer to “Which of the following is the cause of the trouble 'Not going into overdrive'”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 13
-    question: Which of the following company is not engaged in the manufacture of tyres in India?
-    options:
-      - J. K.
-      - M. R. F.
-      - L & T
-      - Modi
-    answer: 2
-    explanation: L & T is the correct answer to “Which of the following company is not engaged in the manufacture of tyres in India”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
     keyConcept: Miscellaneous In Automobile
     testedIn:
       - PPSC
@@ -532,5 +506,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

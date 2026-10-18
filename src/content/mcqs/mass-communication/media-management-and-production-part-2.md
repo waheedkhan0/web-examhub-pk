@@ -378,19 +378,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 29
-    question: Deccan Herald is a regional newspaper published from
-    options:
-      - Mumbai
-      - Kerala
-      - Hyderabad
-      - Bengaluru
-    answer: 3
-    explanation: Bengaluru is the correct answer to “Deccan Herald is a regional newspaper published from”. This question is standard in competitive examination syllabi for Media Management And Production.
-    keyConcept: Media Management And Production
-    testedIn:
-      - CSS
-      - PMS
   - id: 30
     question: The placement of graphics and text on a graphic design is known as . . . . . . . .
     options:
@@ -469,19 +456,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 36
-    question: Prior to liberalisation, millions of Indian viewers stayed glued to their TV sets to watch which of the following programme?
-    options:
-      - Hum Log
-      - Ramayan
-      - Mahabharat
-      - All of these
-    answer: 3
-    explanation: All of these is the correct answer to “Prior to liberalisation, millions of Indian viewers stayed glued to their TV sets to watch which of the following programme”. This question is standard in competitive examination syllabi for Media Management And Production.
-    keyConcept: Media Management And Production
-    testedIn:
-      - CSS
-      - PMS
   - id: 37
     question: What kind of content should you avoid posting on social media campaigns?
     options:
@@ -535,5 +509,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

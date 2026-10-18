@@ -260,16 +260,6 @@ questions:
     answer: 2
     explanation: Jakarta is the correct answer to “The world fastest sinking city”. Items of this type are drawn from the General Knowledge — Mixed Practice — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: General Knowledge — Mixed Practice
-  - id: 26
-    question: Dalal Street is located in India famous for __________?
-    options:
-      - Bombay stock Exchange
-      - Sports festival
-      - Agra Taj mahal
-      - Delhi Food Street
-    answer: 0
-    explanation: Dalal Street is located in India famous for Bombay stock Exchange .
-    keyConcept: General Knowledge — Mixed Practice
   - id: 27
     question: Himawari-8 is a satellite of __________?
     options:

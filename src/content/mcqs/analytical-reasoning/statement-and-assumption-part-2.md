@@ -31,7 +31,7 @@ questions:
       - NTS
       - CSS
   - id: 2
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Safety and health practices in many Indian companies are well below the international standards. Assumptions : I. International standards of health and safety are ideal and unrealistic. II. Indian organizations do not consider safety and health management as their prime social responsibility."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Safety and health practices in many Pakistani companies are well below the international standards. Assumptions : I. International standards of health and safety are ideal and unrealistic. II. Pakistani organizations do not consider safety and health management as their prime social responsibility."
     options:
       - Only assumption I is implicit
       - Only assumption II is implicit
@@ -39,7 +39,7 @@ questions:
       - Neither I nor II is implicit
       - Both I and II are implicit
     answer: 1
-    explanation: The statement talks about the safety and health practices in Indian companies being far below international standards. It is clearly a criticism of Indian organizations not paying considerable attention to these aspects. So, II is implicit. The international standards demand perfection and are, in no way, non-achievable. So, I is not implicit.
+    explanation: The statement talks about the safety and health practices in Pakistani companies being far below international standards. It is clearly a criticism of Pakistani organizations not paying considerable attention to these aspects. So, II is implicit. The international standards demand perfection and are, in no way, non-achievable. So, I is not implicit.
     keyConcept: Statement And Assumption
     testedIn:
       - NTS
@@ -255,7 +255,7 @@ questions:
       - NTS
       - CSS
   - id: 18
-    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Kartik left for Delhi on Tuesday by train to attend a function to be held on Friday at his uncle's house in Delhi. Assumptions : I. Kartik may reach Delhi on Wednesday. II. Kartik may reach Delhi before Friday."
+    question: "Directions : In each of the following questions a statement is given, followed by two conclusions. Give answer : Statement : Kartik left for Lahore on Tuesday by train to attend a function to be held on Friday at his uncle's house in Lahore. Assumptions : I. Kartik may reach Lahore on Wednesday. II. Kartik may reach Lahore before Friday."
     options:
       - Only assumption I is implicit
       - Only assumption II is implicit
@@ -263,7 +263,7 @@ questions:
       - Neither I nor II is implicit
       - Both I and II are implicit
     answer: 1
-    explanation: Clearly, it cannot be deduced as to which day Kartik would reach Delhi. But Kartik has left for Delhi to attend a function to be held on Friday. So, he must have planned his journey to reach Delhi before Friday. Thus, only II is implicit.
+    explanation: Clearly, it cannot be deduced as to which day Kartik would reach Lahore. But Kartik has left for Lahore to attend a function to be held on Friday. So, he must have planned his journey to reach Lahore before Friday. Thus, only II is implicit.
     keyConcept: Statement And Assumption
     testedIn:
       - NTS

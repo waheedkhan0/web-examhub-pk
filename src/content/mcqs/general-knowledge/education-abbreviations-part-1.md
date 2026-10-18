@@ -41,19 +41,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 3
-    question: What is the full form of "DEC"?
-    options:
-      - Distance Education Council
-      - Direct Education Council
-      - Certificate in Library Science
-      - Diplomo in Electronics Communication
-    answer: 0
-    explanation: According to the Indira Gandhi National Open University Act, 1985 (IGNOU Act 1985), the Distance Education Council (DEC) was established in 1991 to be responsible for the promotion and coordination of the Open University and Distance Education system and for the maintenance of its standards.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 4
     question: What is the full form of "CSXQ"?
     options:
@@ -171,19 +158,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 13
-    question: What is the full form of "CSIR"?
-    options:
-      - Council of System Information Resources
-      - Council of Scientific and Industrial Research
-      - Committee for Science and Information Research
-      - Certificate in Science and Research
-    answer: 1
-    explanation: Council of Scientific & Industrial Research (CSIR), India, a premier national R&D organisation, is among the world's largest publicly funded R&D organisation. CSIR's pioneering sustained contribution to S&T human resource development is acclaimed nationally. Human Resource Development Group (HRDG), a division of CSIR realises this objective through various grants, fellowship schemes etc.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 14
     question: What is the full form of "CDDC"?
     options:
@@ -275,19 +249,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 21
-    question: What is the full form of "ICSSR"?
-    options:
-      - Indian Chemistry School for Scientic Researches
-      - Indian Council for Secondary School Ranking
-      - Indian Committee of Social Science Research
-      - Indian Council of Social Science Research
-    answer: 3
-    explanation: Indian Council of Social Science Research (ICSSR) was established in the year of 1969 by the Government of India to promote research in social sciences in the country. ICSSR provide grants for projects, fellowships, international collaboration, capacity building, survey, publications etc. to promote research in social sciences in India.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 22
     question: What is the full form of "KWL"?
     options:
@@ -353,71 +314,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 27
-    question: What is the full form of "NCTE"?
-    options:
-      - National Council for Teachers Education
-      - National Committee for Teacher Education
-      - National Conference for Technical Employment
-      - National Commission for Tamil Education
-    answer: 0
-    explanation: National Council for Teacher Education (NCTE) is a statutory body of Indian government set up under the National Council for Teacher Education Act, 1993 in 1995 is to formally oversee standards, procedures and processes in the Indian education system. This council functions for the central as well as state governments on all matter with regard to the Teacher Education and its secretariat is located in the Department of Teacher Education and National Council of Educational Research and Training (NCERT).
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 28
-    question: What is the full form of "NISCAIR"?
-    options:
-      - National Information Social Change Academic Information Research
-      - Nation Integration for Scientific Council and Information Resources
-      - National Institute for Science Communication and Information Resources
-      - National Institute for Space Communication and Influencing Regulation
-    answer: 2
-    explanation: National Institute for Science Communication and Information Resources (NISCAIR), located at New Delhi, India, was an information science institute in India founded in 2002. In 2021, the institute was merged with National Institute of Science, Technology and Development Studies to form National Institute of Science Communication and Policy Research. It operated under the umbrella of the Council of Scientific and Industrial Research (CSIR) that comprise 38 other labs and institutes in India. The institute published several academic journals and magazines.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 29
-    question: What is the full form of "NASSDOC"?
-    options:
-      - National School Secondary Documentation Center
-      - National Science Scientist Development Council
-      - National Sociology Documentation Center
-      - National Social Science Documentation Center
-    answer: 3
-    explanation: National Social Science Documentation Centre (NASSDOC), was established in 1970 as a Division of the ICSSR with the objective to provide library and information support services to researchers in social sciences; those working in academic institutions, autonomous research organisations, policy making, planning and research units of government departments, business and industry etc.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 30
-    question: What is the full form of "RRLF"?
-    options:
-      - Raja Rammohun Roy Literature Foundation
-      - Raja Rammohun Roy Library Foundation
-      - Raja Rajan Library Foundation
-      - Raja Roy Liberal Foundation
-    answer: 1
-    explanation: Raja Rammohun Roy Library Foundation (RRRLF) is a central autonomous organization established and fully financed by the Ministry of Culture, Government of India. RRRLF is registered under the West Bengal Societies Registration Act, 1961. It is the nodal agency of the Government of India to support public library services and systems and promote public library movement in the country commensurate with the objectives as embodied in its Memorandum of Association.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 31
-    question: What is the full form of "AICTE"?
-    options:
-      - All India Council for Teaching Education
-      - All India Council for Technical Education
-      - All India Control for Technical Education
-      - Academic Institute for Technical Education
-    answer: 1
-    explanation: The All India Council for Technical Education (AICTE) is a statutory body, and a national-level council for technical education, under the Department of Higher Education. Established in November 1945 first as an advisory body and later on in 1987 given statutory status by an Act of Parliament, AICTE is responsible for proper planning and coordinated development of the technical education and management education system in India.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 32
     question: What is the full form of "AERA"?
     options:
@@ -457,19 +353,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 35
-    question: What is the full form of "BCI"?
-    options:
-      - Bar Council of India
-      - Board Council of India
-      - Board of Chemical Institute
-      - Basic Course Institute
-    answer: 0
-    explanation: The Bar Council of India is a statutory body established under the section 4 of Advocates Act 1961 that regulates the legal practice and legal education in India. Its members are elected from amongst the lawyers in India and as such represents the Indian bar. It prescribes standards of professional conduct, etiquettes and exercises disciplinary jurisdiction over the bar.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 36
     question: What is the full form of "CLISc"?
     options:
@@ -505,19 +388,6 @@ questions:
       - Department of Linguistics Stanford
     answer: 1
     explanation: The Department of Library and Information Science (DLIS) was one of the first six departments which started its functioning from 1985-86 academic session with one year BLISc course and the MLISc course was started from the session 1986-87. The initiative might have been based on the foresight about the predicted huge demand of information professionals which is now a reality. Our students are devoted to help people to manage information overload, connect people with the information resources and information technology that they need in order to achieve their goals, whether those goals are personal, community, corporate, government, or global.
-    keyConcept: Education Abbreviations
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 39
-    question: What is the full form of "DRTC"?
-    options:
-      - Direct Recruitment of Teaching Council
-      - Documentation Research and Training Center
-      - Dynamic Research and Technology Center
-      - Degree of Reading Test Council
-    answer: 1
-    explanation: The Documentation Research and Training Centre (DRTC), established in 1962 by Prof. S. R. Ranganathan is an internationally recognized centre for advanced training and research in Library and Information Science. DRTC is a unit under the Indian Statistical Institute, Bangalore Centre.
     keyConcept: Education Abbreviations
     testedIn:
       - PPSC

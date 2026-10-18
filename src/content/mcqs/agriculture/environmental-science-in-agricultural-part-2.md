@@ -313,19 +313,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 24
-    question: In recent years, there has been an increasing incidence of floods in Northern India because
-    options:
-      - There has been as increase in annual rainfall
-      - The rate of silting of dams has gone up
-      - There has been increased deforestation in the catchment areas
-      - Increased areas of land is being self cultivated
-    answer: 2
-    explanation: In recent years, there has been an increasing incidence of floods in Northern India because there has been increased deforestation in the catchment areas. Deforestation or forest clearance is the removal of a forest or stand of trees from land that is then converted to non-forest use. Deforestation causes increases in temperatures and changes in the amount and distribution of rainfall generally creating a drier climate. These impacts can affect soil moisture, reducing yields in some areas and increasing flooding in others.
-    keyConcept: Environmental Science In Agricultural
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 25
     question: Silent valley (Kerala) is preserved because
     options:
@@ -508,19 +495,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 39
-    question: Increased incidence of floods in the plains of North India are due to
-    options:
-      - Increased deforestation in catchment areas
-      - Increase in incidence of rainfall
-      - Silting of dams
-      - More area under cultivation
-    answer: 0
-    explanation: Increased incidences of floods in the plains of North India are due to increased deforestation in catchment areas. Deforestation or forest clearance is the removal of a forest or stand of trees from land that is then converted to a non-forest use. Deforestation causes increases in temperatures and changes in the amount and distribution of rainfall generally creating a drier climate. These impacts can affect soil moisture, reducing yields in some areas and increasing flooding in others.
-    keyConcept: Environmental Science In Agricultural
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 40
     question: Acid rain is a rainfall having pH of
     options:
@@ -535,5 +509,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

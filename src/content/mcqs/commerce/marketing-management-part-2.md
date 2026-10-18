@@ -15,19 +15,6 @@ targetExams:
   - PMS
   - CSS
 questions:
-  - id: 1
-    question: Dispute Redressal Mechanism is . . . . . . . . tier in Consumer Protection Act
-    options:
-      - One
-      - Two
-      - Three
-      - Four
-    answer: 2
-    explanation: Three is the correct answer to “Dispute Redressal Mechanism is . . . . . . . . tier in Consumer Protection Act”. This question is standard in competitive examination syllabi for Marketing Management.
-    keyConcept: Marketing Management
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 2
     question: Which element of the promotion mix do whole-salers generally apply to obtain their promotional objective?
     options:
@@ -102,19 +89,6 @@ questions:
       - Discount pricing
     answer: 1
     explanation: Market-penetration pricing is the correct answer to “When Pepsi came out with Pepsi Blue and priced it at half price to attract buyers they were using, Pepsi was using . . . . . . . .”. This question is standard in competitive examination syllabi for Marketing Management.
-    keyConcept: Marketing Management
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 8
-    question: Which of the legislations listed below do not form part of the marketing environment of India?
-    options:
-      - The Drugs and Cosmetics Act, 1940
-      - The Prevention of Food and Adulteration Act, 1954
-      - The Monopolies and Restrictive Trade Practices Act, 1969
-      - Both B and C
-    answer: 3
-    explanation: Both B and C is the correct answer to “Which of the legislations listed below do not form part of the marketing environment of India”. This question is standard in competitive examination syllabi for Marketing Management.
     keyConcept: Marketing Management
     testedIn:
       - FPSC Senior Auditor

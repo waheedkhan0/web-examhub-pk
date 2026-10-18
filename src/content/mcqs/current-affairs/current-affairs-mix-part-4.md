@@ -25,16 +25,6 @@ questions:
     answer: 3
     explanation: PIA is the correct answer to “Which airline becomes first international airline to operate direct flights to Fujairah”. Items of this type are drawn from the Current Affairs — Mixed Practice — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Current Affairs — Mixed Practice
-  - id: 2
-    question: What is the rank of India in “TRACE Global Bribery Risk ranking 2021”?
-    options:
-      - "82"
-      - "150"
-      - 1st
-      - 2nd
-    answer: 0
-    explanation: 82 is the correct answer to “What is the rank of India in “TRACE Global Bribery Risk ranking 2021””. Items of this type are drawn from the Current Affairs — Mixed Practice — Part 4 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Current Affairs — Mixed Practice
   - id: 3
     question: 552nd Birth Anniversary of Baba Guru Nanak Jayanti was on_________?
     options:

@@ -366,19 +366,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 28
-    question: Consider the following statements. 1. Fibre optics is based on the principle of total internal reflection. 2. In an optical fibre communication system, power consumption is extremely low 3. Optical fibre communications are free from radio frequency interference. 4. In India, Reliance Group of Industries is engaged in the manufacture of the optical fibre. Which of these statements are correct?
-    options:
-      - Only 1, 2 and 3
-      - Only 1, 2 and 4
-      - Only 1, 3 and 4
-      - Only 2, 3 and 4
-    answer: 0
-    explanation: Only 1, 2 and 3 is the correct answer to “Consider the following statements. 1. Fibre optics is based on the principle of total internal reflection. 2. In an optical fibre communication system, power consumption is extremely low 3. Optical fibre communications are free from radio frequency interference. 4. In India, Reliance Group of Industries is engaged in the manufacture of the optical fibre. Which of these statements are correct”. This question is standard in competitive examination syllabi for Light.
-    keyConcept: Light
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 29
     question: If the lens power of glass is +2 dioptre, its focal length will be
     options:
@@ -536,5 +523,4 @@ questions:
       - MDCAT
       - CSS
 ---
-
 

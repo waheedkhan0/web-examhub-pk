@@ -417,19 +417,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 32
-    question: The Indian Press ordinance was passed in
-    options:
-      - "1930"
-      - "1031"
-      - "1910"
-      - "1932"
-    answer: 0
-    explanation: 1930 is the correct answer to “The Indian Press ordinance was passed in”. This question is standard in competitive examination syllabi for Advertising And Marketing Communication.
-    keyConcept: Advertising And Marketing Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 33
     question: The definition of marketing includes all except one of the following
     options:
@@ -508,19 +495,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 39
-    question: What is the idea of making the Maharaja an Arab or a Britisher in the advertisements of Air India?
-    options:
-      - The airline management wants do attract the attention of customers through funny sketches
-      - The airline management wants the airline to identify with each and every country to which, its aircrafts are flown
-      - The ariline must keep the Maharaja in live spirits and that is why, such types of advertisements are issued
-      - None of these
-    answer: 1
-    explanation: The airline management wants the airline to identify with each and every country to which, its aircrafts are flown is the correct answer to “What is the idea of making the Maharaja an Arab or a Britisher in the advertisements of Air India”. This question is standard in competitive examination syllabi for Advertising And Marketing Communication.
-    keyConcept: Advertising And Marketing Communication
-    testedIn:
-      - CSS
-      - PMS
   - id: 40
     question: The word 'Stringer' is used for
     options:
@@ -535,5 +509,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

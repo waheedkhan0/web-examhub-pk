@@ -14,32 +14,6 @@ targetExams:
   - KPPSC
   - CSS
 questions:
-  - id: 1
-    question: Malaria was first identified in
-    options:
-      - Kolkata
-      - Hyderabad
-      - New Delhi
-      - Mumbai
-    answer: 1
-    explanation: Malaria was first identified in Hyderabad. Sir Ronald Ross Institute of Parasitology is a malaria research institute located in Begumpet, Secunderabad, Hyderabad, India. Established in 1955, the institute is a division of Osmania University. Sir Ronald Ross was posted as a general duty medical officer to the regiment stationed in Secunderabad in 1893. His study confirmed that mosquitoes were the carriers of malaria parasites. For his work in demonstrating the life cycle of the parasites of malaria in mosquitoes, and thus establishing the hypothesis of Laveran and Manson, Ross was awarded the Nobel Prize in 1902.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 2
-    question: Which one of the following is a carbamate pesticide?
-    options:
-      - Aldicarb
-      - Heptachlor
-      - Malathion
-      - None of these
-    answer: 0
-    explanation: Aldicarb is a carbamate pesticide. Aldicarb is a carbamate insecticide which is the active substance in the pesticide Temik. It is effective against thrips, aphids, spider mites, lygus, fleahoppers, and leafminers, but is primarily used as a nematicide. Aldicarb is a cholinesterase inhibitor that prevents the breakdown of acetylcholine in the synapse.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 3
     question: Which of the following pairs is not correctly matched in the term of Insect and Sex Pheromone?
     options:
@@ -62,19 +36,6 @@ questions:
       - Mustard
     answer: 1
     explanation: Callosobruchus chinensis is a storage pest of Gram. Callosobruchus chinensis is a common species of beetle found in the bean weevil subfamily, and is known to be a pest to many stored legumes. It is commonly known as the adzuki bean weevil it is not a true weevil, belonging instead to the leaf beetle family, Chrysomelidae. Some of their common host plants include green gram, lentil, cowpea, pigeon pea, chickpea and other pea species though they are known to live on many more legume hosts.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 5
-    question: Which of the following pair is not correct in the term of Silk worm and Species?
-    options:
-      - Tasar silk worm ⇔ Antheraea mylitta
-      - Munga silk worm ⇔ Antheraea assame
-      - Eri silk worm ⇔ Sanja cynthia ricini
-      - Mulberry silk worm ⇔ Antheraea spp
-    answer: 3
-    explanation: A. Tasar silk worm ⇔ Antheraea mylitta Antheraea paphia, known as the South India small tussore, the tasar silkworm and vanya silkworm is a species of moth of the family Saturniidae found in India and Sri Lanka. The bulk of the literature on this species uses a junior synonym, Antheraea mylitta. B. Munga silk worm ⇔ Antheraea assame Antheraea assamensis, known as the muga silkworm as a larva and Assam silk moth as an adult, is a moth of the family Saturniidae. The species was first described by Johann Wilhelm Helfer in 1837. C. Eri silk worm ⇔ Sanja cynthia ricini Samia cynthia , the ailanthus silkmoth, is a saturniid moth, used to produce silk fabric but is not as domesticated as the silkworm. The eri silk worm is the only completely domesticated silkworm other than Bombyx mori . The silk is extremely durable, but cannot be easily reeled off the cocoon and is thus spun like cotton or wool. D. Mulberry silkworm ⇔ Antheraea spp is not correctly matched. Antheraea paphia , known as the South India small tussore, the tasar silkworm and vanya silkworm not mulberry silkworm.
     keyConcept: Agricultural Entomology
     testedIn:
       - PPSC Agriculture Officer
@@ -140,19 +101,6 @@ questions:
       - None of these
     answer: 0
     explanation: Pest which occurs regularly and in serious manner is known as Epidemic. An epidemic is the rapid spread of disease to a large number of hosts in a given population within a short period. By the early 17 th century, the terms endemic and epidemic referred to contrasting conditions of population-level disease, with the endemic condition at low rates of occurrence and the epidemic condition widespread.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 11
-    question: The insect family whose larvae are called 'Flat headed borers' is
-    options:
-      - Cassididae
-      - Cerambycidae
-      - Buprestidae
-      - Tenebrionidae
-    answer: 2
-    explanation: The insect family whose larvae are called 'Flat headed borers' is Buprestidae. Buprestidae is a family of beetles known as jewel beetles or metallic wood-boring beetles because of their glossy iridescent colors. Larvae of this family are known as flatheaded borers. The elytra of some Buprestidae species have been traditionally used in beetlewing jewellery and decoration in certain countries in Asia, like India, Thailand and Japan.
     keyConcept: Agricultural Entomology
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +483,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

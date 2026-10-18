@@ -189,15 +189,6 @@ questions:
     answer: 1
     explanation: 1948 is the correct answer to “When did Pakistan first time participate in Davis Cup”. Items of this type are drawn from the Inventions & Discoveries — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Inventions & Discoveries
-  - id: 19
-    question: Who was the first Indian Chief of Army Staff of the Indian Army?
-    options:
-      - Gen. Maharaja Rajendra Singhji
-      - Vice-Admiral R.D. Katari
-      - Gen. K.M. Cariappa
-    answer: 0
-    explanation: Gen. Maharaja Rajendra Singhji is the correct answer to “Who was the first Indian Chief of Army Staff of the Indian Army”. Items of this type are drawn from the Inventions & Discoveries — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Inventions & Discoveries
   - id: 20
     question: Who was first Deputy Secretary General of UN?
     options:

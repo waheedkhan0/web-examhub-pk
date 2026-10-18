@@ -27,19 +27,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 2
-    question: The Gandhian principle of trusteeship wants to
-    options:
-      - Limit the accumulation of private property
-      - Welfare of the working class
-      - Reduce income and wealth inequalities
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “The Gandhian principle of trusteeship wants to”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
-    keyConcept: Economic And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 3
     question: Match the following in the term of Types of E-Commerce Model and Definitions. List I (E-Commerce Model) List II (Definitions) a. B2C 1. When a business sells a goods or service to another business. b. B2B 2. When a business sells goods to an individual consumer directly. c. C2C 3. When a consumer sells their own products or services to organisation or business. d. C2B 4. When a consumer sells goods or services to another consumer.
     options:
@@ -196,19 +183,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 15
-    question: "The most important factor which has led to political awakening in the Indian villages is:"
-    options:
-      - Too much interest of social reformers
-      - Spread of education in the villages
-      - Panchayati raj system
-      - Desire of the people to become political minded
-    answer: 2
-    explanation: Panchayati raj system is the correct answer to “The most important factor which has led to political awakening in the Indian villages is:”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
-    keyConcept: Economic And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 16
     question: Which among the following sociologists have connected identity to consumption?
     options:
@@ -244,19 +218,6 @@ questions:
       - Chile
     answer: 3
     explanation: Chile is the correct answer to “In which of the following countries more population is living in the urban areas but their way of life is rural”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
-    keyConcept: Economic And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: "In India in an urban setting:"
-    options:
-      - Main occupation of the people is agriculture
-      - The people prefer trading over agriculture
-      - The men break with their past completely
-      - The people prefer to have joint family system
-    answer: 0
-    explanation: Main occupation of the people is agriculture is the correct answer to “In India in an urban setting:”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
     keyConcept: Economic And Society In Sociology
     testedIn:
       - CSS
@@ -339,19 +300,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 26
-    question: Which one of the following is not true of the marriage system in villages of India?
-    options:
-      - Old family status is given great weightage
-      - Child marriage is on the increase
-      - Expenditure on marriage is on the decrease
-      - Education of the couple is being given due weightage
-    answer: 1
-    explanation: Child marriage is on the increase is the correct answer to “Which one of the following is not true of the marriage system in villages of India”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
-    keyConcept: Economic And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 27
     question: Laissez-faire is related with
     options:
@@ -400,19 +348,6 @@ questions:
       - Rapid improvement in technology
     answer: 3
     explanation: Rapid improvement in technology is the correct answer to “Which among the following is one major factor that has stimulated the globalisation process”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
-    keyConcept: Economic And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: Who among the following consists of a community?
-    options:
-      - The people of Indian origin
-      - The Indian society
-      - Trade union movement
-      - The Bengali Brahmins in Allahabad
-    answer: 3
-    explanation: The Bengali Brahmins in Allahabad is the correct answer to “Who among the following consists of a community”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
     keyConcept: Economic And Society In Sociology
     testedIn:
       - CSS
@@ -491,19 +426,6 @@ questions:
       - None of the above
     answer: 3
     explanation: None of the above is the correct answer to “. . . . . . . . is an exchange transaction that involves direct movement of goods or services between parties.”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
-    keyConcept: Economic And Society In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: Which one of the following is not true of village community in India?
-    options:
-      - The people are conservative
-      - The villagers are custom ridden
-      - The people are illiterate
-      - The villagers have come out of the clutches of money lenders
-    answer: 3
-    explanation: The villagers have come out of the clutches of money lenders is the correct answer to “Which one of the following is not true of village community in India”. This question is standard in competitive examination syllabi for Economic And Society In Sociology.
     keyConcept: Economic And Society In Sociology
     testedIn:
       - CSS

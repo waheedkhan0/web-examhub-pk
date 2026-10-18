@@ -196,19 +196,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 15
-    question: Where is the Film and Television Institute of India situated?
-    options:
-      - Mumbai
-      - Delhi
-      - Chennai
-      - Pune
-    answer: 3
-    explanation: Pune is the correct answer to “Where is the Film and Television Institute of India situated”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
   - id: 16
     question: The presence of an editor for editing in electronic media comes in . . . . . . . .
     options:
@@ -244,19 +231,6 @@ questions:
       - internet
     answer: 0
     explanation: web is the correct answer to “The journalism that involves internet, comes under the category of . . . . . . . . journalism.”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
-  - id: 19
-    question: The films division is the re-established form of which British organisation?
-    options:
-      - Indian Broadcasting Company
-      - Publications Division
-      - Information Films of India
-      - Film Finance Corporation
-    answer: 2
-    explanation: Information Films of India is the correct answer to “The films division is the re-established form of which British organisation”. This question is standard in competitive examination syllabi for Journalism And News Writing.
     keyConcept: Journalism And News Writing
     testedIn:
       - CSS
@@ -348,19 +322,6 @@ questions:
       - A is false, but R is true
     answer: 3
     explanation: A is false, but R is true is the correct answer to “Assertion (A) Letters to the editor are spontaneous response to newspaper contents. Reason (R) These letters reflect public opinion and can also be an organised persuasive device.”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
-  - id: 27
-    question: According to Article 361 A of Indian Constitution
-    options:
-      - all the citizens have the right to freedom of speech and expression
-      - no person shall be liable to any proceedings, civil or criminal, in any court, in respect of the publication in a newspaper of a substantially true report of any proceeding of either House of the legislature of a state, unless the publication is proved to have been made with malice
-      - a person desirous of obtaining information shall make a request in writing or through electronic means, to the concerned Public Information Officer, specifying the particulars of the information sought by him
-      - none of these
-    answer: 1
-    explanation: no person shall be liable to any proceedings, civil or criminal, in any court, in respect of the publication in a newspaper of a substantially true report of any proceeding of either House of the legislature of a state, unless the publication is proved to have been made with malice is the correct answer to “According to Article 361 A of Indian Constitution”. This question is standard in competitive examination syllabi for Journalism And News Writing.
     keyConcept: Journalism And News Writing
     testedIn:
       - CSS
@@ -508,32 +469,5 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 39
-    question: Mahatma Gandhi was the editor of
-    options:
-      - Indian opinion
-      - Young India
-      - Harijan
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Mahatma Gandhi was the editor of”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
-  - id: 40
-    question: Which was the first Indian-owned English newspaper?
-    options:
-      - Reformer
-      - Bombay Herald
-      - Bengal Herald
-      - Bengal Gazette
-    answer: 3
-    explanation: Bengal Gazette is the correct answer to “Which was the first Indian-owned English newspaper”. This question is standard in competitive examination syllabi for Journalism And News Writing.
-    keyConcept: Journalism And News Writing
-    testedIn:
-      - CSS
-      - PMS
 ---
-
 

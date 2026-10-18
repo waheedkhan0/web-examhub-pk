@@ -702,14 +702,14 @@ questions:
       - PPSC
       - FPSC
   - id: 63
-    question: Kites . . . . . . by Children, adult, girls and boys in India.
+    question: Kites . . . . . . by Children, adult, girls and boys in Pakistan.
     options:
       - are fly
       - flew
       - are flown
       - flying
     answer: 2
-    explanation: "Sentence is in present tense with passive voice. Rule : Subject + is/am/are + V 3 + other agents. Kites are flown by Children, adult, girls and boys in India."
+    explanation: "Sentence is in present tense with passive voice. Rule : Subject + is/am/are + V 3 + other agents. Kites are flown by Children, adult, girls and boys in Pakistan."
     keyConcept: Grammar
     testedIn:
       - PPSC
@@ -858,14 +858,14 @@ questions:
       - PPSC
       - FPSC
   - id: 75
-    question: Mr. John . . . . . in India since his wife died.
+    question: Mr. John . . . . . in Pakistan since his wife died.
     options:
       - settled
       - has been settled
       - has settled
       - has been settling
     answer: 2
-    explanation: "Sentence is in present perfect tense with active voice. Rule : Subject + has/have + V 3 + other agents. Mr. John has settled in India since his wife died."
+    explanation: "Sentence is in present perfect tense with active voice. Rule : Subject + has/have + V 3 + other agents. Mr. John has settled in Pakistan since his wife died."
     keyConcept: Grammar
     testedIn:
       - PPSC

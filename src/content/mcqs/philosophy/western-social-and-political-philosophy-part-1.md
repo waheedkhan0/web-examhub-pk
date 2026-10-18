@@ -259,19 +259,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 20
-    question: . . . . . . . . was first feminist who opposed Sati Pratha of women.
-    options:
-      - Raja Rarnmohan Roy
-      - Ambedkar
-      - Bhattacharya
-      - Tagore
-    answer: 0
-    explanation: Raja Rarnmohan Roy is the correct answer to “. . . . . . . . was first feminist who opposed Sati Pratha of women.”. This question is standard in competitive examination syllabi for Western Social And Political Philosophy.
-    keyConcept: Western Social And Political Philosophy
-    testedIn:
-      - CSS
-      - PMS
   - id: 21
     question: What does social and political philosophy generally deal with?
     options:

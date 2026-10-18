@@ -242,19 +242,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 18
-    question: . . . . . . . . is a mechanism used by the Government of India to contact citizens across India electronically via emails. Outbound dialing and SMS messages.
-    options:
-      - E-Office
-      - E-Greetings
-      - E-MSIPS
-      - E-Sampark
-    answer: 3
-    explanation: E-Sampark is the correct answer to “. . . . . . . . is a mechanism used by the Government of India to contact citizens across India electronically via emails. Outbound dialing and SMS messages.”. This question is standard in competitive examination syllabi for Internet And Web Technology.
-    keyConcept: Internet And Web Technology
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 19
     question: The . . . . . . . . which contains specific parameters of the search is preceded by a question mark (?).
     options:
@@ -543,5 +530,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

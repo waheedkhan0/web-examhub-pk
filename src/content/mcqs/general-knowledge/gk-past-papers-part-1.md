@@ -280,20 +280,6 @@ questions:
       - PPSC
       - FPSC
       - PMS
-  - id: 20
-    question: Lunar mission Chandrayaan-3 of which country has landed on the Moon?
-    options:
-      - Russia
-      - China
-      - USA
-      - India
-    answer: 3
-    explanation: "Chandrayaan-3 is India's lunar mission. It was successfully landed on the Moon on 23 August 2023 . It was launched on 14 July 2023 It was launched from Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh. India became the first country to achieve a soft landing near the Moon's south pole . Space Agency: Indian Space Research Organisation (ISRO) Lander & Rover: Vikram (Lander) and Pragyan (Rover) \" Chandrayaan \" is a Sanskrit word meaning \" Mooncraft .\""
-    keyConcept: General Knowledge — Commission Past Papers
-    testedIn:
-      - PPSC
-      - FPSC
-      - PMS
   - id: 21
     question: Which is the hottest desert of the world?
     options:

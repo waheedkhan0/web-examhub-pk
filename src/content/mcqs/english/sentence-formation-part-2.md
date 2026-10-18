@@ -249,19 +249,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 19
-    question: 1. Western 2. India 3. Rajasthan 4. in 5. is
-    options:
-      - "14523"
-      - "35412"
-      - "35214"
-      - "35142"
-    answer: 1
-    explanation: "\"Rajasthan is in Western India.\""
-    keyConcept: Sentence Formation
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 20
     question: 1. in 2. is 3. Vikram 4. office 5. the
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

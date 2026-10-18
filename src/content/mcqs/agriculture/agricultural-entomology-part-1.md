@@ -53,32 +53,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 4
-    question: The Indian board of wild life was constituted in
-    options:
-      - "1953"
-      - "1954"
-      - "1952"
-      - "1960"
-    answer: 2
-    explanation: The Indian board of wildlife was constituted in 1952. The Government of India in 1952 constituted an advisory body designated as the Indian Board for Wildlife (IBWL). The Indian Board for Wildlife was chaired by the Prime Minister. The Wildlife (Protection) Act 1972 was enacted for providing special legal protection to wildlife.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 5
-    question: Pyridalyl is introduced to India in
-    options:
-      - "2004"
-      - "2005"
-      - "2007"
-      - "2009"
-    answer: 1
-    explanation: Pyridalyl is introduced to India in 2005. Pyridalyl is an organochlorine insecticide, an organofluorine insecticide, and a dichlorobenzene. It is a new insecticide intended for the control of lepidopterous larvae and thrips as part of Insect Resistance Management (IRM) and Integrated Pest Management (IPM) programs. It is registered for use in enclosed greenhouses only.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 6
     question: Following is the pesticide which is of plant origin
     options:
@@ -88,32 +62,6 @@ questions:
       - Allethrin
     answer: 2
     explanation: NSKE is a pesticide that is of plant origin. NSKE is a Neem seed kernel extract that is extracted from neem seeds, thus plant-based. Remove the outer seed coat and use only the kernel. If the seeds are fresh, 3 kg of the kernel is sufficient. If the seeds are old, 5 kg is required. Pound the kernel gently and tie it loosely with a cotton cloth. Soak this overnight in a vessel containing 10 litres of water. After this, it is filtered. On filtering, 6 - 7 litre of the extract can be obtained. 500 - 1000 ml of this extract should be diluted with $$9\frac{1}{2}$$ or 9 litres of water. Neem Kernel extracts (500 to 2000 ml) are required per tank (10 liters capacity). 3 - 5 kg of neem kernel is required for an acre.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 7
-    question: The state which rank first in raw silk production is
-    options:
-      - UP
-      - WB
-      - Bihar
-      - Karnataka
-    answer: 3
-    explanation: The state ranks first in raw silk production in Karnataka. The south Indian state of Karnataka is the leading raw silk producer, with over 8,483 metric tons of raw silk produced in the fiscal year 2021. The Ramanagara district in Karnataka is the largest market for silk cocoons in Asia. Karnataka produces 9,000 metric tons of mulberry silk of a total of 20,000 metric tons of mulberry silk produced in the country, thus contributing to nearly 45% of the country's total mulberry silk.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 8
-    question: National research centre of integrated pest management is situated at
-    options:
-      - UP
-      - Paschim Banga
-      - New Delhi
-      - Haryana
-    answer: 2
-    explanation: National research centre of integrated pest management is situated in New Delhi. National Research Centre for Integrated Pest Management (NCIPM) is a premier research institute of the Indian Council of Agriculture Research (ICAR). The institute was established on 12 th February 1988, to develop and promote Integrated Pest Management (IPM) technologies for major crops with minimum ecological implications; generate a national database on all aspects of pest management, and advise national priorities and pest management policies.
     keyConcept: Agricultural Entomology
     testedIn:
       - PPSC Agriculture Officer
@@ -183,19 +131,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 14
-    question: Which of the following pair is not correct
-    options:
-      - Little bee - Apis florea
-      - Indian bee - Apis cerana indica
-      - Giant or rock bee - Apis dorsata
-      - Italian bee - Melipona irridipennis
-    answer: 3
-    explanation: A. Little bee - Apis florea Apis florea is unique for its morphology, foraging behavior and defensive mechanisms like making a piping noise. Apis florea has open nests and small colonies, which makes them more susceptible to predation than cavity nesters with large numbers of defensive workers. B. Indian bee - Apis cerana indica Apis cerana indica, the Indian honey bee, is a subspecies of Asiatic honey bee. They usually build multiple combed nests in tree hollows and man-made structures. These bees can adapt to living in purpose-made hives and cavities. C. Giant or rock bee - Apis dorsata Giant honey bees are the largest of the honey bee species. The Giant honey bee (Apis dorsata) is very large (17 - 20 mm long) however its colour is quite similar to the European honey bee, with golden, black and pale bands on the abdomen and a hairy thorax. D. Italian bee - Melipona irridipennis is not correctly matched. Apis mellifera ligustica is the Italian bee. The Italian honey bee is endemic to the continental part of Italy, south of the Alps, and north of Sicily.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 15
     question: Total numbers of cephalic neuromeres are
     options:
@@ -231,19 +166,6 @@ questions:
       - Khapra beetle
     answer: 2
     explanation: Sexual trimorphism is seen in the Stag beetle. Trimorphism is the property exhibited by certain species of having or occurring in three different forms. Adult male stag beetles have characteristic antler-like mandibles and can grow up to a whopping 75 mm in length. Females have much smaller mandibles and grow between 30 - 50 mm. Both males and females have shiny black heads and thoraxes and brown chestnut-coloured wing cases.
-    keyConcept: Agricultural Entomology
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 18
-    question: In India the Bt cotton was released for commercial cultivation in year
-    options:
-      - "2000"
-      - "2002"
-      - "2004"
-      - None of these
-    answer: 1
-    explanation: In India Bt cotton was released for commercial cultivation in year 2002. In 2002, a joint venture between Monsanto and Mahyco introduced Bt cotton to India. India grew the largest GM cotton crop at 10.6 million hectares. India is the largest producer of cotton, and GM cotton, as of 2014.
     keyConcept: Agricultural Entomology
     testedIn:
       - PPSC Agriculture Officer
@@ -535,5 +457,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

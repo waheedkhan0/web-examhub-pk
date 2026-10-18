@@ -14,19 +14,6 @@ targetExams:
   - PPSC
   - FPSC
 questions:
-  - id: 1
-    question: In which newspaper did Gandhi Write "I have taken up journalism not for its sake, but merely as an aid to what I have conceived to be my mission in life".
-    options:
-      - Bangalee
-      - Bombay Chronicle
-      - Young India
-      - The Madras Standard
-    answer: 2
-    explanation: Young India is the correct answer to “In which newspaper did Gandhi Write "I have taken up journalism not for its sake, but merely as an aid to what I have conceived to be my mission in life".”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 2
     question: Which of the following is an example of investigative Journalism?
     options:
@@ -53,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 4
-    question: Why is there a need to promote development journalism in India?
-    options:
-      - India is a poor country; it ought to be developed at a quick pace and for that purpose, development journalists are needed
-      - India is a developing country; in order to hasten the pace of her development on the right track, development journalist are required to collect the news and disseminate the same in all parts of the country
-      - The new breed of development journalist has been created because of our new media policies. Like all other journalist, development journalist are also in vogue (in India)
-      - None of these
-    answer: 1
-    explanation: India is a developing country; in order to hasten the pace of her development on the right track, development journalist are required to collect the news and disseminate the same in all parts of the country is the correct answer to “Why is there a need to promote development journalism in India”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 5
     question: Seriff fonts are preferred in book publishing because
     options:
@@ -75,19 +49,6 @@ questions:
       - none of these
     answer: 1
     explanation: such fonts connect one letter to the next one and hence, it is easy to read the text at mgh speeds is the correct answer to “Seriff fonts are preferred in book publishing because”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 6
-    question: Where is the Head quarters of Akashvani's National Channel?
-    options:
-      - Jawaharlal Nehru Stadium, New Delhi
-      - lndraprashta Bhavan, New Delhi
-      - Parliament Street, New Delhi
-      - None of these
-    answer: 0
-    explanation: Jawaharlal Nehru Stadium, New Delhi is the correct answer to “Where is the Head quarters of Akashvani's National Channel”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
     keyConcept: Writing And Printing Technology
     testedIn:
       - CSS
@@ -118,19 +79,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 9
-    question: The Indian Penal Code (IPC) was adopted in which year?
-    options:
-      - "1859"
-      - "1860"
-      - "1862"
-      - "1865"
-    answer: 1
-    explanation: 1860 is the correct answer to “The Indian Penal Code (IPC) was adopted in which year”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 10
     question: Which of the following is an example of yellow journalism?
     options:
@@ -153,19 +101,6 @@ questions:
       - None of these
     answer: 2
     explanation: Exposing a printing plate to a high intensity light or placing an image on a printing plate by light is the correct answer to “What is Bum”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 12
-    question: "\"Bennet & Coleman\" publishes which newspaper?"
-    options:
-      - The Hindustan Times
-      - The Times of India
-      - The Tribune
-      - The Hindu
-    answer: 1
-    explanation: The Times of India is the correct answer to “"Bennet & Coleman" publishes which newspaper”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
     keyConcept: Writing And Printing Technology
     testedIn:
       - CSS
@@ -209,19 +144,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 16
-    question: The first experiment in local/community experiment with FM facility was conducted in
-    options:
-      - Mumbai
-      - Chennai
-      - Delhi
-      - Nagercoil
-    answer: 3
-    explanation: Nagercoil is the correct answer to “The first experiment in local/community experiment with FM facility was conducted in”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 17
     question: In the term CMYK, the term K refers to the following colours.
     options:
@@ -257,19 +179,6 @@ questions:
       - never folded
     answer: 2
     explanation: folded twice is the correct answer to “In a quarto book, the form is”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 20
-    question: Match the following list List-I List-II a. Indian Telegraph Act 1. 1933 b. Indian Wireless Act 2. 1957 c. Copyright Act 3. 1885
-    options:
-      - a-3, b-1, c-2
-      - a-2, b-1, c-3
-      - a-1, b-2, c-3
-      - a-1, b-3, c-2
-    answer: 0
-    explanation: a-3, b-1, c-2 is the correct answer to “Match the following list List-I List-II a. Indian Telegraph Act 1. 1933 b. Indian Wireless Act 2. 1957 c. Copyright Act 3. 1885”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
     keyConcept: Writing And Printing Technology
     testedIn:
       - CSS
@@ -339,19 +248,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 26
-    question: The ISBS turned into All India Radio (AIR) in
-    options:
-      - March 1936
-      - April 1936
-      - May 1936
-      - June 1936
-    answer: 3
-    explanation: June 1936 is the correct answer to “The ISBS turned into All India Radio (AIR) in”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
   - id: 27
     question: Who was the owner of The Hindu?
     options:
@@ -387,32 +283,6 @@ questions:
       - judicial institutions of the state
     answer: 3
     explanation: judicial institutions of the state is the correct answer to “If an investigative journo has to focus on society during the course of his assignment, his area of operation would certainly not include”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 30
-    question: Doordarshan was delinked from All India Radio in
-    options:
-      - March 1976
-      - April 1976
-      - May 1976
-      - June 1976
-    answer: 1
-    explanation: April 1976 is the correct answer to “Doordarshan was delinked from All India Radio in”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
-    keyConcept: Writing And Printing Technology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 31
-    question: The first Chairman of NANAP was
-    options:
-      - Pakistan
-      - Libya
-      - India
-      - Yugoslavia
-    answer: 2
-    explanation: India is the correct answer to “The first Chairman of NANAP was”. This question is standard in competitive examination syllabi for Writing And Printing Technology.
     keyConcept: Writing And Printing Technology
     testedIn:
       - CSS
@@ -535,5 +405,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

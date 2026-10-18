@@ -67,19 +67,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 5
-    question: The Flagship Project of Government of India launched for generating guaranteed employment in rural areas is known as
-    options:
-      - PMRY
-      - MNREGA
-      - JRY
-      - NREP
-    answer: 1
-    explanation: MNREGA is the correct answer to “The Flagship Project of Government of India launched for generating guaranteed employment in rural areas is known as”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 6
     question: Both foreign direct investment (FDI) and foreign portfolio investment (FPI) are related to investment in a country. Which of the following is incorrect regarding FDI and FPI?
     options:
@@ -132,19 +119,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 10
-    question: "Match the following in the term of Books and Authors : Books Authors a. India and Economic Reforms 1. Bhagwati. J. b. Development Planning: The Indian Experience 2. Chakravarty. S. c. India: Economic and Development and Social Opportunity 3. Drenz, J. Amartya Sen d. Fiscal Policy of Underdeveloped Countries 4. Chelliah, R. J."
-    options:
-      - a-1, b-2, c-3, d-4
-      - a-2, b-3, c-4, d-1
-      - a-3, b-4, c-2, d-1
-      - a-1, b-4, c-3, d-2
-    answer: 0
-    explanation: "a-1, b-2, c-3, d-4 is the correct answer to “Match the following in the term of Books and Authors : Books Authors a. India and Economic Reforms 1. Bhagwati. J. b. Development Planning: The Indian Experience 2. Chakravarty. S. c. India: Economic and Development and Social Opportunity 3. Drenz, J. Amartya Sen d. Fiscal Policy of Underdeveloped Countries 4. Chelliah, R. J.”. This question is standard in competitive examination syllabi for Business Environment And International Business."
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 11
     question: "The important objectives of WTO are 1. To improve the quality of technology in the member countries. 2. To improve the standard of living of people in the member countries. 3. To ensure full employment and broad increase in effective demand. 4. To enlarge production and trade of goods. 5. To increase trade of services. Select the correct answer:"
     options:
@@ -158,19 +132,6 @@ questions:
     testedIn:
       - FPSC Senior Auditor
       - PPSC
-  - id: 12
-    question: Which of the following is not the main objective of 'Fiscal Policy of India'?
-    options:
-      - To increase liquidity in economy
-      - To promote price stability
-      - To minimise the inequality in income and wealth
-      - To promote employment opportunities
-    answer: 0
-    explanation: To increase liquidity in economy is the correct answer to “Which of the following is not the main objective of 'Fiscal Policy of India'”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
   - id: 13
     question: Foreign investment can be made through which of the following routes? 1. Foreign Direct Investment (FDI) 2. Foreign Portfolio Investment (FPI) 3. Private Equity Investment (PEI) 4. Foreign Venture Capital Investors (FVCI) Choose the correct answer
     options:
@@ -180,19 +141,6 @@ questions:
       - All of the above
     answer: 0
     explanation: 1, 3 and 4 is the correct answer to “Foreign investment can be made through which of the following routes? 1. Foreign Direct Investment (FDI) 2. Foreign Portfolio Investment (FPI) 3. Private Equity Investment (PEI) 4. Foreign Venture Capital Investors (FVCI) Choose the correct answer”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 14
-    question: Which of the following are outside the scope of the Consumer Protection Act, 1986?
-    options:
-      - Newspaper industry
-      - Services provided under contract of personal service
-      - Banking industry
-      - Both A and B
-    answer: 1
-    explanation: Services provided under contract of personal service is the correct answer to “Which of the following are outside the scope of the Consumer Protection Act, 1986”. This question is standard in competitive examination syllabi for Business Environment And International Business.
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor
@@ -271,32 +219,6 @@ questions:
       - Expenditure in a country by overseas visitors
     answer: 0
     explanation: The inflow of capital investment by multinational companies is the correct answer to “The current account of the balance of payments includes all of the following items except which one”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 21
-    question: Which one among the following has the largest share of exports from India?
-    options:
-      - Agriculture and allied commodity
-      - Gems and jewellery
-      - Handicrafts
-      - Electronic goods
-    answer: 1
-    explanation: Gems and jewellery is the correct answer to “Which one among the following has the largest share of exports from India”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 22
-    question: Which of the following is not the salient feature of the industrial policy developments since 1991?
-    options:
-      - The scope of the private sector has been enormously expanded
-      - Public sector has been withdrawing partially or fully from several of the enterprises by divestment
-      - The Indian industry is increasingly exposed to foreign competition
-      - Monopoly or dominant position for public sector in most of the industries and control of the commanding heights of the economy by the public sector
-    answer: 1
-    explanation: Public sector has been withdrawing partially or fully from several of the enterprises by divestment is the correct answer to “Which of the following is not the salient feature of the industrial policy developments since 1991”. This question is standard in competitive examination syllabi for Business Environment And International Business.
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor
@@ -414,19 +336,6 @@ questions:
       - Export of goods and invisibles + Import of goods and invisibles
     answer: 0
     explanation: Balance of current account + Balance of capital account + Statistical discrepancy is the correct answer to “In computation of balance of payments, overall balance of paymems is equal to”. This question is standard in competitive examination syllabi for Business Environment And International Business.
-    keyConcept: Business Environment And International Business
-    testedIn:
-      - FPSC Senior Auditor
-      - PPSC
-  - id: 32
-    question: "Match List-I with List-II and select the correct answer: List-I List-II a. Industries Development Regulation Act 1. 1947 b. Import and Export Control Act 2. 1948 c. Foreign Exchange Management Act 3. 1951 d. Factories Act 4. 1999"
-    options:
-      - a-1, b-3, c-4, d-2
-      - a-3, b-1, c-2, d-4
-      - a-3, b-1, c-4, d-2
-      - a-3, b-4, c-2, d-1
-    answer: 2
-    explanation: "a-3, b-1, c-4, d-2 is the correct answer to “Match List-I with List-II and select the correct answer: List-I List-II a. Industries Development Regulation Act 1. 1947 b. Import and Export Control Act 2. 1948 c. Foreign Exchange Management Act 3. 1951 d. Factories Act 4. 1999”. This question is standard in competitive examination syllabi for Business Environment And International Business."
     keyConcept: Business Environment And International Business
     testedIn:
       - FPSC Senior Auditor

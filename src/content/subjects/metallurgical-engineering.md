@@ -18,7 +18,7 @@ subtopics:
     questionCount: 16
   - name: Extractive Metallurgy — Part 1
     slug: extractive-metallurgy-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Extractive Metallurgy — Part 2
     slug: extractive-metallurgy-part-2
     questionCount: 40
@@ -42,10 +42,10 @@ subtopics:
     questionCount: 40
   - name: Iron Making In Metallurgy — Part 1
     slug: iron-making-in-metallurgy-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Iron Making In Metallurgy — Part 2
     slug: iron-making-in-metallurgy-part-2
-    questionCount: 23
+    questionCount: 22
   - name: Material Science In Metallurgy — Part 1
     slug: material-science-in-metallurgy-part-1
     questionCount: 40
@@ -78,7 +78,7 @@ subtopics:
     questionCount: 40
   - name: Metallurgy Of Nuclear Metals — Part 2
     slug: metallurgy-of-nuclear-metals-part-2
-    questionCount: 8
+    questionCount: 7
   - name: Mineral Dressing In Metallurgy — Part 1
     slug: mineral-dressing-in-metallurgy-part-1
     questionCount: 40

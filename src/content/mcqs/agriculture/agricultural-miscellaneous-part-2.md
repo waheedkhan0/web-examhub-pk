@@ -40,32 +40,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 3
-    question: Which place India holds in milk production?
-    options:
-      - Fourth
-      - Third
-      - Second
-      - First
-    answer: 3
-    explanation: First is the correct answer to “Which place India holds in milk production”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 4
-    question: National Institute of Agriculture Marketing (NIAM) is located at
-    options:
-      - New Delhi
-      - Jaipur
-      - Lucknow
-      - Mumbai
-    answer: 1
-    explanation: Jaipur is the correct answer to “National Institute of Agriculture Marketing (NIAM) is located at”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 5
     question: Self-unfruitful variety of peach
     options:
@@ -183,19 +157,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 14
-    question: "The government sponsored Firka development scheme of Madras state was launched in:"
-    options:
-      - "1986"
-      - "1966"
-      - "1970"
-      - "1980"
-    answer: 1
-    explanation: 1966 is the correct answer to “The government sponsored Firka development scheme of Madras state was launched in:”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 15
     question: Viviparous seed the reported in
     options:
@@ -218,32 +179,6 @@ questions:
       - Plum
     answer: 1
     explanation: Cashewnut is the correct answer to “Vengurla is a commercial cultivar of”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 17
-    question: The NDRI is located at
-    options:
-      - New Delhi
-      - Pune
-      - Bengaluru
-      - Karnal
-    answer: 3
-    explanation: Karnal is the correct answer to “The NDRI is located at”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
-  - id: 18
-    question: In India, the ratio of man and animal is
-    options:
-      - "2 : 1"
-      - "1 : 2"
-      - "10 : 1"
-      - "5 : 2"
-    answer: 0
-    explanation: "2 : 1 is the correct answer to “In India, the ratio of man and animal is”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous."
     keyConcept: Agricultural Miscellaneous
     testedIn:
       - PPSC Agriculture Officer
@@ -456,19 +391,6 @@ questions:
     testedIn:
       - PPSC Agriculture Officer
       - FPSC
-  - id: 35
-    question: During the programe of 'Operation Flood I' four mother dairies were established at
-    options:
-      - Mumbai, Jaipur, Lucknow, Ludhiana
-      - Mumbai, Madras, Kolkata, New Delhi
-      - Madras, Ahmedabad, Kolkata, New Delhi
-      - Jaipur, Lucknow, Hissar, Hyderabad
-    answer: 1
-    explanation: Mumbai, Madras, Kolkata, New Delhi is the correct answer to “During the programe of 'Operation Flood I' four mother dairies were established at”. This question is standard in competitive examination syllabi for Agricultural Miscellaneous.
-    keyConcept: Agricultural Miscellaneous
-    testedIn:
-      - PPSC Agriculture Officer
-      - FPSC
   - id: 36
     question: Canker is most serious problem of
     options:
@@ -535,5 +457,4 @@ questions:
       - PPSC Agriculture Officer
       - FPSC
 ---
-
 

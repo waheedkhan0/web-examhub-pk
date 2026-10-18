@@ -26,47 +26,17 @@ subtopics:
   - name: Basic Logic Concepts In Philosophy — Part 2
     slug: basic-logic-concepts-in-philosophy-part-2
     questionCount: 40
-  - name: Classical Indian Epistemology And Metaphysics — Part 1
-    slug: classical-indian-epistemology-and-metaphysics-part-1
-    questionCount: 40
-  - name: Classical Indian Epistemology And Metaphysics — Part 2
-    slug: classical-indian-epistemology-and-metaphysics-part-2
-    questionCount: 40
   - name: Classical Western Epistemology And Metaphysics — Part 1
     slug: classical-western-epistemology-and-metaphysics-part-1
     questionCount: 40
   - name: Classical Western Epistemology And Metaphysics — Part 2
     slug: classical-western-epistemology-and-metaphysics-part-2
     questionCount: 40
-  - name: Contemporary Indian Philosophy — Part 1
-    slug: contemporary-indian-philosophy-part-1
-    questionCount: 40
-  - name: Contemporary Indian Philosophy — Part 2
-    slug: contemporary-indian-philosophy-part-2
-    questionCount: 40
-  - name: Ethical Concepts Of Lndian Schools — Part 1
-    slug: ethical-concepts-of-lndian-schools-part-1
-    questionCount: 40
-  - name: Ethical Concepts Of Lndian Schools — Part 2
-    slug: ethical-concepts-of-lndian-schools-part-2
-    questionCount: 40
   - name: History Of Greek Philosophy — Part 1
     slug: history-of-greek-philosophy-part-1
     questionCount: 40
   - name: History Of Greek Philosophy — Part 2
     slug: history-of-greek-philosophy-part-2
-    questionCount: 40
-  - name: Indian Ethics In Philosophy — Part 1
-    slug: indian-ethics-in-philosophy-part-1
-    questionCount: 40
-  - name: Indian Ethics In Philosophy — Part 2
-    slug: indian-ethics-in-philosophy-part-2
-    questionCount: 40
-  - name: Indian Social And Political Philosophy — Part 1
-    slug: indian-social-and-political-philosophy-part-1
-    questionCount: 40
-  - name: Indian Social And Political Philosophy — Part 2
-    slug: indian-social-and-political-philosophy-part-2
     questionCount: 40
   - name: Medieval Philosophers — Part 1
     slug: medieval-philosophers-part-1
@@ -98,18 +68,6 @@ subtopics:
   - name: Recent Western Philosophy — Part 2
     slug: recent-western-philosophy-part-2
     questionCount: 40
-  - name: Vedanta Philosophy — Part 1
-    slug: vedanta-philosophy-part-1
-    questionCount: 40
-  - name: Vedanta Philosophy — Part 2
-    slug: vedanta-philosophy-part-2
-    questionCount: 40
-  - name: Vedic Philosophy — Part 1
-    slug: vedic-philosophy-part-1
-    questionCount: 40
-  - name: Vedic Philosophy — Part 2
-    slug: vedic-philosophy-part-2
-    questionCount: 40
   - name: Western Ethics In Philosophy — Part 1
     slug: western-ethics-in-philosophy-part-1
     questionCount: 40
@@ -124,7 +82,7 @@ subtopics:
     questionCount: 27
   - name: Western Social And Political Philosophy — Part 1
     slug: western-social-and-political-philosophy-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Western Social And Political Philosophy — Part 2
     slug: western-social-and-political-philosophy-part-2
     questionCount: 40

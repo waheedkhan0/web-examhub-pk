@@ -392,19 +392,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 30
-    question: Which of the following turnouts is most commonly used for goods train on Indian Railways?
-    options:
-      - 1 in 8.5
-      - 1 in 12
-      - 1 in 16
-      - 1 in 20
-    answer: 0
-    explanation: 1 in 8.5 is the correct answer to “Which of the following turnouts is most commonly used for goods train on Indian Railways”. This question is standard in competitive examination syllabi for Railway Engineering.
-    keyConcept: Railway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 31
     question: When semaphore and warner are installed on the same post, then the stop indication is given when
     options:
@@ -483,45 +470,6 @@ questions:
     testedIn:
       - PPSC SDO
       - FPSC AEE
-  - id: 37
-    question: The formation width for a single line meter gauge track in embankment as adopted on Indian Railways is
-    options:
-      - 4.27 m
-      - 4.88 m
-      - 5.49 m
-      - 6.10 m
-    answer: 1
-    explanation: 4.88 m is the correct answer to “The formation width for a single line meter gauge track in embankment as adopted on Indian Railways is”. This question is standard in competitive examination syllabi for Railway Engineering.
-    keyConcept: Railway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 38
-    question: The formation width for a double line Broad Gauge track in cutting (excluding drains) as adopted on Indian Railways is
-    options:
-      - 6.10 m
-      - 8.84 m
-      - 10.21m
-      - 10.82 m
-    answer: 2
-    explanation: 10.21m is the correct answer to “The formation width for a double line Broad Gauge track in cutting (excluding drains) as adopted on Indian Railways is”. This question is standard in competitive examination syllabi for Railway Engineering.
-    keyConcept: Railway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 39
-    question: The shape of transition curve used by Indian Railways is
-    options:
-      - cubic parabola
-      - spiral
-      - sine curve
-      - lemniscate of Bernoulli
-    answer: 0
-    explanation: cubic parabola is the correct answer to “The shape of transition curve used by Indian Railways is”. This question is standard in competitive examination syllabi for Railway Engineering.
-    keyConcept: Railway Engineering
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
   - id: 40
     question: If ‘A’ is the angle formed by two gauge faces, the crossing number will be
     options:
@@ -536,5 +484,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

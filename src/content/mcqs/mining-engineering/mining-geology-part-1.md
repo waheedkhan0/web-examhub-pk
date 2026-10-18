@@ -28,19 +28,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 2
-    question: India's coal is approximately A percentage of World's coal reserve. A is given by
-    options:
-      - 0.20%
-      - 1%
-      - 8%
-      - 15%
-    answer: 2
-    explanation: India’s share of global proved coal reserves is commonly rounded to about 8% in standard mining-geology references and competitive exams. While modern statistical reviews may report figures in the ~9–10% range depending on the year and methodology, exam keys traditionally accept 8% as the representative value. This also aligns with India’s position among the top coal-reserve holders globally (after the U.S., Russia, Australia, and China), supporting the choice of Option C .
-    keyConcept: Mining Geology
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 3
     question: The process of wear and tear of the exposed country rocks is defined as
     options:
@@ -327,19 +314,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 25
-    question: Low temperature carbonisation plants are at
-    options:
-      - Bihar
-      - Andhra Pradesh
-      - Telangana
-      - Madhya Pradesh
-    answer: 2
-    explanation: Telangana is the correct answer to “Low temperature carbonisation plants are at”. This question is standard in competitive examination syllabi for Mining Geology.
-    keyConcept: Mining Geology
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 26
     question: It is another method of washing which separate good quality coal from its impurities through a simple process of particle stratification?
     options:
@@ -536,5 +510,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

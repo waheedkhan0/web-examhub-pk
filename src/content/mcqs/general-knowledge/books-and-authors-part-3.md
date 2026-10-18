@@ -250,16 +250,6 @@ questions:
     answer: 3
     explanation: "“Divine Comedy” was written by: Dante Alighieri ."
     keyConcept: Books & Authors
-  - id: 25
-    question: India Wins Freedom book is written by__________?
-    options:
-      - Moulana Muhammad Ali johar
-      - Sir Syed Ahmed Khan
-      - Moulana Abul Kalam Azad
-      - Syed Ameer Ali
-    answer: 2
-    explanation: India Wins Freedom book is written by Moulana Abul Kalam Azad .
-    keyConcept: Books & Authors
   - id: 26
     question: The book Gabriel’s wing is written by__________?
     options:

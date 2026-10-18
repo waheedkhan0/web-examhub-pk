@@ -365,19 +365,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: In india, the first institution for mentally retarded was started in Bombay in
-    options:
-      - "1931"
-      - "1951"
-      - "1941"
-      - "1971"
-    answer: 2
-    explanation: 1941 is the correct answer to “In india, the first institution for mentally retarded was started in Bombay in”. This question is standard in competitive examination syllabi for Human Intelligence And Creativity In Psychology.
-    keyConcept: Human Intelligence And Creativity In Psychology
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: . . . . . . . . occurs most often in very poor household.
     options:

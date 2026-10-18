@@ -121,26 +121,6 @@ questions:
     answer: 1
     explanation: How many Muslim seats were secured by All India Moslim League in 1945-46 Election of Provincial assemblies 425 .
     keyConcept: Government & Politics
-  - id: 12
-    question: Zakir Hussain was the______________ president of India.
-    options:
-      - 2nd
-      - fifth
-      - Third
-      - fourth
-    answer: 2
-    explanation: Zakir Hussain was the Third president of India.
-    keyConcept: Government & Politics
-  - id: 13
-    question: Narendra Modi is the_________________ prime minister of India (excluding Acting PMs).
-    options:
-      - 13th
-      - 16th
-      - 15th
-      - 14th
-    answer: 3
-    explanation: Narendra Modi is the 14th prime minister of India (excluding Acting PMs).
-    keyConcept: Government & Politics
   - id: 14
     question: Who was the second Governor-General of Pakistan?
     options:

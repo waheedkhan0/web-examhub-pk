@@ -313,19 +313,6 @@ questions:
     testedIn:
       - FPSC
       - PPSC
-  - id: 24
-    question: Relative cost of chemical process plants in India is about __________ percent more than the similar plants in U.S.A.
-    options:
-      - "15"
-      - "35"
-      - "55"
-      - "75"
-    answer: 1
-    explanation: 35 is the correct answer to “Relative cost of chemical process plants in India is about __________ percent more than the similar plants in U.S.A.”. This question is standard in competitive examination syllabi for Chemical Engineering Plant Economics.
-    keyConcept: Chemical Engineering Plant Economics
-    testedIn:
-      - FPSC
-      - PPSC
   - id: 25
     question: The amount of simple interest during 'n' interest period is (where, i = interest rate based on the length of one interest period, p = principal)
     options:
@@ -535,5 +522,4 @@ questions:
       - FPSC
       - PPSC
 ---
-
 

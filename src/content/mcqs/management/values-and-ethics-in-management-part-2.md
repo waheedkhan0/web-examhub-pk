@@ -171,19 +171,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 13
-    question: Which is the code of Medical Council of India?
-    options:
-      - General principles
-      - Doctor to doctor relationship
-      - Duties towards patients
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Which is the code of Medical Council of India”. This question is standard in competitive examination syllabi for Values And Ethics In Management.
-    keyConcept: Values And Ethics In Management
-    testedIn:
-      - CSS
-      - PMS
   - id: 14
     question: Corporate social responsibility that extends beyond legal mandates can help meet societal expectations in the absence of
     options:
@@ -379,19 +366,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 29
-    question: The Indian ethos is for the individual self to become aware, develop and contribute social welfare by linking yourself to the
-    options:
-      - Customs
-      - Business
-      - Cooperation and planning
-      - Society
-    answer: 0
-    explanation: Customs is the correct answer to “The Indian ethos is for the individual self to become aware, develop and contribute social welfare by linking yourself to the”. This question is standard in competitive examination syllabi for Values And Ethics In Management.
-    keyConcept: Values And Ethics In Management
-    testedIn:
-      - CSS
-      - PMS
   - id: 30
     question: Match the items of List-I with those of List-II and choose the correct combination. List-I List-II a. Ethics are the principles of conduct governing an individual or profession. 1. John Donaldson b. Ethics is the discipline dealing with what is good and bad, or right and wrong, or with moral duty and obligation. 2. Keith Davis c. Ethics are a set of rules that defines right and wrong conduct. 3. Shea d. Business ethics, in short can be described as the systematic study of moral (ethical) matters pertaining to business, industry or related activities, institutions or practices and beliefs. 4. R. Wayne Mondy
     options:
@@ -536,5 +510,4 @@ questions:
       - CSS
       - PMS
 ---
-
 

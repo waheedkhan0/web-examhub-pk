@@ -444,19 +444,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 34
-    question: At Which among the following meetings did India point out that the per capita emission rates of the developing countries are a tiny fraction of those in the developed world?
-    options:
-      - G-8 meeting in June 2005
-      - G-8 meeting in June 2006
-      - G-8 meeting in June 2007
-      - G-8 meeting in June 2008
-    answer: 0
-    explanation: G-8 meeting in June 2005 is the correct answer to “At Which among the following meetings did India point out that the per capita emission rates of the developing countries are a tiny fraction of those in the developed world”. This question is standard in competitive examination syllabi for Contemporary World Politics.
-    keyConcept: Contemporary World Politics
-    testedIn:
-      - CSS
-      - PMS
   - id: 35
     question: Truman doctrine was a policy to provide military and economic aid to
     options:

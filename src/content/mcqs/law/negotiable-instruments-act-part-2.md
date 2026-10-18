@@ -80,19 +80,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 6
-    question: In which of the following cases, did the Hon'ble Supreme Court decide the issue of territorial jurisdiction of the court to entertain a complaint under the Negotiable Instruments Act in reference to the Amending Ordinance of 2015?
-    options:
-      - (2016) 2 SCC 75, Bridgestone India Pvt. Ltd. v. Inderpal Singh
-      - (2016) 11 SCC 105, K. S. Joseph v. Philip Carbon Black Ltd. & Ors
-      - (2016) 1 SCC (Cri) 173, Ultratech Cement Ltd. v. Rakesh Kumar Singh & Anr
-      - None of the above
-    answer: 0
-    explanation: (2016) 2 SCC 75, Bridgestone India Pvt. Ltd. v. Inderpal Singh is the correct answer to “In which of the following cases, did the Hon'ble Supreme Court decide the issue of territorial jurisdiction of the court to entertain a complaint under the Negotiable Instruments Act in reference to the Amending Ordinance of 2015”. This question is standard in competitive examination syllabi for Negotiable Instruments Act.
-    keyConcept: Negotiable Instruments Act
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 7
     question: Under Section 97 of Negotiable Instruments Act when the party to whom notice of dishonor is dispatched is dead, but the party dispatching the notice is ignorant of his death, then
     options:
@@ -366,19 +353,6 @@ questions:
     testedIn:
       - Civil Judge
       - ADPP
-  - id: 28
-    question: In which of the following cases the Supreme Court gave guidelines for speedy and expeditious trial of cheque bouncing cases
-    options:
-      - Indian Bank Association v. Union of india
-      - Nishant Aggarwal v. Kailash Kumar Sharma
-      - Dashrath Rupsingh Rathod v. State of Maharashtra
-      - None of the above
-    answer: 2
-    explanation: Dashrath Rupsingh Rathod v. State of Maharashtra is the correct answer to “In which of the following cases the Supreme Court gave guidelines for speedy and expeditious trial of cheque bouncing cases”. This question is standard in competitive examination syllabi for Negotiable Instruments Act.
-    keyConcept: Negotiable Instruments Act
-    testedIn:
-      - Civil Judge
-      - ADPP
   - id: 29
     question: Which among the following is not true with respect to negotiable instruments?
     options:
@@ -440,19 +414,6 @@ questions:
       - None of the above
     answer: 1
     explanation: No is the correct answer to “Can the Magistrate order an investigation on the allegation of an offence under Section 138 of Negotiable Instruments Act”. This question is standard in competitive examination syllabi for Negotiable Instruments Act.
-    keyConcept: Negotiable Instruments Act
-    testedIn:
-      - Civil Judge
-      - ADPP
-  - id: 34
-    question: In which of the following cases the Supreme Court held that the provisions of Section 141 of the Negotiable Instruments Act, 1881 do not contain a condition that the prosecution of a company is sine qua non for prosecution of other persons. The liability of the Directors/Officers etc. is vicarious and will flow from the liability of the company/firm.
-    options:
-      - Narsing Das Tapadia v. Govardhan Das Pattani
-      - Saketh India Ltd. v. India Securities Ltd.
-      - K. G. Sharma v. Pratap Autowheels
-      - Mohd. Isaq Gulsani v. Rajamouli
-    answer: 3
-    explanation: Mohd. Isaq Gulsani v. Rajamouli is the correct answer to “In which of the following cases the Supreme Court held that the provisions of Section 141 of the Negotiable Instruments Act, 1881 do not contain a condition that the prosecution of a company is sine qua non for prosecution of other persons. The liability of the Directors/Officers etc. is vicarious and will flow from the liability of the company/firm.”. This question is standard in competitive examination syllabi for Negotiable Instruments Act.
     keyConcept: Negotiable Instruments Act
     testedIn:
       - Civil Judge

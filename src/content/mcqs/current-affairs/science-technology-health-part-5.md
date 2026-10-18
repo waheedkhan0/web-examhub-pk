@@ -181,26 +181,6 @@ questions:
     answer: 1
     explanation: Japan is the correct answer to “Which country has launched the World’s biggest transport Space ship for space station”. Items of this type are drawn from the Science, Technology & Health — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Science, Technology & Health
-  - id: 18
-    question: When Indian moon mission Chandrayaan-2 failed, at around 2.1 kilometres over from landing lost communication and crashed?
-    options:
-      - 17 August 2019
-      - 1 August 2019
-      - 1 September 2019
-      - 7 September 2019
-    answer: 3
-    explanation: 7 September 2019 is the correct answer to “When Indian moon mission Chandrayaan-2 failed, at around 2.1 kilometres over from landing lost communication and crashed”. Items of this type are drawn from the Science, Technology & Health — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Science, Technology & Health
-  - id: 19
-    question: When India launch Chandrayaan-2 mission to the Moon consisting the Vikram lander, and the Pragyan lunar rover, from Satish Dhawan Space Centre?
-    options:
-      - 20 August 2019
-      - 7 September 2019
-      - 22 July 2019
-      - 22 July 2018
-    answer: 2
-    explanation: 22 July 2019 is the correct answer to “When India launch Chandrayaan-2 mission to the Moon consisting the Vikram lander, and the Pragyan lunar rover, from Satish Dhawan Space Centre”. Items of this type are drawn from the Science, Technology & Health — Part 5 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Science, Technology & Health
   - id: 20
     question: Which country has successfully launched its first sea-based space rocket from Yellow Sea ___________?
     options:

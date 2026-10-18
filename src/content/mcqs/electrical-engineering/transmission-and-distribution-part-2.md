@@ -341,19 +341,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 26
-    question: Most of the high voltage transmission lines in India are
-    options:
-      - Underground
-      - Overhead
-      - Either of the above
-      - None of the above
-    answer: 1
-    explanation: Overhead is the correct answer to “Most of the high voltage transmission lines in India are”. This question is standard in competitive examination syllabi for Transmission And Distribution.
-    keyConcept: Transmission And Distribution
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 27
     question: There is a greater possibility of occurrence of corona during
     options:
@@ -537,5 +524,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

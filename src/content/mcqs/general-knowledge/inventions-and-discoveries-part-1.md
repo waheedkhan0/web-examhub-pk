@@ -44,15 +44,6 @@ questions:
     answer: 3
     explanation: "First living creature launched in to space was a dog named: Laika ."
     keyConcept: Inventions & Discoveries
-  - id: 4
-    question: First Indian Civil servant in 1863 was _____________?
-    options:
-      - Stayendarnath Tagore
-      - Rabindar Nath Tagore
-      - Ramesh tagore
-    answer: 0
-    explanation: First Indian Civil servant in 1863 was Stayendarnath Tagore .
-    keyConcept: Inventions & Discoveries
   - id: 5
     question: Zebra’s stripes, when they are first born are__________?
     options:
@@ -178,16 +169,6 @@ questions:
       - Christiana Biden
     answer: 1
     explanation: Name of the US first lady is Jill Biden .
-    keyConcept: Inventions & Discoveries
-  - id: 18
-    question: What was code-named of first Indian Nuclear test at Pokhran in 1974?
-    options:
-      - Shining Shiv
-      - Bang of Brahama
-      - Pokhran Visphot
-      - Smiling Budha
-    answer: 3
-    explanation: Smiling Budha is the correct answer to “What was code-named of first Indian Nuclear test at Pokhran in 1974”. Items of this type are drawn from the Inventions & Discoveries — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Inventions & Discoveries
   - id: 19
     question: First female prime minister in Tunisia and the Arab world is________?

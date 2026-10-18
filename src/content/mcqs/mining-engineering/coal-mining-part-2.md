@@ -79,19 +79,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 6
-    question: In India coal seams over . . . . . . . . m thick are considered as thick seams.
-    options:
-      - 4.5m
-      - 4.9m
-      - 5.2m
-      - 5.8m
-    answer: 0
-    explanation: 4.5m is the correct answer to “In India coal seams over . . . . . . . . m thick are considered as thick seams.”. This question is standard in competitive examination syllabi for Coal Mining.
-    keyConcept: Coal Mining
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 7
     question: Top most horizon of tertiary succession in Assam is known as
     options:
@@ -535,5 +522,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

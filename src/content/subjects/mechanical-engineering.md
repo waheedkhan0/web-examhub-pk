@@ -76,7 +76,7 @@ subtopics:
     questionCount: 40
   - name: Machine Design — Part 2
     slug: machine-design-part-2
-    questionCount: 40
+    questionCount: 38
   - name: Manufacturing And Production Technology — Part 1
     slug: manufacturing-and-production-technology-part-1
     questionCount: 40

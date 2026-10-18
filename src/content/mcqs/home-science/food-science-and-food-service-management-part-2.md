@@ -181,19 +181,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 14
-    question: Expanded form of FSSAI is
-    options:
-      - Food Safety and Sanitation Authority of India
-      - Food Security and Standards Authority of India
-      - Food Standards and Safety Authority of India
-      - Food Safety and Standards Authority of India
-    answer: 3
-    explanation: Food Safety and Standards Authority of India is the correct answer to “Expanded form of FSSAI is”. This question is standard in competitive examination syllabi for Food Science And Food Service Management.
-    keyConcept: Food Science And Food Service Management
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 15
     question: Which one of the following means the same as food service?
     options:
@@ -415,19 +402,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 32
-    question: Consider the following statements 1. The Indian Standard Institution is now called Bureau of Indian Standards. 2. Bureau of Indian Standards operates the ISI Certification Marks Act, 1952. Which of the statements given above is/are correct?
-    options:
-      - Only 1
-      - Only 2
-      - Both 1 and 2
-      - None of these
-    answer: 2
-    explanation: Both 1 and 2 is the correct answer to “Consider the following statements 1. The Indian Standard Institution is now called Bureau of Indian Standards. 2. Bureau of Indian Standards operates the ISI Certification Marks Act, 1952. Which of the statements given above is/are correct”. This question is standard in competitive examination syllabi for Food Science And Food Service Management.
-    keyConcept: Food Science And Food Service Management
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 33
     question: Match the following. List-I List-II a. Non-nutrients 1. Water b. Macro nutrients 2. Minerals c. Micro nutrients 3. Carbohydrates d. Nutrients 4. Dietary fiber
     options:
@@ -457,7 +431,7 @@ questions:
   - id: 35
     question: A speciality restaurant
     options:
-      - serves food from a special culturelity (for example, Indian)
+      - serves food from a special culturelity (for example, Pakistani)
       - serves one kind of food (for example, Pizza)
       - serves only trendy, eclectic boods
       - serves a special target market (for example, tourists)
@@ -533,5 +507,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

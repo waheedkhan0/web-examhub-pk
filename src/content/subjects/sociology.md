@@ -12,58 +12,52 @@ relatedExams:
 subtopics:
   - name: Basic Concepts Of Sociology — Part 1
     slug: basic-concepts-of-sociology-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Basic Concepts Of Sociology — Part 2
     slug: basic-concepts-of-sociology-part-2
     questionCount: 10
-  - name: Concepts Of Indian Society — Part 1
-    slug: concepts-of-indian-society-part-1
-    questionCount: 40
-  - name: Concepts Of Indian Society — Part 2
-    slug: concepts-of-indian-society-part-2
-    questionCount: 10
   - name: Culture And Symbolic Transformation In Sociology — Part 1
     slug: culture-and-symbolic-transformation-in-sociology-part-1
-    questionCount: 40
+    questionCount: 31
   - name: Culture And Symbolic Transformation In Sociology — Part 2
     slug: culture-and-symbolic-transformation-in-sociology-part-2
-    questionCount: 10
+    questionCount: 7
   - name: Economic And Society In Sociology — Part 1
     slug: economic-and-society-in-sociology-part-1
-    questionCount: 40
+    questionCount: 34
   - name: Economic And Society In Sociology — Part 2
     slug: economic-and-society-in-sociology-part-2
     questionCount: 9
   - name: Environment And Society In Sociology — Part 1
     slug: environment-and-society-in-sociology-part-1
-    questionCount: 40
+    questionCount: 35
   - name: Environment And Society In Sociology — Part 2
     slug: environment-and-society-in-sociology-part-2
-    questionCount: 8
+    questionCount: 6
   - name: Gender And Society In Sociology
     slug: gender-and-society-in-sociology
-    questionCount: 12
+    questionCount: 11
   - name: Industry And Society In Sociology — Part 1
     slug: industry-and-society-in-sociology-part-1
-    questionCount: 40
+    questionCount: 30
   - name: Industry And Society In Sociology — Part 2
     slug: industry-and-society-in-sociology-part-2
-    questionCount: 10
+    questionCount: 9
   - name: Marriage_ Family And Kinship In Sociology — Part 1
     slug: marriage-family-and-kinship-in-sociology-part-1
-    questionCount: 40
+    questionCount: 34
   - name: Marriage_ Family And Kinship In Sociology — Part 2
     slug: marriage-family-and-kinship-in-sociology-part-2
     questionCount: 8
   - name: Miscellaneous In Sociology — Part 1
     slug: miscellaneous-in-sociology-part-1
-    questionCount: 40
+    questionCount: 36
   - name: Miscellaneous In Sociology — Part 2
     slug: miscellaneous-in-sociology-part-2
     questionCount: 10
   - name: Population And Society In Sociology
     slug: population-and-society-in-sociology
-    questionCount: 15
+    questionCount: 2
   - name: Research Methodology And Methods In Sociology — Part 1
     slug: research-methodology-and-methods-in-sociology-part-1
     questionCount: 40
@@ -72,13 +66,13 @@ subtopics:
     questionCount: 4
   - name: Rural And Urban Transformations In Sociology — Part 1
     slug: rural-and-urban-transformations-in-sociology-part-1
-    questionCount: 40
+    questionCount: 25
   - name: Rural And Urban Transformations In Sociology — Part 2
     slug: rural-and-urban-transformations-in-sociology-part-2
     questionCount: 7
   - name: Science_ Technology And Society In Sociology — Part 1
     slug: science-technology-and-society-in-sociology-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Science_ Technology And Society In Sociology — Part 2
     slug: science-technology-and-society-in-sociology-part-2
     questionCount: 10
@@ -87,7 +81,7 @@ subtopics:
     questionCount: 40
   - name: Social Demography — Part 2
     slug: social-demography-part-2
-    questionCount: 9
+    questionCount: 8
   - name: Social Group — Part 1
     slug: social-group-part-1
     questionCount: 40
@@ -96,16 +90,13 @@ subtopics:
     questionCount: 10
   - name: Social Institutions — Part 1
     slug: social-institutions-part-1
-    questionCount: 40
+    questionCount: 37
   - name: Social Institutions — Part 2
     slug: social-institutions-part-2
-    questionCount: 10
-  - name: Social Justice
-    slug: social-justice
-    questionCount: 21
+    questionCount: 9
   - name: Social Structure — Part 1
     slug: social-structure-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Social Structure — Part 2
     slug: social-structure-part-2
     questionCount: 6
@@ -117,16 +108,16 @@ subtopics:
     questionCount: 9
   - name: Sociological Theory — Part 1
     slug: sociological-theory-part-1
-    questionCount: 40
+    questionCount: 31
   - name: Sociological Theory — Part 2
     slug: sociological-theory-part-2
-    questionCount: 10
+    questionCount: 9
   - name: State_ Politics And Development In Sociology — Part 1
     slug: state-politics-and-development-in-sociology-part-1
-    questionCount: 40
+    questionCount: 16
   - name: State_ Politics And Development In Sociology — Part 2
     slug: state-politics-and-development-in-sociology-part-2
-    questionCount: 8
+    questionCount: 6
   - name: Status And Role — Part 1
     slug: status-and-role-part-1
     questionCount: 40

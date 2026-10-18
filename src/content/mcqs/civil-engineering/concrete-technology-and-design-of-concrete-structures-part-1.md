@@ -36,7 +36,7 @@ questions:
       - "0.30"
       - "1.00"
     answer: 1
-    explanation: The Indian Standard IS 456:2000 specifies minimum reinforcement in slabs. When high-strength deformed (HYSD) bars are used, the minimum steel in either direction shall not be less than 0.12% of the gross cross-sectional area (bD) . For comparison, when plain/mild steel is used the minimum is 0.15% — the reduction to 0.12% is permitted because HYSD bars have higher yield strength and provide equivalent ductility with slightly less area of steel. This requirement (clause on minimum reinforcement for slabs) ensures adequate cracking control and ductile behaviour of slabs while taking advantage of HYSD bar properties.
+    explanation: Reinforced concrete design codes specify minimum reinforcement in slabs. When high-strength deformed (HYSD) bars are used, the minimum steel in either direction shall not be less than 0.12% of the gross cross-sectional area (bD) . For comparison, when plain/mild steel is used the minimum is 0.15% — the reduction to 0.12% is permitted because HYSD bars have higher yield strength and provide equivalent ductility with slightly less area of steel. This requirement (clause on minimum reinforcement for slabs) ensures adequate cracking control and ductile behaviour of slabs while taking advantage of HYSD bar properties.
     keyConcept: Concrete Technology And Design Of Concrete Structures
     testedIn:
       - PPSC SDO
@@ -101,7 +101,7 @@ questions:
       - 100 mm
       - 120 mm
     answer: 1
-    explanation: "The given slab dimensions are 3m x 3.5m. Since (3.5/3) < 2 , it is classified as a two-dimensional slab . Deflection criteria as per IS 456:2000: - For a simply supported slab , the span/depth ratio = 35 - For a continuous slab , the span/depth ratio = 40 Since we always design the slab for the shorter span (3m): Effective depth (d) = 3000 mm / 40 = 75 mm Thus, the minimum overall depth of the slab should be 75 mm to satisfy vertical deflection limits ."
+    explanation: "The given slab dimensions are 3m x 3.5m. Since (3.5/3) < 2 , it is classified as a two-dimensional slab . Deflection criteria as per standard design codes: - For a simply supported slab , the span/depth ratio = 35 - For a continuous slab , the span/depth ratio = 40 Since we always design the slab for the shorter span (3m): Effective depth (d) = 3000 mm / 40 = 75 mm Thus, the minimum overall depth of the slab should be 75 mm to satisfy vertical deflection limits ."
     keyConcept: Concrete Technology And Design Of Concrete Structures
     testedIn:
       - PPSC SDO
@@ -284,19 +284,6 @@ questions:
       - Zero
     answer: 1
     explanation: Tensile everywhere is the correct answer to “In a spherical dome the hoop stress due to a concentrated load at crown is”. This question is standard in competitive examination syllabi for Concrete Technology And Design Of Concrete Structures.
-    keyConcept: Concrete Technology And Design Of Concrete Structures
-    testedIn:
-      - PPSC SDO
-      - FPSC AEE
-  - id: 22
-    question: If the size of panel in a flat slab is 6m x 6m, then as per Indian Standard Code, the widths of column strip and middle strip are
-    options:
-      - 3.0 m and 1.5 m
-      - 1.5 m and 3.0 m
-      - 3.0 m and 3.0 m
-      - 1.5 m and 1.5 m
-    answer: 2
-    explanation: 3.0 m and 3.0 m is the correct answer to “If the size of panel in a flat slab is 6m x 6m, then as per Indian Standard Code, the widths of column strip and middle strip are”. This question is standard in competitive examination syllabi for Concrete Technology And Design Of Concrete Structures.
     keyConcept: Concrete Technology And Design Of Concrete Structures
     testedIn:
       - PPSC SDO
@@ -536,5 +523,4 @@ questions:
       - PPSC SDO
       - FPSC AEE
 ---
-
 

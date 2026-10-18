@@ -314,19 +314,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 24
-    question: Which fuel is used by Nuclear reactors in India?
-    options:
-      - U-270
-      - U-500
-      - Gasohol
-      - U-238
-    answer: 3
-    explanation: U-238 is the correct answer to “Which fuel is used by Nuclear reactors in India”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 25
     question: The reverse effect of X-ray emission is
     options:
@@ -418,19 +405,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 32
-    question: In which year was India's first nuclear reactor formally inaugurated by Prime Minister JL Nehru?
-    options:
-      - "1967"
-      - "1965"
-      - "1955"
-      - "1957"
-    answer: 3
-    explanation: 1957 is the correct answer to “In which year was India's first nuclear reactor formally inaugurated by Prime Minister JL Nehru”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 33
     question: Which one of the following can be used to confirm whether drinking water contains a gamma emitting isotope or not?
     options:
@@ -509,19 +483,6 @@ questions:
     testedIn:
       - MDCAT
       - CSS
-  - id: 39
-    question: In which year did India conduct its second nuclear test in Pokhran?
-    options:
-      - "1998"
-      - "2003"
-      - "1996"
-      - "2001"
-    answer: 0
-    explanation: 1998 is the correct answer to “In which year did India conduct its second nuclear test in Pokhran”. This question is standard in competitive examination syllabi for Modern Physics.
-    keyConcept: Modern Physics
-    testedIn:
-      - MDCAT
-      - CSS
   - id: 40
     question: Nuclear fuel in the sun is-
     options:
@@ -536,5 +497,4 @@ questions:
       - MDCAT
       - CSS
 ---
-
 

@@ -393,19 +393,6 @@ questions:
     testedIn:
       - PPSC Mines
       - KPPSC
-  - id: 30
-    question: For Indian coal mines, the 'maximum allowable concentration' of respirable dust containing 7.5% free silica in mg/m 3 is
-    options:
-      - "2"
-      - "2.2"
-      - "2.5"
-      - "2.7"
-    answer: 0
-    explanation: 2 is the correct answer to “For Indian coal mines, the 'maximum allowable concentration' of respirable dust containing 7.5% free silica in mg/m 3 is”. This question is standard in competitive examination syllabi for Mine Ventilation.
-    keyConcept: Mine Ventilation
-    testedIn:
-      - PPSC Mines
-      - KPPSC
   - id: 31
     question: In an underground coal mine area the graham's ratio found 3% is the indication of
     options:
@@ -538,5 +525,4 @@ questions:
       - PPSC Mines
       - KPPSC
 ---
-
 

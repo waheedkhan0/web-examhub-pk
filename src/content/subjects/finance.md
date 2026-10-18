@@ -46,12 +46,9 @@ subtopics:
   - name: Finance — Additional Practice — Part 2
     slug: finance-additional-part-2
     questionCount: 18
-  - name: Banking Awareness Miscellaneous — Part 1
-    slug: banking-awareness-miscellaneous-part-1
-    questionCount: 40
   - name: Banking Awareness Miscellaneous — Part 2
     slug: banking-awareness-miscellaneous-part-2
-    questionCount: 40
+    questionCount: 22
 ---
 
 ## Finance: Decisions Under Scarcity of Capital

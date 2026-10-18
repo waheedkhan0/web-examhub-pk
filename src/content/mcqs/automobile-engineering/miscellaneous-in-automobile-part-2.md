@@ -39,19 +39,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 3
-    question: A registration certificate issued in any province is valid throughout India, and is valid for . . . . . . . . years.
-    options:
-      - "9"
-      - "5"
-      - "15"
-      - "20"
-    answer: 2
-    explanation: 15 is the correct answer to “A registration certificate issued in any province is valid throughout India, and is valid for . . . . . . . . years.”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 4
     question: Vehicles exempted from paying motor vehicles' tax are
     options:
@@ -87,19 +74,6 @@ questions:
       - None are correct
     answer: 0
     explanation: In black on white ground is the correct answer to “In case of transport vehicle which figure is correct.”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 7
-    question: A. R. A. I. is situated at
-    options:
-      - Ahmednagar
-      - Mumbai
-      - Nagpur
-      - Pune
-    answer: 3
-    explanation: Pune is the correct answer to “A. R. A. I. is situated at”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
     keyConcept: Miscellaneous In Automobile
     testedIn:
       - PPSC
@@ -312,19 +286,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 24
-    question: CRRI is situated at
-    options:
-      - Pune
-      - Mumbai
-      - Ahmednagar
-      - Delhi
-    answer: 3
-    explanation: Delhi is the correct answer to “CRRI is situated at”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 25
     question: Tappet clearance for 4-stroke engine is usually kept at . . . . . . . . for inlet.
     options:
@@ -347,19 +308,6 @@ questions:
       - All are correct
     answer: 3
     explanation: All are correct is the correct answer to “Which of tJle following letter shall be used as the registration mark for Bihar”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
-  - id: 27
-    question: A motor vehicle belonging to a non diplomatic official of a diplomatic mission or a consular post in Delhi shall be assigned a registration mark consisting of letters . . . . . . . . preceded by the number allotted to the mission or post by the Ministry of External Affairs of the Government of India and followed by the number alloted to the vehicle by the registering authority.
-    options:
-      - CND
-      - CDN
-      - CDP
-      - CCND
-    answer: 2
-    explanation: CDP is the correct answer to “A motor vehicle belonging to a non diplomatic official of a diplomatic mission or a consular post in Delhi shall be assigned a registration mark consisting of letters . . . . . . . . preceded by the number allotted to the mission or post by the Ministry of External Affairs of the Government of India and followed by the number alloted to the vehicle by the registering authority.”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
     keyConcept: Miscellaneous In Automobile
     testedIn:
       - PPSC
@@ -494,19 +442,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 38
-    question: First automobile industry set up in India during 1949 is
-    options:
-      - Premier Automobile Ltd.
-      - Automobile Product of India
-      - Mahindra and Mahindra Ltd.
-      - Bajaj Tempo Ltd.
-    answer: 0
-    explanation: Premier Automobile Ltd. is the correct answer to “First automobile industry set up in India during 1949 is”. This question is standard in competitive examination syllabi for Miscellaneous In Automobile.
-    keyConcept: Miscellaneous In Automobile
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 39
     question: The main advantage of a good clutch is
     options:
@@ -534,5 +469,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 

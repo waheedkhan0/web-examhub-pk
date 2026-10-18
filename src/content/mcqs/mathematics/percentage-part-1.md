@@ -331,14 +331,14 @@ questions:
       - CSS
       - NTS
   - id: 25
-    question: In the recent, climate conference in New York, out of 700 men, 500 women, 800 children present inside the building premises, 20% of the men, 40% of the women and 10% of the children were Indians. Find the percentage of people who were not Indian?
+    question: In the recent, climate conference in New York, out of 700 men, 500 women, 800 children present inside the building premises, 20% of the men, 40% of the women and 10% of the children were Pakistanis. Find the percentage of people who were not Pakistani?
     options:
       - 77%
       - 73%
       - 79%
       - 83%
     answer: 2
-    explanation: Number of Indians men present there = $$\frac{{700 \times 20}}{{100}} = 140$$ Indian women = $$\frac{{500 \times 40}}{{100}} = 200$$ Indian children = $$\frac{{800 \times 10}}{{100}} = 80$$ Total member present in climate conference = 700 + 500 + 800 = 2000 Total Indian = 200 + 140 + 80 = 420 Hence, % of Indian present there = $$\frac{{420 \times 100}}{{2000}} = 21\% $$ % of people who were not Indian = 100 - 21 = 79%
+    explanation: Number of Pakistanis men present there = $$\frac{{700 \times 20}}{{100}} = 140$$ Pakistani women = $$\frac{{500 \times 40}}{{100}} = 200$$ Pakistani children = $$\frac{{800 \times 10}}{{100}} = 80$$ Total member present in climate conference = 700 + 500 + 800 = 2000 Total Pakistani = 200 + 140 + 80 = 420 Hence, % of Pakistani present there = $$\frac{{420 \times 100}}{{2000}} = 21\% $$ % of people who were not Pakistani = 100 - 21 = 79%
     keyConcept: Percentage
     testedIn:
       - CSS

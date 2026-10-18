@@ -406,19 +406,6 @@ questions:
     testedIn:
       - WAPDA
       - NTDC
-  - id: 31
-    question: In India, ___________ modulation is used for radio transmission
-    options:
-      - Frequency
-      - Amplitude
-      - Phase
-      - None of the above
-    answer: 1
-    explanation: Amplitude is the correct answer to “In India, ___________ modulation is used for radio transmission”. This question is standard in competitive examination syllabi for Modulation And Demodulation.
-    keyConcept: Modulation And Demodulation
-    testedIn:
-      - WAPDA
-      - NTDC
   - id: 32
     question: When the modulating signal controls the frequency of the carrier, we get___________
     options:
@@ -537,5 +524,4 @@ questions:
       - WAPDA
       - NTDC
 ---
-
 

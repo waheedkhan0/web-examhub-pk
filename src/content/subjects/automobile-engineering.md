@@ -11,7 +11,7 @@ relatedExams:
 subtopics:
   - name: Air Pollution And Its Control In Automobile — Part 1
     slug: air-pollution-and-its-control-in-automobile-part-1
-    questionCount: 40
+    questionCount: 39
   - name: Air Pollution And Its Control In Automobile — Part 2
     slug: air-pollution-and-its-control-in-automobile-part-2
     questionCount: 40
@@ -62,10 +62,10 @@ subtopics:
     questionCount: 40
   - name: Introduction Of Automobile — Part 1
     slug: introduction-of-automobile-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Introduction Of Automobile — Part 2
     slug: introduction-of-automobile-part-2
-    questionCount: 40
+    questionCount: 37
   - name: Maintenance And Troubleshooting In Automobile — Part 1
     slug: maintenance-and-troubleshooting-in-automobile-part-1
     questionCount: 40
@@ -74,10 +74,10 @@ subtopics:
     questionCount: 38
   - name: Miscellaneous In Automobile — Part 1
     slug: miscellaneous-in-automobile-part-1
-    questionCount: 40
+    questionCount: 38
   - name: Miscellaneous In Automobile — Part 2
     slug: miscellaneous-in-automobile-part-2
-    questionCount: 40
+    questionCount: 35
   - name: Performance And Testing Of Engines — Part 1
     slug: performance-and-testing-of-engines-part-1
     questionCount: 40

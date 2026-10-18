@@ -14,32 +14,6 @@ targetExams:
   - PPSC
   - KPPSC
 questions:
-  - id: 1
-    question: Match the following in the term of Movements and types. List I (Movements) List II (Types) a. Kheda Satyagraha 1. Social Upliftment Movement b. Chipko Movement 2. Women Upliftment Movement c. Justice Movement 3. Women Ecological Movement d. Anti-sati Movement 4. Peasant Movement
-    options:
-      - a-1, b-4, c-3, d-2
-      - a-2, b-3, c-4, d-1
-      - a-4, b-3, c-1, d-2
-      - a-3, b-2, c-1, d-4
-    answer: 2
-    explanation: "a. Kheda Satyagraha: This was a movement by farmers in India. So, it's a Peasant Movement . That means 'a' matches with '4'. b. Chipko Movement: This movement was about protecting trees , and women played a big role. It's best described as a Women Ecological Movement . 'b' matches with '3'. c. Justice Movement: This movement aimed to improve the social standing and rights of certain groups. It worked for Social Upliftment . So, 'c' matches with '1'. d. Anti-sati Movement: Sati was a practice that harmed women . A movement against it is a Women Upliftment Movement . 'd' matches with '2'. Therefore, the correct match is: a-4, b-3, c-1, d-2 So, the answer is Option C."
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 2
-    question: Who is the author of book 'Village India'?
-    options:
-      - Oscar Lewis
-      - M. N. Srinivas
-      - McKim Marriot
-      - A. R. Desai
-    answer: 2
-    explanation: The book 'Village India' is a well-known edited volume that presents ethnographic studies on Indian villages. It was edited and authored by McKim Marriot , who compiled various scholarly contributions to provide insights into the social structure, culture, and dynamics of rural India. Therefore, the correct answer is Option C .
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 3
     question: Which of the following is not the basis of difference between rural and urban characteristics?
     options:
@@ -49,19 +23,6 @@ questions:
       - Natural disaster
     answer: 1
     explanation: "Rural and urban societies differ on several important bases, including occupation, family system, social relationships, population characteristics, and settlement patterns . Option A: Occupation Occupation is a major basis of difference. Rural society has traditionally been associated with agriculture and allied activities, whereas urban society has a greater concentration of industrial, commercial, professional, and service occupations. Option B: Homogeneity Homogeneity is not considered a basic basis of difference in the classification referred to in this question. Rather, it is generally described as a characteristic of rural society , while urban society tends to be more heterogeneous. Option C: Family system Family system is a basis of difference. Rural communities have traditionally been associated with joint or extended families , whereas urbanisation has contributed to the growth of nuclear families . Option D: Natural disaster Natural disasters are generally not a sociological basis for distinguishing rural and urban characteristics . However, if the question's source specifically treats homogeneity as the intended answer, the examination key should be followed. Hence, according to the intended answer of the source, Option B — Homogeneity is the correct answer."
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 4
-    question: When did Champaran Satyagraha took place?
-    options:
-      - "1917"
-      - "1918"
-      - "1919"
-      - "1920"
-    answer: 0
-    explanation: The Champaran Satyagraha was Mahatma Gandhi’s first civil disobedience movement in India. It took place in the year 1917 in the Champaran district of Bihar, where Gandhi protested against the oppressive tinkathia system imposed on indigo farmers. This movement marked a significant beginning of Gandhi’s leadership in India’s freedom struggle. Therefore, the correct answer is Option A — 1917 .
     keyConcept: Rural And Urban Transformations In Sociology
     testedIn:
       - CSS
@@ -79,19 +40,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 6
-    question: Match the following in the term of Sociologist and Distributions. List I (Sociologist) List II (Distributions) a. Daniel Thomer 1. Small size, Distinctiveness Homogenity b. Robert Redfied 2. Maalik, Kisaan, Mazdoor c. McKim Marriot 3. De-sanskritisation d. D. N. Majumdar 4. Universalisation and Parochialisation
-    options:
-      - a-1, b-4, c-3, d-2
-      - a-2, b-1, c-4, d-3
-      - a-2, b-3, c-1, d-4
-      - a-2, b-1, c-3, d-4
-    answer: 1
-    explanation: "Daniel Thomer is known for his study of rural class structure and identified the categories Maalik, Kisaan, Mazdoor as key rural occupational and class divisions in India. Robert Redfield described rural societies with characteristics like small size, distinctiveness, and homogeneity , especially in his concept of the folk society. McKim Marriot introduced the concepts of Universalisation and Parochialisation to explain cultural changes in Indian villages. D. N. Majumdar contributed to the idea of De-sanskritisation , where lower castes or tribal groups move away from Sanskritic traditions and assert their distinct identity. Thus, the correct matching is: a-2 , b-1 , c-4 , d-3"
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 7
     question: Who has given the concept of urban fringe?
     options:
@@ -105,19 +53,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 8
-    question: Who is author of the book 'Rural Sociology in India'?
-    options:
-      - A. R. Desai
-      - Kingsley Davis
-      - D. N. Majumdar
-      - B. R. Ambedkar
-    answer: 0
-    explanation: The correct answer is A. R. Desai . A. R. Desai was a prominent Indian sociologist who made significant contributions to the study of rural society in India. His book, 'Rural Sociology in India', is a key text in understanding the transformations and social structures of rural India. While the other options are also important figures, they are known for other works, not specifically for this book. Therefore, the correct answer is A. R. Desai.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 9
     question: Considering the following what is the correct sequence of the below in the increasing density of community living? 1. City 2. Town 3. Village 4. Metropolis 5. Neighbourhood
     options:
@@ -127,19 +62,6 @@ questions:
       - 4, 1, 2, 3 and 5
     answer: 0
     explanation: "Neighbourhood refers to a small localized community within a town or city, often with low to moderate population density. Village typically has a sparse population and low community density, often characterized by agrarian lifestyles and widely spaced residences. Town has a higher population density than villages, with better infrastructure, facilities, and more compact settlements. City exhibits a much higher density of population with dense housing, industrial, and commercial zones. Metropolis is a large and densely populated urban area, often a central hub for economy, politics, and culture, showing the highest density of community living. Hence, the correct increasing order of community living density is: Neighbourhood → Village → Town → City → Metropolis."
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 10
-    question: Colonial urban economy of India is characterised by
-    options:
-      - Destruction of traditional handicrafts
-      - Growth of the bourgeoisie
-      - Development of modern industries
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “Colonial urban economy of India is characterised by”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
     keyConcept: Rural And Urban Transformations In Sociology
     testedIn:
       - CSS
@@ -166,19 +88,6 @@ questions:
       - Self cultivation
     answer: 1
     explanation: Subsistence agriculture is the correct answer to “When agriculturists produce primarily for themselves and are unable to produce for the market, it is known as:”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 13
-    question: Match the following in the term of City and Slum. List I (City) List II (Slum) a. Madras 1. Chal b. Bombay 2. Cherry c. Calcutta 3. Ahata d. Kanpur 4. Basti
-    options:
-      - a-2, b-1, c-3, d-4
-      - a-2, b-1, c-4, d-3
-      - a-1, b-2, c-3, d-4
-      - a-1, b-2, c-4, d-3
-    answer: 1
-    explanation: a-2, b-1, c-4, d-3 is the correct answer to “Match the following in the term of City and Slum. List I (City) List II (Slum) a. Madras 1. Chal b. Bombay 2. Cherry c. Calcutta 3. Ahata d. Kanpur 4. Basti”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
     keyConcept: Rural And Urban Transformations In Sociology
     testedIn:
       - CSS
@@ -222,19 +131,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 17
-    question: "New year festivals in Assam are celebrated as:"
-    options:
-      - Baisakhi
-      - Ugadi
-      - Pongal
-      - Bihu
-    answer: 3
-    explanation: Bihu is the correct answer to “New year festivals in Assam are celebrated as:”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 18
     question: The term 'Collective consumption' (Castells 1977) refers to
     options:
@@ -257,19 +153,6 @@ questions:
       - AD 100
     answer: 2
     explanation: 2000 BC is the correct answer to “The world's first cities appeared about”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 20
-    question: During 2001-11, the growth of Rural population has been
-    options:
-      - 12.18%
-      - 18.12%
-      - 12.14%
-      - 14.18%
-    answer: 2
-    explanation: 12.14% is the correct answer to “During 2001-11, the growth of Rural population has been”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
     keyConcept: Rural And Urban Transformations In Sociology
     testedIn:
       - CSS
@@ -313,19 +196,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 24
-    question: Match the following in the term of Movements and years. List I (Movements) List II (Years) a. Moplan 1. 1928 b. Champaran 2. 1918 c. Kheda 3. 1921 d. Bardoli 4. 1917
-    options:
-      - a-3, b-4, c-2, d-1
-      - a-4, b-3, c-2, d-1
-      - a-1, b-3, c-2, d-4
-      - a-2, b-3, c-1, d-4
-    answer: 0
-    explanation: a-3, b-4, c-2, d-1 is the correct answer to “Match the following in the term of Movements and years. List I (Movements) List II (Years) a. Moplan 1. 1928 b. Champaran 2. 1918 c. Kheda 3. 1921 d. Bardoli 4. 1917”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 25
     question: "The village landlord was called:"
     options:
@@ -365,19 +235,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 28
-    question: What has brought substantial transformation of the rural countryside of Kerala?
-    options:
-      - Redistributive measures
-      - Linkage to external economy i.e., gulf countries
-      - Political mobilisation
-      - All of the above
-    answer: 3
-    explanation: All of the above is the correct answer to “What has brought substantial transformation of the rural countryside of Kerala”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 29
     question: Consider the following statement 1. Gated communities has drawn a barrier between resident and other community. 2. Gated communities create the gap between low level income groups. 3. Gated communities are best suited for the people searching high quality life style. Which of the following statements given is / are correct?
     options:
@@ -391,19 +248,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 30
-    question: In Indian village has some characteristic feature. Identify them and choose the correct alternative on the basis of it. 1. A unit of society. 2. Simple and economical life. 3. Preserves of the ancient cultures of their respective community. Which of the statements given above are correct?
-    options:
-      - 1 and 2
-      - 2 and 3
-      - 1 and 3
-      - All of these
-    answer: 0
-    explanation: 1 and 2 is the correct answer to “In Indian village has some characteristic feature. Identify them and choose the correct alternative on the basis of it. 1. A unit of society. 2. Simple and economical life. 3. Preserves of the ancient cultures of their respective community. Which of the statements given above are correct”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 31
     question: Who introduced the term white collar crime?
     options:
@@ -413,19 +257,6 @@ questions:
       - Durkheim
     answer: 2
     explanation: Sutherland is the correct answer to “Who introduced the term white collar crime”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 32
-    question: Which one is not the Characteristic of Indian Village Life?
-    options:
-      - Joint Family
-      - Casteism and Caste System
-      - Jajmani System
-      - Formality
-    answer: 3
-    explanation: Formality is the correct answer to “Which one is not the Characteristic of Indian Village Life”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
     keyConcept: Rural And Urban Transformations In Sociology
     testedIn:
       - CSS
@@ -469,19 +300,6 @@ questions:
     testedIn:
       - CSS
       - PMS
-  - id: 36
-    question: In the Indian context urban is generally described as
-    options:
-      - A function of population size and density
-      - A permanent settlement of cities
-      - A community enjoying modern facilities with low density of population
-      - A class of people characterised by higher education
-    answer: 0
-    explanation: A function of population size and density is the correct answer to “In the Indian context urban is generally described as”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
   - id: 37
     question: Which of the following refers to the refurbishing or replacement of old buildings and new use of previously developed land in urban areas?
     options:
@@ -491,19 +309,6 @@ questions:
       - None of these
     answer: 1
     explanation: Urban recycling is the correct answer to “Which of the following refers to the refurbishing or replacement of old buildings and new use of previously developed land in urban areas”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
-    keyConcept: Rural And Urban Transformations In Sociology
-    testedIn:
-      - CSS
-      - PMS
-  - id: 38
-    question: Who worte the book 'India's villages'?
-    options:
-      - M. N. Srinivas
-      - Louis Dumont
-      - Robert Redfield
-      - H. Gould
-    answer: 0
-    explanation: M. N. Srinivas is the correct answer to “Who worte the book 'India's villages'”. This question is standard in competitive examination syllabi for Rural And Urban Transformations In Sociology.
     keyConcept: Rural And Urban Transformations In Sociology
     testedIn:
       - CSS

@@ -239,16 +239,6 @@ questions:
     answer: 2
     explanation: The Summit for Democracy was a virtual summit hosted by USA .
     keyConcept: Summits, Conferences & Declarations
-  - id: 24
-    question: INSACOG is the forum set up by which country to monitor genome sequencing and variation of Covid strains?
-    options:
-      - USA
-      - India
-      - UK
-      - Russia
-    answer: 1
-    explanation: India is the correct answer to “INSACOG is the forum set up by which country to monitor genome sequencing and variation of Covid strains”. Items of this type are drawn from the Summits, Conferences & Declarations — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
-    keyConcept: Summits, Conferences & Declarations
   - id: 25
     question: Which city hosted G7 Foreign Ministers meeting in December 2021?
     options:

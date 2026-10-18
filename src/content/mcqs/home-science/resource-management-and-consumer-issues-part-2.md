@@ -418,14 +418,14 @@ questions:
       - PPSC
       - FPSC
   - id: 32
-    question: Which solid waste disposal method is suitable to Indian conditions?
+    question: Which solid waste disposal method is suitable to Pakistani conditions?
     options:
       - Land filling
       - Incineration
       - Pulverisation
       - Composition
     answer: 3
-    explanation: Composition is the correct answer to “Which solid waste disposal method is suitable to Indian conditions”. This question is standard in competitive examination syllabi for Resource Management And Consumer Issues.
+    explanation: Composition is the correct answer to “Which solid waste disposal method is suitable to Pakistani conditions”. This question is standard in competitive examination syllabi for Resource Management And Consumer Issues.
     keyConcept: Resource Management And Consumer Issues
     testedIn:
       - PPSC

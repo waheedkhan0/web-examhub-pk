@@ -509,19 +509,6 @@ questions:
     testedIn:
       - PPSC
       - FPSC
-  - id: 39
-    question: Kalidas is . . . . . . . . Shakespeare of India.
-    options:
-      - a
-      - an
-      - the
-      - no article
-    answer: 2
-    explanation: As 'Kalidas' is compared with a specific person 'Shakespeare', 'the' article will be used.
-    keyConcept: Articles
-    testedIn:
-      - PPSC
-      - FPSC
   - id: 40
     question: She thanked me for . . . . . . . . help I rendered.
     options:
@@ -536,5 +523,4 @@ questions:
       - PPSC
       - FPSC
 ---
-
 
