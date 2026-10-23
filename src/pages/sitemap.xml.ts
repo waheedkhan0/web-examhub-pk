@@ -14,6 +14,8 @@ const SITE = (import.meta.env?.SITE_URL || 'https://examhub.pk').replace(/\/+$/,
 const STATIC_PATHS = [
   { path: '/', priority: 1.0 },
   { path: '/mcqs', priority: 0.9 },
+  { path: '/practice', priority: 0.9 },
+  { path: '/jobs', priority: 0.8 },
   { path: '/subjects', priority: 0.8 },
   { path: '/guides', priority: 0.8 },
   { path: '/exams', priority: 0.8 },

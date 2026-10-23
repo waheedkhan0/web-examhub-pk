@@ -8,6 +8,10 @@ Disallow: /*?*sort=
 User-agent: Googlebot
 Allow: /
 
+# Google AdSense & AdMob Crawler
+User-agent: Mediapartners-Google
+Allow: /
+
 # Bing
 User-agent: Bingbot
 Allow: /
