@@ -66,12 +66,24 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
+    <meta name="author" content="ExamHub Academic Editorial Board" />
+    <meta name="publisher" content="ExamHub.pk" />
     <meta name="theme-color" content="#0f172a" />
     
-    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <!-- Geographic & Regional Targeting -->
+    <meta name="geo.region" content="PK" />
+    <meta name="geo.placename" content="Pakistan" />
+
+    <!-- Crawlers & LLM Directives -->
+    {noindex ? (
+      <meta name="robots" content="noindex, nofollow" />
+    ) : (
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    )}
     <link rel="canonical" href={finalCanonical} />
     {prevUrl && <link rel="prev" href={prevUrl} />}
     {nextUrl && <link rel="next" href={nextUrl} />}
+    <link rel="alternate" type="text/markdown" title="LLM Context (llms.txt)" href="/llms.txt" />
 
     <!-- Open Graph -->
     <meta property="og:title" content={pageTitle} />
@@ -80,6 +92,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
     <meta property="og:type" content="website" />
     <meta property="og:url" content={finalCanonical} />
     <meta property="og:site_name" content="ExamHub.pk - Pakistani Competitive Exam Preparation" />
+    <meta property="og:locale" content="en_PK" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -113,15 +126,15 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
     )}
 
 
-    <!-- Structured Data: Organization -->
+    <!-- Structured Data: Organization & Educational Entity -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "Organization",
+        "@type": ["Organization", "EducationalOrganization"],
         "name": "ExamHub.pk",
         "url": "https://examhub.pk",
         "logo": "https://examhub.pk/logo.png",
-        "description": "High-quality Pakistani competitive exam preparation platform with MCQs, guides, and resources.",
+        "description": "High-quality Pakistani competitive exam preparation platform with verified MCQs, worked academic explanations, past papers, syllabus blueprints, and syllabus mock tests.",
         "sameAs": [
           "https://web.facebook.com/examhubpk",
           "https://www.twitter.com/examhubpk",
@@ -129,9 +142,28 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
         ],
         "contactPoint": {
           "@type": "ContactPoint",
-          "contactType": "Customer Support",
-          "email": "support@examhub.pk"
-        }
+          "contactType": "Academic Support",
+          "email": "support@examhub.pk",
+          "areaServed": "PK",
+          "availableLanguage": ["English", "Urdu"]
+        },
+        "knowsAbout": [
+          "Federal Public Service Commission (FPSC)",
+          "Punjab Public Service Commission (PPSC)",
+          "Khyber Pakhtunkhwa Public Service Commission (KPPSC)",
+          "Sindh Public Service Commission (SPSC)",
+          "Balochistan Public Service Commission (BPSC)",
+          "Central Superior Services (CSS) Examination",
+          "Provincial Management Services (PMS) Examination",
+          "National Testing Service (NTS)",
+          "Pakistan Affairs and Current Affairs",
+          "Everyday Science and General Knowledge MCQs"
+        ],
+        "areaServed": {
+          "@type": "Country",
+          "name": "Pakistan"
+        },
+        "publishingPrinciples": "https://examhub.pk/about"
       }
     </script>
 

@@ -1,0 +1,62 @@
+# ExamHub.pk — Pakistani Competitive Exam Preparation Platform
+
+> ExamHub.pk is Pakistan's premier academic repository and testing platform for competitive civil service, departmental, and recruitment examinations. It hosts over 78,000+ verified multiple-choice questions (MCQs) with comprehensive worked solutions, syllabus-aligned mock tests, official mark distributions, and past paper archives for FPSC, PPSC, KPPSC, SPSC, BPSC, CSS, PMS, and NTS.
+
+ExamHub.pk is structured specifically to provide authoritative, primary-source exam preparation resources for candidates appearing in Pakistani federal and provincial commissions. Every practice item features verified answers, distractor rationales, key conceptual anchors, and citations from historical commission papers.
+
+## Core Preparation Modules
+
+- [Take Syllabus Mock Tests](https://examhub.pk/practice): Timed, weighted mock test engine simulating official commission test conditions and syllabus blueprints for BS-16 and BS-17 recruitments.
+- [Advertised Jobs & Syllabi (BS-16 & BS-17)](https://examhub.pk/jobs): Official syllabus breakdowns, paper patterns, and targeted preparation modules for actively advertised government positions.
+- [Complete Subject MCQ Library](https://examhub.pk/mcqs): Comprehensive searchable repository of 78,000+ multiple-choice questions categorized by academic subject and topic.
+- [Subject Portals](https://examhub.pk/subjects): Subject curriculums, topic indices, and modular practice series.
+- [Competitive Exams Hub](https://examhub.pk/exams): Dedicated exam portals covering eligibility criteria, syllabus blueprints, and past papers.
+- [Academic Study Guides](https://examhub.pk/guides): Expert guidance on time management, precis writing, current affairs analysis, and paper attempt methodologies.
+- [Exam Notifications & Blog](https://examhub.pk/blog): Syllabus updates, commission announcements, and paper analysis.
+
+## Key Examinations Covered
+
+- [CSS (Central Superior Services)](https://examhub.pk/exams/css): Comprehensive preparation for the Federal Public Service Commission CSS Competitive Examination, including MPT (MCQ-based Preliminary Test) and compulsory subjects.
+- [PMS (Provincial Management Service)](https://examhub.pk/exams/pms): Provincial civil service exam prep for Punjab, KP, Sindh, and Balochistan commissions.
+- [KPPSC PMS Examination](https://examhub.pk/exams/kppsc-pms-officer): In-depth syllabus guide, past papers, and mock papers for KPPSC PMS Provincial Management Officer.
+- [FPSC (Federal Public Service Commission)](https://examhub.pk/exams/fpsc): Screening tests, descriptive exams, and past papers for federal ministries, departments, and executive agencies.
+- [FPSC FIA Superintendent](https://examhub.pk/exams/fpsc-fia-superintendent): Targeted preparation for Federal Investigation Agency superintendent posts (FIA Act 1974, criminal investigation, English, GK).
+- [FPSC Computer Operator](https://examhub.pk/exams/fpsc-computer-operator): Full syllabus test sets for IT fundamentals, databases, networking, and system administration.
+- [KPPSC Police ASI](https://examhub.pk/exams/kppsc-asi-police): Full syllabus mock tests and past paper questions for KPPSC Assistant Sub-Inspector of Police.
+- [FPSC Lecturer Recruitment](https://examhub.pk/exams/fpsc-lecturer): Subject specialist tests and professional pedagogy preparation for federal colleges.
+- [PPSC (Punjab Public Service Commission)](https://examhub.pk/exams/ppsc): General recruitment tests, Tehsildar, Sub-Inspector, and educator screening exams.
+- [SPSC (Sindh Public Service Commission)](https://examhub.pk/exams/spsc): CCE and departmental recruitment test sets.
+- [NTS (National Testing Service)](https://examhub.pk/exams/nts): GAT General, NAT, and recruitment testing past papers and quantitative reasoning.
+
+## High-Yield Subject Disciplines
+
+- [English Language & Comprehension](https://examhub.pk/subjects/english): Synonyms, antonyms, sentence correction, idioms, prepositions, analogies, and reading comprehension.
+- [Pakistan Affairs & Studies](https://examhub.pk/subjects/pakistan-studies): Constitutional history, 1973 Constitution, ideological foundations, foreign policy, and historical timeline from 712 AD to contemporary era.
+- [Current Affairs](https://examhub.pk/subjects/current-affairs): National and international affairs, foreign relations, treaties, global economics, summits, and multilateral organizations.
+- [General Knowledge](https://examhub.pk/subjects/general-knowledge): World geography, international organizations, capitals, currencies, treaties, history, and records.
+- [Everyday Science](https://examhub.pk/subjects/everyday-science): Physical sciences, biological sciences, environmental science, astronomy, and technology concepts.
+- [Islamic Studies / Islamiat](https://examhub.pk/subjects/islamiat): Seerah, Quranic sciences, Hadith literature, Islamic jurisprudence, Rightly Guided Caliphate, and contemporary Islamic world.
+- [Computer Science & Information Technology](https://examhub.pk/subjects/computer-science): Programming, computer networks, database systems, cybersecurity, operating systems, and computer architecture.
+- [Civil Engineering](https://examhub.pk/subjects/civil-engineering): Structural analysis, fluid mechanics, surveying, soil mechanics, environmental engineering, and RCC design.
+- [Electrical Engineering](https://examhub.pk/subjects/electrical-engineering): Power systems, machines, electrical circuits, control systems, and electronics.
+- [Law & Jurisprudence](https://examhub.pk/subjects/law): Pakistan Penal Code (PPC), Code of Criminal Procedure (CrPC), Civil Procedure Code (CPC), Qanun-e-Shahadat Order 1984, and constitutional law.
+- [Commerce, Accounting & Finance](https://examhub.pk/subjects/commerce): Financial accounting, corporate taxation, cost accounting, auditing, and corporate governance.
+- [Pedagogy & Education](https://examhub.pk/subjects/pedagogy): Teaching methodologies, classroom management, Bloom's taxonomy, child psychology, and educational evaluation.
+
+## Pedagogical & Content Architecture
+
+Every question on ExamHub.pk is structured according to strict academic guidelines:
+1. **Unambiguous Stem**: Formulated according to standardized commission questioning patterns.
+2. **Four to Five Distinct Options**: Including authentic distractor options derived from past examination patterns.
+3. **Verified Answer Key**: Cross-referenced against official commission answer keys and standard academic textbooks.
+4. **Detailed Academic Explanation**: Explains why the correct choice is valid and clarifies common student misconceptions.
+5. **Key Conceptual Anchor**: Highlights the foundational rule, law, treaty, date, or equation.
+6. **Examiner's Advisory**: Identifies common traps used by examiners to confuse rote learners.
+7. **Exam Attribution**: Mentions historical test occurrences (e.g., FPSC AD FIA 2022, PPSC Tehsildar 2020).
+
+## Optional Resources
+
+- [Sitemap](https://examhub.pk/sitemap.xml): Machine-readable XML sitemap of all published pages.
+- [About ExamHub & Editorial Board](https://examhub.pk/about): Learn about the academic editorial standards, review policies, and contributors.
+- [Privacy Policy](https://examhub.pk/privacy-policy): Privacy practices and data handling policies.
+- [Terms of Service](https://examhub.pk/terms): Terms of use for the platform.

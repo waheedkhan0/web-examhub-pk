@@ -451,4 +451,24 @@ const difficultyColors: Record<string, string> = {
       }
     ]
   })} />
+
+  <!-- Course & Curriculum JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": `${subject.data.title} — Syllabus & MCQ Preparation`,
+    "description": subject.data.description,
+    "provider": {
+      "@type": "Organization",
+      "name": "ExamHub.pk",
+      "url": "https://examhub.pk"
+    },
+    "educationalLevel": "Competitive Examination Level",
+    "inLanguage": "en-PK",
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "courseMode": "Online",
+      "courseWorkload": `${totalQuestions} Verified Questions across ${topicData.length} Topics`
+    }
+  })} />
 </BaseLayout>

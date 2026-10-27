@@ -15,6 +15,13 @@ Disallow: /*.json$
 Disallow: /*?*sort=
 Disallow: /*?*q=
 
+# Google-Extended (Gemini & Vertex AI)
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
 # Google AdSense & AdMob Crawler
 User-agent: Mediapartners-Google
 Allow: /
@@ -28,5 +35,68 @@ Disallow: /*.json$
 Disallow: /*?*sort=
 Disallow: /*?*q=
 
-# Sitemap
+# OpenAI / ChatGPT Crawlers
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /search
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /search
+
+# Anthropic / Claude Crawlers
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /admin/
+Disallow: /search
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /admin/
+Disallow: /search
+
+# Perplexity AI Search Crawler
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
+# Apple AI & Siri Crawlers
+User-agent: Applebot
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+
+# Sitemaps and LLM Discovery
 Sitemap: https://examhub.pk/sitemap.xml
+# LLMs Text: https://examhub.pk/llms.txt
+# LLMs Full Text: https://examhub.pk/llms-full.txt

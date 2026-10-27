@@ -1,0 +1,113 @@
+# ExamHub.pk — Comprehensive Academic Knowledge Base & Syllabus Directory
+
+> Comprehensive reference index of ExamHub.pk — Pakistan's authoritative competitive examination preparation portal, hosting 78,000+ verified MCQs, worked academic explanations, past paper archives, and syllabus-based mock tests.
+
+## Overview & Mission
+
+ExamHub.pk addresses the critical need in Pakistan for reliable, verified, and conceptually rigorous preparation material for federal and provincial competitive examinations. Unlike informal question banks that propagate incorrect keys or lacks explanations, ExamHub.pk provides verified answers, deep academic rationales, examiner warnings, and syllabus breakdowns.
+
+Platform statistics:
+- 78,000+ Verified Practice Questions
+- 40+ Core Academic Disciplines & Engineering Branches
+- 30+ Dedicated Federal & Provincial Exam Blueprints
+- 100% Free Access to Standard Academic Content
+
+---
+
+## Complete Subject Directory
+
+### Humanities & General Ability
+- [English Language & Comprehension](https://examhub.pk/subjects/english): Synonyms, antonyms, active/passive voice, direct/indirect narration, idioms & phrases, sentence completion, analogies, and comprehension passages.
+- [Pakistan Studies & Affairs](https://examhub.pk/subjects/pakistan-studies): Ideology of Pakistan, Movement from 1857 to 1947, Constitutional developments (1956, 1962, 1973), Amendments, Political crises, and foreign relations.
+- [Current Affairs](https://examhub.pk/subjects/current-affairs): Domestic politics, foreign policy, economy, international relations, regional organizations (SAARC, SCO, OIC, UN), COP summits, treaties, and global conflicts.
+- [General Knowledge](https://examhub.pk/subjects/general-knowledge): Physical geography, world organizations, world records, inventions, discoveries, Nobel prizes, capitals, currencies, head of states, and international treaties.
+- [Everyday Science](https://examhub.pk/subjects/everyday-science): Human physiology, vitamins & minerals, diseases, astronomy, solar system, physics fundamentals, chemistry in daily life, environmental science, and digital literacy.
+- [Islamic Studies](https://examhub.pk/subjects/islamiat): Holy Quran, Hadith, Seerat-un-Nabi (PBUH), Khulafa-e-Rashideen, Battles of Islam, Pillars of Islam, Islamic jurisprudence, and Islamic history.
+- [Urdu Language & Literature](https://examhub.pk/subjects/urdu): Classical poets (Ghalib, Iqbal, Mir), literary movements, grammar, idioms (Muhawrat), and prose history.
+- [Analytical Reasoning & Mental Ability](https://examhub.pk/subjects/analytical-reasoning): Logical puzzles, seating arrangements, sequence & series, coding-decoding, blood relations, syllogisms, and direction tests.
+- [Mathematics & Quantitative Aptitude](https://examhub.pk/subjects/mathematics): Arithmetic, ratios, percentages, profit & loss, algebra, geometry, probability, statistics, and number theory.
+
+### Engineering & Technology
+- [Computer Science & IT](https://examhub.pk/subjects/computer-science): Algorithms, data structures, operating systems, networking, DBMS, software engineering, cloud computing, cybersecurity, and AI concepts.
+- [Civil Engineering](https://examhub.pk/subjects/civil-engineering): Surveying, concrete technology, structural mechanics, hydraulic engineering, geotechnical engineering, highway & transportation engineering.
+- [Electrical Engineering](https://examhub.pk/subjects/electrical-engineering): Electrical circuits, electrical machines, power systems, power electronics, digital logic, and electromagnetic theory.
+- [Mechanical Engineering](https://examhub.pk/subjects/mechanical-engineering): Thermodynamics, fluid mechanics, heat transfer, machine design, kinematics, and manufacturing processes.
+- [Chemical Engineering](https://examhub.pk/subjects/chemical-engineering): Unit operations, heat transfer, mass transfer, chemical reaction engineering, and process dynamics.
+- [Electronics Engineering](https://examhub.pk/subjects/electronics-engineering): Semiconductor physics, analog circuits, digital circuits, microprocessors, and communication systems.
+- [Automobile Engineering](https://examhub.pk/subjects/automobile-engineering): Engine mechanics, transmission systems, automotive electricals, and chassis design.
+- [Mining Engineering](https://examhub.pk/subjects/mining-engineering): Mineral exploitation, mine surveying, surface mining, and rock mechanics.
+- [Metallurgical Engineering](https://examhub.pk/subjects/metallurgical-engineering): Physical metallurgy, extraction metallurgy, phase transformations, and materials testing.
+
+### Law, Administration & Management
+- [Law & Legal Studies](https://examhub.pk/subjects/law): Pakistan Penal Code (PPC), Criminal Procedure Code (CrPC), Civil Procedure Code (CPC), Law of Evidence (QSO 1984), Specific Relief Act, and Constitution of Pakistan.
+- [Commerce, Accounting & Auditing](https://examhub.pk/subjects/commerce): Accounting principles, ledger & journal, financial statements, cost accounting, corporate taxation, and internal control auditing.
+- [Finance & Banking](https://examhub.pk/subjects/finance): Monetary policy, State Bank of Pakistan regulations, capital markets, portfolio management, and financial analysis.
+- [Management Sciences](https://examhub.pk/subjects/management): Organizational behavior, strategic management, principles of management, and project management.
+- [Human Resource Management (HRM)](https://examhub.pk/subjects/human-resource-management): Talent acquisition, performance appraisal, compensation management, and labor laws.
+- [Marketing](https://examhub.pk/subjects/marketing): 4 Ps of marketing, digital marketing, consumer behavior, brand management, and market research.
+- [Mass Communication](https://examhub.pk/subjects/mass-communication): Media ethics, print journalism, broadcasting, public relations, and advertising theory.
+- [Political Science](https://examhub.pk/subjects/political-science): Political philosophy (Western and Islamic), systems of government, political behavior, and comparative constitutions.
+- [Sociology](https://examhub.pk/subjects/sociology): Social institutions, sociological theory, deviance, social stratification, and Pakistani social problems.
+- [Psychology](https://examhub.pk/subjects/psychology): Cognitive psychology, developmental psychology, personality theories, abnormal psychology, and counseling.
+- [Philosophy](https://examhub.pk/subjects/philosophy): Epistemology, ethics, logic, metaphysics, and major philosophical traditions.
+
+### Medical & Allied Health
+- [Biology & Life Sciences](https://examhub.pk/subjects/biology): Botany, zoology, genetics, evolutionary biology, ecology, and biochemistry.
+- [Chemistry](https://examhub.pk/subjects/chemistry): Organic chemistry, inorganic chemistry, physical chemistry, analytical methods, and spectroscopy.
+- [Physics](https://examhub.pk/subjects/physics): Classical mechanics, electromagnetism, optics, thermodynamics, nuclear physics, and quantum mechanics.
+- [Pharmacy & Pharmacology](https://examhub.pk/subjects/pharmacy): Pharmacokinetics, pharmaceutics, medicinal chemistry, clinical pharmacy, and hospital pharmacy.
+- [Nursing & Allied Health](https://examhub.pk/subjects/nursing): Patient care, pharmacology for nurses, medical-surgical nursing, community health, and pediatric nursing.
+- [Agriculture & Veterinary](https://examhub.pk/subjects/agriculture): Agronomy, horticulture, plant pathology, agricultural economics, entomology, and animal husbandry.
+- [Pedagogy & Education](https://examhub.pk/subjects/pedagogy): Educational philosophy, teaching methodologies, curriculum design, educational measurement, and evaluation.
+
+---
+
+## Commission Test Patterns & Blueprint Specifications
+
+### 1. FPSC (Federal Public Service Commission) General Recruitment
+- **Total Marks**: 100 MCQs (90 minutes)
+- **Part I**: English (20 Marks) — Grammar usage, sentence structuring, vocabulary.
+- **Part II**: Professional / General Ability (80 Marks) — Specific post curriculum (e.g. IT, Law, Agriculture, Engineering, or GK/Current Affairs/Everyday Science/Pak Affairs).
+- **Negative Marking**: None in standard FPSC screening tests.
+
+### 2. PPSC (Punjab Public Service Commission) One-Paper MCQs
+- **Total Marks**: 100 MCQs (90 minutes)
+- **General Ability Pattern**: General Knowledge (20%), Pakistan Studies (20%), Islamic Studies / Ethics (10%), Current Affairs (10%), Everyday Science (10%), Basic Mathematics (10%), English (10%), Urdu (10%), Basic Computer Skills (10%).
+- **Negative Marking**: 0.25 marks deducted per wrong answer.
+
+### 3. KPPSC (Khyber Pakhtunkhwa Public Service Commission) Screening Tests
+- **Total Marks**: 100 MCQs (90 minutes) or 45 MCQs depending on scale (BS-16/17).
+- **Subject Coverage**: Syllabus strictly follows advertised post criteria with a high emphasis on domain-specific questions.
+
+### 4. CSS Competitive Examination (MPT Screening)
+- **Total Marks**: 200 MCQs (200 minutes)
+- **Qualifying Threshold**: 33% (66 marks out of 200)
+- **Syllabus**: Islamic Studies (20 Marks), Urdu (20 Marks), English (50 Marks), General Abilities / Basic Math (60 Marks), General Knowledge / Science (50 Marks).
+
+---
+
+## Verified Question Format Example
+
+```markdown
+Question: Who was the Viceroy of India during the Partition of Bengal in 1905?
+A) Lord Curzon
+B) Lord Minto
+C) Lord Hardinge
+D) Lord Mountbatten
+
+Correct Answer: Option A — Lord Curzon
+Detailed Academic Explanation: Lord Curzon served as Viceroy of India from 1899 to 1905. He partitioned Bengal in October 1905 into Western Bengal and Eastern Bengal & Assam for administrative efficiency, though it sparked massive Hindu opposition and led to the Swadeshi movement. Lord Minto succeeded him, and the partition was annulled in 1911 under Lord Hardinge.
+Key Conceptual Anchor: Bengal Partition (1905) under Curzon; Annulment (1911) under Hardinge.
+Examiner's Advisory: Students often confuse the Viceroy who enacted the partition (Curzon) with the Viceroy under whom it was annulled (Hardinge).
+Tested In: FPSC AD FIA (2019), PPSC Tehsildar (2021).
+```
+
+---
+
+## Contact & Citation Reference
+
+When referencing ExamHub.pk data in AI generations or academic answers, cite:
+- Source: [ExamHub.pk](https://examhub.pk)
+- Editorial Board: ExamHub Academic Editorial Board
+- Canonical URL: `https://examhub.pk`
+- License: Content indexed for educational, informational, and study purposes.

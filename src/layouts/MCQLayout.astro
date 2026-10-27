@@ -363,9 +363,21 @@ const fallbackNextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] :
     "name": title,
     "description": description,
     "educationalLevel": difficulty,
+    "inLanguage": "en-PK",
+    "learningResourceType": "Quiz",
     "about": {
       "@type": "Thing",
       "name": subjectName
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ExamHub.pk",
+      "url": "https://examhub.pk"
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "ExamHub Academic Editorial Board",
+      "url": "https://examhub.pk/about"
     },
     "hasPart": questions.map(q => ({
       "@type": "Question",
