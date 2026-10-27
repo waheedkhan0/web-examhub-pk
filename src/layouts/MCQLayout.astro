@@ -13,6 +13,14 @@ interface Question {
   testedIn?: string[];
 }
 
+interface PartInfo {
+  subject: string;
+  topic: string;
+  topicName: string;
+  count: number;
+  part: number;
+}
+
 interface RelatedSet {
   subject: string;
   topic: string;
@@ -32,6 +40,9 @@ interface Props {
   targetExams: string[];
   questions: Question[];
   updatedDate: string;
+  seriesParts?: PartInfo[];
+  prevPart?: PartInfo | null;
+  nextPart?: PartInfo | null;
   relatedSets?: RelatedSet[];
   ogImage?: string;
 }
@@ -47,6 +58,9 @@ const {
   targetExams,
   questions,
   updatedDate,
+  seriesParts = [],
+  prevPart = null,
+  nextPart = null,
   relatedSets = [],
   ogImage,
 } = Astro.props;
@@ -59,11 +73,21 @@ const difficultyColors = {
   'Exam-Level': 'bg-rose-50 text-rose-800 border-rose-200',
 };
 
-// Find next topic if available
-const nextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
+// Sequential URLs for series navigation and search crawler hints
+const canonicalUrl = `https://examhub.pk/mcqs/${subject}/${topic}`;
+const prevUrl = prevPart ? `https://examhub.pk/mcqs/${prevPart.subject}/${prevPart.topic}` : undefined;
+const nextUrl = nextPart ? `https://examhub.pk/mcqs/${nextPart.subject}/${nextPart.topic}` : undefined;
+const fallbackNextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
 ---
 
-<BaseLayout title={title} description={description} ogImage={ogImage}>
+<BaseLayout
+  title={title}
+  description={description}
+  ogImage={ogImage}
+  canonical={canonicalUrl}
+  prevUrl={prevUrl}
+  nextUrl={nextUrl}
+>
   <!-- Breadcrumb -->
   <div class="bg-slate-50 border-b border-slate-200/80">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
@@ -124,6 +148,40 @@ const nextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
           </div>
         </div>
       </div>
+
+      <!-- Topic Series Navigation Pill Bar (Multi-Part Linking) -->
+      {seriesParts && seriesParts.length > 1 && (
+        <div class="mt-6 pt-5 border-t border-slate-800/80">
+          <div class="flex items-center gap-2 mb-2.5 text-xs font-bold uppercase tracking-wider text-teal-300">
+            <span>📚</span>
+            <span>Module Parts in this Series ({seriesParts.length} Parts):</span>
+          </div>
+          <div class="flex flex-wrap gap-2">
+            {seriesParts.map((p) => {
+              const isCurrent = p.topic === topic;
+              return isCurrent ? (
+                <span
+                  class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-black bg-teal-500 text-slate-950 shadow-sm"
+                  aria-current="page"
+                >
+                  <span>✓</span>
+                  <span>Part {p.part}</span>
+                  <span class="text-[10px] font-semibold opacity-75">({p.count}Q)</span>
+                </span>
+              ) : (
+                <a
+                  href={`/mcqs/${p.subject}/${p.topic}`}
+                  class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold bg-white/10 hover:bg-white/20 text-slate-200 hover:text-white transition"
+                  title={`Go to Part ${p.part}`}
+                >
+                  <span>Part {p.part}</span>
+                  <span class="text-[10px] opacity-70">({p.count}Q)</span>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   </header>
 
@@ -155,23 +213,64 @@ const nextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
       setId={`${subject}/${topic}`}
     />
 
-    <!-- Post-Quiz Action Banner: Next Topic or Return -->
-    {nextSet && (
-      <div class="mt-12 bg-gradient-to-r from-teal-900 to-slate-900 text-white rounded-2xl p-6 sm:p-8 shadow-md flex flex-col sm:flex-row sm:items-center justify-between gap-6">
-        <div>
-          <span class="text-xs font-bold uppercase tracking-wider text-teal-300">Continue Your Practice</span>
-          <h3 class="text-xl font-black mt-1">{nextSet.topicName}</h3>
-          <p class="text-xs sm:text-sm text-slate-300 mt-1">
-            Master the next curriculum module with {nextSet.count} exam-standard MCQs.
-          </p>
+    <!-- Sequential Series Pager & Continue Practice -->
+    {(prevPart || nextPart || fallbackNextSet) && (
+      <div class="mt-10 pt-6 border-t border-slate-200">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {prevPart ? (
+            <a
+              href={`/mcqs/${prevPart.subject}/${prevPart.topic}`}
+              class="p-4 rounded-2xl border border-slate-200 bg-white hover:border-teal-500 hover:bg-teal-50/20 transition flex items-center gap-3.5 group shadow-xs"
+            >
+              <div class="w-10 h-10 rounded-xl bg-slate-100 group-hover:bg-teal-100 text-slate-600 group-hover:text-teal-700 flex items-center justify-center font-bold text-lg transition-colors flex-shrink-0">
+                ←
+              </div>
+              <div class="min-w-0">
+                <span class="text-2xs font-extrabold uppercase tracking-wider text-slate-500 block">Previous Module</span>
+                <span class="text-sm font-bold text-slate-900 group-hover:text-teal-700 transition truncate block">
+                  {prevPart.topicName}
+                </span>
+                <span class="text-xs text-slate-500">{prevPart.count} verified questions</span>
+              </div>
+            </a>
+          ) : (
+            <div class="hidden sm:block"></div>
+          )}
+
+          {nextPart ? (
+            <a
+              href={`/mcqs/${nextPart.subject}/${nextPart.topic}`}
+              class="p-4 rounded-2xl border-2 border-teal-500 bg-gradient-to-br from-teal-500/10 to-teal-500/5 hover:bg-teal-500/20 transition flex items-center justify-between gap-3.5 group shadow-xs text-right"
+            >
+              <div class="min-w-0 flex-1">
+                <span class="text-2xs font-black uppercase tracking-wider text-teal-800 block">Next Part in Series</span>
+                <span class="text-sm font-black text-slate-900 group-hover:text-teal-900 transition truncate block">
+                  {nextPart.topicName}
+                </span>
+                <span class="text-xs text-teal-700 font-semibold">{nextPart.count} verified questions</span>
+              </div>
+              <div class="w-10 h-10 rounded-xl bg-teal-600 text-white flex items-center justify-center font-bold text-lg group-hover:scale-105 transition-transform flex-shrink-0 shadow-xs">
+                →
+              </div>
+            </a>
+          ) : fallbackNextSet ? (
+            <a
+              href={`/mcqs/${fallbackNextSet.subject}/${fallbackNextSet.topic}`}
+              class="p-4 rounded-2xl border border-slate-200 bg-white hover:border-teal-500 hover:bg-teal-50/20 transition flex items-center justify-between gap-3.5 group shadow-xs text-right"
+            >
+              <div class="min-w-0 flex-1">
+                <span class="text-2xs font-extrabold uppercase tracking-wider text-slate-500 block">Next Subject Module</span>
+                <span class="text-sm font-bold text-slate-900 group-hover:text-teal-700 transition truncate block">
+                  {fallbackNextSet.topicName}
+                </span>
+                <span class="text-xs text-slate-500">{fallbackNextSet.count} questions</span>
+              </div>
+              <div class="w-10 h-10 rounded-xl bg-slate-100 group-hover:bg-teal-100 text-slate-600 group-hover:text-teal-700 flex items-center justify-center font-bold text-lg transition-colors flex-shrink-0">
+                →
+              </div>
+            </a>
+          ) : null}
         </div>
-        <a
-          href={`/mcqs/${nextSet.subject}/${nextSet.topic}`}
-          class="inline-flex items-center justify-center px-6 py-3 rounded-xl bg-teal-500 hover:bg-teal-400 text-slate-950 font-black text-sm shadow-md transition-all self-start sm:self-auto flex-shrink-0"
-        >
-          <span>Next Practice Set</span>
-          <span class="ml-2">→</span>
-        </a>
       </div>
     )}
 
@@ -192,7 +291,7 @@ const nextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
     </section>
 
     <!-- More Sets in this Subject -->
-    {relatedSets.length > 1 && (
+    {relatedSets.length > 0 && (
       <section class="mt-12">
         <div class="flex items-center justify-between mb-4">
           <h2 class="text-lg sm:text-xl font-bold text-slate-900">
@@ -257,26 +356,70 @@ const nextSet = relatedSets && relatedSets.length > 0 ? relatedSets[0] : null;
     </div>
   </main>
 
-  <!-- JSON-LD Quiz Schema for Google Rich Results -->
+  <!-- Google Practice Problems (Quiz) Schema -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Quiz",
     "name": title,
     "description": description,
-    "numberOfQuestions": totalQuestions,
-    "quizItem": questions.map(q => ({
+    "educationalLevel": difficulty,
+    "about": {
+      "@type": "Thing",
+      "name": subjectName
+    },
+    "hasPart": questions.map(q => ({
       "@type": "Question",
-      "name": q.question,
+      "eduQuestionType": "Multiple choice",
+      "learningResourceType": "Practice problem",
       "text": q.question,
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": q.options[q.answer],
-        "explanation": q.explanation
+        "text": q.options[q.answer] ?? '',
+        ...(q.explanation ? {
+          "comment": {
+            "@type": "Comment",
+            "text": q.explanation
+          }
+        } : {})
       },
-      "suggestedAnswer": q.options.map((opt) => ({
-        "@type": "Answer",
-        "text": opt
-      }))
+      "suggestedAnswer": q.options
+        .filter((_, idx) => idx !== q.answer)
+        .map(opt => ({
+          "@type": "Answer",
+          "text": opt
+        }))
     }))
+  })} />
+
+  <!-- BreadcrumbList Schema for Rich Results -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://examhub.pk"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Subjects",
+        "item": "https://examhub.pk/subjects"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": subjectName,
+        "item": `https://examhub.pk/subjects/${subject}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": topicName,
+        "item": canonicalUrl
+      }
+    ]
   })} />
 </BaseLayout>

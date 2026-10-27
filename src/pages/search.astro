@@ -16,8 +16,9 @@ const totalQuestions = mcqs.reduce((sum, m) => sum + m.data.questions.length, 0)
 ---
 
 <BaseLayout
-  title="Search | ExamHub.pk"
+  title="Search"
   description={`Search ${totalQuestions} practice MCQs, ${subjects.length} subjects, ${guides.length} study guides and ${exams.length} exam hubs across ExamHub.pk.`}
+  noindex={true}
 >
   <div class="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-12">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">

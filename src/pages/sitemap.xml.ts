@@ -20,7 +20,6 @@ const STATIC_PATHS = [
   { path: '/guides', priority: 0.8 },
   { path: '/exams', priority: 0.8 },
   { path: '/blog', priority: 0.7 },
-  { path: '/search', priority: 0.6 },
   { path: '/about', priority: 0.4 },
   { path: '/contact', priority: 0.4 },
   { path: '/privacy-policy', priority: 0.3 },

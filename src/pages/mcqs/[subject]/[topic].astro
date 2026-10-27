@@ -1,43 +1,128 @@
 ---
 import { getCollection } from 'astro:content';
 import MCQLayout from '../../../layouts/MCQLayout.astro';
+import { parseTopicSeries } from '../../../lib/series';
 
 export async function getStaticPaths() {
   const mcqs = await getCollection('mcqs');
   
-  // Pre-index by subject once (O(N)) instead of filtering 2,200 times (O(N^2))
-  const bySubject = new Map<string, { subject: string; topic: string; topicName: string; count: number }[]>();
+  // Group sets by subject and base topic series for sequential linking
+  const seriesBySubject = new Map<string, Map<string, Array<{
+    subject: string;
+    topic: string;
+    topicName: string;
+    count: number;
+    part: number;
+  }>>>();
+
+  const topicsBySubject = new Map<string, Array<{
+    subject: string;
+    topic: string;
+    topicName: string;
+    count: number;
+    base: string;
+  }>>();
+
   for (const m of mcqs) {
-    let list = bySubject.get(m.data.subject);
-    if (!list) {
-      list = [];
-      bySubject.set(m.data.subject, list);
+    const sub = m.data.subject;
+    const top = m.data.topic;
+    const { base, part } = parseTopicSeries(top);
+
+    if (!seriesBySubject.has(sub)) {
+      seriesBySubject.set(sub, new Map());
     }
-    list.push({
-      subject: m.data.subject,
-      topic: m.data.topic,
-      topicName: m.data.topicName,
+    const subSeries = seriesBySubject.get(sub)!;
+    if (!subSeries.has(base)) {
+      subSeries.set(base, []);
+    }
+    subSeries.get(base)!.push({
+      subject: sub,
+      topic: top,
+      topicName: m.data.topicName || top,
       count: m.data.questions?.length || 0,
+      part,
+    });
+
+    if (!topicsBySubject.has(sub)) {
+      topicsBySubject.set(sub, []);
+    }
+    topicsBySubject.get(sub)!.push({
+      subject: sub,
+      topic: top,
+      topicName: m.data.topicName || top,
+      count: m.data.questions?.length || 0,
+      base,
     });
   }
 
-  return mcqs.map(mcq => ({
-    params: { subject: mcq.data.subject, topic: mcq.data.topic },
-    props: {
-      mcq,
-      relatedSets: (bySubject.get(mcq.data.subject) || [])
-        .filter(other => other.topic !== mcq.data.topic)
-        .slice(0, 6),
-    },
-  }));
+  // Sort every series by part number ascending
+  for (const subSeries of seriesBySubject.values()) {
+    for (const parts of subSeries.values()) {
+      parts.sort((a, b) => a.part - b.part);
+    }
+  }
+
+  return mcqs.map(mcq => {
+    const sub = mcq.data.subject;
+    const top = mcq.data.topic;
+    const { base } = parseTopicSeries(top);
+
+    const subSeries = seriesBySubject.get(sub);
+    const seriesParts = subSeries?.get(base) || [];
+    const currentPartIndex = seriesParts.findIndex(p => p.topic === top);
+    const prevPart = currentPartIndex > 0 ? seriesParts[currentPartIndex - 1] : null;
+    const nextPart = currentPartIndex >= 0 && currentPartIndex < seriesParts.length - 1
+      ? seriesParts[currentPartIndex + 1]
+      : null;
+
+    // Distinct other series (first part of other modules in this subject)
+    const allSubjectTopics = topicsBySubject.get(sub) || [];
+    const seenOtherBases = new Set<string>();
+    const relatedSets: Array<{ subject: string; topic: string; topicName: string; count: number }> = [];
+
+    for (const other of allSubjectTopics) {
+      if (other.base !== base && !seenOtherBases.has(other.base)) {
+        seenOtherBases.add(other.base);
+        relatedSets.push({
+          subject: other.subject,
+          topic: other.topic,
+          topicName: other.topicName,
+          count: other.count,
+        });
+        if (relatedSets.length >= 6) break;
+      }
+    }
+
+    return {
+      params: { subject: sub, topic: top },
+      props: {
+        mcq,
+        seriesParts: seriesParts.length > 1 ? seriesParts : [],
+        prevPart,
+        nextPart,
+        relatedSets,
+      },
+    };
+  });
+}
+
+interface PartInfo {
+  subject: string;
+  topic: string;
+  topicName: string;
+  count: number;
+  part: number;
 }
 
 interface Props {
   mcq: any;
+  seriesParts: PartInfo[];
+  prevPart: PartInfo | null;
+  nextPart: PartInfo | null;
   relatedSets: { subject: string; topic: string; topicName: string; count: number }[];
 }
 
-const { mcq, relatedSets } = Astro.props;
+const { mcq, seriesParts, prevPart, nextPart, relatedSets } = Astro.props;
 ---
 
 <MCQLayout
@@ -51,5 +136,8 @@ const { mcq, relatedSets } = Astro.props;
   targetExams={mcq.data.targetExams}
   questions={mcq.data.questions}
   updatedDate={mcq.data.updatedDate}
+  seriesParts={seriesParts}
+  prevPart={prevPart}
+  nextPart={nextPart}
   relatedSets={relatedSets}
 />

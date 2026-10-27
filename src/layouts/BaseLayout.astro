@@ -8,12 +8,34 @@ interface Props {
   canonical?: string;
   noindex?: boolean;
   showAds?: boolean;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
-const { title, description, ogImage = '/og-image.png', canonical, noindex = false, showAds } = Astro.props;
+const {
+  title,
+  description,
+  ogImage = '/og-image.png',
+  canonical,
+  noindex = false,
+  showAds,
+  prevUrl,
+  nextUrl,
+} = Astro.props;
+
 const shouldShowAds = showAds !== undefined ? showAds : !noindex;
 const { pathname } = Astro.url;
-const fullUrl = new URL(pathname, Astro.site);
+
+// Ensure clean, singular site branding in document title
+const siteBrand = 'ExamHub.pk';
+const pageTitle = title.includes(siteBrand) ? title : `${title} | ${siteBrand}`;
+
+// Normalize canonical URL to HTTPS, apex domain, without trailing slashes
+const normalizedPath = pathname.length > 1 && pathname.endsWith('/')
+  ? pathname.replace(/\/+$/, '')
+  : pathname;
+const defaultCanonical = new URL(normalizedPath, 'https://examhub.pk').href;
+const finalCanonical = canonical ? canonical.replace(/\/+$/, '') : defaultCanonical;
 
 /** Nav highlighting: a section stays active for every page beneath it. */
 const isActive = (section: string) => pathname === section || pathname.startsWith(`${section}/`);
@@ -47,20 +69,21 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
     <meta name="theme-color" content="#0f172a" />
     
     {noindex && <meta name="robots" content="noindex, nofollow" />}
-    {canonical && <link rel="canonical" href={canonical} />}
-    {!canonical && <link rel="canonical" href={fullUrl} />}
+    <link rel="canonical" href={finalCanonical} />
+    {prevUrl && <link rel="prev" href={prevUrl} />}
+    {nextUrl && <link rel="next" href={nextUrl} />}
 
     <!-- Open Graph -->
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content={fullUrl} />
+    <meta property="og:url" content={finalCanonical} />
     <meta property="og:site_name" content="ExamHub.pk - Pakistani Competitive Exam Preparation" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
+    <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
 
@@ -78,7 +101,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
       rel="stylesheet"
     />
 
-    <title>{title} | ExamHub.pk</title>
+    <title>{pageTitle}</title>
 
     <!-- Google AdSense (Suppressed on 404, admin, and noindex screens) -->
     {shouldShowAds && (
@@ -119,15 +142,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
         "@type": "WebSite",
         "url": "https://examhub.pk",
         "name": "ExamHub.pk",
-        "description": "Pakistani competitive exam preparation with MCQs, guides, and study resources",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https://examhub.pk/search?q={search_term_string}"
-          },
-          "query-input": "required name=search_term_string"
-        }
+        "description": "Pakistani competitive exam preparation with MCQs, guides, and study resources"
       }
     </script>
   </head>

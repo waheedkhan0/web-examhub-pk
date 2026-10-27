@@ -33,11 +33,13 @@ const caseNo = exam.data.caseNo;
 const scale = exam.data.scale;
 const department = exam.data.department;
 const blueprint = getExamBlueprint(exam.slug);
+const canonicalUrl = `https://examhub.pk/exams/${exam.slug}`;
 ---
 
 <BaseLayout
-  title={`${exam.data.fullName} - Syllabus, Past Papers & Mock Tests | ExamHub.pk`}
+  title={`${exam.data.fullName} - Syllabus, Past Papers & Mock Tests`}
   description={`Complete preparation for ${exam.data.fullName}. Free syllabus-based mock tests, verified solved past papers, official mark distribution, and high-yield MCQs for ${exam.data.conductingBody}.`}
+  canonical={canonicalUrl}
 >
   <!-- Breadcrumbs -->
   <div class="bg-slate-50 border-b border-slate-200">
@@ -255,4 +257,60 @@ const blueprint = getExamBlueprint(exam.slug);
       </section>
     )}
   </div>
+
+  <!-- BreadcrumbList Schema for Rich Results -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://examhub.pk"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Advertised Posts",
+        "item": "https://examhub.pk/jobs"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Exams",
+        "item": "https://examhub.pk/exams"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": exam.data.title,
+        "item": canonicalUrl
+      }
+    ]
+  })} />
+
+  <!-- Article / Study Guide Schema -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": `${exam.data.fullName} - Official Syllabus & Preparation Guide`,
+    "description": exam.data.description,
+    "dateModified": exam.data.updatedDate ? new Date(exam.data.updatedDate).toISOString() : new Date().toISOString(),
+    "author": {
+      "@type": "Organization",
+      "name": "ExamHub Academic Editorial Board",
+      "url": "https://examhub.pk"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ExamHub.pk",
+      "url": "https://examhub.pk",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://examhub.pk/logo.png"
+      }
+    },
+    "mainEntityOfPage": canonicalUrl
+  })} />
 </BaseLayout>

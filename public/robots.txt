@@ -1,12 +1,19 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
+Disallow: /search
 Disallow: /*.json$
 Disallow: /*?*sort=
+Disallow: /*?*q=
 
-# Google
+# Googlebot
 User-agent: Googlebot
 Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*q=
 
 # Google AdSense & AdMob Crawler
 User-agent: Mediapartners-Google
@@ -15,9 +22,11 @@ Allow: /
 # Bing
 User-agent: Bingbot
 Allow: /
+Disallow: /admin/
+Disallow: /search
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*q=
 
 # Sitemap
 Sitemap: https://examhub.pk/sitemap.xml
-
-# Crawl delay for polite crawling
-Crawl-delay: 1
