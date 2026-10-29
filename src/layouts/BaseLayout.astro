@@ -73,6 +73,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
     <!-- Geographic & Regional Targeting -->
     <meta name="geo.region" content="PK" />
     <meta name="geo.placename" content="Pakistan" />
+    <meta name="google-adsense-account" content="ca-pub-3890400768034561" />
 
     <!-- Crawlers & LLM Directives -->
     {noindex ? (
@@ -120,6 +121,7 @@ const isActive = (section: string) => pathname === section || pathname.startsWit
     {shouldShowAds && (
       <script
         async
+        is:inline
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3890400768034561"
         crossorigin="anonymous"
       ></script>
