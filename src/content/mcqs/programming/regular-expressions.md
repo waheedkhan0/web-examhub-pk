@@ -171,12 +171,12 @@ questions:
       - FPSC
       - PPSC
   - id: 13
-    question: What will be the output of the following PHP code? <?php $url = "contact@examveda.com" ; echo ltrim(strstr ($url, "@"),"@" ); ?>
+    question: What will be the output of the following PHP code? <?php $url = "contact@examhub.pk" ; echo ltrim(strstr ($url, "@"),"@" ); ?>
     options:
-      - contact@examveda.com
+      - contact@examhub.pk
       - contact
       - contact@
-      - examveda.com
+      - examhub.pk
     answer: 3
     explanation: The strstr() function returns the remainder of a string beginning with the first occurrence of a predefined string.
     keyConcept: Regular Expressions

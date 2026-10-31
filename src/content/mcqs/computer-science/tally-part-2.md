@@ -23,7 +23,7 @@ questions:
       - Company Info > Split Company Data
       - None of these
     answer: 1
-    explanation: After creation the company, For altering a company following procedures is to done:- 1) Select ‘F3 Company Info’ on ‘Gate way of Tally’. 2) Select ‘Alter’ 3) Select ‘EXAMVEDA.COM Limited’ 4) Now Screen of Company Alteration shall appear.
+    explanation: After creation the company, For altering a company following procedures is to done:- 1) Select ‘F3 Company Info’ on ‘Gate way of Tally’. 2) Select ‘Alter’ 3) Select ‘examhub.pk Limited’ 4) Now Screen of Company Alteration shall appear.
     keyConcept: Tally
     testedIn:
       - PPSC
@@ -49,7 +49,7 @@ questions:
       - Gateway of Tally > Modify Company
       - None of these
     answer: 0
-    explanation: After creation the company, For altering a company following procedures is to done:- 1) Select ‘F3 Company Info’ on ‘Gate way of Tally’. 2) Select ‘Alter’ 3) Select ‘EXAMVEDA.COM Limited’ 4) Now Screen of Company Alteration shall appear.
+    explanation: After creation the company, For altering a company following procedures is to done:- 1) Select ‘F3 Company Info’ on ‘Gate way of Tally’. 2) Select ‘Alter’ 3) Select ‘examhub.pk Limited’ 4) Now Screen of Company Alteration shall appear.
     keyConcept: Tally
     testedIn:
       - PPSC

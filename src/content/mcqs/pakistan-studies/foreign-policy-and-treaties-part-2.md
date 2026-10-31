@@ -319,7 +319,7 @@ questions:
       - "1948"
       - "2004"
       - "2009"
-      - None of these Read More Details about this Mcq
+      - None of these
     answer: 1
     explanation: Pakistan began observing February 5 as the Kashmir Day to reiterate solidarity with the people of Jammu and Kashmir in 2004 .
     keyConcept: Foreign Policy, Treaties & Agreements

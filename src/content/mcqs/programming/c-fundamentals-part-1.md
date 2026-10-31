@@ -344,10 +344,10 @@ questions:
   - id: 26
     question: Which one of the following is not a valid identifier?
     options:
-      - _examveda
-      - 1examveda
+      - _examhub
+      - 1examhub
       - exam_veda
-      - examveda1
+      - examhub1
     answer: 1
     explanation: The first character must be a letter or special symbol underscore( _ ).
     keyConcept: C Fundamentals

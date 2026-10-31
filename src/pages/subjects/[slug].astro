@@ -64,14 +64,12 @@ for (const extra of remainingMap.values()) {
   topicData.push(extra);
 }
 
-// Sort topics: available first with highest question count
-topicData.sort((a: any, b: any) => {
-  if (a.available !== b.available) return a.available ? -1 : 1;
-  return b.realCount - a.realCount;
-});
+// Keep only available topics with verified question sets
+const activeTopics = topicData.filter((t: any) => t.available);
+activeTopics.sort((a: any, b: any) => b.realCount - a.realCount);
 
-const availableCount = topicData.filter((t: any) => t.available).length;
-const pastPaperCount = topicData.filter((t: any) => t.name.toLowerCase().includes('past paper')).length;
+const availableCount = activeTopics.length;
+const pastPaperCount = activeTopics.filter((t: any) => t.name.toLowerCase().includes('past paper')).length;
 
 const difficultyColors: Record<string, string> = {
   'Basic': 'bg-emerald-50 text-emerald-700 border-emerald-200',
@@ -133,7 +131,7 @@ const difficultyColors: Record<string, string> = {
         </div>
         <div class="bg-slate-800/60 border border-slate-700/60 rounded-xl p-3.5 backdrop-blur-xs">
           <div class="text-xs font-medium text-slate-400">Topic Modules</div>
-          <div class="text-xl sm:text-2xl font-black text-teal-300 mt-0.5">{topicData.length}</div>
+          <div class="text-xl sm:text-2xl font-black text-teal-300 mt-0.5">{activeTopics.length}</div>
         </div>
         <div class="bg-slate-800/60 border border-slate-700/60 rounded-xl p-3.5 backdrop-blur-xs">
           <div class="text-xs font-medium text-slate-400">Exam Weightage</div>
@@ -179,7 +177,7 @@ const difficultyColors: Record<string, string> = {
               <input
                 type="text"
                 id="topic-search-input"
-                placeholder={`Search ${topicData.length} topics (e.g. Past Papers, Constitution, Syntax)...`}
+                placeholder={`Search ${activeTopics.length} available topics (e.g. Past Papers, Constitution, Syntax)...`}
                 class="w-full pl-10 pr-4 py-3 rounded-xl border border-slate-200 focus:border-teal-500 focus:ring-3 focus:ring-teal-500/15 outline-hidden text-sm text-slate-800 placeholder-slate-400 transition"
               />
               <svg class="w-5 h-5 text-slate-400 absolute left-3.5 top-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -196,46 +194,26 @@ const difficultyColors: Record<string, string> = {
 
           <!-- Topics Cards Grid -->
           <div id="topics-grid" class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {topicData.map((topic: any) => {
-              if (!topic.available) {
-                return (
-                  <div
-                    class="topic-card p-4 rounded-xl border border-dashed border-slate-200 bg-slate-50/70 opacity-70 flex flex-col justify-between"
-                    data-topic-name={topic.name.toLowerCase()}
-                    data-topic-exams={topic.targetExams.join(' ').toLowerCase()}
-                  >
-                    <div>
-                      <span class="inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-slate-200 text-slate-600 mb-2">
-                        In Preparation
-                      </span>
-                      <h3 class="font-bold text-slate-600 text-base mb-1">{topic.name}</h3>
-                      <p class="text-xs text-slate-400">Curated questions being verified according to exam syllabus.</p>
-                    </div>
-                    <span class="mt-4 text-xs font-semibold text-slate-400">Coming soon</span>
+            {activeTopics.map((topic: any) => (
+              <a
+                href={`/mcqs/${subject.slug}/${topic.slug}`}
+                class="topic-card group p-5 rounded-xl border border-slate-200 hover:border-teal-500 hover:shadow-md bg-white hover:bg-teal-50/30 transition-all flex flex-col justify-between"
+                data-topic-name={topic.name.toLowerCase()}
+                data-topic-exams={topic.targetExams.join(' ').toLowerCase()}
+              >
+                <div>
+                  <div class="flex items-center justify-between gap-2 mb-2">
+                    <span class={`inline-block px-2.5 py-0.5 rounded-full border text-[11px] font-bold ${difficultyColors[topic.difficulty] || 'bg-slate-100 text-slate-700 border-slate-200'}`}>
+                      {topic.difficulty}
+                    </span>
+                    <span class="inline-flex items-center text-xs font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded-md">
+                      {topic.realCount} MCQs
+                    </span>
                   </div>
-                );
-              }
 
-              return (
-                <a
-                  href={`/mcqs/${subject.slug}/${topic.slug}`}
-                  class="topic-card group p-5 rounded-xl border border-slate-200 hover:border-teal-500 hover:shadow-md bg-white hover:bg-teal-50/30 transition-all flex flex-col justify-between"
-                  data-topic-name={topic.name.toLowerCase()}
-                  data-topic-exams={topic.targetExams.join(' ').toLowerCase()}
-                >
-                  <div>
-                    <div class="flex items-center justify-between gap-2 mb-2">
-                      <span class={`inline-block px-2.5 py-0.5 rounded-full border text-[11px] font-bold ${difficultyColors[topic.difficulty] || 'bg-slate-100 text-slate-700 border-slate-200'}`}>
-                        {topic.difficulty}
-                      </span>
-                      <span class="inline-flex items-center text-xs font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded-md">
-                        {topic.realCount} MCQs
-                      </span>
-                    </div>
-
-                    <h3 class="font-bold text-slate-900 group-hover:text-teal-700 text-base leading-snug mb-2 transition-colors">
-                      {topic.name}
-                    </h3>
+                  <h3 class="font-bold text-slate-900 group-hover:text-teal-700 text-base leading-snug mb-2 transition-colors">
+                    {topic.name}
+                  </h3>
 
                     {topic.targetExams && topic.targetExams.length > 0 && (
                       <div class="flex flex-wrap gap-1 mb-3">
@@ -258,8 +236,7 @@ const difficultyColors: Record<string, string> = {
                     <span class="group-hover:translate-x-1 transition-transform">→</span>
                   </div>
                 </a>
-              );
-            })}
+              ))}
           </div>
 
           <!-- Empty state when search produces no result -->

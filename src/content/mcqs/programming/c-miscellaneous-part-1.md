@@ -42,10 +42,10 @@ questions:
       - FPSC
       - PPSC
   - id: 3
-    question: "Determine Output: void main() { float me = 1.1; double you = 1.1; if(me==you) printf(\"I hate Examveda\"); else printf(\"I love Examveda\"); }"
+    question: "Determine Output: void main() { float me = 1.1; double you = 1.1; if(me==you) printf(\"Condition False\"); else printf(\"Condition True\"); }"
     options:
-      - I hate Examveda
-      - I love Examveda
+      - Condition False
+      - Condition True
       - Error
       - None of These
     answer: 1

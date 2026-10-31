@@ -30,7 +30,7 @@ questions:
       - Business entity concept
       - Money measurement concept
       - Going concern concept
-      - Matching concept Read More Details about this Mcq
+      - Matching concept
     answer: 0
     explanation: Business entity concept is the correct answer to “Based on which of the following concepts, is Share Capital Account shown on the liabilities side of a Balance Sheet”. Items of this type are drawn from the Accounting Fundamentals & Concepts — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting Fundamentals & Concepts

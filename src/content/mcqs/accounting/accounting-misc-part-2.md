@@ -200,7 +200,7 @@ questions:
       - Discounting of the bill with the bank
       - Payment of the bill on due date
       - Remitting or receiving the amount
-      - Sending the bill to bank for collection Read More Details about this Mcq
+      - Sending the bill to bank for collection
     answer: 2
     explanation: Remitting or receiving the amount is the correct answer to “The drawer of a trade bill passes relevant entries with regard to the transaction involved in it. But, in case of an accommodation bill, he passes an entry in addition to the usual entries. The additional entry so passed is with respect to”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -210,7 +210,7 @@ questions:
       - It must be in writing
       - It contains an unconditional promise to pay
       - It is payable to the bearer
-      - It must be signed by the maker Read More Details about this Mcq
+      - It must be signed by the maker
     answer: 2
     explanation: It is payable to the bearer is the correct answer to “Which of the following is not a feature of a promissory note”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -220,7 +220,7 @@ questions:
       - Acceptors Account is debited in the books of drawer
       - Bills Receivable Account is credited in the books of drawer
       - Bank Account is debited in the books of drawer
-      - Bills Payable Account is debited in the books of drawer Read More Details about this Mcq
+      - Bills Payable Account is debited in the books of drawer
     answer: 0
     explanation: Acceptors Account is debited in the books of drawer is the correct answer to “When bill discounted with the bank is dishonored”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -230,7 +230,7 @@ questions:
       - The drawer of the bill
       - The person responsible for dishonour
       - The holder of the bill
-      - The endorser of the bill Read More Details about this Mcq
+      - The endorser of the bill
     answer: 1
     explanation: The person responsible for dishonour is the correct answer to “The noting charges levied on dishonour of an endorsed bill by the Notary Public are to be borne by”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -270,7 +270,7 @@ questions:
       - 30th June,2018
       - 1st July,2018
       - 4th July,2018
-      - 4th August,2018 Read More Details about this Mcq
+      - 4th August,2018
     answer: 2
     explanation: A Bill of Exchange is drawn on 1st April, 2018 payable after 3 months. The due date of the bill is 4th July,2018.
     keyConcept: Accounting — Mixed Practice
@@ -280,7 +280,7 @@ questions:
       - Debts included in Sundry Debtors which are doubtful in nature
       - Uncalled liability on partly paid shares
       - Claims against the company not acknowledged as debts
-      - Arrears of fixed cumulative dividend Read More Details about this Mcq
+      - Arrears of fixed cumulative dividend
     answer: 0
     explanation: Debts included in Sundry Debtors which are doubtful in nature is the correct answer to “Which of the following is not a contingent liability”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -290,7 +290,7 @@ questions:
       - Trade mark
       - Franchise
       - Accounts Receivable
-      - Secret Profit Read More Details about this Mcq
+      - Secret Profit
     answer: 2
     explanation: Accounts Receivable is the correct answer to “Which of the following is not an intangible asset”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -310,7 +310,7 @@ questions:
       - Credited to P&L A/c
       - Debited to P&L A/c
       - Reduced from debtors in Balance Sheet
-      - Added to debtors in Balance Sheet Read More Details about this Mcq
+      - Added to debtors in Balance Sheet
     answer: 0
     explanation: Credited to P&L A/c is the correct answer to “Bad debts recovered is:”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -320,7 +320,7 @@ questions:
       - Add prepaid expenses to respective expenses and show it as an asset
       - Deduct prepaid expenses from respective expenses and show it as an asset
       - Add prepaid expenses to respective expenses and show it as a liability
-      - Deduct prepaid expenses from respective expenses and show it as a liability Read More Details about this Mcq
+      - Deduct prepaid expenses from respective expenses and show it as a liability
     answer: 1
     explanation: The adjustment to be made for prepaid expenses is Deduct prepaid expenses from respective expenses and show it as an asset .
     keyConcept: Accounting — Mixed Practice
@@ -330,7 +330,7 @@ questions:
       - Debit P&L A/c and Credit Reserve for Discount on Accounts Payable A/c
       - Debit Accounts Payable A/c and Credit P&L A/c
       - Debit Reserve for Discount on Accounts Payable A/c and Credit P&L A/c
-      - Debit Reserve for Discount on Accounts Payable A/c and credit Accounts Payable A/c Read More Details about this Mcq
+      - Debit Reserve for Discount on Accounts Payable A/c and credit Accounts Payable A/c
     answer: 2
     explanation: Debit Reserve for Discount on Accounts Payable A/c and Credit P&L A/c is the correct answer to “Which of the following entries is correct in respect of reserve for discounts on accounts payable”. Items of this type are drawn from the Accounting — Mixed Practice — Part 2 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -350,7 +350,7 @@ questions:
       - Current Asset
       - Current Liability
       - Fixed Asset
-      - Income Read More Details about this Mcq
+      - Income
     answer: 0
     explanation: "Insurance prepaid is shown as: Current Asset ."
     keyConcept: Accounting — Mixed Practice

@@ -58,13 +58,13 @@ export async function GET() {
 
   const urls = [
     ...STATIC_PATHS.map((s) => entry(`${SITE}${s.path}`, undefined, s.priority)),
+    ...guides.map((g) => entry(`${SITE}/guides/${g.slug}`, isoDate(g.data.updatedDate ?? g.data.publishDate), 0.9, 'weekly')),
+    ...exams.map((e) => entry(`${SITE}/exams/${e.slug}`, isoDate(e.data.updatedDate), 0.9, 'weekly')),
+    ...blog.map((b) => entry(`${SITE}/blog/${b.slug}`, isoDate(b.data.updatedDate ?? b.data.publishDate), 0.8, 'weekly')),
+    ...subjects.map((s) => entry(`${SITE}/subjects/${s.slug}`, isoDate(s.data.updatedDate), 0.8, 'weekly')),
     ...mcqs.map((m) =>
-      entry(`${SITE}/mcqs/${m.data.subject}/${m.data.topic}`, isoDate(m.data.updatedDate), 0.9, 'weekly'),
+      entry(`${SITE}/mcqs/${m.data.subject}/${m.data.topic}`, isoDate(m.data.updatedDate), 0.6, 'monthly'),
     ),
-    ...subjects.map((s) => entry(`${SITE}/subjects/${s.slug}`, isoDate(s.data.updatedDate), 0.8)),
-    ...guides.map((g) => entry(`${SITE}/guides/${g.slug}`, isoDate(g.data.updatedDate ?? g.data.publishDate), 0.7)),
-    ...exams.map((e) => entry(`${SITE}/exams/${e.slug}`, isoDate(e.data.updatedDate), 0.7)),
-    ...blog.map((b) => entry(`${SITE}/blog/${b.slug}`, isoDate(b.data.updatedDate ?? b.data.publishDate), 0.6, 'weekly')),
   ];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

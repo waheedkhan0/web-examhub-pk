@@ -131,7 +131,7 @@ questions:
       - "2"
       - None of this
     answer: 1
-    explanation: Object will be created each time whenever we use new keyword. So, 2 object will be created simply for the first two line and matter is with remaining two bottom line. String c="examveda" creates an object and store it in String pool, next time when we are writing String d="examveda" it will first check in String pool whether object already exists or not. Since, it is existing, no new object will be created. Hence reference "d" points to existing object "examveda". So ultimately 3 object will be created at the end.
+    explanation: Object will be created each time whenever we use new keyword. So, 2 object will be created simply for the first two line and matter is with remaining two bottom line. String c="examhub" creates an object and store it in String pool, next time when we are writing String d="examhub" it will first check in String pool whether object already exists or not. Since, it is existing, no new object will be created. Hence reference "d" points to existing object "examhub". So ultimately 3 object will be created at the end.
     keyConcept: Strings
     testedIn:
       - FPSC

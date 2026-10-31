@@ -289,7 +289,7 @@ questions:
       - Four
       - Five
       - Six
-      - Seven Read More Details about this Mcq
+      - Seven
     answer: 1
     explanation: Strategic management process usually consists of Five steps.
     keyConcept: HRM — Mixed Practice

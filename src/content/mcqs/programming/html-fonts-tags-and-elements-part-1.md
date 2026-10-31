@@ -196,14 +196,14 @@ questions:
       - FPSC
       - PPSC
   - id: 15
-    question: What is the correct HTML for creating a hyperlink ? 1. <a>http://www.examveda.com</a> 2. <a name=”http://www.examveda.com”> examveda.com</a> 3. <a url=”http://www.examveda.com> examveda.com</a> 4. <a href=http://www.examveda.com> examveda.com</a>
+    question: What is the correct HTML for creating a hyperlink ? 1. <a>http://www.examhub.pk</a> 2. <a name=”http://www.examhub.pk”> examhub.pk</a> 3. <a url=”http://www.examhub.pk> examhub.pk</a> 4. <a href=http://www.examhub.pk> examhub.pk</a>
     options:
       - Option 1
       - Option 2
       - Option 3
       - Option 4
     answer: 3
-    explanation: "The correct HTML code for creating a hyperlink uses the tag with the href attribute to specify the link destination. Option 1: <a>http://www.examveda.com</a> - This is incorrect. The href attribute is missing, and the link text should be inside the tags. Option 2: <a name=”http://www.examveda.com”> examveda.com</a> - This is incorrect. The name attribute is not used for hyperlinks. Option 3: <a url=”http://www.examveda.com> examveda.com</a> - This is incorrect. The url attribute is not valid for hyperlinks. Option 4: <a href=http://www.examveda.com> examveda.com</a> - This is the correct answer. The href attribute specifies the URL of the page the link goes to."
+    explanation: "The correct HTML code for creating a hyperlink uses the tag with the href attribute to specify the link destination. Option 1: <a>http://www.examhub.pk</a> - This is incorrect. The href attribute is missing, and the link text should be inside the tags. Option 2: <a name=”http://www.examhub.pk”> examhub.pk</a> - This is incorrect. The name attribute is not used for hyperlinks. Option 3: <a url=”http://www.examhub.pk> examhub.pk</a> - This is incorrect. The url attribute is not valid for hyperlinks. Option 4: <a href=http://www.examhub.pk> examhub.pk</a> - This is the correct answer. The href attribute specifies the URL of the page the link goes to."
     keyConcept: Html Fonts_ Tags And Elements
     testedIn:
       - FPSC

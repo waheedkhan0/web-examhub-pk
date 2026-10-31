@@ -165,7 +165,7 @@ questions:
       - CSS
       - NTS
   - id: 12
-    question: "The number of employees in Examveda and Co. is a prime number and less than 300. The ratio of the number of employees who are graduates and above, to that of employees who are not, can possibly be:"
+    question: "The number of employees in Enterprise and Co. is a prime number and less than 300. The ratio of the number of employees who are graduates and above, to that of employees who are not, can possibly be:"
     options:
       - "101 : 88"
       - "87 : 100"

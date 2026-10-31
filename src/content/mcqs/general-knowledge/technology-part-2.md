@@ -29,7 +29,7 @@ questions:
       - PPSC
       - FPSC
   - id: 2
-    question: "\"https://www.examveda.com\" - is an example of what?"
+    question: "\"https://www.examhub.pk\" - is an example of what?"
     options:
       - A URL
       - An access code

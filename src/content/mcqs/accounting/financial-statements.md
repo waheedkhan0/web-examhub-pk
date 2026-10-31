@@ -170,7 +170,7 @@ questions:
       - Financial results of the concern for a period
       - Financial position of the concern on a particular date
       - Financial results of the concern on a particular date
-      - Cost of goods sold during the period Read More Details about this Mcq
+      - Cost of goods sold during the period
     answer: 0
     explanation: Financial results of the concern for a period is the correct answer to “The Profit and Loss Account shows the:”. Items of this type are drawn from the Financial Statements & Analysis syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Financial Statements & Analysis
@@ -180,7 +180,7 @@ questions:
       - Drawings
       - Bad debts
       - Accrued expenses
-      - Reserve for discount on Sundry Creditors Read More Details about this Mcq
+      - Reserve for discount on Sundry Creditors
     answer: 0
     explanation: Drawings is the correct answer to “Which of the following will not appear in Profit and Loss Account of a business”. Items of this type are drawn from the Financial Statements & Analysis syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Financial Statements & Analysis

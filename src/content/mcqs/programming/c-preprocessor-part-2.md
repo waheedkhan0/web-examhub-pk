@@ -101,7 +101,7 @@ questions:
       - error
       - Exam
       - Veda
-      - ExamVeda
+      - ExamHub
     answer: 2
     explanation: "Veda is the correct answer to “What will be the output of the following C code? #include<stdio.h> #define max 100 void main() { #if(max%10) printf(\"Exam\"); #endif printf(\"Veda\"); }”. This question is standard in competitive examination syllabi for C Preprocessor."
     keyConcept: C Preprocessor

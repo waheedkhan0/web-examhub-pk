@@ -42,12 +42,12 @@ questions:
       - FPSC
       - PPSC
   - id: 3
-    question: Which one of the following statements can be used to establish port 80 connection with www.examveda.com?
+    question: Which one of the following statements can be used to establish port 80 connection with www.examhub.pk?
     options:
-      - fsockopen(“www.examveda.com”, 80)
-      - sockopen(80,”www.examveda.com”)
-      - fsockopen(80,”www.examveda.com”)
-      - sockopen(“www.examveda.com”, 80)
+      - fsockopen(“www.examhub.pk”, 80)
+      - sockopen(80,”www.examhub.pk”)
+      - fsockopen(80,”www.examhub.pk”)
+      - sockopen(“www.examhub.pk”, 80)
     answer: 0
     explanation: The fsockopen() function establishes a connection to the resource designated by target on port.
     keyConcept: Php Networking

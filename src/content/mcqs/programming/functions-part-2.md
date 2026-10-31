@@ -171,12 +171,12 @@ questions:
       - FPSC
       - PPSC
   - id: 13
-    question: What will be the output of the following PHP code ? <?php function email () { $email = ’contact@examveda.com’; $new = strstr ($email, ‘@'); echo $new; } email(); ?>
+    question: What will be the output of the following PHP code ? <?php function email () { $email = ’contact@examhub.pk’; $new = strstr ($email, ‘@'); echo $new; } email(); ?>
     options:
       - contact
-      - contact@examveda.com
-      - "@examveda.com"
-      - examveda.com
+      - contact@examhub.pk
+      - "@examhub.pk"
+      - examhub.pk
     answer: 2
     explanation: The strstr() function searches for the first occurrence of a string inside another string.
     keyConcept: Functions

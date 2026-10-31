@@ -155,14 +155,14 @@ questions:
       - FPSC
       - PPSC
   - id: 12
-    question: "What is the output of this C code? #include <stdio.h> main() { char *p = \"Examveda C-Test\"; p[0] = 'a'; p[1] = 'b'; printf(\"%s\", p); }"
+    question: "What is the output of this C code? #include <stdio.h> main() { char *p = \"ExamHub C-Test\"; p[0] = 'a'; p[1] = 'b'; printf(\"%s\", p); }"
     options:
       - abmveda C-Test
-      - Examveda C-Test
+      - ExamHub C-Test
       - Compile time error
       - Run time error
     answer: 3
-    explanation: "Run time error is the correct answer to “What is the output of this C code? #include <stdio.h> main() { char *p = \"Examveda C-Test\"; p[0] = 'a'; p[1] = 'b'; printf(\"%s\", p); }”. This question is standard in competitive examination syllabi for C Miscellaneous."
+    explanation: "Run time error is the correct answer to “What is the output of this C code? #include <stdio.h> main() { char *p = \"ExamHub C-Test\"; p[0] = 'a'; p[1] = 'b'; printf(\"%s\", p); }”. This question is standard in competitive examination syllabi for C Miscellaneous."
     keyConcept: C Miscellaneous
     testedIn:
       - FPSC
@@ -231,14 +231,14 @@ questions:
       - FPSC
       - PPSC
   - id: 18
-    question: "What will be the output of the following C code if the input given to the code shown below is \"examveda\"? #include<stdio.h> #define NL '\\n' void main() { void f(void); printf(\"enter the word\\n\"); f(); } void f(void) { char c; if((c=getchar())!=NL) { f(); printf(\"%c\",c); } return; }"
+    question: "What will be the output of the following C code if the input given to the code shown below is \"examhub\"? #include<stdio.h> #define NL '\\n' void main() { void f(void); printf(\"enter the word\\n\"); f(); } void f(void) { char c; if((c=getchar())!=NL) { f(); printf(\"%c\",c); } return; }"
     options:
-      - examveda
+      - examhub
       - infinite loop
       - adevmaxe
       - maxeadev
     answer: 2
-    explanation: "adevmaxe is the correct answer to “What will be the output of the following C code if the input given to the code shown below is \"examveda\"? #include<stdio.h> #define NL '\\n' void main() { void f(void); printf(\"enter the word\\n\"); f(); } void f(void) { char c; if((c=getchar())!=NL) { f(); printf(\"%c\",c); } return; }”. This question is standard in competitive examination syllabi for C Miscellaneous."
+    explanation: "adevmaxe is the correct answer to “What will be the output of the following C code if the input given to the code shown below is \"examhub\"? #include<stdio.h> #define NL '\\n' void main() { void f(void); printf(\"enter the word\\n\"); f(); } void f(void) { char c; if((c=getchar())!=NL) { f(); printf(\"%c\",c); } return; }”. This question is standard in competitive examination syllabi for C Miscellaneous."
     keyConcept: C Miscellaneous
     testedIn:
       - FPSC
@@ -296,14 +296,14 @@ questions:
       - FPSC
       - PPSC
   - id: 23
-    question: "What will be the output of the following C code? #include <stdio.h> void inline func1(char b[10]) { printf (\"%c\\n\",b[2]); } int main() { func1(\"examveda\"); return 0; }"
+    question: "What will be the output of the following C code? #include <stdio.h> void inline func1(char b[10]) { printf (\"%c\\n\",b[2]); } int main() { func1(\"examhub\"); return 0; }"
     options:
       - e
       - a
       - x
       - error
     answer: 1
-    explanation: "a is the correct answer to “What will be the output of the following C code? #include <stdio.h> void inline func1(char b[10]) { printf (\"%c\\n\",b[2]); } int main() { func1(\"examveda\"); return 0; }”. This question is standard in competitive examination syllabi for C Miscellaneous."
+    explanation: "a is the correct answer to “What will be the output of the following C code? #include <stdio.h> void inline func1(char b[10]) { printf (\"%c\\n\",b[2]); } int main() { func1(\"examhub\"); return 0; }”. This question is standard in competitive examination syllabi for C Miscellaneous."
     keyConcept: C Miscellaneous
     testedIn:
       - FPSC

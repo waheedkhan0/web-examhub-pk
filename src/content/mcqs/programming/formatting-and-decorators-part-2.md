@@ -19,11 +19,11 @@ questions:
     question: What will be the output of the following Python code? D=dict(p='Exam', q='Veda') '{p}{q}'.format(**D)
     options:
       - Error
-      - ExamVeda
+      - ExamHub
       - Exam Veda
       - "{'Exam', 'Veda'}"
     answer: 1
-    explanation: ExamVeda is the correct answer to “What will be the output of the following Python code? D=dict(p='Exam', q='Veda') '{p}{q}'.format(**D)”. This question is standard in competitive examination syllabi for Formatting And Decorators.
+    explanation: ExamHub is the correct answer to “What will be the output of the following Python code? D=dict(p='Exam', q='Veda') '{p}{q}'.format(**D)”. This question is standard in competitive examination syllabi for Formatting And Decorators.
     keyConcept: Formatting And Decorators
     testedIn:
       - FPSC

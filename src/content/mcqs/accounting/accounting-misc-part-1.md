@@ -90,7 +90,7 @@ questions:
       - 5,80,000
       - 5,50,000
       - 5,00,000
-      - 5,75,000 Read More Details about this Mcq
+      - 5,75,000
     answer: 0
     explanation: 5,80,000 is the correct answer to “Budgeted sales for the next year is 5,00,000 units. Desired ending finished goods inventory is 1,50,000 units and equivalent units in ending W-I-P inventory is 60,000 units. The opening finished goods inventory for the next year is 80,000 units, with 50,000 equivalent units in beginning W-I-P inventory How many equivalent units should be produced”. Items of this type are drawn from the Accounting — Mixed Practice — Part 1 syllabus of Pakistani competitive exams, where the fact is tested verbatim.
     keyConcept: Accounting — Mixed Practice
@@ -400,7 +400,7 @@ questions:
       - Uncollected checks
       - Uncredited checks
       - Outstanding checks
-      - Bounced checks Read More Details about this Mcq
+      - Bounced checks
     answer: 2
     explanation: Unpresented checks also referred as Outstanding checks .
     keyConcept: Accounting — Mixed Practice
